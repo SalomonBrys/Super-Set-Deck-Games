@@ -99,3 +99,14 @@ The packer will then display the list of games you have chosen as well as all ca
 image::packer-result.png[Packer result, width=300px]
 
 
+== Offline access
+
+This website can be *installed on your phone or tablet*, which allows you to *access all content offline*.
+
+=== Android
+
+In Chrome, click on the top-right image:chrome-menu.png[Chrome menu] menu and select image:chrome-install-app.png[Install icon] "Install app".
+
+=== iOS
+
+In Safari, click on the bottom image:safari-menu.png[Safari menu] share menu and select image:safari-install-app.png[Install icon] "Add to Home Screen".

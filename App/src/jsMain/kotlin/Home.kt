@@ -8,6 +8,8 @@ import dev.petuska.kmdc.drawer.*
 import dev.petuska.kmdc.list.MDCNavList
 import dev.petuska.kmdc.list.item.ListItem
 import dev.petuska.kmdc.list.onAction
+import dev.petuska.kmdc.tooltip.MDCTooltip
+import dev.petuska.kmdc.tooltip.tooltipId
 import dev.petuska.kmdc.top.app.bar.*
 import dev.petuska.kmdcx.icons.MDCIcon
 import dev.petuska.kmdcx.icons.mdcIcon
@@ -83,9 +85,13 @@ fun RouteBuilder.Home(games: List<Game>?, langMenu: LangMenu, page: Page?) {
             ) {
                 Row {
                     Section(MDCTopAppBarSectionAlign.Start) {
+                        MDCTooltip("menu") { Text(LocalLang.current.Menu) }
                         NavButton(
                             touch = true,
-                            attrs = { mdcIcon() }
+                            attrs = {
+                                mdcIcon()
+                                tooltipId("menu")
+                            }
                         ) { Text(MDCIcon.Menu.type) }
                         page?.let {
                             Title(it.title(LocalLang.current))

@@ -519,12 +519,14 @@ private fun PackerTableCardCell(suit: String, card: C, packs: List<Pack>) {
         }
         .map { it.game.name }
     val tooltipId = "card-$suit-${card.name}-${card.num}"
-    MDCTooltip(tooltipId, attrs = {
-        style {
-            maxWidth("min(80%,30em)")
+    if (included.isNotEmpty()) {
+        MDCTooltip(tooltipId, attrs = {
+            style {
+                maxWidth("min(80%,30em)")
+            }
+        }) {
+            Text(included.joinToString { it })
         }
-    }) {
-        Text(included.joinToString { it })
     }
     PackerTableCell(
         large = suit == "specials",
@@ -532,7 +534,9 @@ private fun PackerTableCardCell(suit: String, card: C, packs: List<Pack>) {
             style {
                 cursor("pointer")
             }
-            tooltipId(tooltipId)
+            if (included.isNotEmpty()) {
+                tooltipId(tooltipId)
+            }
         }
     ) {
         Span({

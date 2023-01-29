@@ -23,6 +23,13 @@ data class Lang(
     val GameType: String,
     val Add: String,
     val Edit: String,
+    val Close: String,
+    val Share: String,
+    val ShareByMessage: String,
+    val ShareByQrCode: String,
+    val Back: String,
+    val Language: String,
+    val Menu: String,
 
     val gameTypes: Map<String, String> = emptyMap(),
     val cardNames: Map<String, String> = emptyMap()
@@ -52,6 +59,13 @@ val langs = mapOf(
         GameType = "Game Type",
         Add = "Add",
         Edit = "Edit",
+        Close = "Close",
+        Share = "Share",
+        ShareByMessage = "Share by Message",
+        ShareByQrCode = "Share by QR-Code",
+        Back = "Back",
+        Language = "Language",
+        Menu = "Menu",
     ),
 
     "fr" to Lang(
@@ -75,6 +89,13 @@ val langs = mapOf(
         GameType = "Type de jeu",
         Add = "Ajouter",
         Edit = "Modifier",
+        Close = "Fermer",
+        Share = "Partager",
+        ShareByMessage = "Partager par Message",
+        ShareByQrCode = "Partager par QR-Code",
+        Back = "Retour",
+        Language = "Langue",
+        Menu = "Menu",
 
         gameTypes = mapOf(
             "Auction" to "Enchères",

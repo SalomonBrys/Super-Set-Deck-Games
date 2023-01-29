@@ -11,6 +11,8 @@ import dev.petuska.kmdc.menu.onSelected
 import dev.petuska.kmdc.menu.surface.MDCMenuSurfaceAnchor
 import dev.petuska.kmdc.menu.surface.onClosed
 import dev.petuska.kmdc.menu.surface.onOpened
+import dev.petuska.kmdc.tooltip.MDCTooltip
+import dev.petuska.kmdc.tooltip.tooltipId
 import dev.petuska.kmdc.top.app.bar.ActionLink
 import dev.petuska.kmdc.top.app.bar.MDCTopAppBarSectionScope
 import kotlinx.browser.document
@@ -64,8 +66,10 @@ private fun WithLang(content: @Composable (LangMenu) -> Unit) {
     CompositionLocalProvider(LocalLang provides lang) {
         content {
             var menuOpen by remember { mutableStateOf(false) }
+            MDCTooltip("lang") { Text(LocalLang.current.Language) }
             ActionLink(attrs = {
                 onClick { menuOpen = true }
+                tooltipId("lang")
             }) {
                 MDCMenuSurfaceAnchor {
                     val langIds = remember { langs.keys.sorted() }

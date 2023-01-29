@@ -94,6 +94,7 @@ kotlin {
                 implementation(devNpm("sass", "^1.52.1"))
 
                 implementation(npm("@uriopass/nosleep.js", "0.12.1"))
+                implementation(npm("qrcode", "1.5.1"))
 
                 implementation(npm("mathjax-full", "3.2.2"))
 //                implementation(npm("mathjax", "2.7.9"))

@@ -99,3 +99,15 @@ Le packer vous affichera ensuite la liste des jeux que vous avez choisi, ainsi q
 
 image::packer-result.png[Packer result, width=300px]
 
+
+== Accès hors ligne
+
+Ce site web peut être *installé sur votre téléphone ou tablette*, ce qui vous permettra d'*accéder à son contenu sans connexion*.
+
+=== Android
+
+Dans Chrome, cliquez sur le image:chrome-menu.png[Chrome menu] menu en hait à droite et sélectionnez image:chrome-install-app.png[Icone installer] "Installer l'application".
+
+=== iOS
+
+Dans Safari, cliquez sur le image:safari-menu.png[Safari menu] menu partage en bas et sélectionnez image:safari-install-app.png[Icone installer] "Sur l'écran d'accueil".

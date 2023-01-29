@@ -31,8 +31,8 @@ private fun Router.applyFilter(playerCount: Int, gameType: String?, favorites: B
         if (favorites) add("favorites=1")
     }
     navigate(
-        if (params.isNotEmpty()) "/?${params.joinToString("&")}"
-        else "/"
+        if (params.isNotEmpty()) "/games?${params.joinToString("&")}"
+        else "/games"
     )
 }
 

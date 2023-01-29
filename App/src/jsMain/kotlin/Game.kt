@@ -1,16 +1,14 @@
 import androidx.compose.runtime.*
 import app.softwork.routingcompose.RouteBuilder
 import app.softwork.routingcompose.Router
-import data.Game
-import data.LocalLang
-import data.langs
-import data.name
+import data.*
 import dev.petuska.kmdc.card.Content
 import dev.petuska.kmdc.card.MDCCard
 import dev.petuska.kmdc.card.PrimaryAction
 import dev.petuska.kmdc.chips.grid.ActionChip
 import dev.petuska.kmdc.chips.grid.MDCChipsGrid
 import dev.petuska.kmdc.chips.onInteraction
+import dev.petuska.kmdc.dialog.*
 import dev.petuska.kmdc.menu.MDCMenu
 import dev.petuska.kmdc.menu.MenuItem
 import dev.petuska.kmdc.menu.onSelected
@@ -26,11 +24,12 @@ import dev.petuska.kmdc.tab.indicator.Content
 import dev.petuska.kmdc.tab.indicator.Indicator
 import dev.petuska.kmdc.tab.indicator.MDCTabIndicatorType
 import dev.petuska.kmdc.tab.scroller.Scroller
+import dev.petuska.kmdc.tooltip.MDCTooltip
+import dev.petuska.kmdc.tooltip.tooltipId
 import dev.petuska.kmdc.top.app.bar.*
 import dev.petuska.kmdcx.icons.MDCIcon
 import dev.petuska.kmdcx.icons.mdcIcon
 import kotlinx.browser.window
-import kotlinx.coroutines.await
 import org.jetbrains.compose.web.css.*
 import org.jetbrains.compose.web.dom.*
 import org.jetbrains.compose.web.dom.Text
@@ -78,7 +77,7 @@ private fun GameRules(game: Game, section: String?) {
 
     MDCChipsGrid(attrs = {
         onInteraction {
-            router.navigate("/?gameType=${it.detail.chipID}")
+            router.navigate("/games?gameType=${it.detail.chipID}")
         }
     }) {
         game.types.forEach {
@@ -183,6 +182,7 @@ fun GameReferences(game: Game) {
 @Composable
 fun RouteBuilder.Game(game: Game?, langMenu: LangMenu) {
     var selectedTab by remember { mutableStateOf(-1) }
+    var shareDialogOpen by remember { mutableStateOf(false) }
 
     val router = Router.current
 
@@ -193,26 +193,56 @@ fun RouteBuilder.Game(game: Game?, langMenu: LangMenu) {
             Row {
                 val gameName = game?.name ?: ""
                 Section(MDCTopAppBarSectionAlign.Start) {
+                    MDCTooltip("back") { Text(LocalLang.current.Back) }
                     NavButton(
                         touch = true,
-                        attrs = { mdcIcon() }
+                        attrs = {
+                            mdcIcon()
+                            tooltipId("back")
+                        }
                     ) { Text(MDCIcon.ArrowBack.type) }
                     Title(gameName)
                 }
                 Section(MDCTopAppBarSectionAlign.End) {
-                    if (window.navigator.asDynamic().share) {
-                        ActionButton(attrs = {
-                            mdcIcon()
-                            onClick {
-                                val share = json(
-                                    "title" to gameName,
-                                    "url" to "https://super-set-deck.games/#/game/${game?.id}"
-                                )
-                                window.navigator.asDynamic().share(share)
-                            }
-                        }) {
-                            Text(MDCIcon.Share.type)
+                    var shareMenuOpen by remember { mutableStateOf(false) }
+                    MDCTooltip("share") { Text(LocalLang.current.Share) }
+                    ActionButton(attrs = {
+                        mdcIcon()
+                        onClick {
+                            shareMenuOpen = true
                         }
+                        tooltipId("share")
+                    }) {
+                        MDCMenuSurfaceAnchor {
+                            MDCMenu(
+                                open = shareMenuOpen,
+                                attrs = {
+                                    onOpened { shareMenuOpen = true }
+                                    onClosed { shareMenuOpen = false }
+                                    onSelected {
+                                        when (it.detail.item.id) {
+                                            "link" -> {
+                                                val share = json(
+                                                    "title" to gameName,
+                                                    "url" to "https://super-set-deck.games/#/game/${game?.id}"
+                                                )
+                                                window.navigator.asDynamic().share(share)
+                                            }
+                                            "qrcode" -> {
+                                                shareDialogOpen = true
+                                            }
+                                        }
+                                    }
+                                }
+                            ) {
+                                if (window.navigator.asDynamic().share) {
+                                    MenuItem(attrs = { id("link") }) { Text(LocalLang.current.ShareByMessage) }
+                                }
+                                MenuItem(attrs = { id("qrcode") }) { Text(LocalLang.current.ShareByQrCode) }
+                            }
+                        }
+
+                        Text(MDCIcon.Share.type)
                     }
 
                     langMenu()
@@ -271,6 +301,40 @@ fun RouteBuilder.Game(game: Game?, langMenu: LangMenu) {
             }
         }
     }
+
+    MDCDialog(
+        open = shareDialogOpen,
+        attrs = {
+            onOpened { shareDialogOpen = true }
+            onClosed { shareDialogOpen = false }
+        }
+    ) {
+        Title(game?.name ?: "")
+        Content {
+            Canvas({
+                style {
+                    width(100.percent)
+                    property("aspect-ratio", "1")
+                }
+            }) {
+                DisposableEffect(shareDialogOpen, game) {
+                    if (!shareDialogOpen) return@DisposableEffect onDispose {}
+                    game?.id?.let {
+                        val options = js("({})").unsafeCast<QrCodeOptions>().apply {
+                            width = scopeElement.width
+                            height = scopeElement.height
+                        }
+                        qrcode.toCanvas(scopeElement, "https://super-set-deck.games/#/game/$it", options)
+                    }
+                    onDispose {}
+                }
+            }
+        }
+        Actions {
+            Action("close") { Text(LocalLang.current.Close) }
+        }
+    }
+
 }
 
 @Composable

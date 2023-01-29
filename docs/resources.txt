@@ -1,8 +1,10 @@
-2023-01-29_16:07:41
+2023-01-29_18:15:42
 App.js
 App.js.map
 ServiceWorker.js
 ServiceWorker.js.map
+about/chrome-install-app.png
+about/chrome-menu.png
 about/en.html
 about/fr.html
 about/game-header.png
@@ -11,6 +13,8 @@ about/language-menu.png
 about/list-filters.png
 about/packer-conf.png
 about/packer-result.png
+about/safari-install-app.png
+about/safari-menu.png
 about/tab-bar.png
 am-chtml.min.js
 aodc.css
