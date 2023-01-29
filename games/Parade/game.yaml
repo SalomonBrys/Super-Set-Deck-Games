@@ -1,0 +1,13 @@
+type:
+  - Hand Management
+  - Set Collection
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 0-10
+      hearts: 0-10
+      clubs: 0-10
+      diamonds: 0-10
+      florettes: 0-10
+      stars: 0-10

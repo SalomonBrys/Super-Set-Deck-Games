@@ -1,0 +1,278 @@
+= "Niet !"
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Stefan Dorra.
+
+.Matériel
+****
+* 60 carte de jeu : 3 K & 1-12 à ♠, ♥, ♣, ♦
+* 19 cartes "Niet !" :
+** 5 cartes défausse : 0-2, ► & K à ⎈
+** 4 cartes atout : A à ♠, ♥, ♣, ♦
+** 5 cartes super-atouts : S à ♠, ♥, ♣, ♦ + Ø
+** 5 cartes valeur de pli : 1-4 & -‽ à ★
+* 1 carte bonus : ×2★
+* 12 cartes personnage : 2 Papillons, 2 Loups, 2 Phénix, 2 Serpents, 2 Dragons & 2 Singes.
+****
+
+Les joueurs sont répartis en 2 équipes qui tentent chacune de remporter des plis et ainsi de marquer des points.
+
+Les choix de chaque joueur déterminent les différentes règles de chaque manche, comme la couleur de l’atout ou la valeur d’un pli.
+
+Avant de jouer leurs cartes, les joueurs retirent chacun leur tour une carte "Niet !" de leur choix de la table.
+Par exemple, si la carte Atout ♥ est retirée, le ♥ ne sera pas l’atout pour la manche.
+
+== Mise en place du jeu
+
+* Choisissez une carte Personnage et placez-la face visible devant vous.
+
+* Placez les cartes "Niet !" au centre de la table en 5 lignes :
+** *Premier joueur* : Une carte personnage par joueur (la seconde carte du personnage choisi par chaque joueur).
+** *Défausse* : ⎈0, ⎈1, ⎈2, ⎈►, ⎈K
+** *Atouts* : ♠A, ♥A, ♣A, ♦A
+** *Superatouts* : ♠S, ♥S, ♣S, ♦S, Ø
+** *Points* : ★1, ★2, ★3, ★4, ★-‽
+
+* À 3 joueurs, enlevez 12 cartes du jeu (voir <<mise-en-place>>).
+À 2, 4, 5 ou 6 joueurs, utilisez les 60 cartes.
+
+* Prenez un crayon et une feuille de papier pour y inscrire le score.
+Vous y inscrirez les points des différents joueurs lors de la partie.
+
+* Un donneur est désigné aléatoirement.
+Il mélange les cartes et les distribue une par une aux joueurs, face cachée.
+
+
+== Déroulement d'une partie
+
+Une partie se joue en plusieurs manches (selon le nombre de joueurs), chacune divisée en deux phases : la phase "Niet !" et la phase de plis.
+Dans la phase "Niet !", les joueurs déterminent les conditions de la phase de plis qui suit.
+
+
+=== Déroulement d'une manche
+
+En début de manche, le donneur mélange les cartes puis les distribue une à une aux joueurs.
+Passez ensuite à la phase "Niet !".
+
+
+=== La phase "Niet !"
+
+Les joueurs consultent leurs cartes et utilisent les pions "Niet !" pour tenter d’influencer en leur faveur les conditions de la phase de plis à venir.
+
+Le donneur retire toujours en premier une des cartes "Niet !" de son choix de la table.
+Par exemple, si vous ne possédez que peu de cartes ♠, vous pouvez décider que ♠ n’est pas un atout dans cette manche en retirant la carte "Niet !" A♠ de la table.
+
+Une fois que le donneur a retiré une carte "Niet !", c’est au tour du joueur suivant de faire de même et ainsi de suite, dans le sens horaire.
+Il est interdit de retirer la dernière carte "Niet !" d'une ligne.
+Dès qu’il ne reste plus qu’une carte "Niet !" par ligne (5 cartes au total), la phase de "Niet !" prend fin.
+
+
+=== Les cartes "Niet !"
+
+Chaque ligne sur la table fixe les conditions de la manche en cours.
+
+
+==== Ligne 1 : Premier joueur [cartes Personnage]
+
+Le premier joueur choisit son ou ses partenaires pour la manche en cours.
+Tous les autres joueurs forment l’équipe adverse.
+Le premier joueur joue la première carte de la phase de plis.
+
+
+==== Ligne 2 : Cartes à défausser [cartes ⎈]
+
+Pour cette manche, chaque joueur doit se défausser face cachée du nombre de cartes indiqué.
+Ces cartes ne seront pas utilisées durant la manche et ne comptent pas dans le calcul des points.
+
+Si la carte ►⎈ est sur la table, chaque joueur doit à la place donner une carte de son choix à son voisin de gauche.
+
+Si la carte K⎈ est sur la table, les joueurs se défaussent tous de une carte, qui ne doit *pas* être un K.
+
+Si la carte 0⎈ est sur la table, les joueurs ne défaussent aucune carte.
+
+
+==== Ligne 3 : Atout [cartes A]
+
+La couleur de l’atout est désignée par la couleur de la case libre.
+La couleur de l’atout peut donc être ♠, ♥, ♣ ou ♦.
+
+
+==== Ligne 4 : Superatout [cartes S]
+
+Les trois cartes K de la couleur de la case libre sont les superatouts.
+Les superatouts peuvent donc être les K ♠, ♥, ♣ ou ♦ ou il n’y a pas de superatout pour la manche.
+Pendant la phase de plis, le superatout choisit durant la phase "Niet !" deviens de la même couleur que l'atout, quelle que soit sa couleur.
+
+
+==== Ligne 5 : Points (Pli/Butin) [cartes ★]
+
+La valeur des cartes n’est pas prise en compte pour le calcul des points.
+Chaque pli remporté et/ou chaque carte K capturée aux adversaires rapporte les points indiqués par la case libre.
+Si la carte -‽★ est sur la table, chaque pli et butin de cette manche inflige un malus de -2 points.
+
+
+=== La phase de plis
+
+Avant que la phase de plis ne commence réellement, il faut que :
+
+* Le premier joueur détermine les équipes en choisissant son ou ses partenaires.
+* Chaque joueur défausse le nombre de cartes indiqué (ou transmet 1 carte à son voisin de gauche le cas échéant).
+
+Le premier joueur peut ensuite commencer la phase de plis en jouant une carte de son choix face visible sur la table.
+
+Les autres joueurs jouent dans le sens horaire en posant à leur tour une carte.
+Les règles suivantes doivent être respectées :
+
+* La couleur de la première carte jouée doit être suivie.
+* Si vous ne pouvez pas suivre, vous pouvez jouer n'importe quelle carte de votre main (y compris un atout ou un superatout).
+* Si la première carte est un atout, vous devez jouer un atout ou un superatout.
+* Si la première carte est un superatout, vous devez jouer un atout ou un superatout.
+
+Une fois que tous les joueurs ont joué une carte, on vérifie qui remporte le pli (le pli étant le tour de jeu).
+
+.Jeu à 5
+====
+La carte Loup est sur la table.
+C’est le joueur Loup qui est premier joueur et qui constitue une équipe de 3 joueurs avec le joueur Papillon et le joueur Singe.
+Il donne donc la carte « ×2 » à un joueur de l’équipe adverse (Phénix ou Serpent). +
+La carte 0⎈ est sur la table, aucune carte n’est ainsi défaussée. +
+La carte A♣ card définit ♣ comme la couleur d'atout. +
+La carte S♠ card définit que les cartes K ♠ sont des superatouts. +
+Enfin, la carte 2★ définit que, durant cette manche, chaque pli et chaque butin vaut 2 points (voir <<butin>>).
+====
+
+
+=== Qui remporte le pli ?
+
+* Le pli est remporté par la carte de plus forte valeur de la couleur de la première carte jouée, à moins qu’un atout ou un superatout ne soit joué.
++
+CAUTION: Les cartes K qui ne sont pas superatout ont une valeur de 0.
++
+Si plusieurs cartes de même valeur et de même couleur prennent le pli, c’est celle jouée en dernier qui l’emporte (cela est valable aussi pour les atouts et superatouts).
+* Si un (ou plusieurs) atouts est joué sans aucun superatout, l’atout de plus forte valeur l’emporte.
+* Si un superatout est joué, il l’emporte.
+
+Le joueur remportant le pli prend les cartes qu’il empile face cachée devant lui, en posant bien chaque pli gagné séparément.
+
+Le vainqueur commence le pli suivant en jouant la carte de son choix.
+
+Dès que tous les plis ont été joués (et que tous les joueurs n’ont donc plus de carte en main), comptez les points.
+
+Chaque équipe compte le nombre de plis gagnés ainsi que les cartes butin.
+Ce total est multiplié par le nombre de points en vigueur pour la manche, comme indiqué sur la ligne 5 du plateau.
+Ce résultat est inscrit sur un papier libre qui servira de feuille de score.
+
+
+[[butin]]
+== Le butin
+
+Les cartes K deviennent un butin si elles sont volées à l’équipe adverse.
+C’est également valable pour les superatouts.
+Le butin est réclamé par un joueur qui gagne le pli lorsqu’un joueur de l’équipe adverse a joué une carte K.
+Chaque carte K capturée est placée face visible à côté de la pile de plis gagnés à cette manche.
+Il est possible de gagner jusqu'à 3 cartes butin lors d'un pli.
+
+
+.Pli
+====
+Le premier joueur (d’une équipe de 3) joue un 8♦. +
+Son partenaire joue un K♦, puis un joueur de l’équipe adverse joue un 4 3♦. +
+Le second joueur de l’équipe adverse n’a pas de carte ♦ et choisit de jouer un 1 K♣ (♣ est l'atout). +
+Pour finir, le dernier joueur de l’équipe de 3 joueurs, qui n’a pas non plus de carte ♣, joue un 6♣. +
+Ce dernier joueur ramasse les 5 cartes et les pose devant lui : le K♣ face visible et les 4 autres cartes en une pile face cachée.
+La carte K♦ ne constitue pas un butin, car elle a été jouée par un de ses partenaires.
+====
+
+
+== Nouvelle manche
+
+Après le décompte, toutes les cartes "Niet !" sont replacées sur la table.
+Le joueur à la gauche du dernier donneur devient le nouveau donneur.
+Il mélange toutes les cartes et les distribue à nouveau.
+Une nouvelle manche commence.
+
+
+== Fin du jeu
+
+La partie se termine après avoir joué un certain nombre de manches.
+
+[options="autowidth"]
+|====
+h| Nombre de joueurs | 2 | 3 | 4 | 5 | 6
+h| Nombre de manches | 8 | 9 | 8 | 10 | 12
+
+|====
+
+*Tous les joueurs doivent être donneur le même nombre de fois.*
+
+À la fin de la partie, le joueur ayant le plus de points l’emporte.
+En cas d’égalité, il y a plusieurs vainqueurs.
+
+.Variant
+****
+Vous pouvez choisir de jouer avec un objectif de points défini en début de partie.
+Par exemple, vous pouvez décider que la partie prendra fin dès qu’un joueur atteint 100 points.
+****
+
+
+[[mise-en-place]]
+== Mise en place du jeu et cas particuliers
+
+=== Carte Bonus ×2★
+
+Cette carte n’est utilisée que lorsque vous jouez à 3 ou 5 joueurs.
+
+Le joueur ou l’équipe en infériorité numérique reçoit la carte « x2 ».
+À 5, c’est le premier joueur qui détermine lequel des 2 joueurs de l’équipe reçoit la carte « x2 ».
+Cette carte permet de doubler les points gagnés à cette manche par le joueur qui la détient.
+
+
+=== 6 joueurs
+
+Les 60 cartes sont utilisées.
+Chaque joueur reçoit 10 cartes.
+On joue toujours à 3 contre 3.
+La partie prend fin après la 12^ème^ manche.
+Le premier joueur choisit ses partenaires.
+
+
+=== 5 joueurs
+
+Les 60 cartes sont utilisées.
+Chaque joueur reçoit 12 cartes.
+On joue toujours à 3 contre 2.
+Le premier joueur choisit s’il joue dans l’équipe de 2 ou de 3 joueurs.
+Il choisit aussi qui joue dans chaque équipe.
+Il donne la carte Bonus à un des joueurs de son choix (y compris lui-même) de l’équipe de 2 joueurs.
+Ce joueur double les points que lui rapportent les plis et les butins à cette manche.
+La partie se termine après 10 manches.
+
+
+=== 4 joueurs
+
+Les 60 cartes sont utilisées.
+Chaque joueur reçoit 15 cartes.
+On joue toujours à 2 contre 2.
+La partie prend fin après la 8^ème^ manche.
+Le premier joueur choisit son partenaire.
+
+
+=== 3 joueurs
+
+Au début du jeu, on retire les cartes 10, 11 et 12 de chaque couleur : il reste donc 48 cartes, et chaque joueur en reçoit 16.
+On joue à 1 contre 2.
+Le premier joueur choisit s’il joue avec un partenaire ou s’il joue seul.
+Le joueur seul reçoit la carte Bonus : tous ses points seront doublés.
+La partie s’achève après 9 manches.
+
+
+=== 2 joueurs
+
+Les 60 cartes sont utilisées.
+Chaque joueur reçoit 15 cartes.
+Les 30 cartes restantes ne sont pas utilisées dans cette manche.
+Elles sont écartées et restent secrètes jusqu'à la prochaine manche.
+La partie s’achève après 8 manches.

@@ -1,0 +1,15 @@
+type:
+  - Hand Management
+  - Ladder Climbing
+  - Team Based
+  - Score and Reset
+players: 3, 4, 6
+cards:
+  Base:
+    all-players:
+      stars: 1
+      spades: 2-10,J,Q,K,A
+      hearts: 2-10,J,Q,K,A
+      clubs: 2-10,J,Q,K,A
+      diamonds: 2-10,J,Q,K,A
+      specials: Wolf, Phoenix, Dragon

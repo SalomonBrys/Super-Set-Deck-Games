@@ -1,0 +1,157 @@
+= Le Renard des Bois
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Joshua Buergel.
+
+.Matériel
+****
+* 33 cartes de jeu : 1-11 à ♠, ♥ & ♣.
+****
+
+Le Renard des Bois est un jeu de plis pour deux joueurs.
+Chacun d’entre eux joue des cartes de sa main afin de remporter des plis sur son adversaire au cours de plusieurs manches.
+Les joueurs gagnent des points en remportant des plis contenant des cartes spécifiques.
+Ils peuvent également marquer des points supplémentaires en fin de manche, en fonction du nombre de plis qu’ils ont remportés.
+À l’issue de la partie, le joueur ayant comptabilisé le plus de points est déclaré vainqueur.
+
+
+== Mise en place
+
+Une partie se joue en plusieurs manches.
+Au cours de chaque manche, l’un des joueurs sera le donneur et distribuera les cartes.
+(Pour la première manche, décidez au hasard qui sera le donneur. Alternez entre les deux joueurs au cours des manches suivantes.)
+Au début d’une manche, le donneur est invité à réaliser les actions suivantes :
+
+1. Mélanger le jeu de *33 cartes*.
+2. Distribuer à chaque joueur une *main* de 13 cartes.
+   (Les joueurs sont autorisés à consulter leur main, mais doivent la garder secrète.)
+3. Mettre de côté les 7 cartes restantes face cachée afin de constituer la *pioche*.
+4. Retourner la première carte de la pioche et la placer face visible.
+   Cette carte est appelée *carte décret*.
+   La couleur de cette carte définit l’*atout* de cette manche.
+
+
+== Règle du jeu
+
+=== Déroulement d'une manche
+
+Une manche se compose d’une succession de 13 tours appelés *plis*.
+À chaque pli, les deux joueurs posent une carte de leur main au centre de la table, face visible :
+l’un des joueurs *ouvre* (c'est-à-dire qu’il joue la première carte du pli) tandis que l’autre *suit* (il pose la seconde carte du pli).
+En fonction des deux cartes qui sont jouées, l’un des joueurs *remporte le pli*.
+
+=== Détail des Plis
+
+*Ouvrir :*
+Le joueur qui n’est pas le donneur ouvre le premier pli d’une manche.
+Après cela, sauf indication contraire, le vainqueur d’un pli ouvre le pli suivant.
+L’ouvreur peut choisir de jouer n’importe quelle carte de sa main, sans aucune restriction.
+La couleur de cette carte reçoit le nom de *couleur d’entame* pour la durée de ce pli.
+
+*Suivre :*
+Une fois que l’un des joueurs a ouvert, l’autre joueur doit – si possible – jouer une carte de la même couleur que la couleur d’entame.
+Sauf mention contraire, cette carte peut être de n’importe quelle valeur tant qu’elle respecte la couleur.
+Si le suiveur ne possède pas de carte de cette couleur, il peut alors jouer n’importe quelle carte, sans restriction.
+
+*Déterminer le vainqueur du pli :*
+Une fois les deux cartes jouées (et, le cas échéant, une fois les capacités activées ; voir Capacités), les joueurs déterminent qui a remporté le pli.
+Par défaut, c’est la carte ayant la valeur la plus élevée dans la couleur d’entame qui remporte le pli.
+Toutefois, les cartes de la même couleur que la carte *décret* sont toujours considérées comme supérieures aux autres, étant des cartes d’atout :
+
+- Si aucune des cartes du pli n’est de la couleur d’atout, la carte de valeur la plus élevée dans la couleur d’entame remporte le pli.
+- S’il y a une seule carte d’atout, elle remporte le pli.
+- Si les deux cartes du pli sont de la couleur d’atout, alors la carte de valeur la plus élevée remporte le pli.
+
+Le vainqueur du pli remporte les deux cartes et les conserve face cachée de son côté de la table.
+Le nombre de plis remportés par chaque joueur est  une information publique, chaque joueur y a accès au cours de la manche.
+Cependant, il est interdit de consulter les valeurs et couleurs des cartes remportées au cours de plis antérieurs, qu’il s’agisse des siennes ou de celles de l’adversaire.
+Le vainqueur d’un pli ouvre le pli suivant (sauf mention contraire).
+Les joueurs poursuivent ainsi jusqu’à ce que les 13 plis soient remportés.
+
+
+=== Capacités
+
+Toutes les cartes impaires (1, 3, 5, 7, 9 et 11) sont dotées de capacités spéciales qui s’activent dès qu’elles sont jouées.
+Ces capacités peuvent modifier ce que votre adversaire est autorisé à jouer, comment est déterminé le vainqueur du pli, ou qui ouvrira le pli suivant ;
+elles peuvent vous permettre d’accomplir une action spéciale au moment de jouer une carte ou donner des points supplémentaires au vainqueur du pli en cours.
+
+****
+- *1* : Si vous jouez cette carte et perdez le pli en cours, ouvrez le pli suivant.
+- *3* : Lorsque vous jouez cette carte, vous pouvez échanger la carte Décret avec une carte de votre main.
+- *5* : Lorsque vous jouez cette carte, piochez 1 carte.
+       Défaussez ensuite n'importe quelle carte de votre main et glissez la face cachée sous la pioche.
+- *7* : Le vainqueur de ce pli remporte 1 point pour chaque carte 7 présente dans ce pli.
+- *9* : Au moment de déterminer le vainqueur d'un pli ne contenant qu'un seul 9, considérez que le 9 est de la couleur d'atout.
+- *11* : Si vous ouvrez avec cette carte et que votre adversaire possède une carte de cette couleur,
+        il doit jouer soit le 1 de la couleur d'entame, soit la carte la plus élevée de la couleur d'entame en sa possession.
+****
+
+(Voir <<annexe>> pour de plus amples informations au sujet des capacités.)
+
+
+=== Calcul des scores en fin de manche
+
+Une fois les 13 plis joués, comptez le nombre de plis remportés par chaque joueur.
+Les joueurs remportent des points à l’issue des manches de jeu en fonction du nombre de plis remportés.
+(Voir tableau ci-dessous.)
+
+L’idée est de remporter plus de plis que son adversaire, mais pas trop.
+
+[options="header,autowidth",cols="^.^,^.^,^.^"]
+|===
+| Tricks | Points | Description
+| 0-3    | 6      | Humble
+| 4      | 1   .3+| Vaincu
+| 5      | 2
+| 6      | 3
+| 7-9    | 6      | Victorieux
+| 10-13  | 1      | Cupide
+|===
+
+(Si vous vous montrez trop cupide, vous serez renversé, à l’instar des méchants des contes de fées.)
+
+À l’issue du calcul de score de fin de manche, si l’un des deux joueurs totalise au minimum 21 points, alors le jeu s’arrête.
+Sinon, jouez une nouvelle manche (le donneur de cette nouvelle manche est celui qui ne l’était pas au cours de la manche précédente.)
+
+
+== Fin de partie
+
+Enchaînez les manches complètes jusqu’à ce que l’un des joueurs totalise un minimum de 21 points.
+Le joueur ayant le plus de points remporte la partie !
+En cas d’égalité, le joueur ayant remporté le plus de points au cours de la dernière manche est déclaré vainqueur.
+
+*Durée de jeu variable :*
+Pour des parties plus longues ou plus courtes, vous pouvez convenir avec votre adversaire d’arrêter la partie une fois arrivés à un nombre de points de votre choix.
+
+- Pour une partie plus courte, nous vous recommandons de jouer des manches complètes jusqu’à ce que l’un des joueurs totalise au minimum 16 points.
+- Pour une partie plus longue, nous aimons jouer des manches complètes jusqu’à ce que l’un des joueurs totalise au minimum 35 points.
+
+
+[[annexe]]
+== Annexe : questions courantes
+
+- *À quel moment les capacités du 3 et du 5 s’activent-elles ?* +
+  Chacune de ces deux capacités s’active dès que la carte est jouée, avant qu’une autre carte ne soit jouée ou que le vainqueur du pli ne soit désigné.
++
+NOTE: Si le joueur posant le 3 modifie la carte décret, la couleur d’atout peut également changer.
+      On utilisera alors la nouvelle couleur d’atout afin de déterminer le vainqueur du pli en cours.
+
+- *Si mon adversaire ouvre avec un 9, dois-je suivre dans la couleur du 9 ou dans la couleur d’atout ?*
+  Vous devez suivre dans la couleur du 9 si vous en avez la possibilité.
+  Un 9 qui n’est pas dans la couleur d’atout ne devient un atout qu’après que les deux cartes du pli ont été jouées selon les règles normales.
+
+- *Si mon adversaire ouvre avec une carte d’atout et que j’ai une carte d’atout en main, puis-je jouer un 9 qui n’est pas dans la couleur d’atout ?*
+  Non.
+  Un 9 qui n’est pas dans la couleur d’atout ne devient un atout qu’après que les deux cartes du pli ont été jouées selon les règles normales.
+  Si vous avez la possibilité de suivre avec une carte d’atout, vous n’êtes pas autorisé à jouer un 9 qui n’est pas dans la couleur d’atout.
+
+- *Qui remporte un pli dans lequel deux 9 sont joués ?*
+  La capacité spéciale du 9 ne s’applique que si le pli contient un seul 9.
+  Si le 9 de la couleur d’atout a été joué, il remporte le pli.
+  Dans le cas contraire, c’est le 9 de la couleur d’entame qui gagne.
+
+- *Qui ouvre le pli suivant après un pli opposant deux 1 ?*
+  Si les deux joueurs jouent un 1, c’est le joueur qui perd ce pli qui devra ouvrir le suivant.

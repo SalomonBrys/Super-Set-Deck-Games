@@ -1,0 +1,153 @@
+= Herrlof
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Alexander Kneepkens & Inge van Dasselaar.
+
+.Matériel
+****
+* 36 cartes numérotées : 1-9 à ♠, ♥, ♣, ♦.
+* 6 cartes spéciales : 3 Loups & 3 Papillons.
+****
+
+La Scandinavie de l'époque viking, d'environ 800 à 1050 après J.-C., est caractérisée par de puissants souverains (ou chefs de famille) et rois.
+Le titre de roi n'est pas hérité, il faut se battre pour l'obtenir.
+Le principal souverain est reconnu par les autres comme "premier parmi ses pairs".
+Quatre souverains se battent maintenant pour recevoir le Herrlof : la victoire et les louanges obtenues à la guerre.
+Qui deviendra le prochain roi viking ?
+
+
+== Aperçu du jeu
+
+Dans ce jeu de plis, votre objectif est d'être le premier joueur à atteindre 50 points ou plus, le joueur avec le plus de points gagne.
+Vous marquez des points en gagnant des plis et vous pouvez aussi gagner des bonus.
+La partie se joue en un maximum de 10 manches, cependant, le plus souvent, les joueurs atteignent 50 points bien avant cela.
+
+
+== Mise en place du jeu
+
+Chaque joueur reçoit une feuille pour noter ses prédictions et ses points.
+Pour la première manche, vous choisissez au hasard un joueur comme donneur, ce rôle change à chaque fois pour les manches suivantes.
+
+
+== Principes du jeu
+
+Le jeu se joue en manches, à chaque manche vous :
+
+1. Distribuez 15 cartes
+2. Révélez l'atout
+3. Prédisez votre score
+4. Vous Affrontez pour les plis
+5. Révélez votre prédiction et déterminez votre score.
+
+Chaque manche se compose de 15 plis, un pli se compose d'une carte jouée par chacun des deux joueurs.
+
+
+=== 1. Distribution des cartes & 2. Révéler l'atout
+
+Le donneur distribue 15 cartes aux deux joueurs, les 12 cartes restantes forment une pioche face cachée placée sur le côté de la zone de jeu.
+Le donneur retourne alors la première carte de la pioche face visible, la couleur de cette carte est la couleur d'atout pour cette manche.
+Si c'est un Loup ou un Papillon, il n'y a pas de couleur d'atout.
+
+
+=== 3. Prédire son score
+
+Les deux joueurs prennent les cartes distribuées pour former leur main et prédisent le nombre de plis qu'ils pensent gagner.
+Ils écrivent cela sur leur feuille et le gardent caché.
+Vous n'êtes pas autorisé à modifier votre prédiction au cours d'une manche, et vous ne pouvez pas montrer votre prédiction à l'autre joueur.
+
+
+=== 4. S'affronter pour remporter des plis
+
+Le joueur à côté du donneur commence le premier pli en jouant une carte, appelons-le le joueur A.
+La carte jouée par le joueur A indique la couleur de la carte que le joueur B doit jouer si le joueur B a cette même couleur.
+Si le joueur B n'a pas de carte de cette couleur, il peut jouer une carte de son choix.
+Vous pouvez toujours jouer un Loup ou un Papillon au lieu de jouer une carte de la même couleur.
+Si un joueur commence un tour avec un Loup ou un Papillon, l'autre joueur peut jouer une carte de son choix.
+
+.Atout : ♠
+====
+* Le joueur A joue un 7♣, le joueur B n'a pas (plus) de cartes ♣ et joue donc une carte de son choix.
+Le joueur B joue un 8♥, le joueur A gagne le pli.
+* Le joueur A joue un 7♣, le joueur B n'a plus de cartes ♣ et joue donc une carte de son choix.
+Le joueur B joue un 3♠.
+Le joueur B gagne le pli, car le ♠ est la couleur d'atout.
+====
+
+Chaque pli est gagné par un seul joueur.
+Si les deux cartes jouées sont de la même couleur, le joueur avec la carte la plus forte gagne le pli.
+Si le joueur B a joué une couleur différente de celle du joueur A, alors le joueur A gagne le pli (quel que soit le nombre sur la carte) à moins que le joueur B n'ait joué une carte d'atout.
+Si le joueur B a joué une carte d'atout (tandis que le joueur A a joué une autre couleur), le joueur B gagne le pli, peu importe le nombre sur sa carte.
+
+Le vainqueur du pli prend les deux cartes, les pose l'une sur l'autre et les met sur le côté de la table.
+Pour chaque pli suivant qu'il gagne, il les place de façon à ce que les deux joueurs puissent à tout moment voir combien de plis chaque joueur a gagné.
+Vous ne pouvez consulter que le dernier pli, vous ne pouvez pas consulter les plis précédents pour lesquels des cartes ont été jouées.
+Le gagnant d'un pli commence le pli suivant, à moins qu'une carte avec une capacité spéciale ne change cela.
+
+
+=== 5. Révéler ses prédictions et déterminer son score
+
+Lorsque toutes les cartes distribuées ont été jouées, chaque joueur révèle sa prédiction.
+Vous recevez un point pour chaque pli que vous avez gagné.
+Si vous avez gagné le nombre exact de plis que vous aviez prédit, vous recevez 10 points de bonus.
+Si vous n'avez gagné que trois ou quatre plis, vous recevez 5 points de bonus (indépendamment du fait que ce soit votre prédiction).
+
+
+== Fin de la partie
+
+La partie se termine lorsque, après avoir compté les points d'une manche, un ou les deux joueurs ont atteint 50 points.
+Le joueur qui a le plus de points gagne.
+En cas d'égalité, le joueur qui a le plus souvent reçu le bonus de prédiction gagne.
+S'il y a toujours égalité, le joueur qui a gagné le plus de plis dans la dernière manche gagne.
+S'il y a toujours égalité, les joueurs se partagent la victoire.
+
+
+== Cartes avec des capacités spéciales
+
+* *Loup* : Détruit le pli dans lequel il est joué.
+Cela signifie que les deux cartes jouées dans ce pli sont retirées du jeu pour cette manche, ce qui réduit le nombre total de plis qui peuvent être gagnés dans cette manche.
+Le joueur qui a commencé le pli commence le pli suivant.
+Si deux Loups sont joués dans un pli, une nouvelle couleur d'atout est immédiatement retournée de la pioche (en remplacement de l'atout existant).
+
+* *Papillon* : Cette carte est plus faible que toutes les autres cartes.
+Le perdant de ce pli commence le pli suivant.
+Cependant, si deux Papillons sont joués, le premier gagne le pli.
+
+* *1* : Si vous gagnez le pli avec cette carte, vous pouvez choisir de voler un pli à l'autre joueur.
+Notez que c'est un pli qu'il avait déjà gagné lors de cette manche.
+
+* *3* : Si vous jouez cette carte, vous pouvez choisir de prendre la première carte de la pioche (face cachée) et de vous défausser d'une carte de votre main.
+Vous pouvez vous défausser de la carte que vous venez de prendre.
+Cette capacité spéciale est indépendante de la personne qui gagne le pli.
+
+* *6* : Si vous gagnez le pli avec cette carte, vous pouvez choisir de voler au hasard une carte de la main de l'autre joueur.
+Vous pouvez ajouter cette carte à votre main et rendre une carte différente à l'autre joueur, ou vous pouvez rendre la carte que vous venez de voler.
+
+* *9* : Si vous gagnez le pli avec cette carte, votre adversaire commence le pli suivant.
+
+.Atout: ♥
+====
+* Le joueur A joue un 5♥, le joueur B joue un Loup.
+Le pli est détruit, le joueur A commence le pli suivant.
+* Le joueur A joue un 1♠, le joueur B joue un Papillon.
+Le joueur A gagne le pli et prend un pli supplémentaire au joueur B, donc le joueur A ajoute deux plis au total à son tas.
+Le joueur B commence le pli suivant.
+* Le joueur A joue un 3♥, prend la première carte face cachée de la pioche et se défausse d'une autre carte.
+Le joueur B joue un 6♥.
+Le joueur B gagne le pli et vole une carte dans la main de A et rend une carte différente de sa propre main.
+Le joueur B commence le pli suivant.
+* Le joueur A joue un 9♣, le joueur B joue un 4♦.
+Le joueur A gagne le pli, le joueur B commence le pli suivant.
+====
+
+
+=== Alternative à trois joueurs
+
+Il est possible (et agréable) de jouer à ce jeu à trois joueurs.
+Il suffit de distribuer 11 cartes à chaque joueur par manche.
+Lorsqu'une carte avec une capacité spéciale indique "l'autre joueur", remplacez-la par "un autre joueur".
+Avec le 9, le joueur à gauche du gagnant commence le pli suivant.
+Notez que les cinq points de bonus pour 3 ou 4 plis sont annulés dans les parties à trois joueurs.
+Il est également recommandé de mettre l'objectif à atteindre à 40 points, plutôt qu'à 50.

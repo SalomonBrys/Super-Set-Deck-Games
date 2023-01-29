@@ -1,0 +1,29 @@
+type:
+  - Auction
+  - Score and Reset
+players: 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-10
+      hearts: 1-10
+      clubs: 1-10
+      stars: 1-10, ×2, -‽
+    4,5,6-players:
+      diamonds: 1-10
+    5,6-players:
+      spades: 11-12
+      hearts: 11-12
+      clubs: 11-12
+      diamonds: 11-12
+      stars: 11-12
+      specials: Monkey*2
+    6-players:
+      spades: 13-14
+      hearts: 13-14
+      clubs: 13-14
+      diamonds: 13-14
+      stars: 13-14
+  Special:
+    all-players:
+      specials: Wolf, Phoenix, Snake, Butterfly

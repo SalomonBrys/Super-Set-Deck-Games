@@ -1,0 +1,192 @@
+= Lost Cities
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Reiner Knizia.
+
+.Matériel
+****
+* Jeu de base :
+** 5 cartes A : ♠, ♥, ♣, ♦, ★.
+** 60 cartes de jeu :
+*** 45 cartes Expéditions numérotées : 2-10 à ♠, ♥, ♣, ♦ & ★.
+*** 15 cartes Pari (3 K à chaque couleur).
+* Jeu avancé :
+** 1 carte A additionnelle (⎈).
+** 12 cartes de jeu additionnelles :
+*** 9 cartes Expéditions numérotées : 2-10 à ⎈.
+*** 3 cartes Pari (3 K à ⎈).
+****
+
+*Le duel des expéditions*
+
+Avec vos cartes, vous engagez des expéditions vers les coins les plus reculés et mystérieux de la terre :
+sur les neiges éternelles, au cœur du désert ou de la forêt vierge, sous l'eau et même dans le cratère d'un volcan.
+Votre but : mener des expéditions avec le plus de succès possible !
+Et pour les plus audacieux d'entre vous, il est même possible de parier sur la réussite d'une expédition.
+Mais attention : cette stratégie peut aussi se retourner contre vous.
+Celui qui, au bout de trois manches, a récolté le plus de points gagne !
+
+NOTE: Les règles du jeu sont très accessibles, mais ne vous faites pas piéger par leur apparente simplicité.
+Lost Cities est plus complexe qu'il n'y paraît à première vue.
+
+
+[[preparation]]
+== Préparation du jeu
+
+Placez les *5 cartes A* (♠, ♥, ♣, ♦, ★) en une ligne entre les joueurs au centre de la table.
+Ce sont les 5 piles de défausse.
+
+Placez la carte A ⎈ et les 12 cartes Expédition ⎈ dans la boîte.
+Elles ne sont pas nécessaires pour le jeu de base.
+
+Mélangez les 60 cartes restantes face cachée et distribuez *huit cartes* à chaque joueur.
+Ce sont les *cartes de votre main*.
+Le reste des cartes, toujours face cachée, constitue la *pioche* à côté de la ligne centrale.
+
+Préparez également de quoi noter vos scores intermédiaires.
+
+
+== But du jeu
+
+Votre but est de tirer le plus de bénéfices possible des Expéditions menées, après déduction des coûts.
+Une Expédition se compose toujours d'une rangée de cartes de même couleur.
+Les valeurs des cartes au sein d'une rangée doivent être nécessairement croissantes.
+Au début d'une rangée, vous pouvez ajouter des cartes Pari afin de multiplier le résultat de cette Expédition.
+À la fin de chaque manche, vous comptabilisez les points de chaque Expédition commencée par au moins une carte.
+
+
+== Déroulement du jeu
+
+Le joueur le plus agé commence.
+Puis, jouez à tour de rôle en plaçant toujours vos cartes de votre côté respectif du plateau.
+
+À votre tour, *jouez d'abord une carte de votre main* en la posant ou en la défaussant.
+Ensuite, *piochez une nouvelle carte*.
+
+
+=== 1. Jouer une carte
+
+Pour jouer une carte, vous pouvez soit la poser, soit la défausser.
+
+.Option 1 : Poser une carte de sa main.
+****
+Choisissez une carte de votre main.
+Avec cette carte, vous pouvez soit *commencer une nouvelle Expédition*, soit faire *progresser une Expédition en cours*.
+Pour ce faire, placez la carte face visible de votre côté sous l'emplacement du plateau de la couleur correspondante.
+
+Plus tard, si vous jouez une carte dans une Expédition ayant débuté lors d'un tour précédent, empilez simplement les cartes de même couleur.
+Décalez-les légèrement de manière que leur valeur soit toujours bien visible.
+
+IMPORTANT: Chaque carte ajoutée doit avoir une *valeur supérieure* à celle de la carte qui a été posée en dernier dans cette Expédition.
+
+Vous pouvez jouer une carte Pari dans une Expédition à condition que cette Expédition ne contienne encore aucune carte Expédition.
+Vous pouvez donc jouer 0, 1, 2 ou 3 cartes Pari dans une Expédition avant d'y poser des cartes Expédition.
+****
+
+*or*
+
+.Option 2 : Défausser une carte.
+****
+Si vous ne pouvez ou ne voulez pas poser de carte, placez une carte de votre main, face visible, sur le plateau (qu'importe sa valeur).
+Pour chaque couleur, un emplacement de défausse est prévu.
+Cinq piles de couleur différente se constituent ainsi au cours de la partie.
+Veillez à ce que seule la valeur de la carte du dessus de chaque pile de défausse soit visible.
+****
+
+
+=== 2. Piocher une carte
+
+Après avoir joué une carte de votre main, vous devez piocher pour revenir à 8 cartes en main.
+2 possibilités s'offrent à vous : Piochez la première carte face cachée de la pioche *OU* piochez la première carte d'une des 5 piles sur le plateau (s'il y en a).
+
+IMPORTANT: Vous ne pouvez pas reprendre une carte que vous venez de défausser.
+
+Ensuite, votre tour se termine.
+
+
+== Fin du jeu et décompte des points
+
+Dès que la pioche est vide, la manche s'arrête *immédiatement*.
+
+NOTE: Vous pouvez étaler un peu la pioche et compter les cartes restantes pour anticiper la fin de la partie.
+
+Déterminez maintenant ce que valent vos Expéditions. +
+Pour cela, additionnez les valeurs de toutes les cartes d'une Expédition et *retirez 20* au résultat.
+C'est le coût de l'Expédition.
+
+IMPORTANT: Si vous n'avez pas de cartes pour une Expédition, elle n'engendre *ni gain, ni coût*.
+
+*Après déduction du coût*, s'il y a 1, 2 ou 3 cartes Pari dans une rangée, multipliez le résultat de cette Expédition respectivement par 2, 3 ou 4.
+
+Une Expédition peut donc vous rapporter des points positifs ou négatifs.
+En revanche, vous n'obtenez ou ne perdez aucun point pour une Expédition qui ne comporte pas de cartes.
+
+Par ailleurs, toutes les Expéditions d'*au moins 8 cartes* rapportent un bonus supplémentaire de 20 points.
+
+IMPORTANT: Ce bonus n'est pas multiplié par les cartes Pari !
+
+Notez vos points.
+Commencez ensuite une nouvelle manche comme décrit dans <<preparation>>.
+Celui qui a le plus de points commence.
+Additionnez vos points après chaque manche.
+
+Après 3 manches, le joueur ayant la plus grande somme de points remporte la partie !
+
+
+== Variante : version longue
+
+Lors d'une partie longue, le jeu se déroule de manière similaire, à l'exception des modifications suivantes :
+Lors de la *préparation du jeu*, placez la carte A ⎈ en bout de ligne centrale pour former un *sixième emplacement Expédition*.
+En outre, mélangez les *72 cartes jeu*, les 12 cartes de l'Expédition ⎈ étant incluses.
+
+
+== Exemple de décompte des points
+
+Vous avez constitué les Expéditions ci-contre :
+
+[options="autowidth",cols=">h,^,^,^,^,^",role="big-table"]
+|===
+| | ♠ | ♥ | ♣ | ♦ | ★
+
+| Cartes
+|
+5 +
+8 +
+10
+|
+Q
+|
+|
+J +
+3 +
+5 +
+7
+|
+K +
+J +
+2 +
+3 +
+5 +
+7 +
+8 +
+10
+
+| Somme | 23 | 0 | 0 | 15 | 35
+| Coût de l'Expédition | -20 | -20 | | -20 | -20
+| Score intermédiaire | 3 | -20 | 0 | -5 | 15
+| Pari | | × 2 | | × 2 | × 3
+| Résultat | *3* | *-40* | *0* | *-10* | *45*
+| Bonus ≥ 8 cartes | | | | | *20*
+|===
+
+*Explication pour l'Expédition ♥ :* +
+La carte Pari double le résultat de l'Expédition.
+Il n'y a pas d'autres cartes, on applique donc le coût de l'Expédition qui doit ensuite être multiplié par deux.
+
+Vous avez obtenu 18 points: stem:[3 - 40 - 10 + 45 + 20 = 18]
+
+TIP: Il est parfois plus judicieux de ne pas commencer une Expédition si vous n'êtes pas sûr d'obtenir un résultat positif.
+Il vaut mieux jouer les cartes Pari si vous avez plusieurs cartes de l'Expédition et suffisamment de temps pour les poser !

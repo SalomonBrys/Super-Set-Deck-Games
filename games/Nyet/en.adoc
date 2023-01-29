@@ -1,0 +1,274 @@
+= Nyet!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Stefan Dorra.
+
+.Components
+****
+* 60 Playing cards: 3 K & 1-12 in ♠, ♥, ♣, ♦
+* 19 Nyet! cards:
+** 5 discard cards: 0-2, ► & K in ⎈
+** 4 trump cards: A in ♠, ♥, ♣, ♦
+** 5 super-trump cards: S in ♠, ♥, ♣, ♦ + Ø
+** 5 trick value cards: 1-4 & -‽ in ★
+* 1 bonus card: ★×2
+* 12 character cards: 2 Butterflies, 2 Wolves, 2 Phoenixes, 2 Snakes, 2 Dragons & 2 Monkeys.
+****
+
+Players are split into 2 teams that each try to score points by taking tricks.
+
+Each trick is influenced by the players' decisions at the start of the round.
+For example, players choose the colors of the trump and the value of the trick.
+
+In each round, players remove a Nyet! card of their choice, choosing what will NOT be allowed in the round.
+For example, if a player removes the ♥ trump card, ♥ will not be the trump for the round.
+
+
+== Setup
+
+* Choose a Character card and lay it face-up in front of yourself.
+
+* Place the Nyet! cards in the center of the table in 5 rows:
+** *First player*: One character card per player (the second card of the character each player chose).
+** *Discard*: ⎈0, ⎈1, ⎈2, ⎈►, ⎈K
+** *Trump*: ♠A, ♥A, ♣A, ♦A
+** *Supertrump*: ♠S, ♥S, ♣S, ♦S, Ø
+** *Points*: ★1, ★2, ★3, ★4, ★-‽
+
+* For a 3-player game, remove 12 Playing cards (see <<setup-specs>>).
+For 2, 4, 5, or 6 players, use all 60 cards.
+
+* Choose one player to take a pencil and score-pad and be in charge of score keeping.
+
+* Choose a dealer randomly.
+The dealer shuffles the cards and deals them all evenly to all players.
+
+
+== Game play
+
+The game is played over several rounds.
+Each round is divided into 2 phases: the Nyet! phase and the trick phase.
+During the Nyet! phase, the terms of the round are determined.
+
+
+=== Playing a round
+
+To begin a round, the dealer shuffles and deals the cards to the players.
+Then go to the Nyet! phase.
+
+
+=== The Nyet! Phase
+
+Players look at their cards and try to influence the terms of the upcoming round by removing Nyet! cards.
+
+The dealer begins by removing one of the Nyet! cards of her choice from the table.
+For example, if she only has a few ♠ cards, she might remove the ♠A Nyet! card from the table, declaring that ♠ is not a trump for this round.
+
+Each player continues clockwise, removing one Nyet! card from the table until each line has only one card left.
+Once a line has only one card left, it may not be removed from the table.
+
+
+=== The Nyet! cards
+
+Each line on the table explains the terms of the current round.
+
+
+==== Line 1: First Player [Character cards]
+
+The first player chooses his team.
+The other players become the opposing team.
+The first player chooses who receives the Bonus card, and plays first.
+
+
+==== Line 2: Discard Cards [⎈ cards]
+
+For this round, each player must discard the number of cards indicated.
+These cards are not used during the round and do not count for points.
+
+If the ⎈K card is on the table, players must discard one card, excluding K cards (they must not discard a K cards).
+
+If the ⎈► card is on the table, each player must give one card to the neighbor on her left.
+
+If the ⎈0 card is on the table, discard no cards.
+
+
+==== Line 3: Trump [A cards]
+
+Trump color for the round is designated by the A card on the table.
+Trump color can be ♠, ♥, ♣, or ♦.
+
+
+==== Line 4: Supertrump [S cards]
+
+The three K cards in the color of the S card on the table are the supertrumps.
+Supertrump color can be ♠, ♥, ♣, or ♦, or there can be no supertrump at all.
+If you chose a Supertrump in the Nyet! phase, it turns double agent!
+Regardless of its original color, Supertrump becomes the same color as Trump in the trick phase.
+
+
+==== Line 5: Points (Trick/Loot) [★ cards]
+
+Card values do not matter for scoring.
+Each trick taken and each K card captured by an opposing team (loot) earns the chosen number of points.
+The ★-‽ card is negative: –2 points per trick/loot (see <<loot>>).
+
+
+=== The Trick Phase
+
+Before the trick phase begins:
+
+* The first player chooses teammates.
+* Players discard or pass cards as indicated.
+
+Then, the first player begins the first trick by playing a card of his choice face-up on the table in front of himself.
+
+Play continues clockwise with each player placing a card face-up in turn, respecting these rules:
+
+* You must match the color led, if you can.
+* If you cannot match the color led, you may play any card in your hand (including a Trump or Supertrump).
+* If Trump is led, you must play a Trump or Supertrump if you can.
+* If Supertrump is led, you must play a Trump or Supertrump if you can.
+
+Once each player has played a card, check to see who takes the trick.
+
+.5-player game
+====
+The Wolf card is on the table.
+So, the Wolf player chooses a team of 3 players with the Butterfly and Monkey players.
+He also chooses to give the Bonus card to either the Phoenix or Snake player. +
+The ⎈0 is on the table, so no cards are discarded. +
+The ♣A card shows that the trump color is ♣. +
+The ♠S card indicates that ♠ K cards are the supertrumps. +
+Finally, the ★2 card shows that in this round, each trick and each loot is worth 2 points.
+====
+
+
+=== Who Takes the Trick?
+
+* The card with the highest value in the color of the starting card takes the trick, as long as no trump or supertrump has been played.
++
+CAUTION: Non supertrump K cards have a value of 0.
++
+If multiple cards of the same value and same color are played, the last card played takes the trick (this also applies for trumps and supertrumps).
+* If one (or multiple) trumps are played without a supertrump, the trump with the highest value takes the trick.
+* If a supertrump was played, it takes the trick.
+
+The player who took the trick picks up the cards and stacks them face-down in front of herself.
+Stack each trick won separately.
+
+She then begins the next trick by playing a card of her choice.
+
+Once all the tricks have been played and no players have cards in their hands, points are scored.
+
+Each team counts the number of tricks won and loot captured (see below).
+This total is multiplied by the number indicated on the Points card.
+The scorekeeper writes the results on the score-pad.
+
+
+[[loot]]
+== The Loot
+
+All K cards can become loot won by the opposing teams.
+When a player wins a trick that contains a K card played by an opponent, he claims it as loot.
+Each captured K card is placed to the side of the trick pile face-up.
+It’s possible to win up to 3 loot cards during a trick.
+
+.Trick
+====
+The first player (on a 3-player team) plays a ♦8. +
+Her teammate plays a ♦K, and an opposing player plays a ♦3. +
+The second player on the opposing team has no ♦ cards and chooses to play a ♣K (♣ is a trump). +
+To finish, the last player on the 3-player team also has no ♦ cards and plays a ♣6. +
+Player 5 wins the trick and takes all the cards.
+He places the ♣K card in front of himself and stacks the other four cards face-down next to it.
+The ♦K is not a loot card since one of his teammates played it.
+====
+
+
+== New round
+
+After scoring, place all the Nyet! cards back on the table.
+The player to the left of the last dealer becomes the new dealer, shuffling and dealing cards.
+A new round then begins.
+
+
+== End of game
+
+The game ends after a certain number of rounds.
+
+[options="autowidth"]
+|====
+h| Players | 2 | 3 | 4 | 5 | 6
+h| Rounds | 8 | 9 | 8 | 10 | 12
+
+|====
+
+*Each player will be dealer the same number of times.*
+
+At the end of the game, the player with the most points wins.
+In case of tie, there are multiple winners.
+
+
+.Variant
+****
+You may also play with a point based end condition.
+For instance, you may play until one player reaches 100 points.
+****
+
+
+[[setup-specs]]
+== Specifications of Game Setup
+
+=== Bonus Card ★×2
+
+Use this card only when playing with 3 or 5 players.
+
+In 1 vs. 2 or 2 vs. 3 games, one player on the smaller team receives the Bonus card.
+The first player determines which player on the smaller team receives the Bonus card (you can give it to yourself).
+This card allows the owner to double her points.
+
+
+=== 6 Players
+
+Use all 60 cards.
+Deal 10 cards to each player.
+Teams are 3 vs. 3, and the first player chooses her teammates.
+The game ends after 12 rounds.
+
+=== 5 Players
+
+Use all 60 cards.
+Deal 12 cards to each player.
+Teams are 3 vs. 2.
+The first player chooses whether she plays on the team with 2 or 3 players and who plays on which team.
+She gives the Bonus card to one player on the 2-player team.
+The game ends after 10 rounds.
+
+
+=== 4 Players
+
+Use all 60 cards.
+Deal 15 cards to each player.
+Teams are 2 vs. 2, and the first player chooses her teammate.
+The game ends after 8 rounds.
+
+
+=== 3 Players
+
+Remove the 10, 11, and 12 of each color, leaving 48 cards in the deck.
+Deal 16 cards to each player.
+Teams are 1 vs. 2, and the first player chooses whether she plays alone or with a partner.
+The solo player receives the Bonus card.
+The game ends after 9 rounds.
+
+
+=== 2 players
+
+Use all 60 cards.
+Deal 15 cards to each player.
+The 30 cards left are not used in this round.
+Set them aside face-down, but shuffle them into the deck for subsequent rounds.
+The game ends after 8 rounds.
+

@@ -1,0 +1,27 @@
+type:
+  - Score and Reset
+  - Trick Taking
+  - Team Based
+  - Deduction
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      stars: 1-6,11-17,J
+      spades: 1-6
+      hearts: 1-6,K
+      clubs: 1-6,K
+      diamonds: 1-6
+      specials: Wolf*5,Dragon*2,Phoenix*3,Snake*2,Monkey,Ø
+    4,5-players:
+      stars: 18,19
+      diamonds: K
+      florettes: 1-6
+    5-players:
+      stars: 7,8
+      spades: 7,8,10-16,J
+      hearts: 7,8
+      clubs: 7,8
+      diamonds: 7,8
+      florettes: 7,8
+      wheels: 1-8

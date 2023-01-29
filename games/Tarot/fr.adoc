@@ -1,0 +1,400 @@
+= Tarot
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+.Matériel
+****
+* 56 cartes de couleur : 1-10, J, S, Q, K à ♠, ♥, ♦, ♣.
+* 21 cartes d'atout : 1-21 à ★.
+* 1 Papillon
+****
+
+
+Le Tarot se joue en règle générale à quatre joueurs.
+Il peut également se jouer à 3 ou 5 joueurs en modifiant certaines règles.
+
+Le Tarot est à la fois un jeu individuel et un jeu d'équipe.
+En effet, au cours de *la partie*, l'un des joueurs, appelé *le preneur* (ou *le déclarant*) est opposé aux trois autres, *les défenseurs*, qui constituent une équipe (*la défense*).
+
+Mais cette association ne dure que le temps d'une *donne*.
+Elle peut se constituer différemment pour la donne suivante.
+
+Après avoir pris connaissance de son jeu, un joueur peut s'engager à atteindre un certain nombre de points en jouant *seul* contre ses trois adversaires associés.
+Combien de points le preneur seul doit-il réaliser pour gagner son contrat ?
+Cela dépend uniquement du nombre de bouts qu'il détient dans ses *levées* ou *plis* à la fin de la donne.
+
+.Points à réaliser :
+* Sans bout : il faut *56* points.
+* Avec un bout : il faut *51* points.
+* Avec deux bouts : il faut *41* points.
+* Avec trois bouts : il faut *36* points.
+
+Cette liste vous permet de découvrir l'importance considérable des bouts.
+Le 21 et le Papillon ne peuvent changer de camp.
+Mais attention, le Papillon ne doit pas être joué à la dernière levée, sauf en cas de chelem, sinon il change de camp.
+Le petit, au contraire, est vulnérable.
+Le déclarant peut le perdre... ou le prendre à ses adversaires à la suite de la fameuse CHASSE AU PETIT.
+
+
+== Les cartes
+
+Le jeu de Tarot est composé de 78 cartes.
+
+* 4 couleurs : ♠, ♥, ♦, ♣ (Pique, Cœur, Carreau, Trèfle).
+Chaque couleur est composée de 14 cartes.
+Dans l'ordre décroissant de force et de valeur :
+** le *Roi (K)*, la *Dame (Q)*, le *Cavalier (S)* et le *Valet (J)* constituent les *honneurs* (ou les *habillés*),
+** le *10*, le *9*, le *8*, le *7*, le *6*, le *5*, le *4*, le *3*, le *2*, l’*As*.
+* *Vingt-et-une cartes* sont à ★ et portent un numéro : ce sont les *atouts* (ou *tarots*) qui ont priorité sur les couleurs.
+Le numéro indique la force de chaque atout, du plus fort, le *21*, au plus faible, le *1* (appelé *petit*).
+* Enfin *le Papillon* est une sorte de "joker" dispensant de jouer la couleur ou l'atout demandé.
+
+Le 21, le petit et le Papillon sont les 3 bouts (ou les 3 oudlers).
+C'est autour de ces 3 cartes que s'organise toute la stratégie du jeu de Tarot.
+
+.Valeur de chaque carte
+****
+[%autowidth]
+|===
+| 1 bout (1 - 21 - Papillon) | 4,5 points
+| 1 Roi | 4,5 points
+| 1 Dame | 3,5 points
+| 1 Cavalier | 2,5 points
+| 1 Valet | 1,5 point
+| Toute autre carte | 0,5 point
+|===
+
+On compte les cartes deux par deux pour faciliter le décompte :
+
+[%autowidth]
+|===
+| 1 bout (1 - 21 - Papillon) + 1 petite carte | 5 points
+| 1 Roi + 1 petite carte | 5 points
+| 1 Dame + 1 petite carte | 4 points
+| 1 Cavalier + 1 petite carte | 3 points
+| 1 Valet + 1 petite carte | 2 points
+| 2 petites cartes à la couleur ou à l'atout | 1 point
+|===
+
+*TOTAL : 91 points*
+****
+
+
+== La distribution
+
+Avant la première distribution, on étale le jeu face cachée et chaque joueur tire une carte au hasard.
+La plus petite carte désigne le *donneur*.
+En cas d'égalité entre les deux plus faibles, on respecte l'ordre de priorité entre les couleurs : *Pique, Cœur, Carreau, Trèfle* ; l'as de Trèfle est donc la plus petite carte.
+Les atouts sont prioritaires, mais le Papillon ne compte pas : il faut retirer dans ce cas une nouvelle carte.
+
+Le jeu *doit obligatoirement être battu* par le joueur placé en face du donneur.
+
+Puis le voisin de gauche du donneur *doit couper en 2*, en prenant ou en laissant obligatoirement plus de 3 cartes, et doit *refermer lui-même le tas*.
+
+Les joueurs donnent à tour de rôle dans le sens du jeu.
+
+Le donneur distribue les cartes trois par trois, dans le sens contraire des aiguilles d'une montre.
+Au cours de la distribution, le donneur constitue carte par carte un talon de 6 cartes appelé *le chien*.
+Il est interdit de mettre la première ou la dernière carte du paquet au chien.
+Chaque joueur reçoit ainsi *18 cartes*.
+Les 6 cartes du chien doivent être placées au centre du tapis et non vers le donneur.
+
+Une fois la distribution terminée, le donneur doit montrer aux autres joueurs qu’il a bien mis 6 cartes au chien.
+
+*Les joueurs ne peuvent toucher les cartes et relever leur jeu* que lorsque la distribution est entièrement terminée.
+
+Toute faute commise au cours de la distribution entraîne une nouvelle distribution par le même donneur.
+Le fautif n’aura pas le droit de participer aux enchères sur cette même donne.
+En cas de faute du donneur (*fausse donne*), chaque joueur rend son jeu sans le regarder ; on évite ainsi regrets et mauvaise humeur.
+Une carte retournée par le donneur lors de la donne est une fausse donne si elle implique une carte d'honneur ou d'atout.
+
+
+=== La tenue des cartes
+
+Tous les joueurs prennent *obligatoirement* connaissance de leur jeu dès la fin de la distribution.
+
+Chaque joueur doit tenir ses cartes au-dessus de la table de manière apparente, jusqu’à la dernière carte jouée.
+
+Un joueur possédant le *petit sec* (*c'est son seul atout et il n'a pas le Papillon*) doit obligatoirement l'annoncer, étaler son jeu et annuler la donne avant les enchères.
+Le voisin de droite du donneur procède à une nouvelle distribution.
+Si la découverte d’un petit sec chez un joueur (qui ne l’aurait pas signalé) intervient en cours de jeu, la donne est annulée et on passe au donneur suivant.
+
+
+== Les enchères
+
+Il n'est pas indispensable de classer ses cartes avant la fin des enchères, mais pour un débutant un jeu bien classé permet une évaluation plus précise.
+
+Le joueur placé à droite du donneur parle le premier.
+S'il dit "*je passe*", la parole passe alors à son voisin de droite et ainsi de suite, jusqu'au donneur.
+
+Si les quatre joueurs passent, le voisin de droite du donneur procède à une nouvelle distribution.
+
+Un joueur peut lancer une enchère s'il estime que son jeu lui permet de jouer seul contre les trois autres joueurs.
+Il dit alors *"prise ou petite"*, *"garde"*, *"garde sans le chien"* ou *"garde contre le chien"*.
+Les autres joueurs, placés à sa droite peuvent éventuellement couvrir cette première enchère par une enchère supérieure.
+Chaque joueur ne peut parler qu'une seule fois.
+
+Les enchères par ordre croissant sont :
+
+• *LA PRISE ou PETITE*, avec un jeu moyen qui ne laisse espérer qu'environ 50% de chances de réussite et qui s'appuie souvent sur l'espoir de la découverte d'un très beau chien.
+• *LA GARDE* peut être une surenchère après la prise d'un adversaire.
+Mais elle est, le plus souvent, la première enchère, quand le preneur estime ses chances de réussite très supérieures à ses risques d'échec.
+• *LA GARDE SANS LE CHIEN*, avec un très beau jeu, le preneur estime qu'il peut réaliser son contrat sans incorporer le chien à son jeu, donc sans effectuer d'ÉCART.
+Mais les points du chien lui sont comptés à la fin de la donne et constituent pour lui une certaine réserve de sécurité.
+Naturellement, aucun joueur ne doit regarder le chien tant que la donne n'a pas été jouée.
+• *LA GARDE CONTRE LE CHIEN*, avec un jeu exceptionnel, le preneur s'engage à réaliser son contrat sans l'aide du chien dont les points seront comptés avec ceux de la défense.
+
+
+=== Le chien et l'écart
+
+Sur une prise ou une garde, lorsque les enchères sont terminées, *seul le donneur tend le chien au preneur qui retourne alors* les 6 cartes du chien, les classe par couleur, puis les incorpore à son jeu après s’être assuré que les autres joueurs l’aient vu.
+Il réalise son écart, 6 cartes qui restent secrètes pendant toute la partie et qui seront comptabilisées avec ses levées.
+Durant ce temps, les 3 autres joueurs s’assurent qu’ils ont bien 18 cartes.
+
+*On ne peut écarter ni roi, ni bout*.
+On n’écarte des atouts que si cela s'avère indispensable et en les montrant à la défense.
+
+Lorsqu'il a terminé son écart, le preneur doit montrer aux autres joueurs qu’il a bien mis 6 cartes à l’écart.
+Il dit ensuite "*jeu*".
+
+Une fois que le preneur a dit "jeu" ou fait action de jeu (présentation poignée, jeu d’une carte …) *la donne est commencée* et l'écart ne peut plus être ni modifié, ni consulté.
+Néanmoins, dans le cas de la présentation d’une poignée (ou double ou triple), le preneur qui reprend son écart à la place de son jeu (16, 19 ou 21 cartes au lieu de 18) pourra rectifier s’il n’a pas joué sa première carte.
+S’il a joué sa première carte, la règle du faux écart sera appliquée.
+
+Sur une garde sans le chien ou une garde contre le chien, les cartes du chien restent faces cachées.
+Sur une garde sans le chien, elles sont placées devant le preneur et seront comptabilisées avec ses levées.
+Sur une garde contre le chien, elles sont données face cachée au défenseur qui est face au preneur, et elles seront comptabilisées avec les levées de la défense.
+
+
+=== Le chelem
+
+*Réussir le CHELEM, c'est gagner toutes les levées.*
+
+Le chelem est demandé après l’annonce d’un contrat ; les points sont comptés en fonction du contrat demandé et une prime (ou une pénalité) supplémentaire sanctionne la réussite (ou l'échec) de ce chelem :
+
+* chelem annoncé et réalisé : prime supplémentaire de 400 points.
+* chelem non annoncé mais réalisé : prime supplémentaire de 200 points.
+* chelem annoncé mais non réalisé : 200 points sont déduits du total.
+
+En cas d'annonce du chelem, l'entame revient de droit au joueur qui l’a demandé, quel que soit le donneur.
+
+Pour réaliser un chelem, le preneur doit obligatoirement faire tous les plis.
+S’il détient le Papillon, il la jouera en dernier.
+En conséquence, le petit sera considéré au bout s'il est joué à l'avant-dernier pli.
+
+Paradoxalement, il arrive que la défense inflige un chelem au déclarant.
+Dans ce cas, chaque défenseur reçoit, en plus de la marque normale, une prime de 200 points.
+
+
+=== La poignée (10, 13 ou 15 atouts)
+
+Un joueur possédant une *poignée* peut, s'il le désire, *l'annoncer et la présenter* juste avant de jouer sa première carte.
+Les atouts doivent être classés dans l'ordre.
+*Le Papillon peut remplacer un atout manquant*, mais *la présentation du Papillon dans la poignée implique que l'annonceur n'a pas d'autre atout*.
+Le Papillon peut être à n’importe quel endroit de la poignée.
+
+La poignée doit comprendre effectivement DIX, TREIZE ou QUINZE atouts.
+Lorsqu'un joueur possède ONZE, DOUZE, QUATORZE, SEIZE atouts, il doit en cacher un ou plus de son choix.
+Lorsque le preneur possède 4 Rois et 15 atouts, l’atout (ou les atouts) écarté(s) doit être remontré avec la triple poignée qui est alors comptabilisée.
+
+* À la poignée (10 atouts) correspond une prime de 20 points.
+* À la double poignée (13 atouts) correspond une prime de 30 points.
+* À la triple poignée (15 atouts) correspond une prime de 40 points.
+
+*Ces primes gardent la même valeur quel que soit le contrat.*
+*La prime est acquise au camp vainqueur de la donne.*
+
+.Poignées
+====
+* Le camp déclarant présente une double poignée.
+S'il gagne, chaque défenseur donne, en plus de la marque normale, une prime de 30.
+S'il perd, c'est lui qui donne cette prime à chaque défenseur, en plus de la marque normale.
+* Un défenseur présente dix atouts.
+Si le camp déclarant gagne, chaque défenseur lui donne une prime de 20.
+Si le camp déclarant perd, chaque défenseur reçoit une prime de 20.
+====
+
+
+== Le jeu de la carte
+
+Le déclarant ayant terminé son écart dit *"jeu"*.
+
+*L'ENTAME* (la première carte jouée) est effectuée par le joueur placé à droite du donneur.
+Puis chaque joueur joue à son tour, en tournant dans le sens inverse à celui des aiguilles d'une montre.
+
+Le joueur ayant réalisé la première levée entame la levée suivante.
+Et ainsi de suite.
+Le jeu se déroule alors selon les règles suivantes :
+
+* *À l'atout*, on est obligé de monter sur le plus fort atout déjà en jeu, même s'il appartient à un partenaire.
+Un joueur ne possédant pas d'atout supérieur au plus élevé déjà en jeu, joue un atout de son choix, en général le plus petit. On dit qu'il "pisse".
+* *À la couleur*, on est obligé de fournir la couleur demandée, mais pas de monter.
+* On est obligé de *couper* (c'est-à-dire de jouer atout) si l'on ne possède pas de carte de la couleur demandée.
+Si le joueur précédent a coupé lui aussi, on est obligé de *surcouper* (de couper avec un atout supérieur) ou de *sous-couper* (pisser) si l'on ne peut pas surcouper.
+* On peut considérer qu’une carte est sortie du jeu quand elle n’est plus en contact avec les autres.
+* On *défausse* (on joue une carte de son choix) si l'on ne possède ni carte de la couleur demandée, ni d'atout.
+* Si la première carte d'une levée *est le Papillon*, c'est la carte suivante qui détermine la couleur jouée.
+* *Le Papillon* ne permet pas de réaliser une levée (sauf en cas de chelem), mais elle reste la propriété du camp qui la détient.
+Celui qui l'a jouée récupère le Papillon et l'incorpore dans le tas des plis qu'il a déjà fait.
+Il y prend une carte sans valeur (basse carte en couleur ou atout) qu'il donne au camp qui a remporté le pli pour remplacer le Papillon.
+Si le camp du joueur n'a pas encore remporté de pli, il met le Papillon en évidence et donnera une carte à l'autre camp dès qu'il en aura l'occasion.
+* En cas de chelem réussi par le camp preneur ne possédant pas le Papillon, cette carte jouée normalement reste la propriété de la défense et compte pour 4 points.
+* Tant qu'une levée n'a pas été ramassée, tout joueur peut consulter la levée précédente.
+* Un joueur ne doit jamais jouer avant son tour, ni même sortir une carte de son jeu avant que son tour ne soit arrivé.
+Il doit aussi jouer les cartes une par une.
+* Les levées réalisées doivent être ramassées par le camp qui remporte la levée (par le joueur situé en face du preneur pour les levées de la défense).
+
+Un joueur qui fait une *renonce* (c'est-à-dire jouer une autre carte que celle qu'il aurait dû jouer) *consommée* (c'est-à-dire recouverte par une autre carte, ou lorsque la levée est ramassée) *en défense (RC)* ne peut pas annoncer de contrat à la distribution suivante.
+Dans le cas d’une RC en défense, en cas de chute, le preneur a le choix de faire marquer ou non le score.
+
+
+=== Le petit au bout
+
+Si le petit fait partie de la dernière levée, on dit qu'il est au bout.
+Le camp qui réalise la dernière levée, à condition que cette levée comprenne le petit, bénéficie d'une prime de 10 points, multipliable selon le contrat, quel que soit le résultat de la donne.
+
+.Petit au bout
+====
+* Le preneur fait une garde sans le chien.
+Un défenseur lui prend le petit au bout.
+Le camp déclarant donne une prime de stem:[10 * 4 = 40] à chaque défenseur.
+Si malgré la perte du petit, le camp déclarant gagne son contrat, la prime est alors déduite de ses gains.
+* Le preneur fait une prise.
+Un défenseur réalise le dernier pli avec le petit.
+Le camp déclarant donne une prime de 10 à chaque défenseur.
+Si le camp déclarant gagne quand même la donne, la prime est déduite de ses gains.
+====
+
+
+== Le calcul des scores
+
+À la fin de la partie, on compte les points contenus dans les levées du preneur d'une part, et dans celles de la défense d'autre part.
+
+Pour gagner son contrat, le preneur doit réaliser un nombre de points minimum qui est fonction du nombre de bouts qu'il possède dans ses levées à la fin de la partie (en cas de garde sans le chien, un éventuel bout au chien est acquis au preneur).
+Si le nombre de points est exactement réalisé, le contrat est "juste fait" ; si le nombre de points est supérieur, les points supplémentaires sont des points de gain ; si le nombre de points est inférieur, le contrat est chuté et le nombre de points manquants correspond à des points de perte.
+
+Tout contrat valant arbitrairement 25 points, on rajoute 25 points au nombre de points de gain ou de perte.
+
+Ce nouveau total est assorti d'un coefficient selon le contrat demandé :
+
+* En cas de PRISE, ce total est inchangé,
+* En cas de GARDE, ce total est multiplié par DEUX,
+* En cas de GARDE SANS, ce total est multiplié par QUATRE,
+* En cas de GARDE CONTRE, ce total est multiplié par SIX.
+
+Enfin, les éventuelles primes de poignée, de petit au bout ou de chelem sont ajoutées.
+
+
+Chaque défenseur marque un même nombre de points : en négatif si le preneur gagne, en positif si le preneur chute.
+Le preneur marque trois fois ce total : en positif s'il a gagné, en négatif s'il a chuté.
+Le total des quatre scores (du preneur et de chacun des trois défenseurs) est donc égal à 0.
+
+.Marque
+====
+* Le preneur tente une garde, présente une poignée de 10 atouts.
+Il mène le petit au bout et réalise 49 points en détenant deux bouts.
+Il passe donc de stem:[49 - 41 = 8]
++
+--
+** stem:[25_"contrat" + 8 = 33 * 2_"garde" = 66]
+** stem:[20_"poignée"]
+** stem:[10_"petit au bout" * 2_"garde" = 20]
+--
++
+Le nombre de points est égal à stem:[66 + 20 + 20 = +106] +
+Chaque défenseur marque stem:[-106] et le preneur marque stem:[106 * 3 = +318].
+
+* Le preneur gagne une garde sans de 4 points, mais le petit est mené au bout par la défense.
++
+--
+** stem:[(25 + 4) * 4_"garde sans" = 116]
+** stem:[-40_"le petit au bout"]
+--
++
+Le nombre de points est égal à stem:[116 - 40 = +76] +
+Chaque défenseur marque stem:[-76] et le preneur stem:[76 * 3 = +228].
+
+* Le preneur chute une Prise de 7 après avoir présenté une poignée de 10 atouts, mais en menant le petit au bout. +
+stem:[25 + 7 + 20_"poignée" - 10_"petit au bout" = 42]. +
+Chaque défenseur marque stem:[+42].
+Le preneur marque stem:[-42 * 3 = -126].
+
+* Le preneur gagne une garde de 11, la défense ayant présenté une poignée. +
+stem:[(25 + 11) * 2_"garde" = 72 + 20_"poignée payée par la défense" = 92]. +
+Le nombre de points est de stem:[+92].
+Le preneur marque stem:[+276] et chaque défenseur stem:[-92].
+
+* Sur une garde, le preneur annonce et réussit le chelem, montre une poignée de 10 atouts et mène le petit au bout.
+La défense conserve le Papillon qu'elle possédait.
+Avec 2 bouts, le preneur réalise stem:[87] points.
+Il gagne de stem:[87 - 41 = 46]. +
+stem:[(46 + 25) * 2_"garde" + 20_"poignée" + 20_"petit au bout" + 400_"chelem annoncé" = 582]. +
+Chaque défenseur marque stem:[-582].
+Le preneur marque stem:[+582 * 3 = +1746].
+====
+
+
+== Le jeu à 3 joueurs
+
+La règle est quasiment la même qu’à 4 joueurs.
+Les contrats sont identiques.
+
+Par contre, les cartes sont distribuées 4 par 4, (le chien étant toujours constitué de 6 cartes).
+Chaque joueur reçoit ainsi 24 cartes.
+
+La simple poignée est composée de 13 atouts, la double poignée de 15 atouts et la triple poignée de 18 atouts.
+
+Lors du décompte, il faut compter au ½ point près.
+Si le nombre de points n’est pas entier, le ½ point va toujours au camp gagnant après que le camp possédant le Papillon a donné normalement une carte :
+
+* Si le preneur réalise 40 points ½ avec 2 bouts, le ½ point va à la défense.
+Il réalise donc 40 points et chute son contrat de UN point.
+* Si le preneur réalise 41 points ½ avec 2 bouts, le ½ point lui revient.
+Il réalise donc 42 points et passe son contrat de UN point.
+
+Pour la marque, le calcul des points alloués aux défenseurs est le même qu’à quatre joueurs.
+Par contre, les points du preneur sont multipliés par 2.
+Le total des trois scores (du preneur et de chacun des deux défenseurs) est donc égal à 0.
+
+*DANS LE JEU A 3 JOUEURS, LE PRENEUR DOIT POSSÉDER BEAUCOUP DE POINTS.*
+
+
+== Le jeu à 5 joueurs
+
+La règle est légèrement différente du jeu à 4 joueurs.
+
+Les cartes sont distribuées 3 par 3, et le chien est constitué de 3 cartes.
+Chaque joueur reçoit ainsi 15 cartes.
+
+Les contrats sont identiques.
+
+Avant de retourner le chien, le preneur appelle un Roi de son choix.
+Lorsque le preneur a 4 Rois, il peut appeler une Dame (voire même un Cavalier s'il a 4 Rois et 4 Dames ou un Valet s’il a 4 grands mariages).
+Si le preneur possède un jeu exceptionnel il peut s’appeler lui-même en appelant un Roi faisant partie de son jeu.
+
+Si la carte appelée est au chien ou si le preneur s’est appelé, alors le preneur joue seul contre les quatre autres joueurs (défenseurs).
+Sinon le détenteur de la carte appelée devient son partenaire (associé) et le jeu se joue à 2 (le preneur et l’associé) contre 3.
+
+L’entame ne peut pas être faite dans la couleur de la carte appelée par le preneur sauf si cette entame est faite de la carte appelée.
+
+Le partenaire du preneur ne doit pas faire état de son appartenance au camp attaquant jusqu'à ce qu’il joue le Roi appelé même si son comportement de jeu laisse peu d’illusions aux adversaires : il peut donner des points au preneur ou son petit.
+
+La simple poignée est composée de 8 atouts, la double poignée de 10 atouts et la triple poignée de 13 atouts.
+
+Lors du décompte, il faut compter au ½ point près.
+Si le nombre de points n’est pas entier, le ½ point va toujours au camp gagnant après que le camp possédant le Papillon a donné normalement une carte :
+
+* Si le preneur réalise 40 points ½ avec 2 bouts, le ½ point va à la défense.
+Il réalise donc 40 points et chute son contrat de UN point.
+* Si le preneur réalise 41 points ½ avec 2 bouts, le ½ point lui revient.
+Il réalise donc 42 points et passe son contrat de UN point.
+
+Pour la marque, le calcul des points alloués aux défenseurs est le même qu’à quatre joueurs.
+Les points sont attribués, en + ou en – selon la réussite ou la chute, proportionnellement entre les deux attaquants (2/3 pour le preneur, 1/3 pour le partenaire).
+Dans le cas où le preneur aurait joué à 1 contre 4, il encaisse la totalité des points en + ou en - selon sa réussite ou sa chute.
+Le total des cinq scores (du preneur, du Partenaire et de chacun des trois défenseurs) est donc égal à 0.
+
+*DANS LE JEU A 5 JOUEURS, LE PRENEUR DOIT POSSÉDER BEAUCOUP D’ATOUTS.*
+*LES RÉPARTITIONS EXCENTRÉES PROMETTENT COUPES ET SURCOUPES EN DEFENSE.*

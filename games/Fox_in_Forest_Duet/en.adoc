@@ -1,0 +1,279 @@
+= The Fox in the Forest: DUET
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Foxtrot Games.
+
+.Components
+****
+* 30 Game cards: 1-10 in ♠, ♥ & ♣
+* 11 Path ♦ cards
+* 4 Blocker ★ cards (1-4)
+* 22 Animal cards (6 Butterflies, 6 Wolves, 4 Phoenix, 4 Snakes, 2 Dragons)
+* 1 Monkey King card
+
+TIP: Instead of using the Monkey King & Paths cards, you can play using a link:Fox-in-the-Forest-Duet-Boards.pdf[board] & a pawn.
+****
+
+The Fox in the Forest: Duet is a trick-taking game for two teammates.
+Each round, you can collect Animals by moving along the forest path.
+Work together to collect all the Animal cards, without running out of time or getting lost in the forest!
+
+
+[[setup]]
+== Setup
+
+1. Use the *side ⚑* of the Path reference card and create the corresponding path between players with the 11 Path ♦ cards *face down* (their value do not matter), so that each player is facing one end of the path.
+(Side *⚑⚑ / ⚑⚑⚐* provides ways to increase the difficulty. See <<difficulty-levels>>.)
+2. Place *12 Animal cards* on the path location cards, with the number of Animal cards on each location matching the number of *●* inside the location space in the reference card (0–2).
+Set the other Animal cards aside to form a supply.
+3. Place the four *Blocker ★ cards* nearby.
+4. Place the *Monkey King* card on the starting path card (indicated on the Path reference card with a crown).
+5. Shuffle the *30 game cards*.
+6. Select one player to be the dealer for the first round.
+That player deals each player a *hand* of 11 cards.
+(Each player may look at the cards in their own hand, but must not reveal them to their teammate.)
+7. Set the remaining cards aside, face down, to form the *deck*.
+8. Reveal the top card of the deck and place it next to the board, face up.
+This card is known as the *decree card*.
+(The suit of this card will be important during play.)
+
+
+== Gameplay
+
+=== Round Overview
+
+Each *round* consists of a series of 11 turns, known as *tricks*.
+
+During each trick, one player will *lead* (i.e., play the first card of the trick), and the other player will *follow* (i.e., play the second card of the trick).
+
+Based on the *suits* and *ranks* of the two played cards, one player will win the trick.
+Then the Monkey King will move along the path toward the player who won the trick, based on the *movement values* of the two played cards.
+
+
+=== Trick Details
+
+1. *Play Cards*: Each player must play one card from their hand.
+One player leads and the other player follows.
+** *Leading*: During the first trick of each round, the player who did not deal leads.
+During each subsequent trick, the winner of the previous trick leads.
+The player who leads must play a card, but they may play any card from their hand, without restriction.
+** *Following*: After one player leads, the other player must follow by playing a card from their hand.
+The player who follows must play a card that matches the *lead suit*, if possible, but the card may be of any rank in that suit.
+If they do not have a card in the lead suit, they may play any card from their hand, without restriction.
++
+NOTE: The suit of the card played by the player who leads is known as the *Lead Suit*.
+The suit of the decree card, which is face up next to the board, is known as the *Trump Suit*.
+
+2. *Determine the Trick Winner*: After both cards have been played, determine the winner of the trick.
+To do this, you must take into account the ranks of the cards that were played, as well as the lead suit and the trump suit.
+** *Trump*: If one or both of the cards in the trick are in the trump suit, the player who played the highest-ranked card in the trump suit wins the trick.
+** *No-Trump*:  If neither card in the trick is in the trump suit, the player who played the highest-ranked card in the lead suit wins the trick.
+
+3. *Move the Monkey King*: After the winner has been determined, the Monkey King moves.
+Add together the movement values (defined in the Power & Movement reference card) of the two cards in the trick, then move the Monkey King that many spaces along the path toward the player who won the trick (unless specified otherwise).
+** *Beyond the path*: If the Monkey King would move beyond the last unblocked path location on either end of the path, reset the Monkey King to the starting path space (indicated on the Path reference card with a crown) and place a Blocker ★ card so that it covers the last uncovered path space on that end.
+This makes the path shorter for the rest of the game.
+If you do not have a Blocker ★ card to place, the game ends in a defeat.
+(See <<end-of-game>>.)
+If a Blocker ★ card ever covers a path space in a location with one or more Animal cards, move those Animal cards one location space closer to the center.
+** *Animal cards*: If the Monkey King ends up in a path space in a location space with one or more Animal cards (even if it did not move!), provided it was not just reset after moving beyond the path, the players collect one Animal card from that location space, returning it to the supply.
+If you collect the final Animal card from the board, the game ends in a victory.
+(See <<end-of-game>>.)
+
+4. *Clean Up*: After the Monkey King moves, set the cards from the trick aside, face down.
+During the round, neither player may look at the cards from previous tricks.
+
+
+=== Round End
+
+At the end of the first and second rounds, carry out the following steps.
+At the end of the third round, skip the following steps and proceed immediately to <<end-of-game>>.
+
+1. *Add Animal cards*: Add one Animal card from the supply to each location space where the Path reference card shows a plus icon (+).
+(At difficulty *!*, this means that you will add five Animal cards at the end of each round. See <<difficulty-levels>>.)
+
+2. *Place a Blocker cards*: Place one Blocker ★ cards (if available) so that it covers the last uncovered path space on one end of the path (players’ choice).
+This makes the path shorter for the rest of the game.
+(If you do not have a Blocker ★ cards to place, nothing happens.)
+The players may discuss on which end of the path they wish to place the Blocker ★ cards.
+** *Monkey King*: If the Monkey King is at one end of the path, the players must place the Monkey King so that it points towards the last uncovered path space on the other end.
+** *Animal cards*: If a Blocker ★ cards ever covers a path space that contains one or more Animal cards, move those Animal cards one location space closer to the center.
+
+3. *Deal the Next Round*: Gather all 30 game cards and
+reshuffle them. The player who did not deal the previous round
+will be the new dealer. That player deals each player a new hand
+of 11 cards for the next round. Set the remaining cards aside,
+face down, to form the new deck. Finally, reveal the top card
+of the deck and place it next to the board, face up, as the new
+decree card.
+
+NOTE: There is no limit to the number of Animal cards that may be in a single location space.
+
+NOTE: The Monkey King cards begins each new round in the same path space where it ended the previous round.
+
+
+[[end-of-game]]
+== End of the Game
+
+The game will end in one of three different ways.
+As soon as one of these end-game conditions occurs, the game ends immediately.
+
+1. *Victory*: If you collect all the Animal cards from the path, the game ends in a victory.
+You can use the chart below to calculate a score for the game.
++
+We encourage you to record your scores from game to game to track your progress!
++
+** Score a number of points based on the difficulty level: 10 for Level 1, 20 for Level 2, 30 for Level 3.
+(See <<difficulty-levels>>.)
+** Add 1 point for each card left in either player’s hand.
+** Add 10 points if you won in the second round (instead of the third round).
+** Add 3 points for each Blocker ★ cards you have remaining.
+
+2. *Lost in the forest*: If the Monkey King would move beyond the last uncovered path space on either end of the path, and you do not have a Blocker ★ cards to place, the game ends in a defeat.
+
+3. *Out of time*: If any Animal card remain on the path at the end of the third round, the game ends in a defeat.
+
+NOTE: If at any point it becomes impossible to collect all of the remaining Animal card, you may choose to resign.
+
+
+== Communication Rules
+
+You may talk freely before dealing cards in the first round and between rounds.
+But, during a round, communication is limited:
+
+1. *Don’t talk about your cards.*
+You may not reveal your hand to your teammate or otherwise discuss the suits, ranks, movement values, or special abilities of the cards in your hand.
+The same applies to discussing your teammate’s cards.
+
+2. *Don’t ask revealing questions.*
+If you need help remembering the special ability or movement value of a specific card, don’t ask your teammate.
+Check the reference card instead, to prevent giving accidental clues.
+
+3. *Don’t discuss strategy.*
+You may not communicate how you plan to play or how you want your teammate to play: whether you want them to win the trick, pass you a certain card, play a card with a certain movement value, etc.
+
+
+== Game cards
+
+=== Special Abilities
+
+All the cards of odd rank (1, 3, 5, 7, 9) have special abilities which activate when the card is played.
+
+
+==== 1: Musician
+
+[quote]
+The winner of this trick may choose to move the Monkey King in the opposite direction.
+
+The player who won the trick chooses whether to move the Monkey King in the normal direction (toward themselves) or in the opposite direction (toward their teammate) along the path.
+
+
+==== 3: Foxes
+
+[quote]
+When you play this card, choose a player.
+That player may exchange the decree card with a card from their hand.
+
+When you play this card, you may choose yourself or your teammate.
+The chosen player is not required to exchange the decree card; it may stay the same.
+However, if they do choose to exchange, the exchange occurs immediately.
+If the trump suit changes as a result of the exchange, that might affect who wins the trick!
+
+
+==== 5: Gazelle
+
+[quote]
+The winner of this trick may choose to ignore the movement value of one of the cards in the trick.
+
+The player who won the trick may ignore the movement value of one or none of the cards in the trick (their choice).
+For example, if the cards played in the trick have movement values of one and three, the Monkey King could move one, three, or four spaces toward the player who won the trick.
+If there are two Gazelles played in the same trick, the winner may choose to ignore the movement value of one, none, or both cards in the trick;
+each Gazelle allows the winner to choose up to one card to ignore.
+
+
+==== 7: Gift
+
+[quote]
+When you play this card, both players select a card from their hand and then exchange those cards with each other.
+
+When this card is played, the exchange occurs immediately.
+The exchange is mandatory, provided both players have at least one card left in their hands.
+Each player must choose which card to give to their teammate without knowing which card they will receive in return;
+the players should pass the chosen cards to each other at the same time.
+
+
+==== 9: Royal Heir
+
+[quote]
+When you lead this card, your teammate may play any card.
+(They don't have to follow suit.)
+
+When this is the first card played in the trick, the other player is not required to follow suit; however, they may still choose to follow suit.
+When this is the second card played in the trick, it has no effect.
+
+
+=== Movement values
+
+[%autowidth,cols=">,^,^,^,^,^,^,^,^,^,^"]
+|===
+| Rank | 1 | 2     | 3   | 4 | 5 | 6   | 7 | 8   | 9 | 10
+
+h| Movement
+
+|
+| ☞ +
+☞ +
+☞
+| ☞ +
+☞
+| ☞
+| ☞
+| ☞ +
+☞
+|
+| ☞ +
+☞
+|
+| ☞ +
+☞ +
+☞
+|===
+
+
+[[difficulty-levels]]
+== Difficulty Levels
+
+You can increase the difficulty of the game by making a few changes during setup.
+Are you ready to take on a bigger challenge?
+
+The steps described in <<setup>> above represent Level 1 (⚑) difficulty.
+Use the chart below to adjust for Level 2 (⚑⚑) or Level 3 (⚑⚑⚐) difficulty, giving yourselves more Animal cards to collect in a smaller path.
+
+[%autowidth]
+|===
+| Difficulty | Game setup differences
+
+h| Level 1 +
+*⚑*
+a|
+* *Step 1*: Use Side *⚑* of the Path reference card.
+* *Step 2*: Place 12 Animal cards, matching the number of *●* inside the location space in the reference card (0–2).
+* *Step 3*: Use 4 Blocker ★ cards.
+
+h| Level 2 +
+*⚑⚑*
+a|
+* *Step 1*: Use Side *⚑⚑ / ⚑⚑⚐* of the Path reference card.
+* *Step 2*: Place 13 Animal cards, matching the number of *●* inside the location space in the reference card (0–2). +
+(Ignore the ○).
+* *Step 3*: Use 3 Blocker ★ cards.
+
+h| Level 3 +
+*⚑⚑⚐*
+a|
+* *Step 1*: Use Side *⚑⚑ / ⚑⚑⚐* of the Path reference card.
+* *Step 2*: Place 16 Animal cards, matching the number of *● & ○* inside the location space in the reference card (0–3).
+* *Step 3*: Use 3 Blocker ★ cards.
+|===

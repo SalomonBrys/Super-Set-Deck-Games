@@ -1,0 +1,164 @@
+= Druids
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Günter Burkhardt and Wolfgang Lehmann.
+
+.Components
+****
+* 65 druid cards:
+** 60 numbered cards: 1-12 in ♠, ♥, ♣, ♦ & ★.
+** 1 Mother Earth "Gaia" card: ✿0.
+** 2 Wolves.
+** 2 Butterflies.
+****
+
+
+Once upon a time, a long, long time ago.
+Mother Earth Gaia sent five druids from Atlantis to the land of the Celts.
+"Druida" which translates into our language as strong knowledge.
+
+The druids were to pass on knowledge to the Celts and so founded the famous Stonehenge Academy of Magic for this purpose.
+There they taught the Domains of medicine, divination, shape-shifting, astronomy and the fine arts.
+So that the novices in each Domain could reach the "level of wisdom", the druids invented a game.
+In it, the novices practiced controlling their magical powers and learned to use them wisely.
+In addition, the novices learned to resist the temptation to dominate all five Domains at once.
+Because there could always be a Domain - and rarely the same in a game - that could turn against the novice.
+
+
+== The Task
+
+Use this game to immerse yourself in the magical world of the first druids and, as a novice in the Stonehenge Academy, try to collect cards from the different Domains.
+
+Make a stack for each Domain.
+You receive experience points from the top card of each stack.
+But be careful to stack no more than four Domains.
+As soon as you receive cards in the fifth Domain, you lose the current game round.
+
+If you have the most experience points after several rounds of play, you win - and you get the title "An dòigh", the Sage.
+
+
+== Preparation
+
+One of you is appointed the confidant.
+If you have that honour, take a score-sheet, enter all your names and conscientiously write down, after each round, each player’s gained experience points.
+
+Take all the cards, find the “Gaia” ✿0 card and place it in front of you.
+
+Shuffle the cards and make two equal stacks.
+Insert the Gaia card into one of the stacks and place this stack on top of the other.
+Then, deal each novice an equal number of cards, depending on the number of novices:
+
+* 3 Novices: 15 Cards each
+* 4 Novices: 14 Cards each
+* 5 Novices: 13 Cards each
+
+The remaining cards are set aside.
+They are not needed for this round.
+There are no cards left in a game of five novices.
+
+Once all novices have cards in their hand, the round begins.
+
+
+== A Game Round begins…
+
+Whoever has the Gaia card in their hand, begins the game round.
+If you have the Gaia card, play it as the first card of the first trick and say what colour the card should take.
+The other novices must then follow accordingly.
+
+
+=== What is a trick?
+
+Each novice in turn plays exactly one card from their hand on the table.
+These cards form the "Trick".
+The novice who starts a trick can play any card from his hand, which must be followed by subsequent novices.
+
+*Exception*: If you start a trick with a Wolf or a Butterfly, then the subsequent novice to play decides on the first Domain (colour) card that must be followed.
+
+
+=== What is "To Follow"?
+
+Each of the subsequent novices must play a card of the same colour as the first played card of the trick.
+If the novices cannot "follow", they are allowed to play any card.
+
+*Exception*: The cards Wolf and Butterfly bypass the service obligation.
+That is, you can also play them even if you have cards in your hand of the initially played colour.
+
+
+=== Who wins the trick?
+
+The highest card in the first played Domain (colour) wins the trick.
+Cards in other colours cannot win a trick, even if their value is higher.
+The winner of a trick then plays the first card of the next trick.
+
+CAUTION: You cannot win a trick with a Wolf or a Butterfly.
+However, if only these cards are played in a trick, the novice who started the round takes the trick.
+
+
+=== Sort cards by Domain
+
+If you win a trick, you place the cards stacked according to Domains (colours) in front of you.
+If the trick contains multiple cards from the same Domain, you must place the card with the lowest value on top.
+
+NOTE: The "Gaia" ✿0 card is set aside with any cards not dealt in this round.
+
+New cards from another trick are also sorted according to Domains, which may result in being placed on existing stacks.
+This will change the top of an existing stack to a higher or a lower value.
+
+
+=== The Wolf in a trick
+
+With the Wolf, a player can avoid winning a trick by not "following".
+If you win a trick with a Wolf, you must first place all the Domain cards before you as described above.
+Then place the Wolf on one of the stacks with the highest value.
+This stack is now set aside with the cards not dealt in this round.
+
+If you also have the second Wolf in the trick, you have to lay it on one of the remaining stacks with the highest value and set that stack aside.
+If you do not have a stack, put the Wolf aside without any effect.
+
+
+=== The Butterfly in a Trick
+
+With the Butterfly, a player can avoid winning a trick by not "following".
+If you win a trick with one or both Butterfly cards in your trick, you must first place all Domain cards as described above.
+Then you place the Butterfly - and the second, if you have both - under any stack.
+
+CAUTION: No novice is allowed to look at the cards in a stack during a game round.
+
+
+== The end of a Game Round
+
+A game round lasts until everyone has no cards left in their hand.
+However, a game round also ends immediately when a novice, after winning a trick, has a fifth Domain stack.
+He is the loser of the round and receives -3 experience points.
+
+CAUTION: The game round still ends if you have a fifth Domain stack in front of you after a trick, even if you have a Butterfly in that trick.
+
+The other novices calculate their experience points by adding up the values of the top cards of their stacks.
+
+The confidant notes down the experience points for each novice.
+
+
+== A new Game Round
+
+The novice with the fewest experience points of the game round takes all the cards - even those which were previously set aside.
+He shuffles them and deals them as described above for the next round.
+
+
+== Game End
+
+You play five rounds.
+After that the game is finished.
+
+The novice with the most experience gained can call himself "An dòigh", the Sage.
+In a tie, there are several wise winners.
+
+
+== Variants
+
+When the Stonehenge Academy was founded, the Druids who followed the Moon cult determined that if there were several cards of the same Domain, the lowest card would be placed on top of the Domain stack.
+Over the centuries, however, the druids who followed the Sun cult prevailed and determined that the highest card would be placed on top of multiple cards of the same Domain.
+
+When playing this variant, the starting player decides by playing the Gaia card in a particular way.
+He either lays the Gaia card in front of him horizontally if the lowest card value goes on top of the stack, or lays it vertically if the highest card value goes on top.

@@ -1,0 +1,17 @@
+type:
+  - Hand Management
+  - Deduction
+  - Bluffing
+players: 2, 3, 4
+cards:
+  Base:
+    all-players:
+      spades: 0-5
+      hearts: 0-3
+      clubs: 0-1
+      diamonds: 0
+  Advanced:
+    all-players:
+      hearts: 4
+      clubs: 2-3
+      diamonds: 1

@@ -1,0 +1,161 @@
+= Nessos
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Takaaki Sayama & Toshiki Arao.
+
+.Matériel
+****
+* 55 cartes de jeu :
+** 40 cartes numérotées : 1-10 à ♠, ♥, ♣, ♦
+** 15 cartes Animal : 6 Loups, 4 Serpents, 4 Phénix, 1 Dragon
+** 1 carte Premier Joueur : Roi Singe
+****
+
+
+Tout au long de la partie, les joueurs doivent bluffer pour obtenir les cartes Numérotées.
+À votre tour, offrez une carte numérotée à un autre joueur.
+Celui-ci peut soit l’accepter, soit la refuser en la proposant à un autre joueur.
+Récoltez ainsi les cartes numérotées afin d’être le premier à atteindre le nombre de points nécessaire.
+Mais attention, si vous obtenez trois cartes Animal, vous perdez la partie.
+
+Le titre du jeu, Nessos, vient d’une amphore représentant un combat entre Héraclès et le centaure Nessos.
+Cette amphore datant de la fin du VIIe siècle avant J.-C. est si célèbre que l’artiste qui en est à l’origine, dont l’identité reste encore inconnue à ce jour, est appelé le Peintre de Nessos.
+
+
+== Mise en place
+
+1. En fonction du nombre de joueurs, retirez les cartes suivantes du paquet de cartes numérotées :
+** Dans une partie à 3 joueurs, laissez dans la boîte les cartes numérotées 4, 6 et 8, ainsi que les 4 cartes Phénix.
+** Dans une partie à 4 joueurs, laissez dans la boîte les cartes numérotées 6, ainsi que la carte Dragon.
+** Dans une partie à 5 ou 6 joueurs, jouez avec les 55 cartes.
+
+2. Mélangez toutes les cartes numérotées, et distribuez 5 cartes à chaque joueur.
+
+3. Placez le reste des cartes numérotées en un tas, face cachée, au centre de la table pour constituer la pioche.
+
+4. Tirez au sort le premier joueur, qui place la carte Roi Singe devant lui.
+
+
+== Déroulement de la partie
+
+La partie se déroule en un nombre indéterminé de manches, jusqu’à ce qu’une des trois conditions de Fin de la partie soit rencontrée (voir <<fin-partie>>).
+
+
+=== Déroulement d'une manche
+
+Le joueur qui possède la carte Roi singe choisit une carte de sa main, et la propose au joueur de son choix en la posant face cachée devant lui.
+
+*Il existe alors plusieurs possibilités :*
+
+* Si la carte proposée est une carte numérotée, vous devez annoncer à voix haute la valeur inscrite sur la carte, sans mentir.
++
+.Carte numérotée
+====
+Vous proposez un 3♣ à un autre joueur.
+Vous annoncez donc un « 3 » à voix haute.
+====
+
+* Si la carte proposée est une carte Animal, vous pouvez (et devriez) mentir en annonçant la valeur que vous souhaitez.
++
+.Carte Animal
+====
+Vous proposez un Serpent à un autre joueur.
+Vous annoncez donc qu’il s’agit d’un « 7 » à voix haute.
+====
+
+*Le joueur qui reçoit la carte a le choix entre trois possibilités :*
+
+* Il annonce qu’il accepte la carte avant même de la regarder, puis la place face visible devant lui.
+* Il annonce qu’il refuse la carte avant même de la regarder.
+Elle revient alors à l’expéditeur, qui la retourne et la place face visible devant lui.
+* Il ajoute une carte de sa main face cachée, et propose les deux cartes à un autre joueur.
+Il n’a toujours le droit de mentir qu’à propos des cartes Animal en annonçant la valeur de son choix.
++
+*Dans ce troisième cas, le joueur qui reçoit les deux cartes a le même choix :*
+
+** Il annonce qu’il accepte les cartes avant même de les regarder, puis les place face visible devant lui.
+** Il annonce qu’il refuse les cartes avant même de les regarder.
+Elles reviennent alors à l’expéditeur (celui qui a proposé les deux cartes), qui les retourne et les place face visible devant lui.
+** Il ajoute une carte de sa main face cachée, et propose les trois cartes à un autre joueur.
+Il n’a toujours le droit de mentir qu’à propos des cartes Animal en annonçant la valeur de son choix.
++
+Il est interdit de proposer les cartes à un joueur qui a déjà reçu une proposition durant cette manche ou au joueur avec la carte Roi Singe.
++
+*Dans le troisième cas, le joueur qui reçoit les trois cartes n’a plus le choix qu’entre deux possibilités :*
+
+*** Il annonce qu’il accepte les cartes avant même de les regarder, puis les place face visible devant lui.
+*** Il annonce qu’il refuse les cartes avant même de les regarder.
+Elles reviennent alors à l’expéditeur (celui qui a proposé les trois cartes), qui les retourne et les place face visible devant lui.
+
+
+[[fin-manche]]
+=== Fin de la manche
+
+Dès qu’un joueur retourne des cartes devant lui, cela met fin à la manche.
+
+*Il est possible de retourner 1, 2 ou 3 cartes en même temps, selon les cas de figure.*
+
+* Les cartes numérotées placées devant vous face visible vous rapprochent de la victoire.
++
+Additionnez leur valeur à celle des cartes précédemment gagnées.
+Si vous obtenez au moins le nombre de points requis en fonction du nombre de joueurs, passez immédiatement à <<fin-partie>>.
++
+[%autowidth]
+|===
+| Nombre de joueurs | Nombre minimum de points requis
+
+| 3 | 40
+| 4 | 40
+| 5 | 35
+| 6 | 30
+|===
+
+* Les cartes Animal placées devant vous face visible vous rapprochent de la défaite.
+Si vous avez devant vous trois cartes Animal, vous êtes envoyé en Enfer.
+Vous perdez immédiatement la partie et êtes éliminé.
+Vous perdez quel que soit le score que vous avez, en d’autres termes si vous mourrez en atteignant le nombre de points requis, c’est dommage pour vous.
+Gardez devant vous les cartes que vous aviez gagnées jusque-là.
+Les cartes de votre main restent cachées.
+
+S’il ne reste plus qu’un seul joueur en jeu ou bien qu’un total de 9 cartes Animal est retourné face visible devant tous les joueurs, passez immédiatement à <<fin-partie>>.
+
+.Bonus des cartes 1, 2 et 3
+****
+Les cartes 1, 2 et 3 peuvent vous paraître insignifiantes, car leur valeur semble bien faible.
+Cependant, avoir une carte 1, une carte 2 ainsi qu’une carte 3 devant vous vous octroie 10 points Bonus.
+Il est possible de bénéficier plusieurs fois de ce bonus si vous avez plusieurs fois chacune de ces cartes.
+
+.Points
+====
+Vous avez devant vous les cartes suivantes : 1♦, 2♣, 3♦, 3♥, 5♥, 5♠. +
+Vous avez donc un total de 29 points (19 points pour la somme de la valeur des cartes ainsi que 10 points bonus pour les cartes 1, 2 et 3).
+====
+****
+
+*Si aucune condition de Fin de la partie ne s’est produite, effectuez les étapes suivantes :*
+
+* Tous les joueurs ayant moins de 5 cartes en main piochent autant de cartes qu’il le faut pour revenir à 5 cartes.
+
+* Passez la carte Roi singe au joueur à gauche du premier joueur actuel.
+Ce nouveau premier joueur démarre une nouvelle manche.
+
+
+[[fin-partie]]
+== Fin de la partie
+
+*La partie peut prendre fin de trois façons différentes :*
+
+* *La somme des cartes d’un joueur atteint ou dépasse le nombre minimum de points requis* (voir <<fin-manche>>).
+Il est l’Élu des dieux, et restera à jamais le plus célèbre de tous les hommes.
+Ce joueur gagne immédiatement la partie.
+
+* Suite à l’élimination d’un joueur, *il ne reste plus qu’un seul joueur en jeu*.
+Ce joueur gagne immédiatement la partie.
+
+* Quand un total de *9 cartes Animal* est retourné sur la table, la partie prend fin.
+Le joueur avec le plus de points gagne la partie.
+S’il y a égalité parmi les joueurs en tête, le gagnant est celui qui a le plus de cartes devant lui.
+Si l’égalité persiste, ils se partagent la victoire.

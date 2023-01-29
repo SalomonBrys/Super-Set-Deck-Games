@@ -1,0 +1,95 @@
+= Wizard
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Ken Fisher.
+
+.Components
+****
+* 1-13 in ♠, ♥, ♣ & ♦.
+* 4 Butterflies.
+* 4 Wolves.
+****
+
+The object is to correctly predict the number of tricks you will take in each round.
+You receive points for being correct, and the person with the most points wins the game.
+
+
+== The Deal
+
+To determine a dealer, each player is dealt one card.
+High card deals.
+
+On the first deal each player receives one card.
+Two cards are dealt on the second deal, three on the third and so on.
+The deal passes to the left after each round and the new dealer shuffles all 60 cards.
+
+After the deal, the next card is turned up to determine the trump suit.
+If the card turned up is a Butterfly, it is turned down and there is no trump for that round.
+If the card turned up is a Wolf, the dealer chooses one of the four suits as the trump suit.
+On the last round of each game all cards are dealt out so there is no trump.
+
+
+== Bidding
+
+Each player in turn beginning to the left of the dealer states the number of tricks he/she will take (zero
+or one on the first round) and the scorer records it on the score-pad. The total number of tricks bid may
+or may not equal the total number of tricks available.
+
+
+== The Play
+
+The play begins to the left of the dealer.
+Any card may be led.
+Players continue to play in clockwise order and must follow suit if possible.
+If a player cannot follow the suit led, the player may play any other suit, including the trump suit.
+A Wolf or a Butterfly may be played at any time, even if the player is holding a card of the suit led.
+
+*A trick is won:*
+
+a. by the first Wolf played.
+b. if no Wizard is played, by the highest trump played.
+c. if no trump is played, by the highest card of the suit led.
+
+The winner of the trick leads next.
+
+
+=== Leading Wolf or Butterfly
+
+If the lead card is a Wolf, it wins the trick and players may play any card they wish, including another Wolf.
+If the lead card is a Butterfly, it is a null card and the suit for this round is determined by the next card played.
+Butterflies always lose.
+The one exception to this is if only Butterflies are played, the first Butterfly played wins the trick.
+
+
+== Scoring
+
+For correctly predicting the number of tricks taken, a player scores 2 points and receives 1 additional point for each trick taken.
+A player whose prediction is incorrect loses 1 points for each over or under trick.
+
+
+== Length of Game
+
+There are 60 cards in the deck.
+Play continues until the round in which all the cards are dealt out.
+Consequently, three players play 20 rounds, four players play 15 rounds, five players 12 rounds, and six players 10 rounds.
+
+
+== Keeping Track of Tricks
+
+Before play begins, the scorer should announce how many tricks have been called for by each player.
+Each player should also keep tricks won in plain view for others to see.
+Some players find it helpful to use coins or poker chips to indicate the number of tricks called for.
+This enables all players to readily see how many tricks each player needs.
+
+
+== Bidding variations
+
+1. *Hidden Bid*: All players simultaneously reveal their bid.
+2. *Delayed Reveal Bid*: All players record their bid.
+After the hand has been played the bids are revealed.
+3. *Optional Rule*: If the last player to bid has the highest score recorded on the score-pad, he/she cannot bid to make the bids "even".
+An "even" bid is when the total tricks bid equals the total tricks available.
+This means that someone must lose points after the play of a hand because more or fewer tricks have been bid than are available.
+This rule does not apply if there is a tie for the lead.

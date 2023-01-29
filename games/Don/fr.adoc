@@ -1,0 +1,128 @@
+= Don!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Michael Schacht.
+
+.Matériel
+****
+* 30 cartes numérotées : 0-9 à ♠, ♥ & ♣.
+* N'importe quelle 72 cartes Monnaie (par exemple example : les cartes ♦, ★ & ✿).
+****
+
+Les cartes numérotées vont être vendues aux enchères entre les joueurs, par lots de 1, 2 ou 3 cartes.
+À la fin de la partie, les joueurs marquent des points en fonction des cartes qu'ils sont parvenus à acheter.
+
+WARNING: Dans ces règles, une "*Carte*" se réfère à une carte numérotée face visible, tandis qu'une "*Monnaie*" se réfère à une carte monnaie.
+         Les cartes Monnaie sont toujours utilisées face cachée et représente chacune une monnaie.
+
+
+== Mise en place
+* Les cartes sont mélangées et placées en pile, faces cachées, au centre de la table, pour constituer la pioche.
+* Chaque joueur reçoit douze monnaies.
+  Durant la partie, la richesse de chacun en monnaie peut rester secrète.
+* Le premier joueur est tiré au sort.
+
+
+== Déroulement du jeu
+
+Le jeu se joue en 15 tours.
+Chaque tour se déroule en deux phases successives.
+Les cartes destinées à être vendues sont tout d'abord révélées, et elles sont ensuite mises aux enchères.
+
+
+=== Révélation des cartes
+
+Au premier tour, on retourne la première carte de la pioche.
+Au second tour, les deux premières.
+Au troisième tour, les trois premières.
+Au quatrième tour, on ne retourne de nouveau qu'une carte, et ainsi de suite : 1, puis 2, puis 3, puis 1, puis 2, puis 3, etc.
+Toutes les cartes révélées sont vendues ensemble, en un lot indivisible.
+
+
+=== Enchères
+
+Le premier joueur entame les enchères, qui se déroulent ensuite en sens horaire.
+À son tour, un joueur doit soit surenchérir, soit se retirer de l'enchère en cours.
+Un joueur qui s'est retiré d'une enchère ne peut plus y prendre part.
+L'enchère se poursuit ainsi, jusqu'à ce qu'il ne reste qu'un seul participant.
+Le meilleur enchérisseur place les cartes achetées devant lui, faces visibles et place le prix payé au pot, au centre de la table.
+
+Si personne n'enchérit, le premier joueur reçoit les cartes gratuitement.
+
+
+==== Règles d'enchères
+
+* Un joueur ne peut pas enchérir d'une somme supérieure à sa fortune.
+La pénalité en cas d'erreur constatée est la perte d'une carte, au choix du joueur.
+Le joueur ne peut en outre plus participer à l'enchère en cours.
+Les cartes ainsi perdues sont retirées du jeu.
+* Un joueur ne peut pas enchérir d'une somme dont l'unité correspond à l'une des cartes déjà en sa possession.
+Ainsi, un joueur ayant des cartes 3, 4 et 6 ne peut pas proposer 3, 4, 6, 13, 14 et 16.
+En cas d'erreur, le joueur doit payer une monnaie au pot et soit se retirer de l'enchère, soit modifier son offre.
+* Ce sont les seules restrictions.
+Il n'y a aucune restriction quant à la hauteur de l'ouverture ou à celle des relances.
+
+
+==== Partage du pot
+
+Lorsque l'enchère est terminée, et que l'acheteur a payé son prix au pot, le pot est partagé entre les AUTRES joueurs en fonction de l'unité de l'offre qui a finalement emporté l'enchère.
+Ainsi, par exemple, si l'acheteur a payé 15, le chiffre pris en compte sera 5.
+
+* Si un joueur a plus de cartes de cette valeur que chacun des autres joueurs, il reçoit la totalité du pot.
+* Si deux joueurs ont plus sont à égalité, le pot est divisé en parts égales entre eux.
+S'il y a un reste, il reste au pot et sera ajoutée au partage du tour suivant.
+* Si aucun joueur n'a de carte de cette valeur, le pot est partagé en parts égales entre tous les joueurs, à l'exception de l'acheteur.
+Comme dans le cas précédent, le résidu reste éventuellement dans le pot pour le tour suivant.
+
+En aucun cas l'acheteur ne peut recevoir d'argent du pot.
+
+
+== Nouveau premier joueur
+
+L'acheteur du tour précédent devient premier joueur.
+
+
+== Manque d'argent ?
+
+Au début d'un tour, avant que les cartes ne soient retournées, un joueur peut décider de mettre aux enchères une, et une seule, de ses cartes afin de se procurer de l'argent.
+Dans ce cas, bien entendu, c'est lui qui reçoit la totalité du prix.
+
+
+== Fin du jeu
+
+Chaque joueur marque des points en fonction du nombre de cartes de chaque couleur en sa possession.
+
+* Une carte unique vaut 1 point.
+* Deux cartes de même couleur valent 3 points.
+* 3 cartes de même couleur valent 6 points.
+* 4 cartes de même couleur valent 10 points.
+* 5 cartes de même couleur valent 15 points.
+* Le joueur ayant le plus de monnaie en sa possession marque en outre 2 points (en cas d'égalité, les ex-æquo marquent tous les deux les 2 points).
+
+Le joueur ayant le score total le plus élevé est vainqueur.
+
+
+== Variantes
+
+=== Invasions
+
+Cette variante ajoute une phase supplémentaire, au début de chaque tour.
+
+Avant que les cartes mises en vente ne soient révélées, chaque joueur, en commençant par le premier joueur et en tournant en sens horaire, a la possibilité d'échanger l'une de ses cartes avec l'une des cartes d'un autre joueur, qui ne peut pas refuser.
+En contrepartie, tous les joueurs qui ont décidé de procéder à de tels échanges - mais pas ceux qui les ont subis - ne peuvent pas participer aux enchères pour ce tour.
+
+Si tous les joueurs ont procédé à de tels échanges, cela signifie qu'aucun d'eux ne peut participer à l'enchère.
+Les cartes mises en vente sont néanmoins révélées et, puisque personne ne peut proposer de prix, le premier joueur les reçoit gratuitement.
+
+
+=== Serengeti
+
+* Les joueurs commencent avec 10 monnaies (au lieu de 12), et 3 monnaies par joueur dans la banque.
+* Lorsqu'un joueur passe sans avoir précédemment enchéri, il prend 2 monnaies de la banque (limitée par le contenu de la banque).
+* Les revenus sont distribués proportionnellement : On divise l'enchère par la quantité de cartes au numéro de l'enchère, chaque joueur propriétaire remporte cette somme par carte détenue.
+  Le reste est placé dans le pot.
+* Le joueur ayant le plus de monnaie en sa possession à la fin de la partie marque 3 points.
+* En cas d'égalité aux points, c'est le joueur à égalité ayant le plus de cartes qui remporte la partie.

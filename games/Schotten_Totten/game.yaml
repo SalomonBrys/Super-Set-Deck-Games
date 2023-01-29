@@ -1,0 +1,17 @@
+type:
+  - Hand Management
+  - Set Collection
+players: 2
+cards:
+  Base:
+    all-players:
+      spades: 1-9
+      hearts: 1-9
+      clubs: 1-9
+      diamonds: 1-9
+      florettes: 1-9
+      stars: 1-9
+  Tactic:
+    all-players:
+      wheels: 7, J, K*2
+      specials: Wolf, Phoenix, Monkey, Butterfly, Snake, Dragon

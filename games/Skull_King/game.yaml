@@ -1,0 +1,13 @@
+type:
+  - Trick Taking
+  - Predictive Bid
+  - Score and Reset
+players: 2, 3, 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      spades: 1-13
+      hearts: 1-13
+      clubs: 1-13
+      diamonds: 1-13
+      specials: Butterfly*5, Wolf*5, Snake*2, Phoenix, Monkey

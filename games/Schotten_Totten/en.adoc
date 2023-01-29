@@ -1,0 +1,219 @@
+= Schotten Totten
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Reiner Knizia.
+
+.Components
+****
+* 54 numbered Clan cards: 1-9 in ♠, ♥, ♣, ♦, ✿, ★.
+* 10 Tactic cards:
+** 4 Elite Troops: 7, J & 2 Ks in ⎈.
+** 2 Combat Modes: 1 Wolf & 1 Dragon.
+** 3 Ruses: 1 Monkey, 1 Butterfly, 1 Snake & 1 Phoenix.
+* 9 Stone cards: 3 Ks in ♠, ♥, ♣.
+****
+
+A warm spring breeze flows through the Scottish valley as the birds begin to sing and the snow slowly melts away.
+Your precious village is slowly uncovered and the stones that define your territory begin poking through.
+The earth is soft and the stones could easily roll just a bit into your neighbor’s village, granting you the extra space your clan needs.
+After all, no one will notice, right?
+
+Suddenly, an arrow whizzes past your ear!
+It seems that your neighbor had the same idea and is now pushing stones to enlarge his territory.
+Use your cards to create the best battle formations and defend your village.
+Claim enough stones to win the game!
+
+
+== Overview and Goal of the Game
+
+Throw yourself into a struggle where anything goes and take back control of the border that separates you from your opponent.
+Send members of your clan to defend a Stone and exert your strength by playing the best combination of cards.
+To win, be the first to control five Stones scattered along the border or three adjacent Stones.
+
+
+== Set Up
+
+1. Place the 9 Stone cards, face down, in a line between you and your opponent.
+This line of cards makes the border that you want to claim.
+2. Shuffle all the Clan cards and put them in a pile face-down to make the deck.
+3. Each player draws 6 Clan cards.
+4. The player who has most recently traveled near Scotland is First Player.
+
+
+== Game Play
+
+Beginning with the First Player and taking turns, choose a card from your hand and place it face-up next to a Stone, on your side of the border.
+Once you have placed a card next to a Stone, it cannot be moved.
+Then draw a card and play moves to your opponent.
+If the deck is empty, you continue playing without drawing cards.
+
+*A Stone cannot have more than three cards on each side of the border.*
+
+NOTE: When you play a Clan card next to a Stone which already has a card, carefully shift the new card so that you can still see the composition of the formation that is defending the Stone.
+
+
+=== Conditions for claiming a Stone
+
+After playing a card on a Stone and before drawing, you can claim one or several Stones.
+*You can only claim a Stone after each player has played three cards on their side of the border.*
+
+*Exception:* It’s possible to claim a Stone next to which your opponent hasn't yet played three cards, providing that you can prove that he cannot beat your combination of cards, no matter which card he plays next.
+To do this, you can only rely on cards that have already been played (cards you have in hand don’t count).
+
+
+=== Claiming a Stone
+
+To claim a Stone, you must have a *stronger combination of cards than those played by your opponent*.
+These combinations, from the strongest to the weakest, are described as follows.
+
+* *Color-Run:* Three cards of the same color and of three successive strengths (ex: ♠3 ♠4 ♠5).
+* *Three of a kind:* Three cards of the same strength (ex: ♣6 ♠6 ♥6).
+* *Color:* Three cards of the same color (ex: ✿1 ✿3 ✿6).
+* *Run:* Three cards of successive strength and of any color (ex: ♦2 ♠3 ✿4).
+* *Sum:* Any three cards (ex: ♦3 ♠7 ✿9).
+
+*The order in which you play cards doesn't matter for runs of successive strengths.*
+If the combinations are tied, the one with the highest total strength wins.
+If there is still a tie, the player who played his third card on the Stone first claims it.
+
+*When you take control of a Stone, place it below your combination of cards.*
+From now on, you can no longer play any Clan cards on this Stone, even if your combination is incomplete when you claim it.
+
+.Claim
+====
+On a Stone, your opponent has already played three cards (♣7, ✿4, and ♠3) and you’ve played two (♣5 and ♥5).
+On your turn, you play a ♠5 on this Stone.
+Before drawing, you claim this Stone and win it because of the sum of your combination’s strength.
+You take the Stone and place it on your side of the border, below your winning combination.
+====
+
+
+== End of the Game
+
+*The game ends immediately if one of the following two things happen:*
+
+1. A player controls *three adjacent Stones*.
+2. A player controls *five Stones scattered along the Border*.
+
+*The player who controls these Stones is declared the winner.*
+
+If you want to play over several rounds, the winner gains 5 victory points and his opponent gains as many victory points as Stones he controls.
+The player with the most victory points at the end of the game wins.
+
+NOTE: Before beginning the game, agree on how many rounds you will play.
+
+
+== Tactic variant
+
+For this variant, you play with the same base rules but with the changes described below.
+
+
+=== Set Up
+
+*Shuffle all the Tactic cards* and make a deck which you place next to the main deck.
+Each player draws *seven Clan cards*, that is, one more card than the base rules describe.
+
+
+=== Gameplay
+
+On your turn, you can *play a Clan card or a Tactic card*.
+When drawing to refill your hand to seven cards, choose to draw either a Clan card or a Tactic card.
+When one of these decks is empty, you can no longer draw that type of card and the game continues normally.
+
+It’s possible that you may find yourself with only Tactic cards in hand or that you have already completed all the Stones available on your side of the border.
+In this case, you cannot play Clan cards.
+From then on, you can choose to pass and play no card or to play a Tactic card.
+
+
+=== Tactic cards
+
+You can have as many Tactic cards as you want in your hand, as long as you respect the maximum hand size of seven cards.
+You cannot play more than one card more than your opponent has played.
+
+.Playing a Tactic card
+====
+Your opponent has already played one Tactic card while you have already played two.
+You have therefore played one Tactic card more than your opponent.
+As a result, on your turn, you cannot play a Tactic card until your opponent plays his second.
+====
+
+Each Tactic card has a special ability that falls into one of these *three categories*:
+
+
+==== Elite Troops (⎈ cards)
+
+(played like a Clan card)
+
+
+===== ⎈K (x2)
+
+Clan card of which you choose the color and strength when claiming the Stone you play it on.
+*Each player can only have one K⎈ on his side of the border.*
+If you have already played a K⎈ and you draw the second one, you must keep it in your hand until the end of the game.
+
+
+===== ⎈7
+
+Clan card of strength 7 of which you choose the color when claiming the Stone you play it on.
+
+
+===== ⎈J
+
+Clan card of strength 1, 2, or 3 of which you choose the color when claiming the Stone you play it on.
+
+
+==== Combat Modes
+
+(played on a Stone tile)
+
+
+===== Wolf
+
+To claim the Stone that has the Wolf on it, add only the strength of the cards played on it, without taking into account any possible combinations.
+
+
+===== Dragon
+
+To claim the Stone that has the Dragon on it, you must make combinations with four cards on either side of the Stone.
+
+
+==== Ruses
+
+(played face-up next to the deck)
+
+To play a Ruse Tactic card, active the text then place it face-up next to the deck.
+This new pile of cards makes up the discard.
+You can look at the contents of the discard at any time.
+
+
+===== Monkey
+
+Draw three cards from one or both of the decks.
+Choose two cards from your entire hand and place them at the bottom of the corresponding deck.
+
+
+===== Butterfly
+
+Choose a Clan or Tactic card on your side of the border on an unclaimed Stone.
+Place it face-up on a different unclaimed Stone or discard it face-up next to the deck.
+
+
+===== Snake
+
+Choose a Clan or Tactic card on your opponent’s side of the border on an unclaimed Stone and discard it face-up next to the deck.
+
+
+===== Phoenix
+
+Choose a Clan card on your opponent’s side of the border on an unclaimed Stone and place it on an unclaimed Stone on your side.
+
+
+== Expert variant
+
+If you’re familiar with the rules described above, you might want to spice up the game a little bit.
+This variant plays according to the base rules but with this change: *you can only claim a Stone at the beginning of your turn, before playing a card*.
+
+This slows down the process of claiming a Stone and gives your opponent the possibility of turning the battle in his favor by playing a Tactic card.
+

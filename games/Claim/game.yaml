@@ -1,0 +1,13 @@
+type:
+  - Auction
+  - Set Collection
+  - Trick Taking
+players: 2
+cards:
+  Base:
+    all-players:
+      spades: 1-14
+      hearts: 1-8
+      clubs: 1-10
+      diamonds: 1-10
+      stars: 1-10

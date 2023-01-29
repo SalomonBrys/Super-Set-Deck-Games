@@ -1,0 +1,145 @@
+= High Society
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Reiner Knizia.
+
+.Matériel
+****
+* 5 ensembles de 11 cartes Monnaie : 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K à ♠, ♥, ♣, ♦, ✿
+* 16 cartes Statut :
+** 10 cartes Luxe : 1-10 à ★
+** 3 cartes Prestige Papillon
+** 3 cartes Disgrâce : 0★, -‽★, Serpent
+****
+
+
+Vous êtes l'élite culturelle, le sommet de l'élégance et du savoir-vivre.
+La compétition sera rude au milieu des bien-nés et des nouveaux riches pour asseoir votre statut et gagner l'admiration de vos pairs.
+Parez-vous des plus beaux bijoux et habillez-vous à la dernière mode, goûtez aux mets les plus raffinés et faites sabler le champagne pour montrer combien votre palais est raffiné et votre bon goût, exemplaire.
+Dilapidez votre argent dans les casinos et les courses hippiques, mais faites attention à ne pas vous retrouver sans le sou, ou vous serez renié par toute la bonne société.
+La mode est capricieuse, mais les bonnes manières sont éternelles.
+Montrez à tous qui vous êtes, et pour cela, soyez prêt à sortir Le Grand Jeu !
+
+
+== Installation
+
+Donnez un jeu de 11 cartes Monnaie d'une même couleur à chaque joueur.
+Mélangez les cartes Statut et placez-les face cachée au centre de la table pour former une pioche.
+Le joueur qui mélange les cartes commence la partie.
+
+
+== Comment jouer
+
+Les joueurs font partie de l'élite sociale et tente de vivre aussi somptueusement et frivolement que possible, surenchérissant les uns contre les autres pour prouver qu'ils vivent la grande vie.
+À la fin de la partie, le ou les joueurs les plus pauvres seront éliminés du groupe.
+Le joueur qui aura su rester le plus prestigieux en accumulant la plus haute valeur de cartes Statut, suscite l'admiration de tous et gagne la partie.
+
+Cartes statut :
+
+* Les cartes Luxe sont numérotées de 1 à 10, et augmentent votre statut.
+* Les cartes Prestige (Papillon) multiplient votre statut.
+Elles déclenchent la fin de la partie.
+* Les cartes disgrâce (0★, `-‽`★, et Serpent) diminuent votre statut de différences manières.
+
+
+== Tours d'Enchère
+
+Au début de chaque manche, retournez la première carte de la pioche face visible.
+Cette carte sera attribuée au joueur qui aura fait l'enchère la plus haute.
+Le premier joueur doit maintenant enchérir ou passer.
+
+
+=== Enchérir
+
+Pour enchérir, vous devez jouer une ou plusieurs cartes Monnaie devant vous face visible et annoncer la valeur totale de ces cartes Monnaie devant vous.
+*Si vous avez déjà enchéri pendant ce tour, vous devez augmenter votre enchère en ajoutant de nouvelles cartes Monnaie sur la table*, vous ne pouvez pas reprendre des cartes déjà jouées.
+Vous ne pouvez enchérir que si votre valeur totale dépasse la dernière enchère faite à ce tour.
+
+NOTE: Les cartes Monnaie Q et K valent respectivement 20 et 25.
+
+
+=== Passer
+
+Si vous ne souhaitez pas enchérir, vous pouvez passer.
+Si vous avez déjà enchéri à ce tour, reprenez vos cartes Monnaie, engagées lors de ce tour, en main.
+Vous ne pourrez plus enchérir lors de ce tour.
+
+Lorsqu'un joueur a, soit enchéri, soit passé, le tour continue avec le joueur à sa gauche.
+Le dernier joueur encore en jeu, alors que tous les autres ont passé, remporte l'enchère.
+Il est possible, bien que très rare, que tout le monde passe sans faire d'enchère, dans ce cas le dernier joueur dans l'ordre du tour remporte la carte gratuitement.
+Placez la carte Statut face visible devant le gagnant de l'enchère.
+Défaussez toutes ses cartes Monnaie de la table.
+*Le gagnant de l'enchère devient le premier joueur de la prochaine manche* et révèle la prochaine carte Statut de la pioche.
+
+
+== Disgrâce !
+
+Si la carte Statut est une carte Disgrâce, les enchères se déroulent différemment.
+Cette fois, vous allez enchérir pour éviter de prendre la carte et la manche s'arrête dès qu'un joueur a passé.
+Ce joueur récupère ses cartes Monnaie normalement, mais il doit également prendre la carte Disgrâce devant lui.
+*Tous les autres joueurs doivent défausser leurs cartes Monnaie devant eux*.
+Le joueur qui a passé devient le premier joueur de la prochaine manche.
+
+
+=== Faux Pas (0★)
+
+Si un joueur prend la carte 0★ il doit immédiatement défausser une de ses cartes Luxe (de son choix) devant lui.
+S'il n'a pas encore de carte Luxe devant lui, il doit défausser la prochaine qu'il recevra.
+Lorsque la carte Luxe a été défaussée, la carte 0★ est également défaussée.
+
+CAUTION: Seules les cartes Statut d'une valeur comprise entre 1 et 10 sont des cartes Luxe.
+
+Les cartes Statut défaussées sont remises dans la boite.
+
+=== Passé (-‽★)
+
+La carte -‽★ réduit de 5 le Statut du joueur.
+
+
+=== Scandale (Serpent)
+
+La carte Serpent réduit de moitié le total du statut d'un joueur à la fin de la partie.
+
+
+== Fin de la Partie
+
+Quatre cartes dans la pioche des cartes Statut sont des animaux : les 3 cartes Papillon et la carte Serpent.
+Dès que la quatrième carte est révélée, la partie s'arrête immédiatement.
+Il n'y a pas d'enchère pour la carte révélée.
+
+
+=== Renié !
+
+Tous les joueurs révèlent leur main et annoncent la valeur totale de leur carte Monnaie.
+Le (ou les joueurs en cas d'égalité) avec le plus faible total d'argent sont reniés et ne peuvent plus gagner !
+
+
+=== Décompte
+
+Chaque carte Luxe est égale à sa valeur.
+Chaque carte Papillon double la valeur du statut de son propriétaire, tandis que les cartes Disgrâce réduisent son statut.
+Le joueur avec le Statut le plus élevé, et qui n'a pas été renié, gagne la partie.
+
+En cas d'égalité, le joueur avec la plus haute valeur de Monnaie gagne.
+Si l'égalité persiste le joueur avec la carte Luxe de valeur la plus élevée gagne.
+
+
+== Précisions
+
+* Les cartes Statut qu'un joueur a remporté sont toujours face visible devant lui.
+Les cartes Monnaie défaussées sont remises dans la boîte face cachée.
+* Si vous avez 2 cartes Prestige, multipliez votre statut par 4.
+Si vous avez les 3, multipliez votre statut par 8.
+
+.Décompte
+====
+Edmond a les cartes Statut suivantes devant lui : 3★, 9★, -‽★, 2 Papillons, Serpent.
+
+Premièrement, il additionne les cartes Luxe pour un total de 12.
+Ensuite, il perd 5 points à cause de la carte -‽★ pour un total de 7.
+Puis, il double deux fois son total grâce aux cartes Papillons pour un total de 28 !
+Enfin, la carte Serpent divise son statut de moitié ce qui lui donne un total de 14.
+====

@@ -1,0 +1,165 @@
+= Claim!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Scott Almes.
+
+.Components
+****
+* 52 cartes de 5 Factions :
+** 14 Gobelins ♠ numérotés 1-14
+** 8 Chevaliers ♥ numérotés 1-8
+** 10 Morts-vivants ♣ numérotés 1-10
+** 10 Nains ♦ numérotés 1-10
+** 10 Doppelgängers ★ numérotés 1-10
+****
+
+
+Le Roi est mort !
+Qu’a-t-il bien pu se passer ?
+Personne n’a rien vu : on l’a retrouvé la tête plongée dans un tonneau de vin au petit matin.
+Il pourrait aussi bien avoir été victime d’un assassinat que de son penchant pour la boisson.
+Quoi qu’il en soit, le Roi nous quitte en ne laissant aucun héritier derrière lui, il incombe donc aux cinq factions du Royaume de choisir qui portera à présent la couronne : vous ou votre adversaire ?
+Saurez-vous les convaincre de vous sacrer Roi ?
+
+
+== Mise en place
+
+Mélangez l’ensemble des cartes puis faites-en une pioche que vous placez au centre de la table.
+Distribuez 13 cartes à chaque joueur.
+Chaque joueur prend ses cartes en main en prenant soin de ne pas les montrer à son adversaire.
+
+
+== Principe du jeu
+
+Le jeu se déroule en deux phases distinctes.
+Lors de la première phase, chaque joueur reçoit une main de cartes dont il se servira pour recruter des partisans.
+Lors de la seconde phase, chaque joueur devra utiliser ses partisans afin de rallier les cinq factions du Royaume à sa cause.
+Au terme de la partie, un joueur ayant une majorité de partisans au sein d’une faction remporte le vote de celle-ci.
+Celui qui parvient à réunir les votes d’au moins trois factions remporte la partie !
+
+
+== Première phase : recruter des partisans
+
+Cette phase est constituée de treize plis, un pour chaque carte dans la main des joueurs.
+Le Leader d’un pli est le joueur ayant remporté le pli précédent (ou, dans le cas du premier pli, le plus jeune des deux joueurs).
+
+Chaque pli se joue de la manière suivante :
+
+
+=== Révéler une carte
+
+Placez la première carte de la pioche face visible au milieu de la table, entre les deux joueurs.
+C’est la carte pour laquelle les joueurs vont s’affronter
+
+
+=== Jouer des cartes
+
+1. Le Leader joue à présent une carte de sa main.
++
+NOTE: Il est possible de jouer une carte appartenant à n’importe quelle faction, pas nécessairement à la même faction que la carte au centre de la table.
+
+2. Puis l’autre joueur joue une carte de sa main.
++
+IMPORTANT: Le second joueur doit toujours suivre, si possible.
+Cela signifie que s’il a en main une carte de la même faction que celle jouée par le Leader, il doit alors la jouer (exception : les Doppelgängers (★)).
+En d’autres termes, un joueur ne peut jouer une carte d’une faction différente que s’il ne possède aucune carte de la même faction que celle jouée par le Leader.
+
+
+=== Ramasser les cartes
+
+1. Le joueur ayant joué la carte de plus haute valeur de la faction jouée par le Leader remporte la carte centrale.
++
+NOTE: Si le second joueur a joué une carte d’une autre faction que celle du Leader, ce dernier remporte alors automatiquement le pli, à moins qu’un pouvoir de faction (Doppelgängers (★) ou Chevaliers (♥)) ne s’applique.
+
+2. Le gagnant place la carte remportée face cachée devant lui, formant ainsi sa pile de Partisans.
+Le perdant prend la carte du dessus de la pioche centrale et constitue à son tour sa pile de Partisans.
+Ce dernier peut regarder la carte piochée, mais ne peut en aucun cas la montrer à son adversaire.
+Les cartes jouées par les 2 joueurs sont alors défaussées.
++
+NOTE: Les cartes de votre pile de Partisans constitueront votre main lors de la seconde phase de la partie.
+
+3. Toute carte Mort-Vivant (♣) jouée, est placée directement face visible dans la pile de Score du joueur qui remporte le pli.
++
+IMPORTANT: Une carte Mort-vivant (♣) provenant du centre de la table est tout de même placée dans la pile de Partisans.
+
+4. Défaussez toutes les autres cartes jouées.
++
+IMPORTANT: Assurez-vous que votre pile de Score soit face visible et votre pile de Partisans face cachée, afin de ne pas les confondre l’une avec l’autre.
+
+Continuez ainsi jusqu’à ce que la pile centrale soit épuisée et que les joueurs n’aient plus de carte en main. +
+Passez ensuite à la seconde phase.
+
+
+== Seconde phase : rassembler ses soutiens
+
+Chaque joueur prend en main les 13 cartes de sa pile de Partisans gagnées lors de la première phase.
+Les joueurs vont à présent s’affronter lors de 13 nouveaux plis.
+Cependant, ils se battront cette fois-ci, non pas pour des cartes du centre de la table, mais pour les deux cartes jouées lors de chaque pli.
+
+Chaque pli est joué de la manière suivante :
+
+
+=== Jouer des cartes
+
+1. Le Leader joue une carte de sa main.
+
+2. Puis l’autre joueur en joue une à son tour.
++
+IMPORTANT: Les pouvoirs des différentes factions s’appliquent encore !
+
+
+=== Ramasser les cartes
+
+1. Déterminez qui remporte le pli comme lors de la première phase.
+
+2. Le gagnant place les deux cartes jouées face visible dans sa pile de Score, à moins qu’un pouvoir de faction (Nains (♦)) ne s’applique.
+
+Une fois que les treize plis ont été joués et que les joueurs n’ont plus de carte en main, passez au décompte des factions.
+
+
+== Fin de la partie
+
+Les joueurs comptent séparément le nombre de cartes de chaque faction dans leur pile de Score.
+Le joueur ayant le plus de cartes dans une faction gagne le vote de cette dernière.
+En cas d’égalité, le vote va à celui possédant la plus forte carte de la faction.
+Le joueur ayant gagné le vote d’au moins trois factions remporte la partie !
+
+
+== Pouvoirs des factions
+
+Certaines factions possèdent un pouvoir modifiant les règles du jeu :
+
+[%autowidth]
+|===
+| Faction | Symbole | Pouvoir
+
+| Gobelins | ♠
+| Aucun pouvoir.
+
+| Chevaliers | ♥
+a| Lorsqu’un Chevalier (♥) est joué après un Gobelin (♠), il remporte automatiquement le pli, peu importe la valeur respective des deux cartes.
+
+IMPORTANT: Le joueur ne doit malgré tout pas oublier de jouer la faction demandée, s’il le peut.
+
+| Morts-vivants | ♣
+| Les cartes Morts-vivants (♣) jouées ne sont pas défaussées lors de la première phase, contrairement aux autres cartes.
+Elles sont placées dans la pile de Score du joueur ayant remporté le pli.
+
+| Nains | ♦
+| Lors de la seconde phase, le joueur ayant perdu le pli en cours ramasse toutes les cartes Nains (♦) jouées lors de celui-ci et les place dans sa pile de Score.
+Le gagnant remporte tout de même la carte d’une autre faction, s’il y en a une.
+
+| Doppelgängers | ★
+a| Cette faction est considérée comme un joker.
+Il est possible de jouer une carte Doppelgänger (★) à la place de la faction demandée, *même si vous pouvez suivre*.
+Dans ce cas-là, la carte Doppelgänger (★) est considérée comme étant de la même faction que la première.
+
+NOTE: Si le Leader joue une carte Doppelgänger (★), l’autre joueur doit jouer un Doppelgänger (★), s’il le peut.
+
+IMPORTANT: Une carte Doppelgänger (★) ne bénéficie pas du pouvoir de la faction qu’il copie.
+Par exemple, si elle est jouée lors de la première phase après une carte Mort-Vivant (♣), elle n’est pas prise par le gagnant, pas plus qu’elle ne serait prise par le perdant si elle était jouée lors de la seconde phase après une carte Nain (♦).
+
+|===

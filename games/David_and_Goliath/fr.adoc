@@ -1,0 +1,114 @@
+= David & Goliath
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Reinhard Staupe.
+
+.Matériel
+****
+* 90 cartes de jeu : 1-18 à ♠, ♥, ♣, ♦ & ★.
+****
+
+
+== Fonctionnement général du jeu
+
+La carte de valeur la plus haute est la plus forte, mais un peu maladroitement. +
+La carte de valeur la plus basse est la plus faible, mais peu être jouée intelligemment.
+
+Chaque joueur·euse joue une carte à son tour. +
+Le·la joueur·euse avec la carte la plus faible reçoit la carte la plus haute en profit. +
+Le·la joueur·euse avec la carte la plus forte reçoit toutes les autres cartes en profit.
+
+À la fin de la manche, les joueur·euse·s reçoivent des points pour chaque couleur. +
+Si vous n'avez, dans une même couleur, qu'une ou deux cartes, vous recevez autant de points que la valeur de ces cartes – ce qui peut s'avérer très lucratif. +
+Si vous avez plus de deux cartes dans une même couleur, chaque carte ne vous rapporte qu'1 point.
+
+
+== Préparation du jeu
+
+En fonction du nombre de joueur·euse·s, certaines cartes doivent être retirées.
+
+* À 3 joueur·euse·s, seules les cartes de valeur 1-9 sont requises (= 45 cards).
+* À 4 joueur·euse·s, seules les cartes de valeur 1-12 sont requises (= 60 cards).
+* À 5 joueur·euse·s, seules les cartes de valeur 1-15 sont requises (= 75 cards).
+* À 6 joueur·euse·s, toutes les cartes sont requises.
+
+Les cartes qui ne sont pas requises sont mises de côté.
+Les cards sont mélangées et distribuées équitablement.
+Chaque joueur·euse reçoit 15 cards, qu'il·elle prend en main.
+
+
+== Déroulement d'une manche
+
+Le·la joueur·euse à gauche de celui·celle qui a distribué commence.
+
+Il·elle choisit n'importe quelle de ses cartes et la joue : il·elle la pose face visible devant lui·elle sur la table.
+Tous les autres joueur·euse·s doivent maintenant, en sen horaire, jouer une carte et la placer face visible devant eux·elles.
+Attention : la première couleur doit être suivie !
+Si un·e joueur·euse ne peut pas suivre la couleur, il·elle peut joueur d'une autre couleur.
+
+Une fois que tout le monde a joué une carte sur la table, la carte la plus forte est déterminée, puis la carte la plus faible est ensuite déterminée.
+
+* La carte la plus forte est toujours la carte de valeur la plus élevée – peu importe la couleur !
+Si plusieurs joueur·euse·s ont joué une carte de valeur la plus élevée, la carte jouée en dernier est la plus forte.
+* La carte la plus faible est toujours la carte de valeur la plus basse – peu importe la couleur !
+Si plusieurs joueur·euse·s ont joué une carte de valeur la plus basse, la carte jouée en dernier est la plus faible.
+* Le·la joueur·euse avec la carte la plus faible reçoit la carte la plus forte en profit.
+Il·elle la place face visible devant lui·elle.
+* Le·la joueur·euse avec la carte la plus forte reçoit toutes les autres cartes en profit.
+Il·elle les place face visible devant lui·elle, séparées par couleurs.
+
+Le·la joueur·euse avec la carte la plus forte démarre maintenant le prochain pli comme décrit.
+La manche se poursuit ainsi jusqu'à ce que 15 plis aient été joués et que tous aient joué les 15 cartes de sa main.
+
+NOTE: Dans ce jeu, chacun·e reçoit de plus en plus de cartes en profit.
+Chaque joueur·euse place les carte qu'il·elle a reçu, après les avoir séparées par couleur, clairement prêt d'eux·elles sur la table – chaque carte doit être visible.
+
+.Pli
+====
+* Franck joue le 4 ♣ (♣ doit maintenant être suivi)
+* Sabine joue le 9 ♣
+* Pierre joue le 2 ♥ (il n'a pas de ♣)
+* Andréa joue le 7 ♣
+
+La carte de Sabine est la plus forte (le 9 ♣). +
+La carte de Pierre est la plus faible (le 2 ♥).
+
+Pierre reçoit la carte la plus forte en profit (le 9 ♣ de Sabine) et la place face visible prêt de lui.
+
+Sabine reçoit toutes les autres cartes en profit.
+Elle les place toutes face visible prêt d'elle, séparées par couleur.
+
+Sabine démarre maintenant le pli suivant et joue la carte de son choix.
+====
+
+
+== Score final
+
+Chaque joueur·euse reçoit des points pour chacune des cartes qu'il·elle a remportées lors de cette manche.
+Chaque couleur est comptée séparément.
+
+* Si un·e joueur·euse n'a qu'une ou deux cartes dans une même couleur, il·elle reçoit autant de points que la valeur de ces cartes.
+* Si un·e joueur·euse a plus de deux cartes dans une même couleur, il·elle ne reçoit qu'1 point par carte.
+
+Finalement, chaque joueur·euse additionne les points qu'il·elle a reçu pour chacune des 5 couleurs.
+Cette somme est son score total.
+
+.Points
+====
+Franck a remporté les cartes suivantes à la fin de la manche :
+
+* À ♠: 4, 10, 11 = 3 points
+* À ♥: 8 = 8 points
+* À ♣: 5, 9 = 14 points
+* À ♦: 2, 3, 6, 10, 12 = 5 points
+* À ★: 10, 12 = 22 points
+
+Le score total de Franck est de 52 points !
+====
+
+Après la manche, les résultats de chaque joueur·euse·s sont notés.
+Il doit y avoir autant de manches que de joueur participant au jeu.
+Celui·celle qui a le plus de point à la fin de la partie est déclaré·e vainqueur·euse !

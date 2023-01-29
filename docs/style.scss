@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Picon", sans-serif;
+}
+
+:root {
+  --mdc-theme-primary: #ffa726;
+  --mdc-theme-secondary: #00acc1;
+  --mdc-typography-font-family: "Picon", sans-serif;
+}
+
+.mdc-evolution-chip-set__chips {
+  justify-content: center;
+}

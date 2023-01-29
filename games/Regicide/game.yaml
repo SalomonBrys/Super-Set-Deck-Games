@@ -1,0 +1,15 @@
+type:
+  - Cooperative
+  - Hand Management
+players: 1, 2, 3, 4
+cards:
+  Base:
+    all-players:
+      spades: A, 2-10, J, Q, K
+      hearts: A, 2-10, J, Q, K
+      clubs: A, 2-10, J, Q, K
+      diamonds: A, 2-10, J, Q, K
+    3-players:
+      specials: Butterfly
+    1,4-players:
+      specials: Butterfly*2

@@ -1,0 +1,104 @@
+= Dead Drop
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Jason Kotarski.
+
+.Matériel
+****
+* 13 cartes information:
+** 0 à ♠, ♥, ♣, ♦.
+** 1 à ♠, ♥, ♣.
+** 2 à ♠, ♥.
+** 3 à ♠, ♥.
+** 4 à ♠.
+** 5 à ♠.
+* Cartes informations supplémentaires pour le jeu avancé :
+** 1 à ♦.
+** 2 à ♣.
+** 3 à ♣.
+** 4 à ♥.
+****
+
+En tant qu'agents secrets opérants pour différentes organisations, les joueurs parcourent le globe à la recherche d'information leur permettant de localiser un explosif surpuissant et secret.
+Les agents doivent échanger leurs informations et vendre leurs secrets s'ils veulent trouver la localisation de cet explosif avant qu'il ne tombe dans les mains d'une autre agence !
+
+Dead Drop est un jeu nécessitant mémoire, déduction, et ingéniosité.
+
+
+== La mise en place
+
+Mélangez le paquet et placez 1 carte face cachée au centre de la table.
+C'est *Le Paquet* - la carte représente l'information qui doit être obtenue pour localiser l'explosif secret.
+
+Placez autant de cartes que de joueur, face visible en ligne sur le côté de la table pour former *La Planque*.
+
+Distribuez le reste des cartes aux joueurs :
+
+* 4 joueurs : 2 cartes par joueur
+* 3 joueurs : 3 cartes par joueur
+* 2 joueurs : 5 cartes par joueur
+
+
+== L'Action
+
+À son tour, un joueur doit choisir de réaliser l'une de ces actions :
+
+* *Partager une Info :* +
+Échangez *1* carte de votre main contre *1* carte d'un autre joueur.
+Le joueur cible *doit* échanger et *ne peut pas* regarder la carte donnée avant de vous donner une de ses cartes.
+
+* *Échanger avec la Planque :* +
+Échangez une carte de votre main avec une carte de la Planque.
+La carte de votre main doit être placée face visible dans la Planque.
+
+* *Vendre des Secrets :* +
+Révélez 2 cartes de votre main à un autre joueur.
+Il doit répondre par *"oui"* ou *"non"*, dévoilant ainsi s'il possède une carte correspondante à la somme de ces 2 cartes.
+Si *"oui"*, il doit vous donner une carte de cette valeur, et vous devez choisir *1* carte parmi celles que vous lui avez révélées à lui donner en retour.
+
+
+== Fin d'un tour
+
+Après avoir joué son action, un joueur peut choisir de réaliser l'action suivante à la fin de son tour :
+
+* *S'emparer du Paquet :* +
+Placez *2* cartes de votre main face visible sur la table, puis vérifiez secrètement le Paquet.
+Si le Paquet est égal à la somme des deux cartes que vous avez placées, vous remportez cette manche !
+
+IMPORTANT: Lorsqu'un joueur tente de “S'emparer du Paquet” la carte “5” peut être utilisée comme un “0”.
+
+Sinon, vous êtes éliminés de la manche.
+
+IMPORTANT: Dans une partie à 3 ou 4 joueurs, si un joueur est éliminé, ses cartes sont placées face visible dans la planque.
+Dans une partie à deux joueurs, l’autre joueur est automatiquement déclaré vainqueur de la manche.
+
+
+== Le score
+
+Le premier joueur à s'être emparé de *3* Paquets remporte la partie !
+
+
+== Jeu avancé
+
+Pour un challenge supplémentaire, ajoutez les cartes du jeu avancé.
+
+Chaque joueur reçoit alors une carte supplémentaire :
+
+* 4 joueurs : 3 cartes par joueur
+* 3 joueurs : 4 cartes par joueur
+* 2 joueurs : 6 cartes par joueur
+
+De plus, la Planque est constituée de *4 cartes* (peu importe le nombre de joueurs).
+
+
+== Variante 2 joueurs
+
+À deux joueurs, il est possible que le premier joueur puisse déduire le Paquet à la fin de son premier tour.
+Pour éviter cela, vous pouvez appliquer la variante suivante qui ralentit un peu le jeu à deux :
+
+* Chacun des deux joueurs reçoit une carte de moins
+* 2 cartes sont placées face cachées à côté de la Planque, c'est *L'Intermédiaire*.
+* Les joueurs peuvent *Partager une Info* avec l'Intermédiaire en échangeant *1* carte face cachée de leur main avec l'une de ces deux cartes.

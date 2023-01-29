@@ -1,0 +1,6 @@
+rootProject.name = 'Super-Set-Deck'
+
+include(
+    ":App",
+    ":ServiceWorker"
+)

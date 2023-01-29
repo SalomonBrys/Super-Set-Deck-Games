@@ -1,0 +1,111 @@
+= Fiasco
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by David Pubrat.
+
+.Components
+****
+* 48 numbered cards: 1-4 & 6-8 à ♠, ♥, ♣, ♦, ✿ & ★.
+* 6 Wolves
+* 6 Butterflies
+* 6 suit cards: A in ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+The object of Fiasco is to collect all the cards of one suit to score the most points through winning tricks, while preventing your opponents from doing the same.
+
+
+== Setup
+
+Each player is dealt a suit card and place that card face up in front of them.
+This card represents the suit each player is collecting.
+
+
+== Playing a round
+
+Each player is initially dealt six cards face down.
+The remaining cards in the deck are kept face down beside the dealer.
+All players look at the cards in their hand.
+
+Then, starting with the player on the dealer's left (clockwise), each player places one card from their hand into the middle of the table
+The player who placed the highest numbered card in the middle, wins the trick and every card in the middle (the "pot").
+If the pot contains a suit that the player is collecting, then that card is placed face up in the player's collection pile.
+The collection pile is located on the table just in front of the player and will be used to score points later in the game.
+All other cards from the pot are swept into a waste pile.
+
+The player who won the last trick must lead the next trick, and play continues.
+Play continues with the highest card winning the trick, with the winner always leading.
+
+NOTE: Suit cards cannot go directly from a player's hand into his or her collection pile.
+All suit cards must first be won from the pot.
+
+Play any card you want.
+There is no trump, and all suits are of equal rank.
+You do not have to follow suit.
+If you want to win the trick, play a high numbered card.
+Play a low card to avoid it.
+
+
+=== Wolves
+
+The Wolf is the highest card in the deck and is also a means of collecting points, regardless of what suit a player is collecting.
+If a player wins a pot containing a Wolf, then the Wolf is placed into the player's collection pile and is used to score points.
+
+
+=== Butterflies (Fiasco cards)
+
+The Butterfly (Fiasco) cards are considered of rank 5, so half the deck is higher, and half the deck is of lower rank.
+If a player wins a trick containing a Butterfly card, then that player loses one card from his or her own collection pile for each Butterfly card in the pot.
+If the player is to lose more cards than are in his or her collection pile, then the player loses only what is available.
+Losses are not carried over to the next trick.
+
+Attempt to get rid of your Butterfly cards by inflicting them upon your opponents.
+Hence, committing a Fiasco!
+
+
+=== Ties
+
+If the winner of a trick cannot be determined because there is a tie for the highest cards played, then there is a 'tie-for-high', and more cards must be played.
+The cards in the middle stay in the pot, and now have no bearing on the winner of the new trick.
+
+Each player places another card in the middle to determine the winner of the new trick.
+The winner of this trick wins all the cards in the pot.
+If there is second tie-for-high, play continues until there is a winner.
+
+If a tie occurs with the last cards in the player's hands, more cards are dealt until a winner can be determined.
+The only exception to this rule is, if during the Counting Round a tie-for-high occurs, the cards are ignored and are swept into the waste pile before counting points.
+
+
+=== Re-deal
+
+After the initial six cards have been played, the dealer gives out another six cards from the deck to each player and play continues.
+If there are insufficient cards in the deck, then each player is given an equal number of cards and these are played out.
+Any remaining cards are discarded into the waste pile.
+
+When all the cards in the deck have been played, the waste pile is reshuffled and re-dealt.
+The person dealing changes with each new deck, rotating clockwise.
+
+The deck is exhausted three times before players count their points.
+
+
+=== Points
+
+After the deck has been exhausted three times, play stops and players count the cards in their collection piles.
+This is called the Counting Round.
+
+* 2 points for each suit card they have collected.
+* 1 point for each Wolf in their collection pile.
+* 4 bonus points for having all six Wolves
+* 6 bonus points for having all seven of their suit cards
+
+After counting points, all the cards are collected and re-shuffled.
+Players collect the same suit as before.
+Points from each Counting Round are added together to determine the player's overall score.
+
+
+== Winning the game
+
+*Quick Game*: The player with the highest score after the first Counting Round wins.
+
+*Extended Game*: The first player to score 42 points or higher wins the game.

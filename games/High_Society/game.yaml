@@ -1,0 +1,14 @@
+type:
+  - Auction
+  - Hand Management
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      stars: 0-10,-‽
+      spades: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K
+      hearts: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K
+      clubs: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K
+      diamonds: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K
+      florettes: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K
+      specials: Butterfly*3, Snake

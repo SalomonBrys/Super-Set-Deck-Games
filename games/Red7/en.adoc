@@ -1,0 +1,116 @@
+= Red7
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Carl Chudyk & Chris Cieslik.
+
+.Components
+****
+* 49 game cards: 1-7 in ★, ♠, ♥, ♣, ♦, ✿, ⎈.
+* 1 first canvas card (the ★A).
+* For 5 or 6 players : 7 0s in ♠, ♥, ♣, ♦, ✿, ⎈.
+****
+
+The rules of ★ are simple: Have the best card!
+But will you still be playing the same game when your turn ends?
+If you’re not winning the current game at the end of your turn, you’re out, and the last person standing wins the round.
+
+The deck consists of 49 cards, numbered 1-7, in each of seven rainbow colors.
+A 7 is always higher than a 6, but when comparing two 6s, a 6★ is higher than a 6♠, and so on down the color order (★, ♠, ♥, ♣, ♦, ✿).
+When comparing two cards, compare value first, then color.
+
+.Card order
+====
+★5 > ⎈5 > ★4 > ♦2
+====
+
+
+== First turn setup
+
+To begin a game of Red7, deal out a seven-card hand to each player, and then deal one more card face-up in front of each player to start their Palette.
+
+Start the Canvas (discard pile) with the ★A card.
+The top card of the Canvas pile determines what the rules are.
+The player with the highest card on their Palette is currently the best at ★, so the player to that player’s left goes first.
+
+
+== Your turn
+
+On your turn, you must take one of the following actions:
+
+1. Play a card face-up from your hand to your Palette.
+2. Discard a card from your hand to the Canvas to change the
+game to the rule of the discarded card’s color.
+You must be winning the new game after you do this.
+3. Play a card from your hand to your Palette AND THEN discard a card to the Canvas.
+You must be winning the game after you do this.
+4. Do nothing, and lose.
+You might want to do this intentionally when playing Advanced Red7 to limit the number of points an opponent will score.
+If your hand is empty, you must do this.
+
+If you are not winning the game at the end of your turn, you lose and are out of the round.
+Place your hand cards and Palette cards face-down.
+If you start your turn and you’re the only player left, you win the round!
+
+You are currently winning a game if your Palette contains more cards that meet the current game’s rule than any other player.
+To break a tie, look at each tied player’s highest card that follows the rule, checking its value, then its color if necessary.
+If you have no cards (for ♣ or ⎈) that follow the rule, you are not winning.
+Examples are to the right for each rule.
+If you have no cards in your hand at the start of your turn, you lose since you are unable to do anything to win by the end of your turn.
+
+[%autowidth]
+|===
+| Jeu | Règle de la toile | Exemple
+
+| ★ | Highest card | [5♣, 1✿, #6♦#, 4♦] > [3♦, #6★#, 1⎈, 1♥]
+| ♠ | Cards of one number | [#2★#, #2⎈#, #2♣#, 1♠] > [#7♠#, #7★#, 1⎈, 2✿]
+| ♥ | Cards of one color | [#2♣#, #6♣#, 1✿, 5♦] > [6♥, #4♦#, #1♦#, 4♣]
+| ♣ | Even cards | [#4♣#, #2★#, #6♣#, 3♦] > [3⎈, 1⎈, #6✿#, 1♠]
+| ♦ | Cards of all different colors | [6♥, #7♥#, #5♣#, #4✿#] > [#5♦#, #6✿#, #4⎈#, 1♦]
+| ✿ | Cards that form a run (I.E. 4 5 6) | [#4♥#, #5♣#, #7♠#, #6♦#] > [#2✿#, #3★#, #4⎈#, #5★#]
+| ⎈ | Cards below 4 | [#1♦#, #2♣#, 4⎈, #3♠#] > [5♣, #1♣#, #1⎈#, 7★]
+|===
+
+
+== Advanced Red7
+
+Once you’ve played Red7 a few times, you might be ready for some advanced rules, and scoring between rounds!
+
+Advanced Red7 has two additional rules.
+
+1. When you discard a card to the Canvas, if the number on that card is higher than the total number of cards in your Palette, you may draw an additional card from the Draw Deck (unless the Draw Deck is empty).
+2. The winner of a round scores points.
+
+If you win a round, take all the cards from your Palette that meet the current rule and place them under your reference card.
+For example, if you won Blue by having the most differently colored cards on your Palette, take the highest card of each color from your Palette and place them under your reference card.
+The next hand is dealt without those cards, as they are now your score pile.
+Cards are worth their face value in points. If there aren’t enough cards to deal out a new hand to each player, the game ends and the player with the highest score wins.
+
+
+== 5 or 6 players
+
+To play with 5 or 6 players, add the 0s in all suits into the deck.
+
+When it's your turn, you are eliminated if you're not winning, or in 2nd place:
+
+* At the beginning of your turn, if you are first or second according to the current rule, *skip your turn*.
+* At the end of your turn, you must be first or second according to the current rule to stay in the game.
+
+
+== Action rules (optional)
+
+The four odd-numbered cards have an optional rule for actions, meant for experienced Red7 players.
+They can be mixed with either Basic or Advanced Red7.
+By these rules, when you play a 1, 3, 5, or 7 to your Palette, you MUST perform that card’s action if you can.
+
+NOTE: You *may* play a 3 to try and draw a card you can discard as a rule to stay in the game. +
+You *may not* use a 1 to take another player’s card if you cannot stay in the game afterwards
+
+* *7* : Choose a card from your Palette and either discard it to the Canvas or place it face down on top of the Draw Deck.
+If you discard it, you must be winning afterward.
+* *5* : Play another card from your hand to your Palette.
+You can still discard to the Canvas if you wish after you’ve finished playing to your Palette this turn.
+* *3* : Draw a card from the Draw Deck if you can.
+* *1* : Choose a card from another player’s Palette, and place it face down on top of the Draw Deck.
+You may not choose a player with fewer Palette cards than you.

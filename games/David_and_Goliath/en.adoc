@@ -1,0 +1,113 @@
+= David & Goliath
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Reinhard Staupe.
+
+.Components
+****
+* 90 Playing cards: 1-18 in ♠, ♥, ♣, ♦ & ★.
+****
+
+
+== General idea of the game
+
+The cards with the high values are the strongest, but somewhat awkwardly. +
+The cards with the low values are the weakest, but can be played smartly.
+
+Each player plays a card in turn. +
+The player with the lowest card receives the highest card as profit. +
+The player, who had the highest card, receives all remaining cards as profit.
+
+At the end of the round, players get points in each color. +
+If one has, in a certain color, only one or two cards, one gets the face value in each case – which can be very lucrative. +
+If one has more than two cards in a certain color, each of these cards only counts 1 point.
+
+
+== Game preparation
+
+According to the number of players, some cards must first be sorted out.
+
+* With 3 players only cards with the values 1-9 are required (= 45 cards).
+* With 4 players only cards with the values 1-12 are required (= 60 cards).
+* With 5 players only cards with the values 1-15 are required (= 75 cards).
+* With 6 players all cards are required.
+
+The cards that are not required are put aside.
+The cards are shuffled and evenly distributed.
+Each player receives 15 cards, that they take into their hand.
+
+
+== Course of the game
+
+The player who sits at the dealers left begins.
+
+They choose any of their cards and play it, i.e.: they disclose it in front of them on the table.
+Now all players must also, clockwise in turn, play a card and set it in front of them.
+This must always happen: the first color played must be followed!
+If a player can not follow the color, they may play any other color.
+
+Once play has gone once around the table, the highest card is determined first, the lowest card is determined after it.
+
+* The highest card is always the one with the highest number – independently of the color!
+If several players have played the highest number, the one that was played last is regarded as the highest.
+* The lowest card is always the one with the lowest number – independently of the color!
+If several players have played the lowest number, the one that was played last is regarded as the lowest.
+* The player with the lowest card receives the highest card as profit.
+They place it face up beside them on the table.
+* The player who had the highest card receives all remaining cards as profit.
+They place all captured cards face up on the table beside them, separated by color.
+
+The player who had the highest card now begins the next round in the same way described.
+The game proceeds in this way until 15 rounds have been played and everyone has played all 15 of their cards.
+
+NOTE: In the game everyone gets more and more cards as profit.
+Each player puts all cards they’ve won, after separating colors, clearly beside them on the table – each single card must be visible.
+
+.Round
+====
+* Frank plays the ♣ 4 (now ♣ must be followed)
+* Sabine plays the ♣ 9
+* Peter plays the ♥ 2 (he has no ♣)
+* Andrea plays the ♣ 7
+
+Sabine’s card is the highest (the ♣ 9). +
+Peter’s card is the lowest (the ♥ 2).
+
+Peter receives the highest card as profit (Sabine’s ♣ 9) and places it face up beside him.
+
+Sabine receives all remaining cards as profit.
+She places these all face up beside her, separated by color.
+
+Sabine now begins the next round and plays any card of her selection.
+====
+
+
+== Final Scoring
+
+Each player receives points for all cards, that they have won in the round.
+Each color is tallied separately.
+
+* If a player has only one or two cards in a certain color, they receive the face value of each card.
+* If a player has more than two cards in a certain color, they only receive 1 point for each of these cards.
+
+Finally, each player adds the points they have in the 5 colors.
+That sum is his/her total score.
+
+.Scoring
+====
+Frank has the following cards in front of him at the end of the game:
+
+* In ♠: 4, 10, 11 = 3 points
+* In ♥: 8 = 8 points
+* In ♣: 5, 9 = 14 points
+* In ♦: 2, 3, 6, 10, 12 = 5 points
+* In ★: 10, 12 = 22 points
+
+Frank’s total score is 52 points!
+====
+
+After the entire round, the results of each player are listed.
+There should be as many rounds as there are players participating.
+Whoever finally has the most points at the end of the game is the winner.

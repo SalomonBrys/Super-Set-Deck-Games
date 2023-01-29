@@ -1,0 +1,201 @@
+= Don!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Michael Schacht.
+
+.Components
+****
+* 30 numbered cards: 0-9 in ♠, ♥ & ♣.
+* Any 72 Money cards (for example: cards ♦, ★ & ✿).
+****
+
+Score the most points by buying numbered cards, preferably many of the same color.
+
+WARNING: In these rules, "*Card*" refers to face up numbered cards, while "*Money*" refers to face down money cards.
+         The money cards are always used face down and represent 1 money each.
+
+
+== Game Preparations
+
+Choose a start player.
+This person shuffles the deck, then places it face-down.
+Each player takes 12 money.
+
+
+== Playing the Game
+
+The game is played over several rounds, with each round divided into two phases:
+
+1. Turn over cards.
+2. Auction these cards.
+
+The game ends after 15 rounds, after which all the cards will have been auctioned.
+
+
+=== 1. Turn over cards
+
+In each round, a different number of cards are revealed: in the first round, one card; in the second round, two cards; in the third round, three cards; then repeat this pattern.
+Thus: 1 - 2 - 3 - 1 - 2 - 3 - etc.
+
+
+=== 2. Auction these cards
+
+Now the revealed cards are sold as a lot.
+The start player makes the first bid at any amount of his choosing.
+The next player in clockwise order must make a higher bid or drop out of this auction.
+Then the next player in clockwise order either raises or drops out, etc.
+When all players but one have dropped out, the high bidder places the cards face-up in front of himself, then pays money equal to the bid.
+
+If no player bids on the lot, then the start player takes these cards for free.
+
+CAUTION: Players may not bid more than they can pay.
+If this occurs, the offending player must discard one of his previously won cards as a penalty.
+This card is removed from the game.
+The revealed cards are auctioned once again, and the offending player may not participate.
+
+
+=== Who gets the money?
+
+Once the price for a lot is set, you must determine who gets the money.
+Two factors play a role here: the winning bid, and the numbers on the cards that players have previously won.
+If the bid matches the number on an owned card, the owner of that card receives a share of the money.
+
+.Single player distribution
+====
+Anke buys a lot for 7 money.
+Bert owns the only card with a number 7, so Bert takes the 7 money from Anke.
+====
+
+Players who own the same number of cards with a matching number receive an equal share of the winning bid.
+
+.Multiple players distribution
+====
+Dieter buys two cards for 9 money.
+Anke, Bert and Claus each own one card with the number 9.
+Dieter pays Anke, Bert and Claus 3 money each.
+====
+
+A player who owns more cards with a matching number than anyone else receives all the winning bid by himself.
+
+.Majority player distribution
+====
+Anke buys a card for 8 money.
+Bert owns two cards and Claus one with the number 8.
+The 8 money go to Bert because he owns more cards with the number 8 than Claus.
+====
+
+If no one owns a card with a matching number, the money is distributed evenly.
+
+.Even distribution
+====
+Anke buys a card for 6 money.
+No one owns a card with the number 6, so the money is split evenly among all players other than Anke.
+====
+
+IMPORTANT: The winner of the auction never receives any of the money being distributed.
+
+
+==== Two-digit numbers
+
+If the winning bid is a two-digit number, the units digit determines how the money is distributed.
+Thus, on a bid of 14, the number to match is 4; on a 10, the 0, and so on.
+
+.Two-digit distribution
+====
+Claus buys three cards for 12 money.
+Burt owns the only card with a 2.
+Because only the last number counts with double-digit bids, Burt receives the 12 money.
+====
+
+
+==== Remainders
+
+The bid won't always be evenly divisible.
+When this happens, round down to distribute the money evenly.
+Place any remaining money in the middle of the table (in the Pot) and distribute them with the payment of the next auction.
+
+.Distribution with remainder
+====
+Anke must pay Bert and Claus 13 money.
+They receive 6 money each, and the remaining money is placed in the Pot.
+In the next round, Bert must pay 9 money to Anke and Claus.
+When the money that lies in the Pot is added in, each of them will receive 5 money.
+====
+
+==== Bid restrictions
+
+An important restriction applies to bids: A player may not make a bid that matches the numbers on the cards that he has already acquired.
+This includes any two-digit bid in which the final digit matches these numbers.
+
+Anyone who makes such a bid must pay a penalty money to the Pot (provided he has money), even if he corrects himself immediately.
+The incorrect bid is withdrawn, and the player must make a new bid or pass.
+
+.Possible bids
+====
+Anke owns cards with the numbers 4 and 6.
+He may therefore not make bids of 4, 6, 14, 16, etc.
+====
+
+
+== Next round
+
+Whoever wins the auction becomes the new start player.
+The two phases are repeated: Turning over cards and auctioning them.
+
+
+== Side auctions
+
+If a player runs into financial difficulty, he may — if he wishes — sell one of his cards in a side auction.
+He does this at the start of a round before new cards are turned face-up.
+Since the player is selling one of his own cards, he receives all the money.
+
+
+== End of the Game
+After all cards have been auctioned, scoring occurs.
+The more cards you have of the same color, the more points you receive:
+
+* 1 card = 1 point
+* 2 cards of the same color = 3 points
+* 3 cards of the same color = 6 points
+* 4 cards of the same color = 10 points
+* 5 cards of the same color = 15 points
+* Whoever holds the most money receives 2 points.
+  If several players hold the same highest number of money, they each receive 2 points.
+
+The player with the most points wins.
+In case of a tie, the player with the highest sum of numbers on their cards wins.
+
+
+== Variants
+
+=== Invasions
+
+At the start of each round, an additional "Exchange" phase takes place.
+(At the beginning of the game, no one owns any cards, so this phase is skipped.)
+
+The start player goes first and announces whether or not he will exchange a card.
+If he does, he simply takes a card from an opponent and places it in front of himself, then gives the opponent one of his own cards.
+The opponent can do nothing to prevent this.
+Then the next player in clockwise order has the opportunity to exchange, and so forth.
+After everyone has had the opportunity to exchange -- at most once per round -- new cards are turned over.
+
+Players who chose to exchange a card may not participate in the auction this round!
+If all players exchange cards, the auction doesn't occur and the start player takes the revealed cards for free.
+
+
+=== Serengeti
+
+* Players start with 10 money (instead of 12), and 3 money per player in the bank.
+* Whenever a player passes without having previously bid on a set, he gets 2 coins from the bank (limited by the bank supply).
+* Bid is distributed proportionally: it is divided by the quantity of cards with the bid number, each card owner gets that much for each card he owns
++
+====
+Anke buys a card for 8 money.
+Bert owns two cards and Claus one with the number 8.
+Bert received 4 money and Claus 2.
+The remaining two money goes to the pot.
+====
+* Whoever has most coins at the end of the game, gets 3 points.
+* If there is a tie for points, the tied player with the most cards wins.

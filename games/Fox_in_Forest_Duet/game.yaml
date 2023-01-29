@@ -1,0 +1,12 @@
+type:
+  - Cooperative
+  - Trick Taking
+players: 2
+cards:
+  Base:
+    all-players:
+      spades: 1-10
+      hearts: 1-10
+      clubs: 1-10
+      stars: 1-4
+      specials: Butterfly*6, Wolf*6, Phoenix*4, Snake*4, Dragon*2, Monkey

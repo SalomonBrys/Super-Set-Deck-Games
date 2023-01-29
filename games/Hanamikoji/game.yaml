@@ -1,0 +1,15 @@
+type:
+  - Drafting
+  - Set Collection
+players: 2
+cards:
+  Base:
+    all-players:
+      wheels: 2, K, Q
+      florettes: 2, K, Q
+      diamonds: 2, K, Q
+      clubs: 3, K, Q, J
+      hearts: 3, K, Q, J
+      spades: 4, K, Q, J, S
+      stars: 5, K, Q, J, S, C
+      specials: Wolf*2, Snake*2, Phoenix*2, Dragon*2

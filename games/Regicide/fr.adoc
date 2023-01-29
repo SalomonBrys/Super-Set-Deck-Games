@@ -1,0 +1,246 @@
+= Régicide
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Paul Abrahams, Luke Badger, & Andy Richdale.
+
+.Matériel
+****
+* 36 cartes numérotées : 2-10 à ♠, ♥, ♣ & ♦.
+* 4 animaux de compagnie : A à ♠, ♥, ♣ & ♦.
+* 2 Papillons
+* 12 cartes ennemi : J, Q & K à ♠, ♥, ♣ & ♦.
+****
+
+Une sinistre corruption s'est propagée à travers les 4 grands royaumes, assombrissants les cœurs de rois et reines précédemment bien-aimés, ainsi que de ceux qui les protègent.
+En tant que braves aventuriers, vous devrez travailler de concert, utilisant au mieux les pouvoirs de vos champions, et de leurs animaux de compagnie.
+Renversez la monarchie corrompue, purgez les de leur noirceur puis accueillez-les dans vos rangs afin de redonner à nouveau vie à ces terres désolées.
+
+
+== But du jeu
+
+Les joueurs font équipe pour affronter 12 puissants ennemis.
+Tour à tour ils jouent des cartes sur la table afin d'attaquer l'ennemi jusqu'à lui infliger assez de dégâts pour le vaincre.
+Ils gagnent lorsque le dernier Roi est vaincu.
+Mais à chaque tour l'ennemi contre-attaque.
+Les joueurs défaussent des cartes pour assumer les dégâts, et si ils ne peuvent pas le faire, l'équipe a perdu !
+
+== Mise en place
+
+Constituez le Château : +
+Mélangez les 4 **K**oalas, placez-les en pile face cachée sur la table. +
+Mélangez les 4 **Q**uetzals, placez-les en pile face cachée sur les Koalas. +
+Mélangez les 4 **J**ellyfishes, placez-les en pile face cachée sur les Koalas. +
+Cette pile constitue la pile d'ennemis à affronter.
+Placez-la au centre de la table et révélez la première carte du dessus (un *J*).
+Ce sera le premier ennemi.
+
+Constituez la Taverne : +
+Mélangez ensemble toutes les cartes numérotées de 2 à 10 et les 4 **A**nimaux de Compagnie, avec un nombre de Papillons dépendant du nombre de joueurs (voir plus bas).
+C'est depuis la Taverne que les joueurs piochent et distribuent.
+
+Pendant la partie, toutes les cartes défaussées constitueront une pile de défausse face visible placée près de la Taverne.
+
+Distribuez des cartes aux joueurs jusqu'à ce que chacun ait une main complète.
+Elle dépend du nombre de joueurs, et on ne peut jamais dépasser son nombre maximum :
+
+[%autowidth, cols="^, ^, ^"]
+|===
+| Joueurs | Papillons | Taille de la Main
+
+| 1 | 0 | 8
+| 2 | 0 | 7
+| 3 | 1 | 6
+| 4 | 2 | 5
+|===
+
+Le joueur qui a le plus récemment commit un régicide commence.
+
+
+== Comment jouer
+
+À son tour, un joueur joue une carte de sa main pour attaquer l'ennemi dans le but de le vaincre.
+
+* La valeur des cartes détermine les dégâts.
+* La couleur détermine un pouvoir spécial.
+
+Les joueurs ne peuvent pas communiquer à propos des cartes qu'ils ont en main.
+
+Un tour se déroule en 4 étapes :
+
+1. Jouer une carte (ou passer)
+2. Activer le pouvoir de sa couleur
+3. Infliger les dégâts (et vérifiez si l'ennemi est vaincu)
+4. Subir l'attaque ennemie en défaussant des cartes
+
+
+=== Étape 1 : Jouer une carte de sa main (ou passer)
+
+Posez-la devant vous sur la table.
+La valeur de la carte détermine la valeur de l'attaque (par exemple, un 7 de ♥ infligera 7 dégâts).
+
+PASSER : voir plus bas.
+
+
+=== Étape 2 : Activer le pouvoir de la couleur de la carte
+
+Une attaque est toujours associée à un pouvoir relatif à la couleur de la carte jouée.
+Les pouvoirs de couleur rouge sont immédiats, les pouvoirs de couleur noire prennent effet dans les étapes suivantes.
+
+
+==== ♥ Cœur – Régénère la pioche
+
+Mélangez la défausse face cachée et piochez un nombre de cartes égal à la valeur de la carte jouée.
+Placez-les cartes piochées sous la pile Taverne sans les regarder, puis replacez la défausse face visible sur la table.
+
+
+==== ♦ Carreaux – Piochez des cartes à la Taverne
+
+Le joueur pioche une carte, puis dans l'ordre du tour de jeu, chaque joueur pioche une carte jusqu'à atteindre la valeur de la carte jouée.
+Un joueur qui atteint le nombre maximum de sa main ne pioche pas, le joueur suivant pioche à sa place.
+La pioche peut être vide avant ou pendant la résolution du pouvoir.
+
+
+==== ♣ Trèfles – Double les dégâts
+
+Pendant l'étape 3, les dégâts d'une attaque infligée par une carte ♣ comptent double.
+Par exemple, un 8 de ♣ attaque à hauteur de 16.
+
+
+==== ♠ Piques – Protège de l'attaque ennemie
+
+Pendant l'étape 4, diminue la valeur d'attaque de l'ennemi d'une valeur égale à celle de l'attaque que vous effectuez.
+L'effet de protection de ce bouclier est permanent et cumulable : tous les ♠ joués contre l'ennemi actuel restent actifs pour tous les joueurs, jusqu'à ce qu'il soit vaincu.
+
+
+=== Étape 3 : Infliger les dégâts et vérifier si l'ennemi est vaincu
+
+[%autowidth, cols="^, ^, ^"]
+|===
+| Ennemi | Attaque | Vie
+
+| **J**ellyfish | 10 | 20
+| **Q**uetzal | 15 | 30
+| **K**oala | 20 | 40
+|===
+
+La valeur de l'attaque est infligée à l'ennemi.
+Les dégâts sont permanents entre les tours.
+Dès qu'une attaque égale ou dépasse les points de vie actuels de l'ennemi, celui-ci est vaincu.
+
+Dans ce cas, procédez comme suit :
+
+
+[upperroman]
+. Retirez l'ennemi.
+Si les joueurs ont :
+* dépassé ses points de vie, défaussez-le face visible sur le dessus de la défausse.
+* strictement égalé ses points de vie, placez-le face cachée sur le dessus de la Taverne.
+. Défaussez toutes les cartes jouées contre l'ennemi.
+. Dévoilez la prochaine carte du dessus de la pile Château.
+. Le joueur actif saute l'étape 4 et il commence le nouveau tour contre l'ennemi dévoilé (depuis l'étape 1).
+
+
+=== Étape 4 : Subir l'attaque de l'ennemi en défaussant des cartes
+
+Si l'ennemi n'est pas vaincu, il attaque le joueur actif, et lui inflige une valeur de dégâts égale à sa valeur d'attaque.
+Si des boucliers (♠) sont déployés sur la table, son attaque est réduite de la valeur totale des boucliers de tous les joueurs.
+
+Le joueur actif doit défausser des cartes de sa main afin que leur valeur totale égale ou dépasse la valeur de l'attaque ennemie.
+Défaussez les cartes une par une, face visible sur la défausse.
+Il est possible d'avoir une main vide suite à la résolution de cette étape.
+
+* Si le joueur ne peut pas défausser assez de cartes pour assumer la totalité de la valeur requise, il est vaincu et toute l'équipe a perdu.
+* Si le joueur n'est pas vaincu, le joueur suivant commence un nouveau tour depuis l'étape 1.
+
+Défaussés, les Animaux de Compagnie ont une valeur de 1 et les Papillons ont une valeur de 0.
+
+
+== Immunité
+
+Chaque ennemi est immunisé contre le pouvoir de sa propre couleur.
+Le pouvoir d'une carte de même couleur que l'ennemi ne peut donc pas être appliqué, mais l'attaque à bien lieu.
+Par exemple, les joueurs ne piocheront pas si une carte ♦ est jouée contre un Jellyfish de ♦.
+De la même manière, un bouclier ne peut pas prendre effet face à un ennemi de ♠.
+
+Cependant, un Papillon peut être joué pour annuler l'immunité d'un ennemi
+
+
+== Papillons
+
+À l'étape 1, vous pouvez jouer un Papillon (seul).
+Le Papillon a une valeur de 0.
+Son pouvoir est d'annuler l'immunité de l'ennemi.
+Une fois le Papillon joué, les pouvoirs relatifs à la couleur de l'ennemi pourront à présent être activés en jouant une carte.
+
+Après avoir joué un Papillon, le joueur actif saute directement les étapes 3 et 4 de son tour, et il détermine le joueur suivant.
+Les joueurs ne peuvent jamais communiquer à propos leurs cartes en main, mais ils peuvent à ce moment-là exprimer leur souhait (ou réticence) d'être choisi.
+
+Si le Papillon est joué contre un ennemi de ♠, les cartes ♠ jouées précédemment prennent effet immédiatement pour le reste du combat contre lui.
+Cependant, contre un ennemi de ♣, les cartes ♣ jouées précédemment ne comptent pas double (leur attaque ayant déjà eu lieu).
+
+
+== Animaux de Compagnie
+
+Pendant l'étape 1, un Animal de Compagnie (*A*) peut être joué seul, mais peut aussi être joué avec une autre carte (Papillon exclu).
+Un Animal de Compagnie a une valeur de 1.
+Cette valeur s'ajoute à la valeur totale de l'attaque, tout comme le pouvoir de sa couleur.
+Par exemple, en jouant un 8 de ♦ avec l'Animal de ♣, la valeur de l'attaque de base est de 9, et les pouvoirs sont tous les deux appliqués :
+9 cartes sont piochées par l'équipe, et la valeur finale de l'attaque est de 18.
+La carte que l'Animal accompagne peut être un autre Animal de Compagnie.
+À tout moment lorsque les pouvoirs de ♥ et de ♦ sont déployés ensemble, résolvez le ♥ (remplissage de la pioche) avant de piocher grâce au ♦.
+Lorsque deux pouvoirs similaires sont joués ensemble, l'effet n'est appliqué qu'une seule fois.
+
+
+== Combos
+
+Pendant l'étape 1, au lieu de jouer une seule carte, les joueurs peuvent jouer une combinaison de 2, 3 ou 4 cartes de même valeur (Animaux de Compagnie exclus).
+La valeur de l'ensemble doit être de 10 ou moins, ce qui permet les combinaisons suivantes :
+
+* une paire de 2, 3, 4 ou 5
+* un triple de 2 ou 3
+* un quadruple de 2
+
+Quand ces cartes sont jouées ensemble, la valeur de l'attaque et les pouvoirs sont déterminés ensuite par le total de la combinaison.
+Par exemple, pour un triple de 3 avec ♦, ♠ et ♣, les joueurs piochent 9 cartes, l'attaque ennemie est réduite de 9 points et l'attaque du joueur est de 18 points.
+Lorsque deux pouvoirs similaires sont joués ensemble, l'effet n'est appliqué qu'une seule fois.
+
+
+== Piocher un ennemi vaincu
+
+En main, les Jellyfishs valent 10, les Quetzals 15, et les Koalas 20.
+Ces valeurs sont appliquées pour attaquer comme pour défausser suite à une attaque ennemie.
+Le pouvoir de leur couleur est appliqué comme pour les autres cartes.
+
+
+== Passer
+
+Au début de l'étape 1, il peut être plus judicieux de passer son tour au lieu de jouer une carte.
+Annoncez que vous passez et allez directement à l'étape 4 : vous n'attaquez pas, mais l'ennemi réalise son attaque contre vous.
+Tous les joueurs ne peuvent pas passer consécutivement.
+
+
+== Fin de partie
+
+* VICTOIRE remportée par tous les joueurs une fois le dernier Roi vaincu.
+* DÉFAITE de tous les joueurs dès qu'un joueur ne peut pas assumer la totalité des dégâts d'une attaque ennemie.
+
+
+== Solo
+
+Réalisez la mise en place de base, mais placez les 2 Papillons à part sur la table, face visible.
+Votre main complète est de 8 cartes (maximum).
+Jouez selon les règles de base, avec cette exception concernant le pouvoir du Papillon :
+Un Papillon peut être retourné pour défausser toute votre main et piocher 8 cartes à la Taverne.
+Ceci n'est pas relatif au pouvoir du ♦, et peut donc être utilisé face à un ennemi de ♦.
+Utiliser un Papillon n'annule pas l'immunité de l'ennemi.
+Vous pouvez réaliser cette action 1 fois par Papillon, et donc 2 fois par partie :
+
+* au début de l'étape 1 avant de jouer une carte
+* au début de l'étape 4 avant de subir les dégâts
+
+Gagnez en ayant utilisé les 2 Papillons pour remporter une VICTOIRE DE BRONZE. +
+Gagnez en ayant utilisé seulement 1 Papillon et décrochez une VICTOIRE D'ARGENT. +
+Triomphez sans avoir utilisé de Papillon pour obtenir l'insaisissable VICTOIRE D'OR !

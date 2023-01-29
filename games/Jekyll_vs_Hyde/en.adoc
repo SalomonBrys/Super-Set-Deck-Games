@@ -1,0 +1,173 @@
+= Jekyll vs Hyde
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Geon-il.
+
+.Components
+****
+* 21 Evil cards: 1-7 in ♠, ♥ & ♣.
+* 4 Star cards: 2-5 in ★.
+* 3 A cards: ♠, ♥ & ♣.
+* 3 Order cards: 1-3 in ♦.
+****
+
+Jekyll vs. Hyde is a trick-taking game for 2 players, based on the famous novella Strange Case of Dr Jekyll and Mr. Hyde by Robert Louis Stevenson.
+As Dr. Jekyll, you'll need to resist Mr. Hyde's fierce attacks to protect your mind and keep the secret of your dual nature.
+As Mr. Hyde, your goal is to dominate Dr. Jekyll to overcome his identity.
+
+One player is Dr. Jekyll; the other is Mr. Hyde.
+The game plays in three rounds.
+At the end of each round, Dr. Jekyll's identity will progressively disappear under Mr. Hyde's relentless attacks.
+
+Mr. Hyde wins as soon as he reaches 5 points.
+If He did not achieve this after three rounds, then Dr. Jekyll wins, escaping from Mr. Hyde's dark influence.
+
+
+== Setup
+
+1. Choose who is going to be Dr. Jekyll and who is going to be Mr. Hyde.
+2. Give each player the reference card corresponding to their role.
+3. Place the three order card in order (1 to 2) between the two players, and the three A cards face down nearby.
+4. Shuffle all Evil and ★ cards together.
+5. Dr. Jekyll is the starting player.
+
+
+== How to play
+
+The game plays over 3 rounds. +
+On each round, play the following phases in order:
+
+1. Preparation
+2. Trick-Taking
+3. Progression of Evil
+
+
+=== 1. Preparation
+
+Each player receives 10 cards (the 5 remaining cards are not dealt; set them aside).
+
+Each player then chooses 1 card from their hand to exchange with their opponent.
+Place the card face down on the table and exchange them simultaneously (on round 2, you'll exchange 2 cards, and on round 3, 3 cards).
+
+CAUTION: If you receive 2 or more ★ cards among your starting 10 cards, you must include at least 1 ★ card in the exchange.
+
+.Round 2 example
+====
+It's the beginning of round 2.
+Dr. Jekyll and Mr. Hyde must exchange 2 cards each. +
+Dr. Jekyll has 3 ★ cards while Mr. Hyde only has 1; as a result, Dr. Jekyll must include at least 1 of his ★ cards in the exchange.
+====
+
+
+=== 2. Trick-Taking
+
+At the beginning of each round, after the preparation phase, the number of points Mr. Hyde has determines who is the starting player.
+If Mr. Hyde has 0, 1 or 2 points, Dr. Jekyll starts the round.
+If the Mr. Hyde has 3 or more points, Mr. Hyde starts the round.
+Dr. Jekyll always starts the 1st round.
+
+*There are 10 tricks per round.*
+*A trick plays as follows:*
+
+- The starting player plays any card from their hand, face up.
+- If the starting player plays a color card, their opponent must play a card of the same color, or they may play a ★ Card instead.
+  If they don't have a card of the same color, they may play any other card.
+- If the starting player plays a ★ card, they must announce a color.
+  Their opponent must play a card of this color *(even if they have a ★ card!)*.
+If they don't have any, they may play any other card.
+
+*Then, compare both cards:*
+
+- If both cards are of the same color, the highest number wins.
+- If the cards have different colors, the highest color wins (see below), regardless of the number.
+- If someone played a ★ card, resolve the corresponding effect, then the highest number wins.
+
+The winner takes both cards from the trick and becomes the new starting player.
+
+.What is trick-taking?
+[TIP]
+====
+Trick-taking is a type of game in which each player plays a card on the table.
+The player who played the best card takes them all.
+The cards that have been played form a trick, and the winner takes it.
+====
+
+.Color Rank
+****
+Colors are not ranked at the beginning of the game, but on each round, you will define their rank by playing cards.
+
+The first color to appear (first Evil Card played) will automatically have the lowest rank.
+Place the matching A card on the appropriated space below the ♦1 order card.
+The second color to appear will be placed below the ♦2, at which point the last color will automatically become the best color for this round and be placed under the ♦3.
+★ cards don't have colors and cannot be ranked.
+
+.Example
+====
+1. Dr. Jekyll played the ♠6.
+   This is the first Evil Card played, so the ♠A card must be placed on the lowest rank.
+2. Mr. Hyde does not have any Pride cards in their hand.
+   As they can play any card, they play the ♥4.
+   As the second suit of the round, the ♥A card must be placed on the middle space.
+   Hyde wins the tricks even if Jekyll’s card has a higher number, because ♥ has a higher rank than ♠.
+3. Automatically, the ♣A card is placed on the last space.
+====
+****
+
+.★ Cards
+****
+When a player plays a ★ card, its effect depends on the card played by their opponent.
+
+* ♠ (Blue) Card: The winner of the trick takes one trick (two cards) from their opponent.
+* ♣ (Green) Card: Both players choose 2 cards from their hand (or 1 if it's the last one) and exchange them simultaneously.
+* ♥ (Red) Card: Remove all colored A cards from the order cards.
+  Reset the card ranks: the next color to appear will be the lowest one, and so on.
+
+[NOTE]
+====
+* When a ★ card is played, the highest number always wins the trick.
+* Double ★: If both players play a ★ card, then they neutralize each other; nothing happens, and the highest number still wins the trick.
+====
+
+CAUTION: ★ cards are higher than cards with the same value. +
+         For example, the ★2 is higher than any other 2, but lower than any other 3.
+
+.Example
+====
+As the first player, Jekyll played the ★4 and announced ♥ (red).
+Hyde must play a ♥ card, so they play the ♥6.
+Because of the ★ card effect, the color ranks is reset and Hyde wins the trick.
+====
+****
+
+
+=== 3. Progression of Evil
+
+Compare the number of tricks that each player has won in this round, subtract the lowest score from the highest one, and divide this result by 2
+(for instance, if Dr. Jekyll won 6 tricks and Mr. Hyde won 4 tricks, then the final result is stem:[(6-4)/2 = 1]).
+This result indicates by how many points Mr. Hyde gets this round.
+
+NOTE: Evil is relentless!
+      Even if Dr. Jekyll won more tricks that Mr. Hyde, Mr. Hyde still gets points.
+      As Dr. Jekyll, your goal is to keep balance, without giving in to darkness!
+
+If Mr. Hyde now has 5 or more points, then he instantly wins the game.
+Otherwise, start a new round: remove the three colored A cards from the order cards and reshuffle all cards, including the 5 cards that you set aside at the  beginning of this round.
+
+
+== Game End
+
+At the end of the third round, Dr. Jekyll wins if Mr.Hyde did not achieve 10 points.
+
+
+== Expert variant
+
+In the base game, Dr. Jekyll is under constant pressure, and must plan every action with care.
+For a more balanced and tactical game, play 2 games and switch the roles between each game.
+
+Mr. Hyde no longer instantly wins with 5 points.
+Instead, he must achieve the highest number of points in three rounds.
+
+The best Mr. Hyde after two games wins the match.
+In case of a tie, play another match!

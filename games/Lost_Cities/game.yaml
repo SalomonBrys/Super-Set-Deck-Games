@@ -1,0 +1,17 @@
+type:
+  - Hand Management
+  - Set Collection
+  - Score and Reset
+  - Push Your Luck
+players: 2
+cards:
+  Base:
+    all-players:
+      stars: A, 2-10, K*3
+      spades: A, 2-10, K*3
+      hearts: A, 2-10, K*3
+      clubs: A, 2-10, K*3
+      diamonds: A, 2-10, K*3
+  Advanced:
+    all-players:
+      florettes: A, 2-10, K*3

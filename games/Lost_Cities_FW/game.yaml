@@ -1,0 +1,13 @@
+type:
+  - Hand Management
+  - Set Collection
+  - Push Your Luck
+players: 2, 3, 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      stars: 1-10
+      spades: 1-10
+      hearts: 1-10
+      clubs: 1-10
+      diamonds: 1-10

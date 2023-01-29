@@ -1,0 +1,513 @@
+= Yokai Septet
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Muneyuki Yokouchi.
+
+.Matériel
+****
+* 49 cartes de jeu :
+** ★: A, 2-6, K.
+** ⎈: 2-6, K, 8.
+** ✿: 3-6, K, 8-9.
+** ♦: 4-6, K, 8-10.
+** ♣: 5-6, K, 8-11.
+** ♥: 6, K, 8-12.
+** ♠: K, 8-13.
+* Variantes des sept prétendants :
+** 7 K additionnels à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+** 14 cartes captures: J et Q à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+** 7 cartes 0 à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+****
+
+Il y a maintenant très longtemps, au pays du soleil levant, des esprits et démons connus sous le nom de Yokai s’en prenaient à des vies humaines.
+Les Yokai n’attaquaient pas directement les personnes, mais provoquaient des catastrophes telles que des incendies, des inondations, des orages ou encore des maladies.
+
+Un jour, le chef du village voisin vous demanda audience, en tant qu’Onmyoji, un spécialiste de l’ésotérisme cosmologique japonais.
+À travers votre connaissance de l’astronomie et de l’occultisme, vous découvrîtes le seul moyen de sauver le village : plus vous réussirez à capturer des Yokai, moins leurs menaces seraient puissantes.
+
+Après quelques mois dans le village, vos efforts sont couronnés de succès et la menace des Yokai est complètement éradiquée du village !
+
+Cependant, vous venez d’apprendre que votre propre village est maintenant victime des ravages perpétrés par des Yokai.
+En votre absence, le chef du village a consulté un autre Onmyoji pour tenter de sauver le village.
+Pour laver cet affront, vous devez intervenir ! Après tout, il s’agit de votre village et de votre peuple qui sont attaqués.
+C’est votre devoir de les sauver !
+
+Ne laissez pas un autre Onmyoji entrer dans l’histoire comme le sauveur de votre village alors que celui-ci avait besoin de vous.
+
+
+== Principe du jeu
+
+Dans Yokai Septet, votre objectif est de capturer des Boss Yokai (cartes *K*) de forte valeur en jouant stratégiquement vos cartes en main.
+Chaque tour, les joueurs jouent une carte de leurs mains en suivant les règles des « jeux de plis ».
+(Si vous ne savez pas de quoi il s’agit, pas d’affolement, le principe sera expliqué plus tard).
+
+Après que chaque joueur a joué une carte, le joueur ayant joué la carte la plus forte dans la famille demandée récupère toutes les cartes jouées ce tour.
+Un nouveau tour démarre et ainsi de suite jusqu’au déclenchement des conditions de fin de la manche.
+À la fin de la manche, on détermine le vainqueur de celle-ci.
+
+Dans un jeu pour 4 joueurs, les joueurs jouent en équipe de 2 contre 2.
+Dans un jeu à 3 joueurs, chaque joueur joue chacun pour soi.
+À 4 joueurs, le vainqueur de la manche est l’équipe ayant capturé quatre ou plus Boss Yokai.
+À 3 joueurs, le vainqueur est celui qui a capturé trois ou plus Boss Yokai.
+Cependant, faites attention à ne pas gagner trop de tours : vous perdrez la manche si vous gagnez 7 tours avant d'avoir collecté les Boss Yokai nécessaires !
+
+Le vainqueur de la manche marque des points en fonction des Boss Yokai qu’il a capturés.
+Une nouvelle manche démarre jusqu’au déclenchement des conditions de fin du jeu : 2 points pour la version standard, 7 points pour la version traditionnelle ou avancée.
+
+
+== Cartes
+
+Il y a 7 familles (couleurs) composées de 7 cartes chacune.
+
+Chaque famille est composée de cartes avec une étendue de valeur différente.
+
+[%autowidth,role="big-table"]
+|===
+| A | 2 | 3 | 4 | 5 | 6 | K | 8 | 9 | 10 | 11 | 12 | 13
+
+| ★ | ★ | ★ | ★ | ★ | ★ | ★ |   |   |    |    |    |
+|   | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ |   |    |    |    |
+|   |   | ✿ | ✿ | ✿ | ✿ | ✿ | ✿ | ✿ |    |    |    |
+|   |   |   | ♦ | ♦ | ♦ | ♦ | ♦ | ♦ | ♦  |    |    |
+|   |   |   |   | ♣ | ♣ | ✿ | ✿ | ✿ | ✿  | ✿  |    |
+|   |   |   |   |   | ♥ | ♥ | ♥ | ♥ | ♥  | ♥  | ♥  |
+|   |   |   |   |   |   | ♠ | ♠ | ♠ | ♠  | ♠  | ♠  | ♠
+|===
+
+La carte *K* dans chaque famille est une carte spéciale appelée Boss Yokai, et *a une valeur de 7*.
+
+La famille ★ dispose d’une carte spéciale de valeur A appelée le Super Atout.
+Toutes les autres cartes sont appelées cartes Yokai.
+
+
+== Préparatifs
+
+Ce jeu se joue de 3 à 4 joueurs.
+Nous décrirons dans cette règle une partie à 4 joueurs
+
+****
+*3 Joueurs* : Les règles pour une partie à 3 joueurs seront décrites dans un encart comme celui-ci.
+Si vous jouez à 4 joueurs, ignorez simplement les encarts.
+****
+
+Avant de démarrer :
+
+* Chaque joueur prend une carte référence.
+* Le jeu se joue en équipe de 2 joueurs contre 2 joueurs.
+Après avoir composé vos équipes, assurez-vous que les mêmes membres d’une équipe ne soient pas assis côte à côte, mais séparés à chaque fois par un membre de l’équipe adverse.
++
+****
+*3 Joueurs* : Le jeu se joue chacun pour soi au lieu de se jouer en équipe.
+****
+
+
+[[nouvelle-manche]]
+== Nouvelle manche
+
+Avant chaque nouvelle manche :
+
+* Mélangez toutes les 49 cartes face cachées et *distribuez en 12 face cachées* à chaque joueur.
+Placez la *carte restante face visible* au centre de la table, visible de tous.
+Cette carte est dénommée la *carte d'atout* et sa famille est la *famille atout*.
+
+* Chaque joueur choisi *3 cartes* et les passe à son coéquipier *simultanément*.
++
+****
+*3 Joueurs* : Distribuez 16 cartes face cachées à chaque joueur.
+Ensuite, chaque joueur en choisi 3 qu’il passe à son voisin de gauche.
+****
+
+Déterminez maintenant le premier joueur :
+
+* *Pour la première manche de la partie :* +
+Le premier joueur est celui qui a *reçu la carte A★* (il doit la révéler)
+Si personne ne dispose de la carte A, alors le premier joueur est celui qui a reçu la carte 13♠.
++
+NOTE: Le premier joueur ne doit pas nécessairement jouer la carte qu'il a révélé comme première carte.
+Il est libre de la remettre dans sa main pour la jouer plus tard.
+
+* *Pour les autres manches de la partie :* +
+Le premier joueur est celui qui a gagné le dernier pli de la manche précédente.
+
+La manche peut maintenant débuter !
+
+
+== Les règles du jeu
+
+Chaque manche est divisée en tours appelés « *plis* » pendant lesquels chaque joueur jouera une carte de sa main.
+
+* En commençant par le *premier joueur*, puis dans le sens des aiguilles d’une montre, chaque joueur joue une carte face visible de sa main.
+* Le premier joueur peut jouer n’importe quelle carte de sa main.
+Les autres joueurs doivent par contre *jouer une carte de la même famille que la première carte du pli*.
+* *Si vous n’avez pas de carte de la famille demandée*, alors vous êtes autorisé à jouer *n’importe quelle carte de votre main*.
+
+Après que chaque joueur a joué une carte, on détermine le gagnant du pli.
+
+
+=== Le gagnant d’un pli
+
+Le gagnant d’un pli est déterminé selon cet ordre :
+
+1. Si la *carte A★* a été jouée, son possesseur remporte le pli.
+2. Si une ou plusieurs cartes de la *même famille que la famille atout* ont été jouées, alors le joueur qui a joué celle avec la plus forte valeur remporte le pli.
+3. Sinon, le joueur qui a joué la carte de *la plus forte valeur dans la famille demandée* (par la carte jouée par le premier joueur) remporte le pli.
+
+Si vous êtes le gagnant d’un pli, réalisez les actions suivantes dans l’ordre :
+
+1. Prenez *toutes les cartes jouées* dans le pli (quatre cartes dans une partie à 4 joueurs, trois cartes dans une partie à 3 joueurs).
+S’il y a des cartes Boss Yokai *K* (de valeur 7) dans le pli, placez-les face visibles devant vous.
+Conservez les autres cartes du pli faces cachées devant vous en créant à chaque fois un petit tas de telle sorte que chaque joueur puisse voir combien de plis vous avez gagné pendant cette manche.
+2. Vérifiez si une condition de <<fin-de-manche>> est remplie.
+3. Si la manche n’est pas terminée, continuez en entamant le prochain pli.
+*Vous êtes le premier joueur de ce prochain pli*.
+
+====
+Voici quelques exemples de plis et de leur résolution.
+Pour cette manche, la famille atout est ⎈.
+
+*Pli 1* :
+
+* Alice (Premier joueur) : 2★
+* Barbara : 5★
+* Charlie : 3★
+* David : 5✿
+
+Barbara gagne ce pli, car elle a joué la carte de plus forte valeur dans la famille demandée (★) par le premier joueur.
+Même si David a joué la carte de la plus forte valeur du pli, il ne gagne pas, puisque celle-ci n’est pas dans la bonne couleur.
+
+*Pli 2* :
+
+* Barbara (Premier joueur) : K♠
+* Charlie : 13♠
+* David : 8⎈
+* Alice : 5⎈
+
+David gagne ce pli, comme il a joué la carte de la plus forte valeur dans la famille atout (⎈).
+
+*Pli 3* :
+
+* David (lead) : K⎈
+* Alice : A★
+* Barbara : 6⎈
+* Charlie : 4♦
+
+Alice gagne ce pli, car elle a joué la carte A qui bat toutes les autres cartes du jeu.
+Bien que la carte A soit spéciale, rappelez-vous que vous êtes toujours obligé de jouer une carte de la famille demandée (si vous le pouvez).
+Ainsi, Alice a pu jouer cette carte, parce qu'elle n’avait plus de cartes de la famille ⎈ en main.
+
+*Pli 4* :
+
+* Alice (lead) : 9♠
+* Barbara : 6♥
+* Charlie : 6♣
+* David : 4♣
+
+Alice gagne ce pli, car personne n’a pu fournir une carte de la même famille de valeur supérieure.
+
+====
+
+
+[[fin-de-manche]]
+== Fin d’une manche
+
+Une manche se termine dès que *l’une des trois* conditions suivantes est remplie.
+
+1. Une équipe a gagné un total de *quatre ou plus* Boss Yokai *K* (cartes de valeur 7), ils sont mis en commun entre les joueurs de la même équipe.
+2. Une équipe a gagné un *total de sept plis*, la somme des plis des joueurs de la même équipe.
+3. Les joueurs n’ont plus de cartes en mains.
+
+Si aucune de conditions ci-dessus ne sont remplies, poursuivez la manche avec un nouveau pli.
+
+
+=== Le gagnant d’une manche
+
+Déterminez le gagnant de la manche *dans cet ordre* :
+
+1. Si une équipe a gagné un total de *quatre ou plus* Boss Yokai, *celle-ci gagne la manche*.
+2. Si une équipe a gagné un *total de sept plis*, alors c’est *l’autre équipe qui gagne la manche*.
+L’équipe gagnante récupère *toutes les cartes Boss Yokai restantes dans les mains de tous les joueurs* et les ajoute à ses propres cartes Boss Yokai précédemment gagnées dans la manche.
+3) Sinon, l’équipe dont le joueur a gagné le *dernier pli* de la manche est la gagnante. +
+*Cette équipe remporte la carte d'atout* (qui est nécessairement un Boss Yokai – important uniquement pour le calcul des scores traditionnel).
+
+****
+*3 Joueurs* : Les conditions de fin de manche et le vainqueur de la manche changent :
+
+1. Si un joueur a gagné *trois ou plus* Boss Yokai, alors il est le gagnant.
+2) Si un joueur a gagné sept plis, alors les deux autres joueurs sont les gagnants.
+3) Sinon, le joueur qui a gagné le dernier pli de la manche est le gagnant. +
+*Ce joueur remporte la carte d'atout* (qui est nécessairement un Boss Yokai – important uniquement pour le calcul des scores traditionnel).
+****
+
+
+== Calcul du score
+
+*Seul le gagnant de la manche marque des points.*
+
+Le gagnant marque des points selon les règles de score ci-dessous.
+
+* Utilisez la *règle de score basique* si vous jouez au jeu pour la première fois ou si certains joueurs ne sont pas encore familiers avec les jeux de plis.
+* Utilisez la *règle de score traditionnelle* si vous comprenez les jeux de plis et voulez un moyen simple de marquer les points.
+* Utilisez la *règle de score avancée* si tous les joueurs sont familiers avec Yokai Septet.
+
+
+=== Règle de score basique
+
+*L'équipe gagnante marque 1 point.*
+
+La partie s’arrête dès qu’une équipe a gagné *2 points*.
+Cette équipe remporte la partie.
+
+Sinon, entamez une <<nouvelle-manche>>.
+
+****
+*3 Joueurs : Seul le vainqueur de la manche marque des points.*
+
+Lorsque vous jouez à 3 joueurs, il est possible qu’il puisse y avoir 2 vainqueurs pour une manche.
+Selon la condition de fin de manche, le(s) joueur(s) marquent des points de différentes manières.
+
+* Si la manche s’est arrêtée lorsqu’un joueur a gagné 3 ou plus Boss Yokai (cartes *K*), *ce joueur marque 1 point*.
+* Si la manche s’est arrêtée lorsqu’un joueur a gagné sept plis, alors *les deux autres joueurs marquent 1 point chacun*.
+
+La partie s’arrête dès qu’un joueur a gagné *2 points*.
+Ce joueur remporte la partie.
+
+Dans le cas où il y aurait deux joueurs avec 2 points, alors la dernière manche s'est nécessairement terminée par un joueur ayant gagné sept plis.
+Le jouer à gauche de celui ayant gagné sept plis remporte la partie.
+
+Sinon, entamez une <<nouvelle-manche>>.
+
+****
+
+=== Règle de score traditionnelle
+
+L'équipe gagnante marque un nombre de points égal au nombre de Boss Yokai (cartes *K*) gagnés moins le nombre de Boss Yokai gagnés par l'équipe adverse plus 1.
+
+[options="autowidth",frame=none,grid=none, cols= "^.^,^.^,^.^,^.^,^.^"]
+|===
+| Nombre de +
+Boss Yokai +
+*vous avez*
+| [big]#*-*#
+| Nombre de +
+Boss Yokai +
+*ils ont*
+| [big]#*+*#
+| 1 point
+|===
+
+La partie s’arrête dès qu’une équipe a gagné *7 points* ou plus.
+Cette équipe remporte la partie.
+
+Sinon, entamez une <<nouvelle-manche>>.
+
+****
+*3 Joueurs : Seul le vainqueur de la manche marque des points.*
+
+Lorsque vous jouez à 3 joueurs, il est possible qu’il puisse y avoir 2 vainqueurs pour une manche.
+Selon la condition de fin de manche, le(s) joueur(s) marquent des points de différentes manières.
+
+* Si la manche s’est arrêtée lorsqu’un joueur a gagné 3 ou plus Boss Yokai (cartes *K*), ce joueur marque un nombre de points égal au nombre de Boss Yokai gagnés moins le nombre de Boss Yokai gagné par le deuxième joueur plus 1.
++
+[options="autowidth",frame=none,grid=none, cols= "^.^,^.^,^.^,^.^,^.^"]
+|===
+| Nombre de +
+Boss Yokai +
+*vous avez*
+| [big]#*-*#
+| Nombre de +
+Boss Yokai +
+*le deuxième* +
+*joueur a*
+| [big]#*+*#
+| 1 point
+|===
+* Si la manche s’est arrêtée lorsqu’un joueur a gagné sept plis :
+** Le joueur à *droite* du joueur avec sept plis marque un nombre de points égal au nombre de Boss Yokai (cartes *K*) gagnés moins le nombre de Boss Yokai gagné par le joueur avec sept plis plus 1.
++
+[options="autowidth",frame=none,grid=none, cols= "^.^,^.^,^.^,^.^,^.^"]
+|===
+| Nombre de +
+Boss Yokai +
+*vous avez*
+| [big]#*-*#
+| Nombre de +
+Boss Yokai +
+*le perdant a* +
+| [big]#*+*#
+| 1 point
+|===
++
+Ce joueur marque *au minimum 1 point*.
+** Le joueur à *gauche* du joueur avec sept plis marque *la moitié des points du joueur de droite*, arrondi au supérieur.
+
+La partie s’arrête dès qu’un joueur a gagné *7 points* ou plus.
+Le joueur ayant le plus de points remporte la partie.
+
+Dans le cas où il y aurait une égalité entre deux joueurs ayant 7 points ou plus, alors la dernière manche s'est nécessairement terminée par un joueur ayant gagné sept plis.
+Le jouer à gauche de celui ayant gagné sept plis remporte la partie.
+
+Sinon, entamez une <<nouvelle-manche>>.
+****
+
+
+=== Règle de score avancée
+
+Pour déterminer votre score, regardez toutes les cartes Boss Yokai que vous avez gagné lors de cette manche.
+
+Chaque carte Boss Yokai rapporte de 0 à 2 points :
+
+[options="autowidth"]
+|===
+| ★ | ⎈ | ✿ | ♦ | ♣ | ♥ | ♠
+| 0 | 0 | 1 | 1 | 1 | 2 | 2
+|===
+
+L'équipe gagnante marque des points pour chaque Boss Yokai (carte *K*) gagnée durant la manche, *excepté pour le Boss Yokai de la famille atout*.
+Vous marquez 0 point pour le Boss Yokai de la famille atout.
+
+La partie s’arrête dès qu’une équipe a gagné *7 points* ou plus.
+Cette équipe remporte la partie.
+
+Sinon, entamez une <<nouvelle-manche>>.
+
+.Advanced scoring
+====
+Alice et Charlie forme une équipe, Barbara et David en forme une autre.
+
+*Manche 1* :
+
+Alice et Charlie ont gagné deux Boss Yokai chacun (soit un total de quatre pour l’équipe) ce qui entraîne la fin de la manche et ils en sont les vainqueurs.
+
+Les cartes Boss Yokai en leur possession sont K★, K♦, K♥, et K♠.
+Il y a un total de cinq 5 points, mais comme ♥ est la famille atout, ils marquent 0 point pour la carte K♥.
+Ainsi, leur score total est de 3 points pour cette manche.
+
+*Manche 2* :
+
+Alice et Charlie ont gagné 3 plis chacun.
+Charlie vient juste de gagner son 4^ème^ pli.
+Leur équipe a maintenant gagné un total de 7 plis.
+
+La manche s’arrête et l’équipe de Barbara et David est victorieuse.
+
+Barbara et David ajoutent toutes les cartes Boss Yokai restantes dans les mains de tous les joueurs à leurs propres cartes Boss Yokai gagnées pendant cette manche.
+Ils ont gagné K♣, K⎈, K♦, K♥, et K✿.
+Il y a un total de cinq 5 points, mais comme ♦ est la famille atout, ils marquent 4 points pour cette manche.
+====
+
+****
+*3 Joueurs : Seul le vainqueur de la manche marque des points.*
+
+Lorsque vous jouez à 3 joueurs, il est possible qu’il puisse y avoir 2 vainqueurs pour une manche.
+Selon la condition de fin de manche, le(s) joueur(s) marquent des points de différentes manières.
+
+* Si la manche s’est arrêtée lorsqu’un joueur a gagné 3 ou plus Boss Yokai (cartes *K*), ce joueur marque des points pour chaque Boss Yokai gagné durant la manche, *excepté pour le Boss Yokai de la famille atout*.
+Il marque 0 point pour la carte Boss Yokai de la famille atout.
++
+[options="autowidth"]
+|===
+| ★ | ⎈ | ✿ | ♦ | ♣ | ♥ | ♠
+| 0 | 1 | 1 | 2 | 2 | 3 | 3
+|===
+*  Si la manche s’est arrêtée lorsqu’un joueur a gagné sept plis, alors *les deux autres joueurs marquent 3 points*.
+
+La partie s’arrête dès qu’un joueur a gagné *7 points* ou plus.
+Le joueur ayant le plus de points remporte la partie.
+
+Dans le cas où il y aurait une égalité entre deux joueurs ayant 7 points ou plus, alors la dernière manche s'est nécessairement terminée par un joueur ayant gagné sept plis.
+Le jouer à gauche de celui ayant gagné sept plis remporte la partie.
+
+Sinon, entamez une <<nouvelle-manche>>.
+****
+
+
+== Variante pour 4 joueurs : Les sept prétendants
+
+Ceci est une variante pour le jeu à 4 joueurs, utilisant deux ensembles de cartes K.
+Nous recommandons de ne jouer à cette variante qu'une fois que chacun s'est familiarisé avec les règles du jeu.
+
+
+=== Game Overview
+
+Le but de ce jeu est d'être la première équipe à avoir capturé et scellé les Boss Yokai des sept familles.
+Pour sceller une famille, vous devez capturer les deux Boss Yokai (cartes *K*) d'une même famille pendant une manche (pas nécessairement durant le même pli).
+
+
+=== Préparatifs
+
+Comme lors du jeu normal, divisez les joueurs en deux équipes de deux joueurs.
+Assurez-vous que les mêmes membres d’une équipe ne soient pas assis côte à côte, mais séparés à chaque fois par un membre de l’équipe adverse.
+
+Une équipe prend les 7 cartes J et l'autre équipe prends les 7 cartes Q.
+Ces cartes sont les cartes "capture" : elles sont placées face visible à côté de la zone de jeu.
+
+*Utilisez deux ensembles de cartes K*.
+Vous jouerez donc avec 56 cartes.
+
+Les cartes 0 ne servent qu'à indiquer la famille d'atout et ne sont pas mélangées avec les cartes du jeu.
+
+
+=== Nouvelle manche
+
+Placez les 7 cartes 0 en une pile face cachée au centre de la table.
+
+Mélangez les 56 cartes.
+Distribuez à chaque joueur une main de 14 cartes face cachée.
+Il ne restera pas de carte.
+
+Chaque joueur passe une carte face cachée à chaque autre joueur.
+Chaque joueur va donc passer 3 cartes.
+
+Le joueur ayant la carte A la révèle et deviens premier joueur.
+
+
+=== Les règles du jeu
+
+Le premier joueur commence.
+Il joue une carte de sa main face visible devant lui.
+
+*La couleur de la première carte jouée par le premier joueur de chaque manche détermine la couleur d'atout pour la manche.*
+Prenez la carte 0 correspondante dans la pile des cartes 0 et placez là face visible sur le dessus de cette pile.
+
+Chaque autre joueur joue une carte de la même manière que dans le jeu normal.
+Ils doivent donc jouer une carte de la même famille que celle de la carte du premier joueur, et ne peuvent jouer une carte d'une autre famille que s'ils n'en ont pas de cette famille.
+
+
+=== Gagner un pli
+
+Le pli est pris de la même manière que dans le jeu normal, à une exception : si les deux cartes K d'une même famille sont jouées lors du même pli et sont la carte la plus forte du pli.
+Dans ce cas, la première carte K jouée gagne le pli.
+
+Si vous gagnez le pli, prenez toutes les cartes du pli.
+Si vous avez gagné un ou plusieurs Boss Yokai (carte *K*), gardez-les face visible devant vous.
+Si votre équipe a maintenant gagné les deux cartes K d'une même famille pendant la manche, vous scellez alors cette famille pour votre équipe en retournant face cachée la carte capture de cette famille de votre équipe.
+
+Ensuite, le joueur ayant gagné le pli deviens le Premier Joueur du prochain pli.
+Continuez à jouer les prochains plis jusqu'à avoir joué les 14 cartes.
+
+
+=== Fin d’une manche
+
+La manche se termine lorsque toutes les cartes de votre main ont été jouées, c'est-à-dire 14 plis.
+
+Jouez les manches suivantes jusqu'à ce qu'une équipe ait scellé les sept familles.
+Cela prendra généralement plusieurs manches.
+
+
+=== Fin de la partie
+
+La partie se termine dès qu'une équipe a scellé les sept familles, même au milieu d'une manche.
+Cette équipe remporte la partie !
+
+
+=== Variante plus courte
+
+Plutôt que chaque équipe scelle les sept familles, dans cette variante, une famille est scellée par la première équipe à avoir capturé les deux cartes K de cette famille dans une même manche.
+La première équipe à avoir scellé quatre des sept familles remporte la partie.
+
+N'utilisez pas l'ensemble de cartes J.
+Placez les 7 cartes Q face visible à côté de la zone de jeu.
+Lorsqu'une équipe scelle une famille, ils prennent la carte Q correspondante.

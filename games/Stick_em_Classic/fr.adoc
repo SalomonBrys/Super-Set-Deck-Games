@@ -1,0 +1,176 @@
+= Stick'em Classique
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Klaus Palesch.
+
+.Matériel
+****
+* 114 cartes numérotées: 0-15, J, Q & K à ♠, ♥, ♣, ♦, ✿, ★
+****
+
+Chaque joueur reçoit des cartes.
+Chacun sélectionne l'une de ces cartes pour définir leur propre "couleur de misère".
+L'objectif du jeu est de prendre le plus possible de plis, tout en évitant les cartes de leur “couleur de misère”.
+Les cartes de la "couleur de misère" rapportent des points négatifs, tandis que les autres couleurs rapportent des points positifs.
+Le joueur avec le plus de points gagne le jeu.
+
+
+== Mise en place
+
+Les cartes utilisées dans le jeu dépendent du nombre de joueurs.
+Les cartes non listées ne sont pas utilisées.
+
+* *3 joueurs* : 0-8 à ♠, ♥, ♣, ♦ & ✿.
+* *4 joueurs* : 0-11 à ♠, ♥, ♣, ♦ & ✿.
+* *5 joueurs* : 0-14 à ♠, ♥, ♣, ♦ & ✿.
+* *6 joueurs* : 0-14 à ♠, ♥, ♣, ♦, ✿ & ★.
+* *7 joueurs* : 0-15, J & Q à ♠, ♥, ♣, ♦, ✿ & ★.
+* *8 joueurs* : 0-15, J, Q & K à ♠, ♥, ♣, ♦, ✿ & ★.
+
+Les cartes sont mélangées et distribuées à chaque joueur.
+Chaque joueur reçoit 15 cartes (14 cartes, s'il y a huit joueurs).
+
+NOTE: À sept ou huit joueurs, des cartes ne seront pas distribuées (3 à sept joueurs, 2 à huit joueurs).
+Ces cartes sont écartées face visible.
+
+
+=== Choisir votre "couleur de misère"
+
+Après avoir regardé sa main, chaque joueur choisit sa "couleur de misère" pour sa main.
+Il choisit alors une carte de cette couleur de sa main et la place face cachée devant lui.
+Une fois que tout le monde a choisi une carte, tous la révèlent en même temps.
+Ces cartes resteront face visible jusqu'à la fin de la manche, de sorte que la couleur de misère de chaque joueur soit connue.
+Il peut arriver que plusieurs joueurs aient choisi la même couleur de misère.
+
+Chaque carte de sa couleur de misère qu'un joueur prend dans les plis marquera sa valeur en points négatifs.
+La misère commence avec le choix de la couleur de misère, puisque la carte choisie pour annoncer la couleur de misère d'un joueur compte pour ce joueur à la find de la manche.
+
+TIP: Lors du choix de sa couleur de misère, un joueur ne devrait pas choisir un couleur dans laquelle il n'a que 1-3 cartes, ni une couleur dans laquelle il a beaucoup de cartes.
+De plus, il est préférable de choisir un couleur dans laquelle il a des cartes de valeur basses, de façon à éviter de prendre des plis avec des cartes hautes de sa couleur de misère.
+
+
+== Déroulement
+
+Le premier joueur commence par joueur une carte au centre de la table.
+Chaque joueur doit ensuite, dans l'ordre du tour, jouer une carte de sa main.
+Vous ne devez pas nécessairement suivre la couleur.
+N'importe quelle carte peut être jouée.
+
+Les cartes jouées au centre de la table forment le "pli".
+La couleur de la première carte jouée est la "première couleur".
+Toutes les autres couleurs dans ce pli sont atout.
+Toutes les cartes des couleurs d'atout sont des atouts, à l'exception des cartes 0.
+
+CAUTION: La carte 0 n'est pas un atout.
+
+
+=== Qui remporte le pli ?
+
+IMPORTANT: À 7 ou 8 joueurs, les cartes J valent 16, les cartes Q 17, et les cartes K 18.
+
+* Si le pli ne contient que des cartes de la première couleur, le joueur ayant joué la carte la plus haute remporte le pli.
+* Si le pli ne contient que des cartes de la première couleur et des cartes 0, le joueur ayant joué la carte la plus haute remporte le pli.
+Une carte 0 n'est pas un atout.
+* Si le pli contient une seule carte atout, le joueur ayant joué la carte atout la plus forte remporte le pli.
+Une carte 0 ne peut pas remporter ce pli.
+* Si le pli ne contient plusieurs cartes atout de la même valeur la plus forte, le joueur ayant joué la première carte atout de cette valeur remporte le pli.
+* Si le pli ne contient que des cartes 0, le joueur ayant ouvert avec la première carte 0 remporte le pli.
+
+Le joueur qui remporte le pli prend les cartes et les places face cachée en pile devant lui.
+Ce joueur ouvre ensuite le prochain pli en jouant une nouvelle carte.
+La couleur de cette carte est la nouvelle première couleur.
+
+
+=== Fin de la manche et décompte des points
+
+La manche se termine après 14 plis (13 plis à huit joueurs).
+Chaque joueur à maintenant au moins une carte de sa couleur de misère (la carte utilisée pour annoncer cette couleur), et potentiellement d'autres cartes prises dans les plis.
+Chaque carte de la couleur de misère d'un joueur lui donne sa valeur en point négatif.
+Chaque carte des autres couleurs compte comme un point positif, quelle que soit la valeur de cette carte.
+Pour déterminer le score d'un joueur pour la manche, additionnez les points positifs et soustrayez les points négatifs.
+
+IMPORTANT: À 7 ou 8 joueurs, les cartes J valent 16, les cartes Q 17, et les cartes K 18.
+
+.Décompte
+====
+Axel a utilisé un 4♥ pour annoncer sa couleur de misère.
+Dans ses plis, il a remporté le 2♥ et le 5♥, ainsi que 14 cartes dans d'autres couleurs.
+Pour ses 14 autres cartes, Axel reçoit 14 points, et pour ses cartes ♥, il reçoit stem:[4 + 2 + 5 = 11] points négatifs.
+Son score pour cette manche est donc de stem:[14 - 11 = 3] points.
+====
+
+
+=== La manche suivante
+
+Une fois les scores des joueurs calculés, la prochaine manche peut commencer.
+Le joueur ayant le score le plus bas mélange les cartes (incluant les cartes écartées à la précédente manche si vous jouez à 7 ou 8 joueurs), et les distribue (en écartant à nouveau les cartes restantes).
+En cas d'égalité pour le score le plus bas, c'est le joueur ayant marqué le plus faible score à la précédente manche distribue.
+Chaque joueur choisit sa couleur de misère, qui peut ou non être la même qu'à la manche précédente.
+
+Le joueur à gauche de celui qui a distribué ouvre le premier pli de la nouvelle manche.
+
+
+== Fin du jeu
+
+Le jeu se termine après 5 manches.
+Le joueur qui a le plus grand score positif remporte le jeu.
+Si tous les joueurs ont un score négatif, celui qui a le plus petit score négatif remporte le jeu.
+
+
+== Variantes
+
+=== Stick'em “à l'envers”
+
+Les joueurs choisissent leur "couleur de bonheur" parmi les cartes de leur main.
+Cela signifie que les cartes de cette couleur remportées par un joueur lui rapportent leur valeur en points positifs.
+Naturellement, la carte choisie par le joueur compte également dans son score.
+À l'inverse, chaque carte des autres couleurs compte comme un point négatif, quelle que soit leur valeur.
+
+IMPORTANT: La plus faible carte d'atout remporte le pli (et non la plus forte).
+(Une carte “0” ne peut toujours pas remporter de pli.)
+Si plusieurs joueurs jouent une carte atout de la plus faible valeur, le premier joueur à avoir joué l'une de ces cartes remporte le pli.
+
+Le reste des règles sont les mêmes que dans Stick'em “Classique”.
+
+
+=== Stick'em “doux”
+
+Chaque carte de sa couleur de misère rapporte 5 points négatifs à un joueur (au lieu de sa valeur).
+Cela s'applique également à la carte 0 de cette couleur.
+Les cartes des autres couleurs rapportent toujours un point positif.
+
+Le reste des règles sont les mêmes que dans Stick'em “Classique”.
+
+
+=== Stick'em “aggravé”
+
+Chaque joueur choisi deux couleurs de misère en choisissant deux cartes de sa main.
+Chaque carte des deux couleurs de misère rapporte leur valeur en points négatifs et les cartes des autres couleurs rapportent chacune un point positif.
+
+À 3-7 joueurs, seul 13 plis seront donc joués (12 plis à 8 joueurs).
+
+Le reste des règles sont les mêmes que dans Stick'em “Classique”.
+
+
+=== Stick'em “brumeux”
+
+La carte annonçant la couleur de misère d'un joueur est placée face cachée devant chaque joueur.
+Elle n'est révélée qu'à la fin de la manche.
+
+Le reste des règles sont les mêmes que dans Stick'em “Classique”.
+
+
+=== Stick'em “différé”
+
+Les joueurs choisissent leur couleur de misère non au début de la manche, mais à la fin, lorsqu'ils comptent les cartes qu'ils ont remportés dans leurs plis.
+Chaque joueur doit choisir une couleur de misère représentée par au moins une carte ainsi remportée.
+Si un joueur n'a remporté aucune carte d'une couleur, il ne peut pas la choisir comme couleur de misère.
+
+Un joueur n'ayant remporté aucun pli reçoit 0 points.
+
+Dans cette variante, 15 plis sont joués (14 plis à huit joueurs).
+
+Le reste des règles sont les mêmes que dans Stick'em “Classique”.

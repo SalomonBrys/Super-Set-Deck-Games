@@ -1,0 +1,353 @@
+= French Tarot
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+.Components
+****
+* 56 colour cards : 1-10, J, S, Q, K in ♠, ♥, ♦, ♣.
+* 21 trump cards : 1-21 in ★.
+* 1 Butterfly
+****
+
+Tarot is played by four players.
+It may also, however, be played by 3 or 5 players with some alterations in the rules.
+
+Tarot is at the same time an individual and a team game.
+Indeed, during the play, one of the players, called the Preneur (or taker) plays alone against the three others, the defenders, who play as a team (the Defense).
+
+But this alliance may not last beyond one deal.
+It may be constituted differently for subsequent deals.
+
+After acknowledging his game, a player may contract to reach a certain number of points while playing against his three allied opponents.
+How many points does the Preneur have to score in order to fulfill the contract?
+That depends on the number of Oudlers counted as won tricks at the end of a played deal.
+
+. Points to be scored
+* Without any Oudlers: 56 points are needed.
+* With one Oudler: 51 points are needed.
+* With two Oudlers: 41 points are needed.
+* With three Oudlers: 36 points are needed.
+
+This list shows us the considerable importance of Oudlers.
+The 21 and the Butterfly cannot change sides.
+
+Note however, the Butterfly should not be played at the last trick, except in the event of Chelem (Slam).
+The Butterfly, if played at the last trick, changes sides.
+
+The Petit, however, is vulnerable.
+The Preneur can lose it or take it.
+Opponents may chase or hunt for the Petit (Chasse au Petit).
+
+
+== The Cards
+
+The game of Tarot is played with 78 cards:
+
+* Four suits: ♠, ♥, ♦, ♣ (Spades, Hearts, Diamonds, and Clubs).
+Each suit consists of 14 cards ranking in descending order; the King, the Queen, the Squire, and the Jack, (constituting the Honors or Habillés), 10,9,8,7,6,5,4,3,2,1.
+* Twenty-one ★ cards are assigned a number: in fact the Trumps (Atouts) rank higher than the suit cards.
+The number indicates the rank of each Trump; the highest being the 21, and the lowest being the 1 (called Petit or Little Man).
+* Finally, the Butterfly is a kind of "joker" exempting the obligation to play the required suit or Trump.
+
+The 21, the Petit and the Butterfly are the 3 Oudlers (or 3 Bouts "end-points").
+It is around these 3 cards, that all strategy of the Tarot game revolves.
+
+.Value of each card
+****
+[%autowidth]
+|===
+| 1 Oudler(or Bout: 21 - Petit - Butterfly) | 4½ pts
+| 1 Roi(King) | 4½ pts
+| 1 Dame(Queen) | 3½ pts
+| 1 Cavalier(Knight) | 2½ pts
+| 1 Valet(Jack) | 1½ pts
+| Any other card | ½ pt
+|===
+
+One counts the cards in pairs to facilitate the calculation
+
+[%autowidth]
+|===
+| 1 Oudler + 1 small card | 5 pts.
+| 1 King + 1 small card | 5 pts.
+| 1 Queen + 1 small card | 4 pts.
+| 1 Knight+ 1 small card | 3 pts.
+| 1 Jack+ 1 small card | 2 pts.
+| 2 small cards of a suit or Trump | 1 pt.
+|===
+****
+
+
+== The Deal
+
+Before the first deal, the cards are spread out, face down, and each player randomly draws a card.
+The dealer is the one with the lowest ranked card.
+In the event of a tie between two equally ranked cards, one observes the following ranking among the suits: Spades, Hearts, Diamonds, and Clubs ; the 1 of Clubs is thus the lowest ranked card.
+The Trumps rank higher than the suit cards, but the Butterfly does not count: it is necessary to discard it in this case and draw another card.
+
+The cards are shuffled by the player seated opposite the dealer.
+
+The player on the left of the dealer must then cut the cards (with each section containing more than 3 cards).
+
+The dealer deals the cards, 3 at a time per person, in a counter-clockwise direction.
+During the deal, the dealer deals cards individually to a stock of 6 cards called the Chien (Dog).
+It is a violation to deal the first or the last card of the deck to the Chien.
+In the event of a misdeal, the dealer re-deals, but may not bid this round.
+A card turned over by the dealer at the time of the deal is a misdeal if it involves an honor card and/or a Trump.
+
+The players pick up their cards only when the deal is finished.
+In the event of a misdeal, each player returns his hand without looking at it; one thus avoids regrets and bad feelings.
+
+The right to deal passes in turn in the same counter-clockwise direction as play of the game.
+
+A player having the Petit without any other Trump and not having the Butterfly must announce this fact, displaying his hand and canceling the deal before the bidding commences.
+
+
+== Bidding
+
+Once the cards are dealt, each player takes note of his hand.
+It is not essential to organize one's hand before the end of the bidding phase, but for a beginner, a well organized hand allows for a more precise evaluation.
+
+The player on the dealer's right speaks first.
+If he says "I pass", the right to bid passes to the right hand neighbor of this player, and so forth, to the dealer.
+
+If all four players pass, the player on the right-hand side of the dealer proceeds to a new deal.
+
+But if a player bids, estimating that his hand enables him to play alone against three united opponents, then that player says "prise", "garde", "garde sans le chien" or "garde contre le chien".
+The other players, in turn, may overcall this first bid with a higher bid.
+Each player speaks only once.
+
+The bids in ascending order are:
+
+* The PRISE, with an average hand which allows hope for only approximately 50% chance of success and which is often based on the hope of encountering a very good Chien, is also called the "Petite" and is not as highly valued as the Garde.
+* The GARDE can be a higher bid after the Prise of an opponent.
+It is generally, however, the first bid, as the Preneur considers his chances of success much higher than his risks of failure.
+* The GARDE SANS LE CHIEN.
+With a very good hand, the Preneur estimates that he can carry out his contract without the Chien during play, as the cards were not exchanged.
+The points of the Chien, however, are counted towards the Preneur at the end of play and constitute a certain reserve of safety.
+Naturally, no player may look at the Chien while this contract is played.
+* The GARDE CONTRE LE CHIEN.
+With an exceptional hand, the Preneur begins to carry out his contract without the aide of the Chien.
+The points of the Chien will count towards the Defense.
+
+
+=== The Chien and the Discard
+
+On a Prise or a Garde, when the bidding is finished, the Preneur turns over the 6 cards of the Chien so that each player acknowledges them.
+The Preneur incorporates the cards in his hand then discards 6 cards which remain secret during the entire play of the hand and which will be counted towards the won tricks of the Preneur.
+
+One may neither discard a King nor a Bout.
+One may discard Trumps, however, only when it proves necessary.
+One must then show the discarded Trumps to the Defense.
+
+When the Preneur finishes the discard, he says "play" and the discard may not be further modified or examined.
+
+On a Garde Sans or a Garde Contre, the cards of the Chien remain face down.
+On a Garde Sans, they are placed in front of the Preneur and will count towards his won tricks.
+On a Garde Contre, they are placed in front of the player located opposite the Preneur and will be counted towards the won tricks of the Defense
+
+
+=== Chelem (Slam)
+
+To achieve Chelem successfully, it is necessary to win all the tricks.
+Perhaps one will play for years without ever experiencing this extremely rare stroke.
+
+The Chelem can be declared by the Preneur in addition to his contract and the points are counted according to the required contract and a bonus (or a penalty) is added depending on the success (or the failure) of this Chelem:
+
+* Chelem announced and achieved: additional bonus of 400 points.
+* Chelem not announced but achieved: additional bonus of 200 points.
+* Chelem announced but not achieved: 200 points are subtracted from the total.
+
+In the event of a Chelem announcement, the player making the announcement leads the first trick and becomes Preneur, regardless of who is the dealer.
+
+In order for a Chelem to succeed, the one announcing it must win all tricks and must play the Butterfly in the final trick.
+Consequently, "Petit au bout" will be counted if the Petit wins the second to last trick.
+
+Paradoxically, it may happen that the Defense achieves Chelem against the Preneur.
+In this case, each defender receives, in addition to the normal score, a bonus of 200 points.
+
+
+=== Poignée (handful) (10, 13 or 15 Trumps)
+
+A player having a Poignée may, if desired, announce it and present it, arranging the Trumps in descending order, completely and only once, right before playing his first card.
+The Butterfly can replace a missing Trump.
+
+* With the simple Poignée (10 Trumps) there is a bonus of 20.
+* With the double Poignée (13 Trumps) there is a bonus of 30.
+* With the triple Poignée (15 Trumps) there is a bonus of 40.
+
+These bonuses have the same value regardless of the contract.
+This bonus is awarded to the victorious side in a played hand.
+
+The Poignée must include ten, thirteen or fifteen Trumps.
+When a player has eleven, twelve, fourteen, sixteen or seventeen Trumps, the player hides one or two Trumps of his choice, but complying with this very important rule: the Butterfly in the Poignée implies that the player announcing Poignée does not have any other Trumps.
+
+.Poignée
+====
+* The Preneur presents a double Poignée.
+If he wins, each defender gives him, in addition to the normal score, a bonus of 30. If he loses, it is he who gives this bonus to each defender, in addition to the normal score.
+* A defender presents ten Trumps.
+If the Preneur wins, each defender gives him a bonus of 20.
+If the Preneur loses, each defender receives a bonus of 20.
+====
+
+
+== Card Play
+
+The Preneur having finished the discard, says "Play".
+
+The first trick is led by the player located on the right of the dealer.
+Then each player plays in turn in a counter-clockwise direction.
+
+The player having won the first trick leads the next trick, and so forth
+The game proceeds according to following rules:
+
+* With a Trump, one is obliged to exceed the highest Trump already played, even if it belongs to a partner.
+A player not having a Trump exceeding the highest one played, plays a Trump of his choice; in general, the smallest.
+It is said the player, playing a small Trump, "pisse" (or "tinkles").
+* With a suit card, one is obliged to play a card of the suit led, but not required to exceed it.
+* One is obliged to play a Trump if he does not have a card of the suit led.
+If a preceding player also Trumps, one is obliged to over-Trump (to play a higher Trump) or to under-Trump (to tinkle) if one cannot over-Trump.
+* One reneges (plays a card of his choice) if he has neither a card of the suit led nor a Trump.
+* If the card led to a trick is the Butterfly, it is the next card played which determines the suit led.
+* The Butterfly may not win a trick (except in the event of Chelem), but it still belongs to the side holding it.
+If the opposing side wins the trick containing the Butterfly, the holder of the Butterfly must replace it in the trick by any small card (any card, including a Trump, valued at ½ points) taken from the tricks won by his side.
+* In the event of a successful Chelem without the Preneur having the Butterfly, this card is played normally and remains with the side of the Defense and accounts for 4 points.
+* The tricks won by the Defense must be collected by the player seated opposite the preneur.
+* As long as a trick was not collected, any player may examine the preceding trick.
+* A player should never play a card before his turn.
+
+
+=== Petit au Bout (Petit at the Last Trick)
+
+If the Petit is played at the last trick, it is called "Petit au bout."
+The side winning this trick, receives a bonus of 10, multiplied by the value of the contract, regardless of who wins the deal.
+
+.Petit au bout
+====
+* The Preneur bids Garde Sans.
+A defender achieves "Petit au bout", winning the last trick with the Petit.
+The Preneur gives a bonus of 10 x 4 = 40 to each defender.
+If, in spite of the loss of the Petit, the Preneur wins his contract, the bonus is then subtracted from his profit or positive points.
+* The Preneur bids Prise.
+A defender achieves "Petit au bout", winning the last trick with the Petit.
+The Preneur gives a bonus of 10 to each defender.
+If the Preneur wins the contract, he nevertheless gives the bonus, deducting it from his profit.
+====
+
+
+== Calculation of the Scores
+
+At the end of the played deal, one counts the points contained in the won tricks of the Preneur for one total, and those of the Defense as another total.
+
+To win the contract, the Preneur must score a minimum number of points according to the number of Bouts that he has acquired at the end of the played deal.
+In the event of Garde Sans, it is possible for the Preneur to acquire a Bout with the Chien.
+
+If the number of points is equal to this minimum, the contract is barely achieved; if the number of points is higher, the additional points are profit (positive); if the number of points is lower, the contract has not been achieved and the score is counted as a loss (negative).
+
+Any contract arbitrarily being worth 25 points, one adds 25 points with the number of scored points, positive or negative.
+
+This new total is multiplied by a coefficient according to the appropriate contract:
+
+* in the event of Prise, this total is unchanged,
+* in the event of Garde, this total is multiplied by two,
+* in the event of Garde Sans, this total is multiplied by four,
+* in the event of Garde Contre, this total is multiplied by six.
+
+Each Defender scores the same number of points: negative if the Preneur wins, or positive if the Preneur fails.
+
+The Preneur counts three times this total; as positive if he wins, or as negative if he fails.
+
+The total of the four scores of the Preneur and the three Defenders is, thus, equal to 0.
+
+.Scoring points
+====
+* The Preneur bids Garde, presents a Poignée of 10 Trumps.
+He achieves Petit au bout and scores 49 points by holding two Bouts.
+He thus proceeds from stem:[49 - 41 = 8].
++
+--
+** stem:[25_"contract" + 8 = 33 * 2_"garde" = 66].
+** stem:[20_"poignée"]
+** stem:[10_"petit au bout" * 2_"garde" = 20].
+--
++
+stem:[66 + 20 + 20 = 106]. +
+Each Defender scores stem:[-106] and the Preneur scores stem:[3 * 106 = +318].
+
+* The Preneur fulfills Garde Sans by 4 points, but the Petit au bout is achieved by the Defense:
++
+--
+** stem:[(25 + 4) * 4_"garde sans" = 116]
+** stem:[-40_"le petit au bout"]
+--
++
+stem:[116 - 40 = +76] +
+The Preneur scores stem:[76 * 3 = +228] and each Defender scores stem:[-76].
+
+* The Preneur fails Prise by 7 after having presented a Poignée of 10 Trumps, but achieving Petit au bout. +
+stem:[25 + 7 + 20_"poignée" - 10_"petit au bout" = 42]. +
+Each Defender scores stem:[+42] and the Preneur scores stem:[-42 x 3 = -126].
+
+* The Preneur wins Garde by 11.
+The Defense presented a Poignée. +
+stem:[(25 + 11) x 2_"Garde" = 72 + 20_"poignée paid by the defense" = 92]. +
+The Preneur scores stem:[+276] and each Defender scores stem:[-92].
+
+* On a Garde, the Preneur announces and achieves Chelem, shows a Poignée of 10 Trumps and achieves Petit au bout.
+The Defense retains the Butterfly with which they started.
+With 2 Bouts, the Preneur wins by stem:[87 - 41 = 46] points. +
+He earns stem:[(46 + 25) * 2_"garde" + 20_"poignée" + 20_"petit au bout" + 400_"announced Chelem" = 582]. +
+Each Defender scores stem:[-582].
+The Taker scores stem:[+582 * 3 = +1746].
+====
+
+
+== Tarot for 3 Players
+
+The rules are the same as for the game for 4, but the cards are dealt 4 at a time per person.
+Each player receives 24 cards, the Chien 6 cards.
+
+The contracts are identical to the game for 4 players
+
+The Poignées are: simple: 13 Trumps; double: 15 Trumps; triple: 18 Trumps
+
+At the time of calculation, it is necessary to round off the ½ point.
+Thus, a Preneur who was to make 41, loses if he makes 40.5.
+The round-off is done, then, by always privileging the side which scores points.
+Thus, in the preceding case, the Preneur loses by 1 point.
+Conversely, if he had made 41.5, he would have won by 1 point.
+If the Preneur misses by ½ point, he has failed to fulfill the contract.
+
+
+== Tarot for 5 Players
+
+The cards are dealt, counter-clockwise, 3 cards at a time per person.
+Each player receives 15 cards and 3 cards are dealt to the Chien.
+
+The contracts are identical to the games with 3 or 4 players
+
+The Poignées are: simple: 8 Trumps; double: 10 Trumps; triple: 13 Trumps.
+
+Before turning over the Chien, the Preneur calls a King of his choice and the holder of this King becomes his partner.
+If the Preneur has the 4 Kings, he calls a Queen, or a Squire if he also has the 4 Queens.
+If the Preneur has an exceptional hand, he may call himself by calling a King that is part of his hand.
+
+If the chosen King is with the Chien, or if the Preneur called himself, then the game is played 1 against 4.
+Otherwise, the holder of the called card becomes the partner of the Preneur (associate) and the game is played at 2 (preneur and associate) against 3.
+
+The first trick may not be led in the suit chosen by the Preneur unless this trick is led by the suit's King.
+
+The partner of the Preneur must not say that he belongs to the attacking side until he plays the called card, even if he plays in a manner that leads few illusions to their opponents: he may give points or the Petit to the Preneur.
+
+The distribution of the points (including the bonuses of Poignée and/or Petit au bout) is divided 2/3 for the Preneur and 1/3 for his partner.
+If the Preneur plays 1 against 4, he combines the totality of the points as + or - according to his success or failure.
+
+At the time of calculation, it is necessary to round off the ½ point.
+Thus, a Preneur who was to make 41, loses if he makes 40.5.
+The round-off is done, then, by always privileging the side which scores points.
+Thus, in the preceding case, the Preneur loses by 1 point.
+Conversely, if he had made 41.5, he would have won by 1 point.
+If the Preneur misses by ½ point, he has failed to fulfill the contract.
+

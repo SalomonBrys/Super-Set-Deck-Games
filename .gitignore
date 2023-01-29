@@ -1,0 +1,21 @@
+# INTELLIJ
+.idea/
+*.ipr
+*.iml
+
+# SYSTEM FILES
+*~
+.DS_STORE
+
+# GRADLE
+.gradle
+build/
+.gradletasknamecache
+*local.properties
+
+# JS
+node_modules/
+package-lock.json
+
+# InDesign
+*.idlk

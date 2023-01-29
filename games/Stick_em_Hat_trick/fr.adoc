@@ -1,0 +1,114 @@
+= Stick'em “double”
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Klaus Palesch.
+
+.Matériel
+****
+* 57 cartes numérotées: 0-18 à ♠, ♥, ♣
+* 6 Têtes: Q, K in ♠, ♥, ♣
+****
+
+Chaque joueur essaie de collecter autant de cartes que possible d'une même couleur, tout en évitant les cartes d'une autre couleur.
+Les cartes d'une couleur rapportent un point positif.
+Les cartes de l'autre couleur rapportent un point négatif.
+Le joueur avec le plus de points remporte le jeu.
+
+
+== Mise en place
+
+* *À 4-6 joueurs* : utilisez les cartes 1-18, Q & K à ♠, ♥ & ♣.
+Un joueur mélange et distribue les cartes à tous les joueurs : 15 cartes à quatre joueurs, 12 cartes à cinq joueurs, et 10 cartes à six joueurs.
+* *À 7 joueurs* : utilisez les cartes 0-18, Q & K à ♠, ♥ & ♣.
+Chaque joueur recevra 9 cartes.
+
+[IMPORTANT]
+====
+* Les cartes Q ont pour valeur *19*,
+* Les cartes K ont pour valeur *20*.
+====
+
+
+== Déroulement
+
+Le premier joueur commence en jouant une carte de sa main au centre de la table.
+Ce faisant, il ouvre un pli.
+Dans l'ordre du tour, chaque autre joueur ajoute une carte soit dans la première couleur, soit dans une seconde couleur.
+Avec la seconde couleur un second pli est démarré.
+Ainsi se développe un double pli.
+
+IMPORTANT: Au plus deux couleurs peuvent être jouées dans un double pli.
+
+Le joueur qui a joué la carte de plus haute valeur remporte le pli.
+S'il s'agit d'un double pli, chaque couleur forme un pli séparé, remporté par un joueur différent.
+Le vainqueur de chaque pli place les cartes de son pli face visible en piles de couleur.
+Ainsi, chacun voit qui a collecté quelle couleur.
+
+.Double pli
+====
+[%autowidth,grid=none,frame=none,cols="^,^,^,^,^"]
+|===
+| Axel | Lorie | Ulises | Doris | Brigitte
+| ♥10  | ♠13   | ♥11    | ♥3    | ♠18
+|===
+Ulises remporte le pli ♥ et reçoit trois cartes ♥.
+Birgitte remporte le pli ♠ et reçoit deux cartes ♠.
+====
+
+Le joueur qui remporte le pli ouvre le pli suivant.
+Si le pli était un double pli, c'est celui qui a joué la carte la plus forte qui ouvre.
+En cas d'égalité, c'est le joueur qui a remporté la deuxième, troisième ou quatrième carte la plus forte qui ouvre.
+Si l'égalité persiste, elle est départagée par la priorité des couleurs : ♠, ♥, ♣.
+
+
+=== Les règles du pli
+
+* Dans un double pli, il ne peut y avoir que deux couleurs.
+* Le K, étant la carte la plus forte, remporte toujours le pli.
+* Une carte seule est considérée comme un pli.
+* Chaque joueur peut surenchérir avec une carte plus forte ou jouer une carte plus faible.
+
+
+=== Passer
+
+Si un joueur ne peut pas ou ne veut pas jouer de l'une des deux couleurs d'un double pli, il doit passer.
+Il doit montrer aux autres joueurs une carte d'une troisième couleur de sa main, et la placer face cachée devant lui.
+Il n'est possible de passer que lorsqu'il y a déjà deux couleurs dans le pli.
+
+
+=== Le décompte
+
+Toutes les cartes sont jouées en plis successifs, jusqu'à la dernière carte.
+
+IMPORTANT: La dernière carte n'est pas jouée.
+           Elle est mise de côté et ne compte pas dans le score.
+
+Chaque joueur a maintenant devant lui jusqu'à 3 piles face visible, et potentiellement des cartes face cachées (s'il a passé pendant la manche).
+Chaque joueur compte ses cartes dans chaque couleur.
+La couleur dans laquelle il a le plus de cartes lui rapporte un point positif par carte.
+En cas d'égalité au nombre de cartes, le joueur choisi la couleur qui lui rapporte les points positifs.
+Toutes les cartes des autres couleurs lui valent un point négatif par carte.
+Les cartes face cachée (placées lorsqu'il a passé) lui rapporte chacune deux points négatifs, peu importe leur couleur.
+
+.Décompte
+====
+Axel à neuf cartes ♥, deux ♠, quatre ♣ and une carte face cachée.
+Il marque donc stem:[9 - 2 - 4 - 2 = 1] point.
+====
+
+
+=== La manche suivante
+
+Une fois les scores des joueurs calculés, la prochaine manche peut commencer.
+Un joueur mélange toutes les cartes et les distribue aux joueurs, comme précédemment.
+Le joueur à gauche de celui qui a distribué ouvre le premier pli et le jeu continue.
+
+
+== Fin du jeu
+
+Le jeu se termine après 5 manches.
+Le joueur qui a le plus grand score positif remporte le jeu.
+Si tous les joueurs ont un score négatif, celui qui a le plus petit score négatif remporte le jeu.

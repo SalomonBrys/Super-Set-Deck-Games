@@ -1,0 +1,16 @@
+type:
+  - Trick Taking
+  - Hand Management
+  - Score and Reset
+players: 2, 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: K, 1-10
+      hearts: K, 1-10
+    3-5-players:
+      clubs: K, 1-10
+    4-5-players:
+      diamonds: K, 1-10
+    5-players:
+      florettes: K, 1-10

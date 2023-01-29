@@ -1,0 +1,300 @@
+= Parade
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Naoki Homma.
+
+.Matériel
+****
+* 66 cartes : 0-10 à ♠, ♥, ♣, ♦, ✿, ★.
+****
+
+La parade vient de commencer et tous les habitants du pays des merveilles y participent.
+Costumés, ils envahissent les rues pour y défiler gaiment.
+En tant qu'organisateur de ce défilé, votre défi est d'en faire le défilé le plus long possible.
+
+Malheureusement, les participants n'hésitent pas à partir, particulièrement lorsqu'un autre participant vêtu du même costume ou d'un costume plus prestigieux joint le cortège.
+N'y a-t-il donc aucun moyen de tous s'amuser ensemble ?
+
+
+== But du jeu
+
+À chacun de vos tours, vous jouez une carte de votre main et essayez de ne pas récupérer de cartes du défilé.
+Personne ne veut de points au pays des merveilles.
+
+
+== Préparation pour le défilé
+
+Déterminez aléatoirement un premier joueur.
+Ce joueur commence la partie, suivi des autres joueurs en sens horaire.
+Le premier joueur mélange les cartes et distribue 5 cartes, face cachée, à tous les joueurs.
+
+Par la suite, il fait une ligne de six cartes, face visible, au centre de la table.
+Les cartes restantes forment une pile qui est placée près de la boite à l'une des extrémités de la file pour indiquer le début du défilé.
+L'autre extrémité représente la fin du défilé.
+
+
+== Déroulement du jeu
+
+À son tour, un joueur effectue dans l'ordre les actions suivantes :
+
+1. Choisissez une carte de votre main et placez-la à la fin du défilé.
+2. Selon le cas, vous devrez peut-être retirer des cartes du défilé et les placer devant vous.
+3. Piochez une carte de la pile.
+
+Le joueur suivant exécute les mêmes actions à son tour.
+
+
+=== 1. Ajouter au défilé
+
+Choisissez une carte de votre main que vous placez à la fin du défilé.
+Cette carte n'est pas considérée lors du dénombrement de la prochaine étape.
+
+
+=== 2. Retirer du défilé
+
+Selon la carte jouée, certaines cartes seront peut-être retirées du défilé.
+
+Si le nombre de cartes participant déjà au défilé est *plus petit ou égal* à la valeur de la carte jouée, aucune carte n'est retirée du défilé.
+
+Si le nombre de cartes participant déjà au défilé est *plus grand* que la valeur de la carte jouée, certaines cartes seront possiblement retirées du défilé.
+
+Pour trouver les cartes qui doivent quitter le défilé, regardez la valeur de la carte jouée.
+Puis, en partant de la fin du défilé, mais en prenant soin d'ignorer la carte qui vient d'être jouée, comptez autant de cartes que la valeur de la carte jouée.
+Toutes les cartes *au-delà* de ces cartes (donc que vous n'avez pas comptées) passent en mode *retrait*.
+
+Ensuite, parmi les cartes en mode retrait, retirez les cartes suivantes :
+
+* Toutes les cartes de la même couleur que la carte jouée.
+* Toutes les cartes d'une valeur inférieure ou égale à la carte jouée.
+
+Les cartes retirées sont triées par couleur et placées, face visible, devant le joueur.
+Les valeurs des cartes doivent être visibles par tous, il est donc préférable de les superposer pour que les valeurs demeurent visibles.
+
+Les cartes restant dans le défilé sont poussées vers le début du défilé pour combler les trous.
+
+Lorsqu'une carte de valeur 0 est jouée, *toutes* les cartes du défilé passent en mode *retrait*.
+
+.Retrait
+====
+
+.Défilé
+[options="autowidth",cols="^,^,^,^,^,^,^,^"]
+|===
+| 5♠ | 0♣ | 7♣ | 3♥ | 7♠ | 1♥ | 4♣ | <- 3♣
+4+| *Mode retrait* 3+| Pas concerné | Nouvelle carte
+|===
+
+Vous jouez une carte de votre main (un 3♣) que vous placez à la fin du défilé.
+Puisque c'est un 3 (la valeur de la carte), vous ignorez les 3 cartes suivantes du défilé ;
+elles ne sont pas concernées par la carte jouée.
+
+Voici ce qui se produit avec les 4 cartes en mode retrait :
+
+* Vous récupérez toutes les cartes de la couleur jouée.
+Ici, il y a un 0♣ et un 7♣.
+* Vous récupérez toutes les cartes dont la valeur est inférieure ou égale à la carte jouée.
+Dans le cas présent, un 3♥.
+
+Notez que seules les cartes en *mode retrait* peuvent être récupérées.
+====
+
+
+=== 3. Piocher
+
+Le joueur pioche une carte de la pile pour avoir 5 cartes en main.
+
+
+== Dernière manche et fin de la partie
+
+La dernière manche débute lorsqu'un joueur a devant lui au moins une carte de chacune des 6 couleurs *OU* si la pile est vide.
+
+Si un joueur récupère la 6^ème^ couleur, il complète son tour, comme à l'habitude.
+Ensuite, tous les joueurs jouent un dernier tour, incluant le premier joueur à récupérer les 6 différentes couleurs.
+Cependant, les joueurs ne piochent pas de carte à la fin de leur tour.
+La partie prend fin après cette dernière manche.
+
+Si la pile est vidée, tous les joueurs jouent un tour de plus.
+La partie se termine lorsque tous les joueurs n'ont que 4 cartes en main.
+
+Si d'autres joueurs obtiennent les 6 différentes couleurs durant ce dernier tour, ceci n'a pas d'effet.
+La partie se termine suite à cette dernière manche.
+
+
+== Décompte
+
+À la fin de la partie, chaque joueur choisit 2 cartes de sa main qu'il défausse face cachée.
+Lorsque tous les joueurs ont défaussé leurs cartes, ajoutez les 2 cartes restantes à celles déjà en votre possession.
+
+NOTE: Chacune de ces 2 cartes sera soit ajoutée à une pile d'une couleur que vous avez déjà, soit placée pour former une pile d'une nouvelle couleur.
+
+Pour déterminer votre score, comptez uniquement les cartes placées devant vous.
+Défaussez les cartes encore présentes dans le défilé.
+
+Les joueurs déterminent leur score pour chaque couleur, chacune d'elle étant calculée individuellement.
+
+1. Trouvez le joueur qui a le plus de cartes dans chaque couleur.
+Le ou les joueurs avec le plus de cartes d'une couleur retournent leurs cartes de cette couleur.
+Chaque carte retournée vaut 1 point (la valeur imprimée de ces cartes n'est pas comptée).
+2. Chaque joueur additionne ensuite la valeur imprimée de toutes ses cartes face visible.
+Finalement, additionnez les points de vos cartes retournées (1 point par carte) à ceux de vos cartes face visible.
+
+Comme on peut s'y attendre du pays des merveilles, c'est le joueur avec le moins de points qui est déclaré vainqueur.
+En cas d'égalité, l'emporte celui parmi les ex æquo qui a le moins de cartes devant lui (face visible et cachée).
+
+
+.Décompte
+====
+* *Alice* :
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+9 +
+7 +
+6 +
+5 +
+0
+
+|
+10 +
+8 +
+3
+
+|
+4 +
+2
+
+|
+
+|
+0
+
+|
+7 +
+4 +
+0
+
+|===
++
+Alice possède la majorité des cartes ♠ et ★.
+Elle marque :
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Cartes : | stem:[5*1] | stem:[=5]
+| ♥ | Valeurs : | stem:[10+8+3] | stem:[=21]
+| ♣ | Valeurs : | stem:[4+2] | stem:[=6]
+| ✿ | Valeurs : | stem:[0] | stem:[=0]
+| ★ | Cartes : | stem:[3*1] | stem:[=3]
+| 2+| *Total* : | stem:[=35] points
+|===
+
+* *Le Chapelier* :
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+8
+
+|
+1 +
+0
+
+|
+
+|
+10 +
+1
+
+|
+8 +
+7 +
+5 +
+3
+
+|
+9 +
+8 +
+1
+
+|===
++
+Le Chapelier possède la majorité des cartes ✿ et ★.
+Il marque :
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Valeurs : | stem:[8] | stem:[=8]
+| ♥ | Valeurs : | stem:[1+0] | stem:[=1]
+| ♦ | Valeurs : | stem:[10+1] | stem:[=11]
+| ✿ | Cartes : | stem:[4*1] | stem:[=4]
+| ★ | Cartes : | stem:[3*1] | stem:[=3]
+| 2+| *Total* : | stem:[=27] points
+|===
+
+* *Le Lapin Blanc* :
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+4 +
+3
+
+|
+7 +
+6 +
+5 +
+2
+
+|
+9 +
+8 +
+7 +
+6
+
+|
+3 +
+2 +
+0
+
+|
+2 +
+1
+
+|
+10
+
+|===
++
+Le Lapin Blanc possède la majorité des cartes ♥, ♣ et ♦.
+Il marque :
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Valeurs : | stem:[4+3] | stem:[=7]
+| ♥ | Cartes : | stem:[4*1] | stem:[=4]
+| ♣ | Cartes : | stem:[4*1] | stem:[=4]
+| ♦ | Cartes : | stem:[3*1] | stem:[=3]
+| ✿ | Valeurs : | stem:[2+1] | stem:[=3]
+| ★ | Valeurs : | stem:[10] | stem:[=10]
+| 2+| *Total* : | stem:[=31] points
+|===
+
+*Le Chapelier est déclaré vainqueur !*
+
+====
+
+
+== Règles pour 2 joueurs
+
+Le seul changement à apporter est le suivant :
+lorsque vous déterminez les majorités, un joueur n'a la majorité dans une couleur que s'il possède, pour une couleur donnée, au moins 2 cartes de plus que l'autre joueur.

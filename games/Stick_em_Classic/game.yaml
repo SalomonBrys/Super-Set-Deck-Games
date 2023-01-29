@@ -1,0 +1,40 @@
+type:
+  - Trick Taking
+  - Score and Reset
+players: 3, 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      spades: 0-8
+      hearts: 0-8
+      clubs: 0-8
+      diamonds: 0-8
+      florettes: 0-8
+    4-8-players:
+      spades: 9-11
+      hearts: 9-11
+      clubs: 9-11
+      diamonds: 9-11
+      florettes: 9-11
+    5-8-players:
+      spades: 12-14
+      hearts: 12-14
+      clubs: 12-14
+      diamonds: 12-14
+      florettes: 12-14
+    6-8-players:
+      stars: 0-14
+    7-8-players:
+      spades: 15,J,Q
+      hearts: 15,J,Q
+      clubs: 15,J,Q
+      diamonds: 15,J,Q
+      florettes: 15,J,Q
+      stars: 15,J,Q
+    8-players:
+      spades: K
+      hearts: K
+      clubs: K
+      diamonds: K
+      florettes: K
+      stars: K

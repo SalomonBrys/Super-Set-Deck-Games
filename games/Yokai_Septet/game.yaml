@@ -1,0 +1,24 @@
+type:
+  - Trick Taking
+  - Team Based
+  - Score and Reset
+players: 3, 4
+cards:
+  Base:
+    all-players:
+      stars: A, 2-6, K
+      wheels: 2-6, K, 8
+      florettes: 3-6, K, 8-9
+      diamonds: 4-6, K, 8-10
+      clubs: 5-6, K, 8-11
+      hearts: 6, K, 8-12
+      spades: K, 8-13
+  Seven-Suiters:
+    all-players:
+      stars: 0, J, Q, K
+      wheels: 0, J, Q, K
+      florettes: 0, J, Q, K
+      diamonds: 0, J, Q, K
+      clubs: 0, J, Q, K
+      hearts: 0, J, Q, K
+      spades: 0, J, Q, K

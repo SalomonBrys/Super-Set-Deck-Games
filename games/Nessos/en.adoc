@@ -1,0 +1,157 @@
+= Nessos
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Takaaki Sayama & Toshiki Arao.
+
+.Components
+****
+* 55 game cards :
+** 40 numbered cards : 1-10 in ♠, ♥, ♣, ♦
+** 15 Animal cards : 6 Wolves, 4 Snakes, 4 Phoenixes, 1 Dragon
+** 1 First Player card : Monkey King
+****
+
+
+During the whole game, the players must bluff in order to win the numbered cards.
+When your turn comes, offer a numbered card to another player.
+He can accept it, or refuse it by offering it to another player.
+Collect numbered cards in order to be the first to reach the number of points required.
+But be careful, if you get 3 Animal cards, you loose the round.
+
+The name of the game, Nessos, comes from an amphora representing a combat between Heracles and the Centaur Nessos.
+This amphora dates from end of 7th century B.C. and is so famous that the artist who created it, still unknown to this day, is called the painter of Nessos.
+
+
+== Game set up
+
+1. Depending on the number of players, take the following cards out of the pack of game cards:
+** In a round with 3 players, leave out cards numbered 4, 6 and 8, and the 4 Phoenix cards.
+** In a round with 4 players, leave out card numbered 6, and the Dragon card.
+** In a round with 5 or 6 players, play with all 55 cards.
+
+2. Shuffle all game cards and give 5 cards to each player.
+
+3. Put the rest of the game cards in a pack, face down, in the center of the table, as the draw.
+
+4. Select at random the first player, and place the Monkey King card in front of him.
+
+
+== Development of the game
+
+The game takes place in an undetermined number of rounds, until one of the three game-end conditions are met (see <<end-game>>).
+
+
+=== Development of a round
+
+The player who has the Monkey King card chooses a card in his hand and offers it by putting it face-down in front of another player of his choice.
+
+*There are then several possibilities:*
+
+* If the card offered is a numbered card, you must say out loud the number of the card without lying.
++
+.Numbered card
+====
+If you offer another player a ♣3, you must say “3” out loud.
+====
+
+* If the card offered is an Animal card, you can (and should) lie by saying out loud any number you wish.
++
+.Animal card
+====
+You offer a Snake card to another player.
+You can say “7” out loud.
+====
+
+*The player who gets the card has 3 choices :*
+
+* He accepts the card before looking at it, and then places it face-up in front of him.
+* He refuses the card without looking at it.
+It returns to the player who offered it, and he places it face-up in front of himself.
+* He adds a card from his hand, face-down, and offers the two cards to another player.
+He is only allowed to lie about the Animal cards by announcing the number he chooses.
++
+*In this third case, the player who receives the two cards has the same choices:*
+
+** He accepts the cards before looking at them, and then places them face-up in front of him.
+** He refuses the cards without looking at them.
+They return to the player who offered them (the two cards), and he places them face-up in front of himself.
+** He adds a card from his hand, face-down, and offers the three cards to another player.
+He is only allowed to lie about the Animal cards by announcing the number he chooses.
++
+You cannot offer the cards to a player who has already been offered cards in this round, nor can you offer them to the player with the Monkey King card.
++
+*In the third case, the player who receives the cards only has two choices:*
+
+*** He accepts the cards before looking at them, and then places them face-up in front of him.
+*** He refuses the cards without looking at them.
+They return to the player who offered them (the three cards), and he places them face-up in front of himself.
+
+
+[[end-round]]
+=== End of round
+
+As soon as a player turns the cards face up in front of him, it ends the round.
+
+*It is possible to turn over 1, 2 or 3 cards at the same time, depending on the situation.*
+
+* The Numbered cards in front of you face-up bring you closer to victory.
++
+Add their value to the ones you won before.
+If you get the number of points required according to the number of players, go to End of game.
++
+[%autowidth]
+|===
+| Number of players | Number of points required
+
+| 3 | 40
+| 4 | 40
+| 5 | 35
+| 6 | 30
+|===
+
+* The Animal cards in front of you bring you closer to defeat.
++
+If you have three Animal cards in front of you, you are sent to Hell.
+You loose immediately (even before the possibility of claiming the victory) and are eliminated.
+Leave the cards face-up in front of you.
+
+If there remains only one player, or if a total number of 9 Animal cards are turned face up in front of all players, go to <<end-game>>.
+
+.Bonus cards 1, 2 and 3
+****
+Cards 1, 2 and 3 may seam insignificant because their value is low.
+However, having a 1 card, a 2 card and a 3 card in front of you gives you 10 bonus points.
+You may use this bonus several times if you own several sets of these cards.
+
+.Points
+====
+You have these cards face up in front of you: 1♦, 2♣, 3♦, 3♥, 5♥, 5♠. +
+You have a total of 29 points (19 points for the sum of the card values, and 10 points for the 1, 2 and 3 cards).
+====
+****
+
+*If no game-end conditions emerge, take the following steps:*
+
+* All players with less than 5 cards in their hand draw as many cards as necessary to reach 5 cards.
+* Pass the Monkey King card to the player on the left-hand side of the fist player.
+The new First player starts a new round.
+
+
+[[end-game]]
+== End of game
+
+*The game may end three different ways:*
+
+* The sum of the card values for one player reaches or exceeds the number of points required (see <<end-round>>).
+He is the gods’chosen One, and will remain forever the most famous of men.
+This player is the winner of the game.
+
+* After a player is eliminated, there is only one player remaining in the game.
+This player wins the game.
+
+* When a total number of 9 Animal cards are face up on the table, the game ends.
+The player who has the higher number of points wins the game.
+If there is a draw among the leading players, the winner is the one who owns the higher number of cards in front of him.
+If there is still is a draw, the two player share the victory.

@@ -1,0 +1,11 @@
+type:
+  - Trick Taking
+  - Set Collection
+players: 3, 4
+cards:
+  Base:
+    all-players:
+      spades: 1-12, A
+      hearts: 1-12, A
+      clubs: 1-12, A
+      diamonds: 1-12, A

@@ -1,0 +1,511 @@
+= Yokai Septet
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Muneyuki Yokouchi.
+
+.Components
+****
+* 49 game cards:
+** ★: A, 2-6, K.
+** ⎈: 2-6, K, 8.
+** ✿: 3-6, K, 8-9.
+** ♦: 4-6, K, 8-10.
+** ♣: 5-6, K, 8-11.
+** ♥: 6, K, 8-12.
+** ♠: K, 8-13.
+* Seven Suitors variant:
+** 7 additional Ks in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+** 14 capture cards: Js and Qs in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+** 7 0 cards in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+****
+
+A long time ago in the land of the rising sun, spirits and demons known as Yokai were harming human lives.
+Yokai did not directly attack people, but they were causing supernatural disasters: Yokai caused farmlands to burn, rivers to flood, thunders to roar, and diseases to spread.
+
+One day a chieftain of the nearby village visited you, an Onmyoji, a practitioner of Japanese esoteric cosmology.
+Through your knowledge of astronomy and occultism, you discovered the only way to help save the village.
+It is simple: the more Yokai you manage to capture, the less the menace caused by these demons.
+After a few months in the village, you are successful in your efforts; the Yokai menace is completely eradicated in that village!
+
+Then, word reaches you of the havoc being wrecked by the Yokai on your own village.
+In your absence, the village chieftain has consulted another Onmyoji to help save your village.
+This is an affront because this is your village and the people under attack are your people.
+It is your job to save the day!
+
+Do not let another Onmyoji save the day and go down in history as the greatest there ever was and the Savior of your village at the time of need.
+
+
+== Game overview
+
+In Yokai Septet, your goal is to capture high scoring Boss Yokai (*K* cards) by strategically playing cards from your hand.
+Each turn, players play a card from their hand following the rules of the "trick-taking games."
+(If you don't know what this means, don't worry. This is explained in more details later.)
+
+After everyone has played a card, the player who played the strongest card takes all the cards played this turn.
+A new turn continues until one of the round's end condition is met.
+At the end of the round, the winner of that round is determined.
+
+In a 4-player game, the game is played as a team battle of two players versus two players, whereas in a 3-player game, all players play individually competing.
+The winner of the round is the team that captured four or more Boss Yokai in a 4-player game, and three or more Boss Yokai in a 3-player game.
+However, be careful on winning too many turns because you will lose the round if you win 7 turns before collecting the specified number of Boss Yokai!
+
+The winner of the round scores points based on the Boss Yokai they captured.
+New rounds are played until the game's end condition is met, which can be either 2 points for a basic game, or 7 points for a traditional or an advanced game.
+
+== Cards
+
+There are 7 suits (colors) with 7 cards in each suit.
+
+Each suit has different range of card values.
+
+[%autowidth,role="big-table"]
+|===
+| A | 2 | 3 | 4 | 5 | 6 | K | 8 | 9 | 10 | 11 | 12 | 13
+
+| ★ | ★ | ★ | ★ | ★ | ★ | ★ |   |   |    |    |    |
+|   | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ |   |    |    |    |
+|   |   | ✿ | ✿ | ✿ | ✿ | ✿ | ✿ | ✿ |    |    |    |
+|   |   |   | ♦ | ♦ | ♦ | ♦ | ♦ | ♦ | ♦  |    |    |
+|   |   |   |   | ♣ | ♣ | ✿ | ✿ | ✿ | ✿  | ✿  |    |
+|   |   |   |   |   | ♥ | ♥ | ♥ | ♥ | ♥  | ♥  | ♥  |
+|   |   |   |   |   |   | ♠ | ♠ | ♠ | ♠  | ♠  | ♠  | ♠
+|===
+
+The *K* card in each suit is a special card called Boss Yokai, and *has a value of 7*.
+
+The ★ suit has a special card with value *A* called the Super Trump card.
+All other cards are called Regular Yokai card.
+
+
+== Before the Game
+
+The game is for 3 to 4 players.
+We will describe it as a 4-player game.
+
+****
+*3 Players*: rules for a 3-player game will be written in boxes like this.
+If you are playing with four, you can ignore them.
+****
+
+Before starting the game:
+
+* Each player takes a reference card.
+* The game is played as a team battle of two players versus two players.
+Randomly split up into two teams.
+The team members should sit *across from each other*, so that both of your opponents sit next to you.
++
+****
+*3 Players*: The game is played individually, instead of being played as a team battle.
+****
+
+
+[[round-setup]]
+== Round Setup
+
+Before starting each round:
+
+* Shuffle all 49 cards face down and deal *12 cards face down* to each player.
+Place the *1 remaining card face up* at the center of the table visible to all players.
+This face up card is called the *Trump Suit card*.
+
+* All players choose *3 cards* and *pass the chosen cards* to your teammate *at the same time*.
++
+****
+*3 Players*: Deal 16 cards face down to each player. +
+Each player then passes 3 cards to the player to their left.
+****
+
+Now determine the Lead Player:
+
+* *If this is the first round of the game:* +
+The lead player is the *player who was dealt the ★A card* (that player must reveal it).
+If no player was dealt the A card, then the lead player is the player who was dealt the ♠13 card.
++
+NOTE: The lead player does not need to start the game by playing the revealed card.
+The player may put it back into their hand and use it later in the round.)
+
+* *For all subsequent rounds:* +
+The lead player is *the player who won the last trick* in the previous round.
+
+The round is now ready to begin!
+
+
+== Game Play Rules
+
+Each round is divided up into multiple turns called “*tricks*” where each player will be playing a card from their hand.
+
+* Starting with the *lead player* and going *clockwise*, each player plays 1 card face up from their hand.
+* The lead player may play any card from their hand.
+The *other players must play a card of the same suit as the lead player* from their hand.
+* If you *do not have a card of the same suit* as the lead player in your hand, then you may play *any card from your hand*.
+
+After each player has played a card, the winner of the trick is determined.
+
+
+=== Winner of a trick
+
+The winner of a trick is determined in the following order:
+
+1. If the *★A card* was played, the player who played it is the winner.
+2. If cards of the *same suit as the Trump Suit* card were played, then the player who played the highest value card among them is the winner.
+3. Otherwise, the player who played the *highest value card of the same suit as the lead player's card* is the winner.
+
+If you are the winner of a trick, do each of the following in order:
+
+1. Take *all cards* played in this trick (four cards in a 4-player game, three cards in a 3-player game).
+If you took any Boss Yokai *K* cards (with value 7), then keep those cards *face up in front of you*.
+Keep the rest of the cards face down in front of you by creating a separate stack for each trick you win so everyone clearly sees how many tricks you have won in this round.
+2. Check if one of the "<<end-of-round>>" is met.
+3. If the round did not end, then continue to the next trick.
+*You are the lead player for the next trick*.
+
+====
+Here are some examples to show who wins each trick.
+The trump suit is ⎈ for this round.
+
+*Trick 1*:
+
+* Alice (lead): ★2
+* Barbara: ★5
+* Charlie: ★3
+* David: ♣5
+
+Barbara wins this trick since she played the highest card of the lead player’s suit (★).
+David does not win even though he played the highest card, because his card is not of the lead player’s suit.
+
+*Trick 2*:
+
+* Barbara (lead): ♠K
+* Charlie: ♠13
+* David: ⎈8
+* Alice: ⎈5
+
+David wins this trick since he played the highest card of the trump suit (⎈).
+
+*Trick 3*:
+
+* David (lead): ⎈K
+* Alice: ★A
+* Barbara: ⎈6
+* Charlie: ♦4
+
+Alice wins this trick since she played the A card, which beats every other card in the game.
+Although the A card is a special card, remember that you still need to follow the lead player’s suit.
+Therefore, Alice could play this card because she did not have any ⎈ card in her hand.
+
+
+*Trick 4*:
+
+* Alice (lead): ♠9
+* Barbara: ♥6
+* Charlie: ♣6
+* David: ♣4
+
+Alice wins this trick since no one else followed her suit, which means that her card is the highest card of the lead player’s suit.
+
+====
+
+
+[[end-of-round]]
+== End of a Round
+
+The round is over if *any* of the three conditions below has been met.
+
+1. A team won a total of *four or more* Boss Yokai *K* cards (with value 7) between the two team members.
+2. A team won a total of *seven tricks* between the two team members.
+3. Players have no cards left in their hand.
+
+If none of the conditions above has been met, then continue to the next trick.
+
+
+=== Winner of the round
+
+Determine the winner of the round *in the following order*:
+
+1. If a team won a total of *four or more* Boss Yokai *K* cards, then *that team is the winner*.
+2. Otherwise, if a team won a total of *seven tricks*, then *the other team is the winner*.
+The winning team takes *all Boss Yokai K cards left in everyone’s hands*, and adds them to the stack of Boss Yokai cards they won during the round.
+3) If neither of the above happened, then the team with a player who won the *last trick* is the winner. +
+*That team wins the trump suit card* (which must be a Boss Yokai – only important when using traditional scoring).
+
+****
+*3 Players*: The round end conditions and winner of the round changes as follows:
+
+1. If a player won *three or more* Boss Yokai *K* cards, then that player is the winner.
+2) If a player won *seven tricks*, then the other two players are the winners.
+3) Otherwise, the player that won *the last trick* is the winner. +
+*That player wins the trump suit card* (which must be a Boss Yokai – only important when using traditional scoring).
+****
+
+
+== Score calculation
+
+*Only the winning team of the round scores points.*
+
+The winning team scores points based on the scoring rules below.
+
+* Play *Basic Scoring Rules* if this is your First time playing this game, or if players are new to "trick-taking games".
+* Play *Traditional Scoring Rules* if you understand "trick-taking games" but want a simple way to score points.
+* Play *Advanced Scoring Rules* if all players are experienced in Yokai Septet.
+
+
+=== Basic scoring rules
+
+*The winning team scores 1 point.*
+
+The game is over when a team has *2 points*.
+That team is the winner.
+
+Otherwise, go back to <<round-setup>> to start a new round.
+
+****
+*3 Players: Only the winner of the round scores points.*
+
+When playing with 3 players, there may be 2 winners in a round.
+The player(s) who score this round changes depending on how the round ended.
+
+* If the round ended because a player won three or more Boss Yokai *K* cards, *that player scores 1 point*.
+* If the round ended because a player won seven tricks, then the *other two players each score 1 point*.
+
+The game is over when a player has 2 points.
+That player is the winner.
+
+If two players are tied for 2 points, then the last round ended with one player taking seven tricks.
+The player the left of the player who won seven tricks wins the game.
+
+Otherwise, go back to <<round-setup>> to start a new round.
+
+****
+
+=== Traditional scoring rules
+
+The winning team scores points equal to the number of Boss Yokai *K* cards they won minus the number of boss yokai the opposing team won plus 1.
+
+[options="autowidth",frame=none,grid=none, cols= "^.^,^.^,^.^,^.^,^.^"]
+|===
+| Number of +
+Boss Yokai +
+*you won*
+| [big]#*-*#
+| Number of +
+Boss Yokai +
+*they won*
+| [big]#*+*#
+| 1 point
+|===
+
+The game is over when a team has 7 or more points.
+That team is the winner.
+
+Otherwise, go back to <<round-setup>> to start a new round.
+
+****
+*3 Players: Only the winner of the round scores points.*
+
+When playing with 3 players, there may be 2 winners in a round.
+The player(s) who score this round changes depending on how the round ended.
+
+* If the round ended because a player won three or more Boss Yokai *K* cards, that player scores points equal to the number of Boss Yokai they won minus the number of Boss Yokai the second player won plus 1.
++
+[options="autowidth",frame=none,grid=none, cols= "^.^,^.^,^.^,^.^,^.^"]
+|===
+| Number of +
+Boss Yokai +
+*you won*
+| [big]#*-*#
+| Number of +
+Boss Yokai +
+*the second* +
+*player won*
+| [big]#*+*#
+| 1 point
+|===
+* If the round ended because a player won seven tricks:
+** The player to the *right* of the player with seven tricks scores points equal to the number of Boss Yokai *K* cards they won minus the number of Boss Yokai the player with seven tricks won plus 1.
++
+[options="autowidth",frame=none,grid=none, cols= "^.^,^.^,^.^,^.^,^.^"]
+|===
+| Number of +
+Boss Yokai +
+*you won*
+| [big]#*-*#
+| Number of +
+Boss Yokai +
+*the loosing* +
+*player won*
+| [big]#*+*#
+| 1 point
+|===
++
+They score a *minimum of 1 point*.
+** The player to the *left* of the player with seven tricks *half the points of the right player*, rounded up.
+
+The game is over when a player has 7 or more points.
+The player with the most points is the winner.
+
+If two players are tied for the most points, then the last round ended with one player taking seven tricks.
+The player the left of the player who won seven tricks wins the game.
+
+Otherwise, go back to <<round-setup>> to start a new round.
+****
+
+
+=== Advanced Scoring Rules
+
+To determine your score, look at all the *Boss Yokai K cards* that you won in this round.
+
+Each Boss Yokai card scores from 0 to 2 points:
+
+[options="autowidth"]
+|===
+| ★ | ⎈ | ✿ | ♦ | ♣ | ♥ | ♠
+| 0 | 0 | 1 | 1 | 1 | 2 | 2
+|===
+
+The winner scores points corresponding to each Boss Yokai *K* card they won during the round, *except for the Boss Yokai of the trump suit*.
+You score 0 points for the Boss Yokai card of the trump suit.
+
+The game is over when a team has 7 or more points.
+That team is the winner.
+
+Otherwise, go back to <<round-setup>> to start a new round.
+
+.Advanced scoring
+====
+Alice and Charlie are in a team, and Barbara and David are in the other team.
+
+*Round 1*:
+
+Alice and Charlie won two Boss Yokai each, so the round is over, and they are the winner.
+
+The Boss Yokai cards they won were ★K, ♦K, ♥K, and ♠K.
+There is a total of five points, but ♥ is the trump suit, so they score 0 points for the ♥K card.
+Therefore, the team scores a total of 3 points this round.
+
+*Round 2*:
+
+Alice and Charlie has won 3 tricks each.
+Charlie just won his 4th trick, so the team has now won a total of 7 tricks.
+
+The round is over and Barbara and David's team is the winner.
+
+Barbara and David adds all Boss Yokai cards left in everyone's hands to the stack of Boss Yokai cards they've won during the round.
+They won ♣K, ⎈K, ♦K, ♥K, et ✿K.
+There is a total of five points, but ♦ is the trump suit, so they score 4 points this round.
+====
+
+****
+*3 Players: Only the winner of the round scores points.*
+
+When playing with 3 players, there may be 2 winners in a round.
+The player(s) who score this round changes depending on how the round ended.
+
+* If the round ended because a player won three or more Boss Yokai *K* cards, that player scores points for each Boss Yokai cards they won this round, *except for the Boss Yokai card of the trump suit*.
+You score 0 points for the Boss Yokai card of the trump suit.
++
+[options="autowidth"]
+|===
+| ★ | ⎈ | ✿ | ♦ | ♣ | ♥ | ♠
+| 0 | 1 | 1 | 2 | 2 | 3 | 3
+|===
+* If the round ended because a player won seven tricks, then *the other two players each score 3 points*.
+
+The game is over if a player has 7 or more points.
+The player with the most points is the winner.
+
+If two players are tied for the most points, then the last round ended with one player taking seven tricks.
+*The player the left* of the player who won seven tricks wins the game.
+
+Otherwise, go back to <<round-setup>> to start a new round.
+****
+
+
+== Variant 4-player game: Seven Suitors
+
+This is a variant 4-player game rule using the two sets of K cards.
+We recommend playing this variant only after everyone has played and understood the rules of the base game.
+
+
+=== Game Overview
+
+The goal of this game is to be the first team to capture and seal Boss Yokai of all seven suits.
+To seal a suit, your team must capture both Boss Yokai *K* cards of a given suit during a round (not necessarily in a single trick).
+
+
+=== Before the Game
+
+Just like the base game, split up into two teams of two players each.
+Team members should sit across from each other, so each player’s opponents are to their left and right.
+
+One team takes the set of 7 J cards and the other team takes the set of 7 Q cards.
+These cards are the "capture" cards: they are put face up to the side of the table.
+
+*Use two set of K’s*.
+You will play with a deck of 56 cards.
+
+The 0 cards are only used to indicate the trump suit and are not shuffled with the game cards.
+
+
+=== Round Setup
+
+Place the 7 0 cards in a face-down pile in the middle of the table.
+
+Shuffle the deck of 56 cards.
+Deal a hand of 14 cards face-down to each player.
+There will be no cards remaining.
+
+Each player looks at their hand and passes one card to each other player face-down.
+That is, each player will be passing 3 cards.
+
+The player who was dealt the A card reveals it, and becomes the first Lead Player.
+
+
+=== Game Play Rules
+
+The Lead Player will play first.
+They choose any card from their hand and play it face-up in front of them.
+
+*The suit of the first card played by the Lead Player each round determines the Trump Suit for the rest of the round.*
+Find the corresponding 0 card in the pile of 0 cards and place it face-up on top of it.
+
+Every other player plays a card exactly the same way as the base game.
+That is, they must play a card of the same suit as the Lead Player, and may only play a card off suit if a player has no cards of that suit.
+
+
+=== Taking a trick
+
+The trick is taken in exactly the same way as the base game except when both Ks of a suit are played and would win the trick.
+In this case, the first K played wins and takes the trick.
+
+If you take the trick, take all the cards played this trick.
+If you took any Boss Yokai *K* cards, keep them face-up in front of you.
+If your team has now taken both Ks of a given suit this round, then seal that suit for your team by returning face-down your team's capture card of that suit.
+
+Next, the player who took the trick becomes the next trick's Lead Player.
+Continue playing the next trick until all 14 cards are played.
+
+
+=== End of a Round
+
+The round is over after playing all cards in your hand, which is 14 tricks.
+
+Play another round until one team has sealed all seven suits.
+This will generally take multiple rounds.
+
+
+=== End of a Game
+
+The game is over as soon as one team seals all seven suits, even in the middle of a round.
+That team claims victory!
+
+
+=== Shorter Variant
+
+Instead of having each team seal all seven suits, in this variant each suit is sealed by the first team to capture both Ks of a suit in a round.
+The first team to seal four of the seven suits wins the game.
+
+Do not use the set of J cards.
+Place the 7 Q cards face up to the side of the table.
+When a team seals a suit, they take the corresponding Q card for themselves.

@@ -1,0 +1,151 @@
+= Egocentric World
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by François Bergeron and Julien Vaucanson.
+
+.Components
+****
+* 60 numbered cards : 1-12 à ♠, ♥, ♣, ♦ & ★.
+****
+
+Each player controls a city, represented by her hand of cards.
+Each card has an *Egocentrism* value, and sometimes a *special ability*.
+
+*The goal of each player is to finish the game with the smaller Egocentrism score*.
+However, cards with high Egocentrism give advantages during the game.
+One game can be composed of one or several *rounds*.
+
+
+== Setup
+
+At the beginning of each round, shuffle the *60 cards* and form a *deck* face down at the center of the table.
+Flip the first card to initiate a *discard pile*.
+
+At the beginning of each round, *distribute 5 cards to each player* to compose her hand.
+One player can’t look at the cards of the other players.
+
+When the deck is empty, shuffle the discard pile and place it face down to form a new deck.
+
+Players then take turns clockwise.
+
+For the first round, randomly pick the first player.
+In each following round, the first player is the one with the highest score at the end of the previous round.
+Settle draws randomly.
+
+
+== Discarding or playing a card
+
+A card thrown into the discard pile is *discarded* when it came directly from the deck, or *played* when it came from the hand of a player.
+
+A *discarded* card is put face up on the discard pile *without triggering its special ability*.
+
+A *played* card is put face up on the discard pile and the player who played it *can eventually trigger its special ability*.
+
+During your turn, *you must complete one of the following actions*:
+
+* *Draw* and look secretly at the first card from the deck.
+Then you must EITHER *discard* it, OR keep it to replace one card from your hand.
+The replaced card is then *played*.
+
+* *Take the first card from the discard pile* to replace one card from your hand.
+The replaced card is then *played*.
+
+* *Reveal a card from your hand* of the same value as the first card on the discard pile and *play* it.
+
+* *Reveal a pair of cards with the same value* from your hand and *play* one of the two.
+The other one stays in your hand.
+
+* *Say “STOP”* so the round will end just before your next turn starts.
+
+A round ends immediately if a player has no more cards in hand.
+
+When a round ends, *each player sums up the Egocentrism values in her hand*.
+The player with the *lowest score wins*.
+
+During a game with multiple rounds, each player adds up her scores at each round. Rounds are played until one player reaches *50*.
+Then, the player with the lowest total wins.
+
+
+=== Special abilities
+
+When a card of value 8 to 12 is *jouée*, the player playing it decides if its special ability is triggered or not.
+
+* *12* : *You can play another* turn after this one.
+
+* *11* : *Designate two players* (you can be one of them) and *exchange two cards from their hands*.
+In the hand of each player, you can *either take a card secretly* - chosen freely if it is in your hand or randomly picked in another player’s hand - *or announce a specific value*.
+If the player has a card with this value, she must exchange it.
+If you announce a wrong value for one or both players, the exchange is cancelled, and you must draw and add to your hand a card as a penalty.
+
+* *10* : *Designate a player and look secretly at all the cards in her hand.*
+
+* *9* : This special ability is not activated when the card is played.
+*At the moment another player designates you* to resolve special abilities *10* or *11*, you can reveal and *play* this card immediately and *cancel the effect of this special ability*.
+
+* *8* : During your turn, when this card is in your hand or on top of the discard pile, *you can use it as if it has a value of 7, 8 or 9*.
+
+
+== Solo mode
+
+Instead of confronting players, *you compete two Citybots*, one on your left and one on your right.
+Those are considered players for game purposes.
+All usual rules apply, with the few exceptions below:
+
+* For each game, *set a difficulty level of 1, 2 or 3*.
+At the end of each round, before calculating scores, if the difficulty is 2, each Citybot removes its card with the lowest value.
+If difficulty is 3, each Citybot removes its card with the highest value.
+* During the first round, the first player is the Citybot on your left.
+* A Citybot’s hand is composed of a *pile of hidden cards*, composed of 5 cards at the beginning of a round, and of *visible cards*, revealed in the course of the game.
+Cards retrieved by a Citybot during the game are added to its visible cards.
+
+
+=== Citybot's turn
+
+To resolve a Citybot’s turn, proceed to the following steps in the given order, until its turn ends.
+
+1. If all its cards are visible and its *Egocentrism* total is lower than yours, the Citybot says “*STOP*” and its turn ends.
+2. If not all its cards are visible, it *reveals* the first card of its pile.
+3. If not all its cards are visible and none has a value superior to *7*, it *reveals* the next card of its pile.
+4. If one of its visible cards has the same value as the one on top of the discard pile, the Citybot *plays* this card and its turn ends.
+5. If at least two of its visible cards have the same value, the Citybot *plays* one of those cards (the highest value if there are several pairs visible) and its turn ends.
+6. If the highest value among its visible cards is superior to the one on top of the discard pile, the Citybot takes the latter card, *plays* its card with the highest value and its turn ends.
+7. If its turn has not ended yet, the Citybot *draws* a card from the deck and *reveals* it.
+8. If the highest value among its visible cards is superior to the drawn card, the Citybot takes the latter card, *plays* its card with the highest value and its turn ends.
+9. In any other case, the drawn card is *discarded* and the Citybot’s turn ends.
+
+
+=== Citybots' special abilities
+
+*When a Citybot plays a card with a value 8 to 12*, the following rules apply:
+
+* *12* : *The Citybot takes another turn after this one*.
+
+* *11* : *The Citybot reveals and exchanges the first card of its pile with the card having the lowest value among yours.*
+If all its cards are visible, the Citybot exchanges its card with the highest value with the card having the lowest value among yours.
+
+* *10* : *All cards still hidden into the other Citybot’s pile are revealed*.
+
+* *9* : *You can’t use the special abilities 10 or 11 against a Citybot having a 9 card visible*.
+If one or more 9 cards are revealed from a Citybot’s pile when using the special ability *10*, this Citybot immediately *plays* one of those cards.
+
+* *8* : During steps 4 and 5 of a Citybot’s turn, when this card is among its visible cards or on top of the discard pile, *it counts as having the values 7, 8 and 9*.
+If the Citybot can play a 7 or 9 card during step 4, it won’t use this special ability.
+
+
+=== Player's special abilities
+
+*When you play a card with a value 8 to 12*, the following rules apply:
+
+* *12* : *You can play another turn after this one*.
+
+* *11* : *Exchange one of your cards with one from a Citybot*, one of its visible cards or the one on top of its pile (the card you give remains visible).
+*OR exchange two visible cards of two different Citybots*.
+
+* *10* : *Reveal all cards still hidden into the Citybot’s pile of your choice*.
+
+* *9* : This special ability is not activated when the card is played.
+*When a Citybot uses the special ability 11*, you can immediately *play* this card and *cancel this special ability*
+
+* *8* : During your turn, when this card is in your hand or on top of the discard pile, *you can use it as if it has a value of 7, 8 or 9*.

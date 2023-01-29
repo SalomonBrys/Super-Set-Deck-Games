@@ -1,0 +1,234 @@
+= Bids
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Lorenzo Simons.
+
+.Matériel
+****
+* 168 carte enchère : 1-14 à ♠, ♥, ♣ & ♦.
+* 16 cartes points : 1-14, “x2” & “-‽” à ★.
+* 6 cartes spéciales : 2 Singes, 1 Loup, 1 Phoenix, 1 Serpent & 1 Papillon.
+****
+
+Chaque joueur reçoit 10 cartes enchères de couleur.
+À chaque manche, les joueurs vont enchérir en 10 tours pour les cartes points ★ au centre.
+Chaque carte point ★ a pour valeur le nombre qu'elle affiche.
+Les autres couleurs n'ont pas d'importance dans la version de base du jeu.
+Le joueur avec le plus de point à la fin de la partie l'emporte.
+
+
+== Mise en place
+
+[%autowidth,cols=">.^h,<"]
+|===
+| 3 joueurs
+a|
+* 1-10 de ♠, ♥ & ♣
+* 1-10, “x2” & “-‽” de ★
+
+| 4 joueurs
+a|
+* 1-10 de ♠, ♥, ♣ & ♦
+* 1-10, “x2” & “-‽” de ★
+
+| 5 joueurs
+a|
+* 1-12 de ♠, ♥, ♣ & ♦
+* 1-12, “x2” & “-‽” de ★
+* 1 Singe
+
+| 6 joueurs
+a|
+* 1-14 de ♠, ♥, ♣ & ♦
+* 1-14, “x2” & “-‽” de ★
+* 1 Singe
+|===
+
+Séparez les cartes point ★ et mélangez les cartes enchères colorées en une pile.
+À 3, 4 ou 5 joueurs, retirez aléatoirement du jeu une carte de la pile.
+À 6 joueurs, toutes les cartes enchères sont utilisées.
+Ajoutez une carte point ★ aléatoire à la pile de cartes (deux à 5 joueurs ou trois à 6 joueurs) et distribuez 10 cartes à chaque joueur.
+Placez le reste des cartes point ★ face cachée au centre de la table.
+
+
+== Déroulement du jeu
+
+Au début de chaque tour, retournez la première carte de la pile de cartes point.
+C'est la carte pour laquelle les joueurs vont enchérir.
+
+À chaque tour, chaque joueur doit, en sens horaire, enchérir avec l'une de ses 10 cartes en main.
+
+Lors du premier tour de la première manche, Le joueur avec le prénom le plus long (nom de famille en cas d'égalité) démarre l'enchère.
+Le joueur ayant enchéri le plus haut remporte le tour, prend la carte point ★ de la table et la place devant lui.
+Les cartes enchère utilisées sont défaussées et ne sont plus utilisées pour la manche.
+
+En cas d'égalité entre les enchères les plus hautes, la ou les carte(s) de ce tour sont "brulées" et personne ne reçoit de cartes point.
+Les cartes point brulées sont placées sous la pile de carte point.
+
+L'enchère du prochain tour est démarrée par le gagnant de l'enchère précédente, ou en cas d'égalité, par le dernier joueur ayant enchéri le plus haut.
+
+
+=== Cartes ★ en main
+
+Un joueur peut avoir une carte point ★ dans sa main, reçue lors de la distribution.
+Il doit donc enchérir l'une des 10 enchères avec cette carte et la valeur de sa carte ★ est additionnée à celle de la carte ★ centrale.
+
+.Enchère avec une carte ★
+====
+Les joueurs enchérissent pour un 5★ et l'un des joueurs enchéris un 8★, le gagnant du tour reçoit donc 8 + 5 points.
+Si le 8★ est l'enchère la plus haute (et qu'il n'y a pas d'égalité), son propriétaire reçoit 8 + 5 points.
+Si l'enchère de l'un des autres joueurs est plus haute, cet autre joueur prend les deux cartes et reçoit 8 + 5 points.
+====
+
+
+=== Fin d'une manche
+
+Une manche se termine après 10 tours.
+Toutes les cartes point ne seront donc pas mises aux enchères.
+Faite la somme des points de la manche précédente, puis passez à la manche suivante.
+
+Lors de la prochaine manche, le joueur ayant le score le plus élevé démarre l'enchère du premier tour.
+En cas d'égalité, le score réalisé à la manche précédente définit le premier enchérisseur.
+Si l'égalité persiste, le joueur ayant remporté la plus haute carte point à la manche précédente débute.
+
+Le jeu se termine après six manches, à moins que les joueurs se mettent d'accord sur un chiffre différent.
+
+
+=== La chance du perdant
+
+Tous les joueurs qui n'ont reçu aucune carte ★ à la fin d'une manche reçoivent un nombre de points dépendant du nombre de joueurs et du nombre de fois où ils ont déjà reçu les points de chance du perdant.
+
+[%autowidth,cols="^h,^,^,^,^"]
+|===
+| # rounds | 3 joueurs      | 4 joueurs     | 5 joueurs     | 6 joueurs
+
+| 1        | stem:[1*12=12] | stem:[1*8=12] | stem:[1*8=12] | stem:[1*7=12]
+| 2        | stem:[2*12=24] | stem:[2*8=16] | stem:[2*8=16] | stem:[2*7=14]
+| 3        | stem:[3*12=36] | stem:[3*8=24] | stem:[3*8=24] | stem:[3*7=21]
+| 4        | stem:[4*12=48] | stem:[4*8=32] | stem:[4*8=32] | stem:[4*7=28]
+| 5        | stem:[5*12=60] | stem:[5*8=40] | stem:[5*8=40] | stem:[5*7=35]
+| 6        | stem:[6*12=72] | stem:[6*8=48] | stem:[6*8=48] | stem:[6*7=42]
+| ...      | stem:[...*12]  | stem:[...*8]  | stem:[...*8]  | stem:[...*7]
+|===
+
+.4 joueurs
+====
+Un joueur reçoit 9 points à la manche 1.
+Lors des 3 manches suivantes, il ne remporte aucune carte ★.
+Lors de la 5^ème^ manche, il reçoit 13 points et à ne remporte aucune carte ★ à la dernière manche.
+
+Après la 6^ème^ manche, il reçoit donc stem:[9 + (1*8) + (2*8) + (3*8) + 13 + (4*8) = 102] points.
+====
+
+
+== Enchères de couleur
+
+Lorsque vous jouez avec les enchères de couleurs, c'est la carte la plus haute de la couleur (ou de l'une des couleurs en cas d'égalité) ayant le plus été jouée à ce tour qui remporte l'enchère.
+
+.Enchère de couleur
+====
+Lors d'un tour sont jouées les cartes suivantes : 4♥ – 5♠ – 9♣ – 7♠.
+En jouant avec les enchères de couleur, c'est le 7♠ qui l'emporte puisqu'il y a deux cartes ♠ et seulement une carte ♥ et une carte ♣.
+====
+
+Le nombre de cartes de couleur ★ doit toujours être augmenté de 1 puisque la carte ★ au centre est comptée.
+Dans le cas particulier où la couleur ★ est dominante et où la carte ★ au centre est la plus haute, le tour est considéré “brulé” et le joueur qui a démarré le tour démarre le suivant.
+
+
+== Cartes spéciales
+
+Les joueurs peuvent, s'ils le souhaitent, ajouter des cartes spéciales aux cartes point ★.
+Si l'une de ces cartes (à l'exception du "-‽") se retrouve dans la main d'un joueur, il doit la jouer normalement lors d'une enchère, mais ne peut jamais la remporter.
+
+
+=== Le Singe
+
+Cette carte n'est jamais mélangée dans le paquet d'enchères et se trouvera donc toujours dans la main d'un joueur.
+Ce joueur jouera le singe comme n'importe quelle autre carte et travailleras ensuite de concert avec le gagnant de l'enchère où il a joué cette carte.
+À la fin de la manche, les points des deux joueurs alliés seront additionnés et divisés par deux (arrondis au supérieur).
+En cas d'égalité entre les deux plus hauts enchérisseurs, il n'y a pas d'alliance.
+Seule l'une des deux cartes Singe est utilisée dans le jeu, la seconde carte est placée devant le joueur ayant joué la carte Singe, de manière que chacun des deux joueurs dans une alliance soient indiqués.
+
+Lorsqu'un joueur est allié à un autre joueur et ne remporte aucune carte ★ lors de la manche, il ne reçoit pas de points de chance du perdant, mais son compteur de chance du perdant augment tout de même de 1.
+
+.5 players
+====
+À la manche 1, un joueur ne remporte aucune carte ★, et reçoit donc 8 points.
+
+À la manche 2, il est allié à un autre joueur, mais n'a remporté aucune carte ★.
+Il reçoit ainsi la moitié des points de l'alliance, mais pas les 16 points de chance du perdant.
+
+À la manche 3 il ne remporte de nouveau aucune carte ★ ; il reçoit maintenant 24 points.
+====
+
+
+=== Le “-‽”
+
+Le joueur qui remporte une enchère pour cette carte recevra -5 points.
+
+Si, à la fin d'une manche, un joueur n'a remporté que cette carte, il recevra -5 point pour cette manche et pas de points de chance du perdant.
+
+Si cette carte est dans la main de l'un des joueurs, ce joueur enchérira -5 avec cette carte et la carte "-‽" ira au gagnant de l'enchère du tour.
+
+Si l'enchère est une égalité, personne ne reçoit cette carte.
+
+
+=== Le “×2”
+
+Pour le joueur qui remporte cette carte, tous les points reçus des tours précédents sont doublés.
+Cette carte n'a aucun effet sur les points reçus ensuite.
+Les cartes point reçues lors du même tour que le "×2" sont également doubles.
+
+Si cette carte est dans la main de l'un des joueurs, il joue normalement cette carte qui ira au gagnant de l'enchère.
+Vous ne pouvez pas remporter d'enchère en jouant cette carte.
+
+Si l'enchère est une égalité, personne ne reçoit cette carte.
+
+
+=== Le Loup
+
+Le joueur qui remporte l'enchère du tour où cette carte apparait doit voler une carte point de la personne ayant enchéri le plus bas.
+
+====
+LEs enchères sont 10 - 8 - 6 - 5, Le joueur qui a enchéri 10 doit voler l'une des cartes du joueur qui a enchéri 5.
+Le voleur choisi l'une des cartes que le joueur volé à reçu lors des tours précédents.
+====
+
+Si le joueur ayant enchéri le plus bas n'a pas encore reçu de carte point à cette manche, le voleur vole une carte au joueur ayant enchéri le plus bas parmi ceux qui déjà reçu ont au moins une carte point.
+Si l'enchère la plus basse est à égalité, le voleur peut choisir sa victime parmi celles-ci.
+
+Si l'enchère est une égalité, personne ne reçoit cette carte.
+
+
+=== Le Phénix
+
+Lorsque cette carte apparait, il n'y a pas d'enchère pour cette carte.
+La pile de cartes point est mélangée avec les cartes point défaussées.
+
+Cela signifie donc que toutes les cartes brulées peuvent apparaitre à nouveau.
+Une fois le paquet mélangé, la prochaine carte points est retournée et les enchères continuent.
+
+Si cette carte est dans la main d'un joueur, les cartes points sont remélangées une fois l'enchère en cours terminée, et avant la suivante.
+Si l'enchère où cette carte apparait est une égalité, les cartes point ne sont pas remélangées.
+
+
+=== Le Serpent
+
+Lorsque cette carte apparait, il n'y a pas d'enchère pour cette carte.
+À partir de ce moment, c'est l'enchère la plus basse qui remportera les tours restant de la manche.
+Cette carte est mise de côté et la prochaine carte point est retournée.
+
+Si la carte est dans la main d'un joueur, la règle de "l'enchère la plus basse l'emporte" est appliquée à partir de l'enchère suivante, à moins que l'enchère courante ne soit une égalité.
+Si l'enchère où cette carte apparait est une égalité, la règle ne s'appliquera pas pour cette manche.
+
+
+=== Le Papillon
+
+Lorsque cette carte apparait, les joueurs enchérissent pour la prochaine carte point de la pile sans la connaitre.
+
+Si cette carte est dans la main d'un joueur, le gagnant reçoit la carte point suivante et la carte point pour laquelle il a enchéri est placée en dessous de la pile de cartes point.
+
+Si l'enchère où cette carte apparait est une égalité, personne ne reçoit de carte point.

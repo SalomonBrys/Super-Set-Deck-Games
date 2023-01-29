@@ -1,0 +1,232 @@
+= Lost Cities: Flip & Write
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Reiner Knizia, adapté du Roll & Write par Salomon BRYS.
+
+.Components
+****
+* 60 numbered cards: 1-10 in ♠, ♥, ♣, ♦, ✿ & ★.
+* Autant de link:Boards.pdf[feuilles de jeux] que de joueurs.
+****
+
+Chassez les points dans la jungle !
+Un joueur révèle quatre cartes, en choisit deux et inscrit le résultat sur sa feuille.
+Les autres joueurs choisissent également un résultat parmi les cartes restantes et l'inscrivent sur leur feuille.
+Les nombres doivent être notés par ordre ascendant.
+Ceux qui atterrissent sur une accélération ou trouvent des gemmes sont les chanceux.
+Si vous ne pouvez, ou ne voulez, pas écrire de résultat, vous pouvez utiliser vos "passes".
+Mais si vous les utilisez trop souvent, vous ne pourrez progresser suffisamment et ne marquerez pas assez de points.
+
+
+== La feuille de jeu
+
+1. *Expéditions :* +
+La feuille de jeu contiens six expéditions différentes, de bas en haut.
+Chacune des six expéditions a une couleur différente, correspondante aux couleurs des cartes.
+L'expédition la plus à gauche est ♠, puis viens ♥, puis ♣, ♦, ✿ et ★
+
+2. *Gemmes et passes :* +
+À droite de la feuille de jeux se trouve une colonne de gemmes et une colonne de refus de cartes (appelés "passes").
+
+3. *Hexagones de scores :* +
+À plusieurs endroits dans la feuille de jeux se trouvent de petits hexagones indiquant un nombre de points :
+
+a. À gauche des six expéditions (de -50 à 50)
+b. À droite entre les gemmes et les passes (de -40 à 100 et 0)
+c. Une ligne de points bonus (20 chacun) au tiers supérieur de la feuille.
+
+4. *Hexagones de scores vides :* +
+À la fin de la partie, inscrivez vos points dans les hexagones vides en haut de la feuille de jeu.
+Les points sont attribués pour les six expéditions, les gemmes trouvées et les passes utilisés.
+Inscrivez votre nom et score final dans le grand hexagone vide en haut à droite.
+
+5. *Cercle de doubles points :* +
+Si vous encerclez le ×2 au bas d'une expédition, les points de cette expédition sont doublés.
+
+
+== Préparation du jeu
+
+Chacun de vous reçoit une link:Boards.pdf[*feuille de jeu*].
+
+Placez votre feuille de jeu devant vous, de manière que chaque autres joueurs puisse facilement la voir pendant la partie.
+
+Mélangez les cartes et placez-les face cachée sur la table.
+
+Chaque joueur devrait avoir un crayon.
+
+
+== Fonctionnement du jeu
+
+Le plus grand aventurier jouera le premier tour (ou la dernière personne à avoir fait une randonnée, en cas d'incertitude).
+
+Le jeu continue ensuite en sens horaire.
+
+
+=== Révélez les cartes et choisissez
+
+À votre tour, révélez quatre cartes de la pioche et placez-les au centre de la table.
+
+* Parmi les quatre cartes, choisissez en une pour sa couleur et une pour sa valeur et placez-les devant vous.
+Vous *ne pouvez pas* utiliser la même carte pour sa couleur et sa valeur.
+
+* Les deux cartes restantes restent au centre de la table et sont disponibles pour tous les autres joueurs.
+** Chaque autre joueur peut choisir une combinaison d'une couleur et une valeur parmi les deux cartes restantes au centre de la table.
+Ils *peuvent* utiliser la même carte pour sa couleur et sa valeur.
+Laissez les deux cartes au centre.
+Ne les déplacez pas.
+** Plusieurs joueurs peuvent choisir la même combinaison.
+
+Chaque joueur inscrit sa combinaison de couleur et valeur sur sa feuille de jeu — comme décrit dans <<mener-expedition>>.
+
+
+==== Refuser la pioche
+
+* Le joueur qui a révélé les cartes à la possibilité de refuser la pioche et de ne pas choisir de combinaison.
+Dans ce cas, il doit défausser l'une des quatre cartes (de son choix).
+Les trois cartes restantes sont laissées au centre de la table et sont disponibles tous les autres joueurs.
+
+* Les autres joueurs peuvent également refuser de choisir une combinaison (sans conséquence sur les cartes au centre de la table).
+
+Chaque joueur qui refuse d'inscrire un résultat sur sa feuille de jeu doivent l'inscrire comme décrit dans <<Refuser les cartes>>.
+
+
+[[mener-expedition]]
+=== Mener les expéditions
+
+*Les expéditions sont marquées individuellement de bas en haut.*
+
+
+==== Symbole ×2 (points doubles)
+
+Si vous combinez *une valeur de 10 avec la couleur correspondante*, vous pouvez encercler le symbole "×2".
+Pour utiliser le ×2, il doit être *encerclé avant* de commencer l'expédition dans la colonne de cette couleur.
+
+Vous pouvez démarrer une expédition sans encercler le symbole ×2, mais vous n'êtes plus autorisé à l'encercler après que l'expédition a démarré.
+
+Si vous démarrez une expédition sans utiliser le symbole ×2, barrez-le.
+
+*Si le symbole ×2 est encerclé, les points de l'expédition seront doublés à la fin de la partie.*
+
+
+==== Carrés d'expéditions
+
+*Si vous démarrez ou continuez une expédition*, inscrivez les nombres dans les 9 carrés de cette expédition, les uns après les autres (de bas en haut).
+Le plus petit nombre est "1".
+
+*Le nombre suivant doit être supérieur ou égal au nombre précédent.*
+
+TIP: C'est bien sûr une bonne idée de démarrer une expédition avec des petits nombres et d'éviter les "grands sauts".
+Cela vous assurera d'avoir autant de choix que possible plus tard.
+
+
+==== Symboles d'accélération
+
+Si vous inscrivez un nombre dans un carré contant une flèche, vous pouvez accélérer l'une de vos expéditions.
+Pou accélérer une expédition, inscrivez son dernier nombre dans son carré suivant.
+(Par exemple, si l'expédition que vous avez choisi d'accélérer à un 2 comme plus grand nombre, inscrivez un 2 dans le carré au-dessus).
+Si le carré que vous avez choisi contiens également une flèche, vous accélérez une fois de plus.
+Vous ne pouvez cependant pas utiliser une accélération pour encercler un symbole ×2.
+
+TIP: Vous pouvez utiliser une accélération pour démarrer une nouvelle expédition.
+Si vous le faites, inscrivez un "1" dans son premier carré (et barrez son symbole ×2 s'il n'est pas déjà encerclé).
+
+
+==== Symbole de gemme
+
+Si vous inscrivez un nombre dans un carré contenant une gemme, encerclez immédiatement une gemme dans la colonne de droite de votre feuille de jeu.
+Cela doit également être fait de bas en haut.
+Si vous avez déjà encerclé toutes les gemmes disponibles dans la colonne de droite, alors vous avez terminé vos actions dans cette colonne.
+
+
+==== Refuser les cartes
+
+Si vous refusez les cartes piochées, vous devez encercler un symbole de "passe" dans la colonne de droite de votre feuille de jeu.
+Cela doit également être fait de bas en haut.
+
+Si vous avez déjà encerclé les neufs symboles de "passe", vous pouvez toujours refuser les cartes sans effets sur votre feuille de jeu.
+
+
+==== Ponts bonus
+
+Si vous inscrivez un nombre dans le 7^ème^ carré d'une expédition, ou encerclés la 7^ème^ gemme ou le 7^ème^ symbole de "passe", vous avez franchi le pont bonus correspondant et devez l'annoncer immédiatement.
+
+Vous recevrez *20 points bonus*, mais seulement si vous êtes le *premier joueur à avoir franchi ce pont bonus*.
+Si plusieurs joueurs franchissent le même pont lors du même tour, ils reçoivent tous les 20 points bonus.
+
+* Celui ou ceux qui reçoivent les points bonus encerclent le "20" du pont correspondant.
+* Les autres joueurs qui ne reçoivent pas le bonus pendant ce tour doivent barrer le pont correspondant sur leur feuille de jeu.
+
+[TIP]
+====
+*Recommendation — jouer en séquence:*
+
+Dans la plupart des cas, les joueurs feront leurs choix indépendamment et simultanément.
+Il peut arriver que votre choix dépende du choix des autres joueurs (par exemple, lors d'un pont bonus).
+Dans ce cas, vous pouvez demander à ce que les combinaisons soient choisies et inscrites dans les feuilles de jeu en sens horaire.
+
+Même lors d'un jeu simultané, il vaux mieux annoncer son choix à voix haute.
+
+Si vous utilisez une accélération, gemme ou pont, vous devriez aussi indiquer comment vous y arrivez.
+Le joueur suivant annonce ensuite son choix, l'inscrit dans la feuille de jeu, et ainsi de suite.
+C'est la manière la plus excitante de jouer, permettant à tous de comprendre le tour de ses adversaires.
+====
+
+
+== Fin de partie et scores
+
+Si un joueur encercle le neuvième symbole de "passe" dans la colonne de droite de sa feuille de jeu, il est "épuisé".
+Ce joueur perd tous les points de cette colonne.
+Il continue cependant à jouer normalement.
+
+Une fois que vous avez encerclé le dernier symbole de "passe", vous recevrez 0 points pour cette colonne.
+
+*Le jeu se termine à la fin d'un tour lorsque :*
+
+* les joueurs sont soit tous "épuisés",
+* ou les huit ponts bonus ont été franchis.
+Les ponts peuvent avoir été franchis par différents joueurs.
+
+Chaque joueur additionne maintenant son score ainsi:
+
+
+=== Scores des expéditions
+
+* Pour chacune des six expéditions, utilisez le score à gauche de votre feuille de jeu.
+Ce score est déterminé par le carré le plus haut de cette colonne ayant un nombre inscrit dedans.
+
+* S'il y a trois nombres ou moins dans cette colonne, le score est négatif, le score est ensuite positif.
+
+* Si le *symbole ×2 au début de l'expédition est encerclé, son score est doublé* (positif or négatif).
+
+* *S'il n'y a pas nombre dans une expédition, cette colonne rapporte 0 points.*
+
+* *Soyez prudent !*
+*Si vous avez encerclé le symbole ×2 sans poursuivre l'expédition, vous recevrez le double de -50, soit -100 points.*
+
+* Si vous avez encerclé le pont bonus, ajoutez 20 points à l'expédition.
+*Attention : les points des ponts bonus ne sont pas doublés.*
+
+* Les points gagnés sont inscrits dans les hexagones au-dessus de chaque expédition, en haut de la feuille de jeu.
+
+
+=== Scores des gemmes et passes
+
+* Pour la colonne des gemmes et des symboles de "passe", utilisez le score à droite de votre feuille de jeu et inscrivez le score correspondant au-dessus de la colonne correspondante.
+
+* Une colonne complète de neuf gemmes rapporte 100 points.
+
+* Une colonne complète de neuf passes vous rends "épuisé" et rapporte 0 points.
+Sept passes rapportent par contre 70 points.
+
+* Même si vous êtes "épuisé", les 20 points du pont bonus de la colonne des symboles de "passe" comptent toujours.
+
+
+=== Score total & gagnant
+
+Chaque joueur inscrit ses *points dans les hexagones en haut* de sa feuille de jeu.
+La somme résultante est inscrite dans le grand hexagone en haut à droite de la feuille de jeu, avec le nom du joueur.
+Le joueur avec le score le plus haut gagne la partie.
+En cas d'égalité, les joueurs se partagent la victoire.

@@ -1,0 +1,139 @@
+= Deuce
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Milton Bradley
+
+.Matériel
+****
+* 52 cartes numérotées : 0-10 à ♠, ♥, ♣, ♦.
+* 6 Papillons
+* 2 Loups
+****
+
+Deuce est un jeu de correspondance qui teste votre sens du timing et vos capacités stratégiques.
+Jouez une carte de votre main qui correspond à la couleur ou à la valeur de l'une de vos défausses — ou de l'une de vos adversaires.
+
+L'idée est de "sortir" (jouer la dernière carte de votre main) avec le plus grand total affiché sur vos défausses.
+Pour cela, vous devez jouer vos cartes pour augmenter le total de vos défausses et baisser celui de vos adversaires.
+
+Les scores sont totalisés à la fin de chaque manche (le gagnant marque des points) et le premier joueur à atteindre 100 points remporte la partie !
+
+
+== Déroulement d'une manche
+
+=== Démarrer la manche
+
+1. Choisissez un joueur pour distribuer les carte.
+Ce rôle passera au joueur à gauche du précédent distributeur au début de chacune des prochaines manches.
+
+2. Le distributeur mélange les cartes et distribue 6 cartes, face cachée, à chaque joueur.
+Les cartes restantes sont placées face cachée au centre de la table.
+
+3. *La première décision :* Pour démarrer le jeu, regardez les cartes de votre main.
+Placez ensuite deux cartes de votre choix face visible, l'une à côté de l'autre, directement devant vous.
+Chaque joueur fait de même.
+Ces deux cartes sont les premières de vos défausses, sur lesquelles vous — et vos adversaires — pourront jouer durant la partie.
++
+IMPORTANT: Les deux cartes de vos défausses doivent correspondre soit par couleur, soit par valeur, comme expliqué dans <<basique>>.
+
+4. En commençant par le joueur à gauche du distributeur, et ensuite en sens horaire, chaque joueur joue une carte de sa main.
+Les cartes peuvent être jouées sur l'une de vos défausses (les deux cartes devant vous), ou sur l'une de vos adversaires.
+L'objectif est de "sortir" de la manche avec le total le plus élevé sur vos propres défausses.
+Par exemple, deux 10, pour un total de 20, est le plus haut score que vous puissiez atteindre.
+
+
+[[basique]]
+=== Règle et Stratégie basique
+
+Toutes les cartes que vous jouez de votre main doivent correspondre à la carte à côté, soit par couleur, soit par valeur.
+
+.Tour
+====
+Le Joueur 1 a démarré le jeu en jouant le ♥2 et le ♠2.
+
+À son tour, le Joueur 1 ou un adversaire peu faire correspondre l'une de ces deux cartes en jouant une carte à côté (sur l'autre défausse).
+Les cartes possibles sont :
+
+* Correspondant au 2♠ (jouée sur le 2♥) :
+** Une carte ♠.
+** Une carte de valeur 2.
+* Correspondant au 2♥ (jouée sur le 2♠) :
+** Une carte ♥.
+** Une carte de valeur 2.
+====
+
+En supplément des cartes numérotées, le paquet contient six cartes Papillons et deux cartes Loup.
+Ces cartes devraient être réservées pour un jeu stratégique, lorsqu'elles peuvent être le plus bénéfique pour vous, ou le plus dommageable pour vos adversaires.
+
+
+==== Papillon
+
+Chaque carte Papillon correspond — et peut correspondre avec — n'importe quelle carte.
+
+Vous pouvez jouer une carte Papillon sur l'une de vos défausses, ou sur celle d'un adversaire, pour correspondre avec n'importe quelle carte.
+Par la même règle, n'importe quelle carte peut être jouée à côté d'un Papillon.
+Par exemple, si une carte Papillon est jouée sur l'une de vos défausses, le 2♣ peut être joué à côté, puis le 6♥, et ainsi de suite — la première couleur qui correspond n'est pas permanente.
+
+Une carte Papillon a une valeur de zéro — ce qui peut radicalement baisser le score d'un adversaire au bon moment !
+C'est une bonne stratégie de jouer l'une de ces cartes sur la défausse d'un adversaire avec un total élevé qui pourrait être sur le point de jouer sa dernière carte et remporter la manche.
+
+Vous pouvez jouer n'importe quelle carte sur un Papillon, à condition que cette carte corresponde à la carte à côté, par couleur ou par valeur.
+
+
+==== Loup
+
+Comme les cartes Papillon, les cartes Loup ont une valeur de zéro et peuvent être jouées sur n'importe quelle carte.
+
+Les cartes Loups, cependant, sont plus risquées que les cartes Papillon.
+Si une carte Loup est jouée sur l'une de vos défausses, seule une carte Papillon peut lui correspondre.
+Jusqu'à ce qu'une carte Papillon soit jouée à côté d'une carte Loup, aucune carte ne peut être jouée sur les deux défausses.
+Une fois la carte papillon jouée, les cartes numérotées classiques peuvent être jouées selon la règle normale de cartes Papillon.
+
+IMPORTANT: Une autre carte Loup peut être jouée à côté d'une carte Loup.
+Dans ce cas, vous pouvez jouer une carte Papillon sur n'importe laquelle des deux cartes Loup, puis jouer des cartes numérotées classiques.
+
+[%autowidth, cols="^.^,^.^,^.^"]
+|===
+| Carte | Quand et où la jouer | Ce qui peut être joué à côté
+
+h| Papillon
+| N'importe où, n'importe quand +
+(Sauf par-dessus un Papillon)
+| N'importe quelle carte
+
+h| Wolf
+| N'importe où, n'importe quand +
+| Papillon, Loup
+|===
+
+
+=== Continuer la partie
+
+1. Après la première action, chaque joueur à quatre cartes.
+À votre tour, prenez une carte de votre main et placez-la soit sur l'une de vos défausses, soit sur celle d'un adversaire.
+
+2. *Piocher :* Si vous ne pouvez pas, ou ne voulez pas, jouer une de vos cartes, vous pouvez piocher une ou plusieurs cartes de la pioche ; mais vous devez jouer une carte pour mettre fin à votre tour.
++
+NOTE: Si la pioche est vide, les joueurs retirent toutes les cartes de leur défausse sauf celle du dessus, puis mélangent les cartes pour former une nouvelle pioche.
+
+3. *Fin d'une manche :* La manche se termine lorsqu'un joueur "sors" — c'est-à-dire lorsqu'il joue sa dernière carte de sa main.
++
+IMPORTANT: Vous ne pouvez "sortir" que si le total de vos défausses est supérieur ou égal au total de chaque autre joueur.
+En cas d'égalité, le premier joueur à "sortir" remporte la manche.
+Si votre dernière action ne vous permet pas de remporter la manche, vous devez piocher au moins une carte à la fin de votre tour et la partie continuera jusqu'à ce qu'un joueur puisse "sortir" avec le plus haut total.
+
+
+== Décompte
+
+Le gagnant de la manche reçoit 10 points, plus la valeur combinée des cartes dans les mains des autres joueurs.
+Les cartes face visible des défausses ne sont utilisées que pour déterminer le vainqueur de la manche ; elles ne comptent pas dans son score.
+
+
+== Winning the game
+
+Une partie consiste en plusieurs manches.
+
+Le premier joueur à atteindre 100 points remporte la partie.

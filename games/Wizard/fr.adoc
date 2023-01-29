@@ -1,0 +1,110 @@
+= Wizard
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Ken Fisher.
+
+.Matériel
+****
+* 1-13 à ♠, ♥, ♣ & ♦.
+* 4 Papillons.
+* 4 Loups.
+****
+
+Wizard est un jeu de plis où les joueurs cherchent à marquer le plus de points.
+Chaque joueur doit prédire à l'avance combien de plis il pense gagner pour gagner des points.
+Celui qui a le plus de points à la fin de la partie a gagné
+
+
+== Distribution des cartes
+
+Le nombre de cartes distribuées change selon le tour.
+Au premier tour, chacun des joueurs ne reçoit qu'une seule carte.
+Il n'y aura donc qu'un pli.
+Au 2^ème^ tour, on reçoit 2 cartes.
+Au troisième tour, trois cartes et ainsi de suite jusqu'à ce que, au dernier tour, toutes les cartes aient été distribuées.
+Les cartes non distribuées sont posées, face cachée, au centre de la table.
+À chaque tour, c'est à un nouvel apprenti (le suivant dans le sens horaire) qu'incombera la tâche de distribuer les cartes.
+
+
+== L'atout
+
+Après la distribution des cartes, le donneur retourne la première carte du talon et on la pose sur le dessus de façon à être vue par tous.
+Cette carte détermine la couleur de l'atout pour le pli.
+S’il s'agit d'un Papillon, il n'y aura pas d'atout pour ce pli.
+Si cette carte est un Loup, c'est le joueur qui a retourné la carte qui désigne la couleur d'atout pour le pli.
+Cependant, il ne doit la désigner qu'après avoir regardé son jeu.
+Durant le dernier pli, il ne peut plus y avoir d'atout puisque toutes les cartes ont été distribuées.
+
+
+== La prédiction
+
+Après avoir regardé leur jeu, les joueurs doivent, chacun leur tour, annoncer combien de plis ils pensent remporter pendant le tour.
+Le joueur désigné au début de la partie et chargé de noter les prédictions, inscrit pour chaque apprenti la prédiction qu'il a formulée.
+Le joueur placé à la gauche du donneur commence.
+Avant chaque tour, le responsable répète les prédictions formulées par chacun.
+
+
+== Le pli
+
+Le joueur placé à la gauche du donneur joue sa première carte.
+Les autres joueurs doivent suivre dans le sens des aiguilles d'une montre.
+Tous les joueurs doivent jouer la couleur annoncée.
+Si l'un des joueurs ne peut pas, il peut jouer de l'atout ou jouer une autre couleur.
+
+Les cartes Loup et Papillon peuvent être jouées même lorsque le joueur peut poser la couleur demandée.
+
+La carte la plus forte gagne le pli.
+Les cartes Loup sont plus fortes que toutes les autres, y compris les cartes atouts.
+
+Le pli peut être gagné par :
+
+a. La première carte Z du pli.
+b. La carte la plus forte de l'atout.
+c. La carte la plus forte de la couleur jouée.
+
+Celui qui a gagné commence pour le prochain pli.
+
+
+== Cartes Loup et Papillon
+
+Si la première carte d'un pli est un Loup, les joueurs peuvent jouer n'importe qu'elle carte, y compris Loup et Papillon.
+C'est la première carte Loup qui remporte le pli.
+
+Si la première carte jouée est un Papillon, la 2^ème^ carte jouée pourra être de n'importe quelle couleur, c'est cette 2^ème^ carte qui détermine la couleur qui devra être jouée.
+Les cartes Papillon ne gagnent jamais le pli.
+Une exception néanmoins : si toutes les cartes jouées sont des Papillons, c'est le 1^er^ Papillon qui l'emporte.
+
+
+== Les points
+
+Le joueur qui a réussi à prédire le nombre exact de plis qu'il allait gagner, obtient 2 points, plus 1 point par pli gagné.
+
+Celui qui a fait une erreur dans ses prédictions perd 1 points pour chaque pli faussement estimé, que le résultat soit supérieur ou inférieur à son estimation.
+
+
+== Fin du jeu
+
+Il y a 60 cartes dans le jeu.
+On joue jusqu'à ce qu'il ne reste aucune carte et que toutes aient été distribuées.
+A 6 joueurs, il y a 10 tours, à 5 joueurs 12 tours, à 4 joueurs 15 tours, à 3 joueurs 20 tours.
+
+Le joueur avec le plus de points a gagné.
+
+
+== Variantes
+
+* *Plus ou moins 1* : Comme dans le jeu de base, chaque apprenti indique sa prédiction à celui qui est chargé de les noter.
+Mais le nombre obtenu en additionnant le nombre de plis de l'ensemble des apprentis doit être différent de l'ensemble des plis joués.
+Un apprenti ne peut faire une prédiction qui ne respecterait pas cette règle.
+Par exemple, si le tour se joue en cinq plis, l'ensemble des prédictions additionnées doit être différent de 5.
+Si par exemple, on atteint déjà ce total et que c’est au tour d’un joueur de faire
+une prédiction, celui-ci ne peut pas annoncer 0 pli.
+
+* *Prédiction cachée* : Chaque apprenti inscrit sur un morceau de papier le nombre de plis qu'il compte remporter et le donne à l'apprenti responsable des scores qui ne doit pas révéler ce que chacun des apprentis compte réaliser.
+De cette façon, aucun joueur n'est influencé par les prédictions des autres joueurs.
+
+* *Le secret* : Chaque joueur inscrit sa prédiction sur un papier qu'il pose face cachée devant lui.
+Les papiers ne sont retournés qu'à la fin du tour.

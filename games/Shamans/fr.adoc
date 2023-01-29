@@ -1,0 +1,222 @@
+= Shamans
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Cédrick Chaboussit.
+
+.Matériel
+****
+* 56 cartes Monde : 1–8 à ★, ♠, ♥, ♣, ♦, ✿, ⎈
+* 5 cartes Rôle :
+** 2 Ombres (J★, J♠)
+** 3 Shamans (K♥, K♣, K♦)
+* 12 Animaux :
+** 5 Loups
+** 2 Dragons
+** 3 Phénix
+** 2 Serpents
+* 1 carte Ø
+* 16 cartes Lunes :
+** 11-19 à ★ & 10-16 à ♠
+* 1 carte Singe Premier Joueur
+****
+
+Vous êtes un shaman.
+Depuis l’aube des temps, vous protégez les mondes des esprits de la menace de l’ombre.
+Jamais votre mission n’a été aussi périlleuse.
+Avant que la lune ne soit au zénith, vous devez rétablir l’équilibre des différents mondes pour empêcher l’univers de sombrer dans le chaos.
+
+Mais le danger pourrait-il venir de vos propres rangs ?
+Certains shamans, corrompus par l’ombre, œuvrent secrètement à votre échec…
+Peut-être en faites-vous partie ?
+
+Lorsque l’heure viendra, saurez-vous lire les desseins de vos rivaux et vous trouver du bon côté de cette lutte millénaire ?
+
+
+== Principe et but du jeu
+
+Shamans est un jeu de plis qui se déroule en plusieurs manches.
+À chaque manche, les joueurs sont répartis secrètement et au hasard entre deux camps, les Shamans et les Ombres.
+Les équipes changent donc au fur et à mesure des manches.
+
+
+* Les Shamans remportent la manche s’ils éliminent toutes les Ombres ou si tous les joueurs ont posé toutes leurs cartes avant que la pile de carte Lune ne soit vidée.
+* Les Ombres remportent la manche et 3 points chacun si la pile de carte Lune est vide.
+
+Les joueurs gagnent des points lorsqu’ils sont dans l’équipe victorieuse, ainsi que par certains effets.
+Le joueur qui totalise le plus de points de victoire en fin de partie est déclaré vainqueur.
+
+
+== Mise en place
+
+* Créez la pile de carte Lune et placez là face visible au centre de la table, dans cet ordre (dernière carte au-dessus) :
+** 3 joueurs : 11★ à 17★
+** 4 joueurs : 11★ à 19★
+** 5 joueurs : 11★ à 19★ & 10♠ à 16♠
+
+* Lors de parties à 3 ou 4 joueurs, seules certaines cartes sont utilisées :
++
+[cols="^.^,^.^,^.^,^.^,^.^"]
+|===
+.2+h|            2+h| Cartes R^le                2+h| Cartes Monde
+                   h| Shamans (K)  h| Ombres (J)   h| Couleurs                 h| Valeurs
+   h| 3 joueurs     | *2*           | *1*           | 5: *★, ♠, ♥, ♣, ♦*        | *1-6* (30 cartes)
+   h| 4 joueurs     | *3* (toutes)  | *1*           | 6: *★, ♠, ♥, ♣, ♦, ✿*     | *1-6* (36 cartes)
+   h| 5 joueurs     | *3* (toutes)  | *2* (toutes)  | 7: *★, ♠, ♥, ♣, ♦, ✿, ⎈*  | *1-8* (toutes les 56 cartes)
+|===
+
+* À 3 ou 4 joueurs, retirez du jeu les cartes qui ne sont pas utilisées.
+
+* Donnez la carte Singe Premier joueur au joueur le plus âgé (placée face visible devant lui).
+
+
+== Mise en place d’une manche
+
+1. Placez la pile de cartes lune face visible au centre de la table.
+2. Mélangez les 12 cartes Animal face cachée, révélez-en 2 et placez-les sur la table.
+Puis mélangez la carte Ø *face visible* aux 10 cartes Animal restantes face cachéee, et placez cette pile face cachée près des 2 Animaux visibles.
+Si la carte Ø est visible au sommet de la pile, remélangez les cartes jusqu’à ce que ça ne soit plus le cas.
+3. Distribuez 1 carte Rôle à chaque joueur, qui la conserve face cachée devant lui.
+Un joueur peut consulter sa carte Rôle à tout moment.
+4. Distribuez les cartes Monde aux joueurs, selon le nombre de joueurs (9 cartes à 3 ou 4 joueurs, 11 cartes à 5 joueurs).
+Placez les cartes non distribuées (3 cartes à 3 joueurs, 1 carte à 5 joueurs) face visible sur la table, triées par couleurs.
+5. Le joueur ayant la carte Singe Premier joueur est le premier Guide de la manche.
+
+
+== Tour de jeu
+
+Le Guide choisit et place une carte de sa main visible devant lui.
+Elle indique la Destination du tour (le Monde que les Shamans vont protéger ce tour-ci).
+Puis chaque autre joueur, dans le sens horaire, DOIT jouer une carte :
+
+* *Si la carte correspond à la Destination (Monde de la même couleur) :* +
+il la pose bien visible devant lui, elle sera résolue quand tous les joueurs auront joué une carte.
+
+* *Si la carte ne correspond pas à la Destination (Monde de couleur différente) :* +
+Il défausse immédiatement une carte de la pile de cartes Lune et la place face cachée à côté.
+Si la pile de carte Lune est maintenant vide, les Ombres remportent immédiatement la manche.
++
+Il place la carte au centre de la table, dans la pile des cartes de la même couleur.
+Si toutes les cartes du Monde sont désormais placées (chaque Monde est composé de 6 cartes à 3 & 4 joueurs, et 8 cartes à 5 joueurs), le joueur qui pose la carte doit immédiatement réaliser le rituel du Monde (voir <<effet-des-rituels>>).
+
+NOTE: Il n’y a aucune contrainte lorsque vous posez une carte ; n’importe quelle carte peut être jouée.
+Les joueurs peuvent parler librement, mais sans mentionner de couleurs, de mondes ou de valeurs de cartes.
+
+
+=== Résolution des cartes
+
+Une fois que tous les joueurs ont posé une carte, on doit vérifier parmi les joueurs ayant devant eux une carte une carte Monde de la couleur de la Destination, celui qui a posé la plus petite valeur et celui qui a posé la plus grande valeur.
+
+NOTE : si un joueur est le seul à avoir joué une carte *de la Destination* (ou que les autres ont été éliminés), il est alors à la fois celui qui a posé la plus petite *ET* la plus grande valeur.
+
+Puis, dans l’ordre :
+
+1. *Le joueur ayant la carte de plus petite valeur :* +
+Le joueur gagne une carte Animal au choix parmi les 2 révélées ou celle au sommet de la pile (dans ce cas il peut, s’il le souhaite, la conserver face cachée, sauf s’il s’agit d'un Serpent, qui doit toujours être révélée et activée).
+Si un Animal face visible est pris, une nouvelle carte est immédiatement révélée et y est posée face visible.
+Si, à n’importe quel moment, la carte Ø est visible au sommet de la pile, il faut immédiatement appliquer son effet.
++
+.Résolution de la carte Ø
+****
+Chaque joueur doit donner une carte de sa main à son voisin de gauche (s'il s'agit d'une manche paire) ou de droite (s'il s'agit d'une manche impaire).
+Puis la carte Ø est défaussée.
+
+NOTE: Si la carte Ø apparait au dernier tour, il peut arriver que certains joueurs n’aient plus de carte en main.
+Dans ce cas, seuls les joueurs ayant au moins une carte en main donnent et reçoivent une carte.
+****
+
+2. *Le joueur ayant la carte de plus grande valeur :* +
+Le joueur récupère toutes les cartes posées devant les joueurs et les place sur la table, triées par couleur, en laissant toutes les valeurs visibles.
+Si toutes les cartes du Monde sont désormais placées (6 cartes à 3-4 joueurs, 8 cartes à 5 joueurs), il doit immédiatement réaliser le rituel du Monde (voir <<effet-des-rituels>>).
+Si les joueurs ont encore des cartes en main, il devient le nouveau Guide et commence un nouveau tour, sinon la manche se termine.
+
+
+=== Effet des cartes Animal
+
+* *Dragon :* +
+Le joueur conserve cette carte devant lui.
+Elle peut être défaussée à n’importe quel moment pour défausser une carte Lune de la pile, ou pour remettre une carte Lune défaussée sur la pile.
++
+IMPORTANT: Si, à n’importe quel moment, la pile de carte Lune est vide, les Ombres remportent immédiatement la manche.
++
+Un joueur qui possède un Dragon a toujours la possibilité de le jouer et d’appliquer son effet, à n’importe quel moment, y compris juste avant d’être éliminé, ou juste avant que la pile de carte Lune ne devienne vide.
+
+* *Serpent :* +
+Le joueur qui prend cette carte DOIT révéler immédiatement SA carte Rôle.
+Si la carte est piochée au sommet de la pile, elle doit être révélée immédiatement.
+
+* *Loup :* +
+Le joueur conserve cette carte devant lui.
+Le joueur défausse cette carte pour éliminer un joueur lorsqu’il réalise un rituel de Neutralisation (voir <<effet-des-rituels>>).
+
+* *Phénix :* +
+Le joueur conserve cette carte devant lui.
+À la fin de la manche, s’il en possède au moins 2 et qu’il n’a pas été éliminé, il marque 2 points de victoire.
+
+
+[[effet-des-rituels]]
+=== Effets des rituels
+
+* *Rituel de Stabilisation (♠) :* +
+
+* *Rituel de Permutation (♥) :* +
+Le joueur échange sa carte Rôle avec un autre joueur.
+Les 2 joueurs peuvent immédiatement regarder leur nouvelle carte Rôle.
+Il est ainsi possible de changer de camp en cours de partie.
+
+* *Rituel d’Illumination (★) :* +
+Le joueur gagne 1 point de victoire.
+
+* *Rituel de Neutralisation (♣, ♦, ✿, ⎈) :* +
+Si le joueur possède un Loup visible devant lui, il *DOIT* en défausser une et éliminer un autre joueur de son choix.
++
+NOTE: S’il possède un Loup face caché, il peut décider de ne pas le révéler.
+Si le joueur ne possède pas de Loup ou décide de ne pas en révéler, ce rituel n’a aucun effet.
++
+.Effet d’une élimination
+****
+La carte Rôle du joueur éliminé est révélée.
+
+* *Si le joueur éliminé est un Shaman :* +
+Défaussez une carte de la pile de carte Lune pour chaque carte que le joueur a encore en main.
+Ceci peut mener à une victoire des Ombres.
+Puis ses cartes sont mises de côté, face cachée.
+Elles ne seront jamais posées et certains Mondes ne seront donc jamais complétés.
+
+* *Si le joueur éliminé est une Ombre :* +
+Les Shamans remportent immédiatement la manche s’il s’agit de la dernière Ombre en jeu.
+Sinon (uniquement lors de parties à 5 joueurs), les cartes que le joueur éliminé a en main sont révélées et placées sur la table, aux emplacements correspondants à chaque Monde, sans défausser de carte Lune.
+Ceci peut déclencher une réaction en chaine si toutes les cartes d’un ou plusieurs Mondes sont ainsi placées.
+Lorsque cela se produit, le joueur qui a éliminé l’Ombre résout les effets des rituels, dans l’ordre de son choix.
+Puis la partie reprend son cours normalement.
+
+NOTE: Les cartes Animal détenues par un joueur qui vient d’être éliminé sont écartées du jeu jusqu’à la fin de la manche.
+
+IMPORTANT: La carte posée devant un joueur éliminé est posée sur la table normalement à la fin du tour.
+Sa valeur n’est pas prise en compte pour déterminer la plus grande valeur et la plus petite valeur.
+Si c’est la seule carte de la Destination jouée ce tour-ci, le joueur éliminé choisit quel joueur devient le nouveau Guide.
+****
+
+
+== Fin de manche ou de partie
+
+La manche peut se terminer de plusieurs manières :
+
+1. Lorsque les joueurs n’ont plus de cartes en main : Les Shamans ont réussi à protéger les Mondes des Esprits et remportent la manche.
+2. La dernière Ombre est éliminée : Les Shamans ont réussi à démasquer toutes les Ombres et remportent la manche.
+3. Si la pile de carte Lune est vide :Les Ombres parviennent à corrompre les Mondes des Esprits et remportent la manche.
+
+Puis :
+
+* Chaque joueur Shaman gagne 2 points de victoire si son équipe a remporté la manche, sauf s’il a été éliminé.
+* Chaque joueur Ombre gagne 3 points de victoire si son équipe a remporté la manche, sauf s’il a été éliminé.
+* Un joueur qui possède 2 (ou 3) Phénix gagne 2 points de victoire supplémentaires, sauf s’il a été éliminé.
+* Si aucun joueur ne totalise 8 points de victoire ou plus, une nouvelle manche commence.
+Le joueur ayant la carte Singe Premier joueur la passe au joueur à sa gauche.
+Les joueurs conservent uniquement leurs points de victoire d’une manche à l’autre.
+* Dès qu’un ou plusieurs joueurs possèdent 8 points de victoire ou plus, celui ayant le plus de points remporte la partie.
+En cas d’égalité, une nouvelle manche est jouée jusqu’à ce qu’un joueur ait strictement plus de points.
+
+NOTE: Les Ombres ne remportent pas la manche s’ils éliminent tous les Shamans mais que la pile de carte Lune n'est pas vide à la fin de la manche.

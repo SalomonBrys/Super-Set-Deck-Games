@@ -1,0 +1,13 @@
+type:
+  - Push Your Luck
+  - Hand Management
+  - Score and Reset
+players: 1, 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-12
+      hearts: 1-12
+      clubs: 1-12
+      diamonds: 1-12
+      stars: 1-12

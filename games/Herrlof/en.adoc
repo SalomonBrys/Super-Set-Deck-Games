@@ -1,0 +1,151 @@
+= Herrlof
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Alexander Kneepkens & Inge van Dasselaar.
+
+.Components
+****
+* 36 numbered cards: 1-9 in ♠, ♥, ♣, ♦.
+* 6 special cards: 3 Wolves & 3 Butterflies.
+****
+
+Scandinavia during the Viking age, from roughly 800 until 1050 AD, is characterised by powerful magnates (or chieftains) and kings.
+The title of king is not inherited, you fight for it.
+The leading magnate is recognised by the others as "first among equals".
+Four magnates now battle for Herrlof: the victory and praise gained in war.
+Who will become the next Viking king?
+
+
+== Game overview
+
+In this trick taking game your goal is to be the first player to reach 50 points or more, the player with the most points wins.
+You score points by winning tricks and can gain bonuses.
+The game is played in a maximum of 10 rounds, although most often players will easily reach 50 points before that.
+
+
+== Preparation
+
+Each player receives one sheet to keep track of their predictions and score.
+For the first round you randomly pick one player as the dealer, this alternates for the following rounds.
+
+
+== Gameplay
+
+The game is played in rounds, each round you:
+
+1. Deal 15 cards
+2. Set the trump
+3. Predict your score
+4. Battle for tricks
+5. Reveal predictions and determine your score.
+
+Every round consists of 15 tricks, a trick consists of one played card from both players.
+
+=== 1. Dealing cards & 2. Setting the trump
+
+The dealer deals 15 cards to both players, the remaining 12 cards form a face-down deck on the side of the game.
+The dealer then turns the top card of the deck face up, the colour of this card is the trump colour for this round.
+If this is a Wolf or a Butterfly, there is no trump colour.
+
+
+=== 3. Predict your score
+
+Both players take their dealt cards to form their hand and predict how many tricks they think they will win.
+They write this on their sheet and keep it concealed.
+You are not allowed to alter your prediction in a round, and you cannot show your prediction to the other player.
+
+
+=== 4. Battle for tricks
+
+The player next to the dealer starts the first trick by playing one card, let's call him player A.
+The card played by player A indicates which colour card player B must play if player B has that same colour.
+If player B does not have a card in that colour, he may play a card of his choice.
+You are always allowed to play a Wolf or a Butterfly instead of matching the colour.
+If a player starts a trick with a Wolf or a Butterfly, the other player may play a card of his choice.
+
+.Trump: ♠
+====
+* Player A plays a ♣7, player B doesn't have ♣ cards (anymore) and therefore plays a card of his choice.
+Player B plays a ♥8.
+Player A wins the trick.
+* Player A plays a ♣7, player B doesn't have ♣ cards (anymore) and therefore plays a card of his choice.
+Player B plays a ♠3.
+Player B wins the trick since ♠ is the trump colour.
+====
+
+Each trick is won by a single player.
+If both played cards are the same colour, the player with the higher card wins the trick.
+If player B played a different colour than player A, then player A wins the trick (regardless of the number on the card) unless player B played a trump card.
+If player B played a trump card (while player A played another colour), player B wins the trick regardless of the number on his card.
+
+The winner of the trick takes both cards, places them on top of each other and puts them to the side of the table.
+Every following trick that he wins, he puts there in such a way that both players can at any time see how many tricks each player has won.
+You are only allowed to review the most recent trick, you cannot check any previous tricks for which cards were played.
+The winner of a trick starts the next trick, unless a card with a special ability changes this.
+
+
+=== 5. Reveal predictions and determine your score
+
+When all dealt cards are played, each player reveals their prediction.
+You receive one point for each trick you won.
+If you won the exact number of tricks you predicted, you receive 10 bonus points.
+If you only won three, four or five tricks, you receive 5 bonus points (regardless if this was your prediction).
+
+
+== End of the game
+
+The game ends when, after scoring a round, one or both players have reached 50 points.
+The player with the most points wins.
+In case of a tie, the player that most often received the prediction bonus wins.
+If there still is a tie, the player with the most tricks in the final round wins.
+If there still is a tie, the players share the win.
+
+
+== Cards with special abilities
+
+* *Wolf*: Destroys the trick in which it is played.
+This means that both cards played in this trick are removed from the game for this round, lowering the total number of tricks that can be won this round.
+The same player that started the trick starts the next trick.
+If two wolves are played in one trick, a new trump colour is immediately turned face up from the deck (replacing the existing trump).
+
+* *Butterfly*: This card is lower than all other cards.
+The loser of this trick starts the next trick.
+However, if two Butterflies are played, the first one wins the trick.
+
+* *1*: If you win the trick with this card, you may choose to steal a trick from the other player.
+Note that this is a trick he had already before.
+
+* *3*: If you play this card, you may choose to take the top (face-down) card from the deck to your hand and discard a card from your hand to the bottom of the deck.
+You may discard the card you just received.
+This special ability is regardless of who wins the trick.
+
+* *6*: If you win the trick with this card, you may choose to blindly steal one card from the hand of the other player.
+You may add this card to your hand and return a different card to the other player, or may hand back the same card you just stole.
+
+* *9*: If you win the trick with this card, your opponent starts the next trick.
+
+.Trump: ♥
+====
+* Player A plays a ♥5, player B plays a Wolf.
+The trick is destroyed, player A starts the next trick.
+* Player A plays a ♠1, player B plays a Butterfly.
+Player A wins the trick and takes one additional trick from player B, so player A adds two tricks in total to his pile.
+Player B starts the next trick.
+* Player A plays a ♥3, takes the top face down card from the deck and discards another card.
+Player B plays a ♥6. Player B wins the trick and steals one card from A's hand and returns a different card from his own hand.
+Player B starts the next trick.
+* Player A plays a ♣9, player B plays a ♦4.
+Player A wins the trick, player B starts the next trick.
+====
+
+
+=== Three players alternative
+
+It is possible (and enjoyable) to play the game with three players.
+Simply deal 11 cards to each player per round.
+When a card with a special ability indicates "the other player", substitute this with "another player".
+With the 9, the player left of the winner starts the next trick.
+Note that the five bonus points for 3, 4 or 5 tricks is cancelled for three players.
+You are also recommended to put the scoring goal at 40 points, rather than 50.

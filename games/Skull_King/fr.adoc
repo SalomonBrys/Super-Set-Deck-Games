@@ -1,0 +1,216 @@
+= Skull King
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Brent Beck.
+
+.Matériel
+****
+* 66 cartes de jeu :
+** 52 cartes de couleur : 1-13 in ♠, ♥, ♣, ♦
+** 5 Papillons
+** 5 Loups
+** 2 Serpents
+** 1 Phénix
+** 1 Roi Singe
+****
+
+
+*Yo - Ho - Ho!*
+
+Batailles navales à coups de canons et de grappins !
+Tu parles !
+En réalité tout était beaucoup plus inoffensif !
+Les pirates respectables préféraient se livrer à des batailles de cartes sur les tables de jeu de minables tavernes.
+Qui arrive non seulement à piquer la majorité des plis à ses adversaires, mais aussi à les pronostiquer le plus précisément possible, ressort en vainqueur de la compétition.
+
+
+== But du jeu
+
+Les pirates se trouvent en compétition pendant 10 manches.
+À chacun d'elles, les joueurs doivent indiquer le nombre de plis qu'ils veulent réaliser au cours de la manche.
+Après quoi, il s'agit de s'approcher le plus près possible de ce résultat...
+
+Qui n'y arrive pas, parce qu'il fait trop ou pas assez de plis, perd à la fois gloire et prestige.
+Ne faire aucun pronostic peut s'avérer lucratif, mais aussi très risqué...
+
+Alors que chacun ne dispose que d'une seule carte pendant la première manche, une carte supplémentaire vient s'y ajouter à chaque manche suivante.
+Au cours de chaque manche, les joueurs essaient d'accumuler le plus de points possibles.
+Qui en a accumulé le plus à l'issue des 10 manches, gagne.
+
+
+== Préparatifs et déroulement d’une manche
+
+Toutes les cartes sont bien mélangées avant d'être distribuées, face cachée à chacun des joueurs.
+Le *nombre de cartes varie de manche à manche*.
+Au cours de la première, chacun des joueurs ne reçoit qu'une seule carte, puis 2 cartes lors de la deuxième manche et ainsi de suite, jusqu'à la dixième manche, où ils en reçoivent chacun 10.
+Par manche, le jeu se poursuit tant que les joueurs tiennent des cartes en main.
+À chaque tour, les joueurs doivent jouer ouvertement une carte à tour de rôle.
+C'est ce que l'on appelle un « pli ».
+
+Une fois les cartes distribuées, chacun des joueurs regarde sa/ses carte(s) et réfléchit au nombre de plis qu'il va pouvoir faire avec elle(s).
+Il vaut mieux enlever son bandeau pour ne rien perdre de vue !
+
+
+== Yo - Ho - Ho!
+
+Pour montrer qu'il a pris sa décision quant au nombre de plis qu'il va faire, un joueur tend le poing en direction du milieu de la table.
+Lorsque tous les pirates ont le poing tendu en direction du milieu de la table, ils lancent ensemble leur cri de bataille « YO – HO – HO » et frappent la table du poing à chaque syllabe.
+Au deuxième « HO », tous les joueurs ouvrent leur poing en même temps et indiquent, avec leurs doigts, le nombre de plis qu'ils pensent faire au cours du tour.
+
+NOTE: Qui pense pouvoir faire plus de cinq plis, montre les cinq doigts de sa main et dit *simultanément* à voix haute et de façon bien compréhensible le chiffre sur lequel il mise.
+
+Les plis annoncés sont notés pour chaque joueur.
+
+
+=== C'est alors que la bataille commence
+
+Le joueur se trouvant à la gauche de celui ayant distribué les cartes attaque le premier tour en sortant la première carte.
+Dans le sens des aiguilles d'une montre, les autres joueurs *doivent jouer la couleur sortie*, c'est-à-dire poser une carte de la même couleur.
+Qui ne le peut pas, se défait d'une autre couleur (et perd par conséquent le pli) ou bien d'un ♠ (pour ramasser le pli, dans la mesure du possible).
+
+Une fois que tous les joueurs ont posé une carte, ils regardent à qui revient le « pli ».
+Celui qui le remporte, le pose face cachée devant lui et légèrement à l'écart des autres plis (de manière que l'on puisse toujours bien voir le nombre de plis ramassés par chaque joueur).
+
+Une fois toutes les cartes jouées, la manche prend fin et les points sont notés.
+
+
+=== Quelles sont les cartes et à qui revient le pli ?
+
+Le pli revient toujours à celui ayant sorti la carte la plus haute.
+En général, il s'agit de la carte la plus haute de la couleur jouée.
+Si des cartes d'une autre couleur ont été sorties (parce que le joueur n'avait pas celle jouée), elles ne comptent pas.
+*Exception* : le ♠ est la couleur la plus haute ayant priorité sur toutes les autres couleurs (indépendamment de la valeur chiffrée).
+Toutes les autres couleurs ont la même valeur entre elles.
+
+.Pli
+====
+Un 12♦ est posé sur un 2♦.
+N'ayant pas de jaune, les deux joueurs suivants posent un 13♥ et un 1♠.
+Celui ayant posé le 1♠ ramasse le pli, car le ♠ est toujours la couleur prioritaire.
+En l'absence de la carte ♠, le 12♦ aurait ramassé le pli, vu qu'il s'agissait de la carte la plus haute de la couleur (♦) jouée.
+====
+
+Un joueur *doit* systématiquement *jouer une carte de la couleur sortie*.
+Cependant, même s'il pourrait poser une carte de cette couleur, il a *toujours* la possibilité de *poser l'une des cartes spéciales* suivantes :
+
+
+== Cartes spéciales
+
+*Les cartes spéciales peuvent être jouées à tout moment !*
+Même s'il s'avère possible de poser une carte de la même couleur que celle sortie !
+
+NOTE: Si la première carte jouée est une carte spéciale, prendre en tant que couleur à poser au cours du tour, celle de la première carte de couleur sortie à la suite de la carte spéciale.
+
+NOTE: Si la première carte jouée est un ♠, un joueur n'ayant pas de ♠ en main peut poser une autre carte de couleur.
+Il n'est pas obligé de sortir un Loup.
+
+
+=== Papillon
+
+Cette carte ayant la valeur « 0 », elle a toujours la valeur la plus faible.
+Elle est jouée lorsque l'on veut éviter de faire un pli.
+
+NOTE: Au cas où tous les joueurs poseraient une carte Papillon, c'est celui ayant posé *la carte Papillon en premier* qui récupère le pli.
+
+
+=== Serpent
+
+Le Serpent a une *valeur supérieure à toutes les cartes de couleur* (♠ compris), mais il est coupé par les cartes Loup.
+Il a priorité sur le Roi Singe, car il l'empoisonne : si le Serpent fait partie du même pli que le Roi Singe, c'est toujours lui qui remporte le pli (peu importe les autres cartes se trouvant dans le pli) et le joueur est gratifié en plus d'une prime supplémentaire.
+
+NOTE: Si 2 cartes Serpents sont jouées au cours d'un tour, la carte posée en premier a priorité et remporte le pli.
+
+
+=== Loup
+
+Ces cartes ont *priorité sur toutes les cartes de couleur* (indépendamment de leur couleur et de leur valeur) et sur le Serpent.
+3 solutions sont possibles pour ne pas faire un pli avec une carte Loup :
+
+* elle est posée après une autre carte Loup,
+* elle est coupée par un Roi Singe posé par la suite ou elle est posée après le Roi Singe,
+* elle est coupée par un Serpent joué dans le même pli que le Roi Singe.
+
+NOTE: Si 2 cartes Loup sont jouées au cours d'un tour, la carte posée en premier a priorité et remporte le pli.
+
+
+=== Phénix
+
+Le Phénix peut être joué soit en tant que carte Loup, soit en tant que carte Papillon.
+En *sortant cette carte*, le joueur doit alors annoncer la fonction endossée par le Phénix.
+
+
+=== Roi Singe
+
+Le Roi Singe ne peut être *battu que par un Serpent*.
+Toutes les autres cartes ont une valeur plus faible que le Roi Singe.
+Si le pli ramassé avec le Roi Singe contient une carte Loup (Le Phénix en faisant partie, peu importe la fonction qu'il assume), le joueur est gratifié d'une prime.
+
+
+== Décompte des points
+
+Pour le *pronostic correct* de son nombre de plis, un joueur compte *2 points par pli gagné*.
+
+.Pronostic réussi
+====
+David pronostique 3 plis et en fait bel et bien 3.
+Ceci lui rapporte 6 points en tout.
+====
+
+Si un joueur fait plus ou moins de plis qu'annoncés, il n'encaisse *aucun point en plus* et *ne peut pas non plus bénéficier de ses primes*.
+Il *déduit 1 points pour chaque pli divergeant* de son pronostic.
+
+.Pronostic échoué
+====
+Simon annonce 5 plis, mais n'en fait qu'1.
+La différence est de 4 plis.
+Il encaisse donc 4 points négatifs.
+====
+
+IMPORTANT: Si un joueur déclare ne faire *« aucun pli »* et qu'il n'en fait bel et bien aucun, il reçoit en points la valeur du numéro actuel du tour.
+
+.Aucun pli réussi
+====
+Au cours du tour numéro 4, Éloïse déclare ne pas faire de pli et elle n'en fait réellement aucun.
+Elle se voit pour cela gratifiée de 4 points.
+====
+
+IMPORTANT: Si un joueur n'y arrive pas et s'il est obligé de ramasser *un ou plusieurs plis*, il reçoit le même nombre de points, mais en tant que *somme négative*.
+Si un joueur déclare à tort ne vouloir faire aucun pli, il importe par conséquent peu qu'il en ramasse un, ou par exemple trois.
+
+.Aucun pli échoué
+====
+Au cours du tour 9, David affirme ne vouloir faire aucun pli, mais il se trouve obligé d'en ramasser deux.
+Il est alors pénalisé de -9 points.
+====
+
+CAUTION: L'affirmation de ne vouloir faire aucun pli n'est donc pas sans risque !
+Elle peut certes permettre à un joueur de gagner beaucoup de points, mais aussi d'en perdre une grande quantité.
+
+
+== Points de prime
+
+Les cartes Serpent et Roi Singe permettent de gagner des points supplémentaires.
+Un joueur ne peut cependant encaisser ces *points de prime que s'il arrive à faire exactement le nombre de plis qu'il a pronostiqués*.
+Si un joueur n'y arrive pas, il ne peut pas encaisser de prime.
+
+* Si un joueur est arrivé à prendre une ou plusieurs cartes Loup en un pli avec le *Roi Singe*, il encaisse alors *une prime de 3 points pour chaque carte Loup se trouvant dans le pli*.
+Le Phénix compte pour cela toujours comme un Loup, même s'il a été jouée en tant que Papillon.
+
+* Si un joueur a *capturé le Roi Singe en un pli avec son Serpent*, il se voit gratifié d'une *prime de 5 points*.
+
+
+== Le block
+
+Le nombre de plis pronostiqués, ainsi que le nombre de points obtenus sont notés sur un bloc-note, cette tâche devant être confiée de préférence à un pirate sans crochet à la main.
+
+À l'issue d'une manche, toutes les cartes sont remélangées après le décompte des points, puis distribuées pour la manche suivante.
+À chaque manche, le nombre de cartes distribuées augmente de 1.
+
+
+== Fin du jeu
+
+Le jeu s'achève après la 10^ème^ manche.
+Le pirate ayant obtenu le plus de points a fait de bons pronostics, a réussi ses plis et gagné la bataille.

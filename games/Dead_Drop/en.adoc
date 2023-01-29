@@ -1,0 +1,102 @@
+= Dead Drop
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Jason Kotarski.
+
+.Components
+****
+* 13 Information cards:
+** 0 in ♠, ♥, ♣, ♦.
+** 1 in ♠, ♥, ♣.
+** 2 in ♠, ♥.
+** 3 in ♠, ♥.
+** 4 in ♠.
+** 5 in ♠.
+* Additional cards for the advanced game:
+** 1 à ♦.
+** 2 & 3 à ♣.
+** 4 à ♥.
+****
+
+As secret agents working for different organizations, players scour the globe seeking information that will help them find the location of a hidden explosive device.
+Agents must trade information and sell secrets in order to learn the location of the device and grab it before it falls into the hands of another agency!
+
+Dead Drop is a game that involves elements of memory, deduction, and crafty maneuvering.
+
+
+== The setup
+
+Shuffle the deck and place 1 card face down in the middle of the table.
+This is *The Drop* - the card represents the information that must be obtained in order to locate the explosive device.
+
+Place cards equal to the number of players face up in a row to the side of the table to form *The Stash*.
+
+Deal the remaining cards evenly among the players:
+
+* 4 players: 2 cards each
+* 3 players: 3 cards each
+* 2 players: 5 cards each
+
+
+== The Action
+
+On player’s turn they must choose to perform 1 of the following actions:
+
+* *Share Info:* +
+Trade *1* card from your hand with *1* card from any other player.
+The target player *must* trade and *may not* look at the card they are given before handing you their card.
+
+* *Swap the Stash:* +
+Trade *1* card from your hand with one card in the stash.
+The card from your hand must be placed face up to become a part of The Stash.
+
+* *Sell Secrets:* +
+Reveal 2 cards from your hand to another player.
+They must respond by saying *“yes”* or *“no”*, revealing whether or not they have a card equal to the sum of those cards.
+If *“yes”*, they must hand a card of that value to you, and you must choose *1* of your revealed cards to give them in return
+
+
+== End of turn
+
+After a player has taken their turn, they may choose to take the following action before passing their turn:
+
+* *Grab the Drop:* +
+Place *2* cards from your hand face up next to The Drop, then secretly check The Drop.
+If The Drop is equal to the sum of the 2 cards you placed, you win the round!
+
+IMPORTANT: When attempting to “Grab The Drop” the “5” card may be used as a “0”.
+
+If not, you are eliminated from the round.
+
+IMPORTANT: In a 3-4 player game, if a player is eliminated, the eliminated player’s cards are placed face up with the other cards in the stash.
+In a 2 player game, the other player wins the round.
+
+
+== the score
+
+The first player to have successfully grabbed *3* Drops wins the game!
+
+
+== Jeu avancé
+
+For an added challenge, add the advanced game cards.
+
+Each player receives one more card:
+
+* 4 players: 3 cards each
+* 3 players: 4 cards each
+* 2 players: 6 cards each
+
+Furthermore, the Stash always contains *4 cards* (no matter the number of players).
+
+
+== 2 players variant
+
+With two players, it is possible that the first player may be able to deduce the Drop at the end of his first turn.
+To prevent this, you can apply the following variant that slows the 2-players game a bit:
+
+* Each of the two players receive one less card.
+* 2 cards are placed face down next to the Drop, this is *The Middleman*.
+* Players can *Share Info* with the Middleman by trading *1* face down card from their hand with one of these two cards.

@@ -1,0 +1,152 @@
+= Egocentric World
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de François Bergeron et Julien Vaucanson.
+
+.Matériel
+****
+* 60 cartes numérotées : 1-12 à ♠, ♥, ♣, ♦ & ★.
+****
+
+Chaque joueur contrôle une ville représentée par sa main de cartes.
+Chaque carte a une valeur d'*Égocentrisme*, et parfois une *capacité spéciale*.
+
+Le but de chaque joueur est de *finir la partie avec le total d’Égocentrisme le plus faible*.
+Les cartes avec un Égocentrisme important offrent cependant des avantages pendant la partie.
+Une partie peut-être composée d’une *manche* ou de plusieurs.
+
+
+== Mise en place
+
+Au début de la première manche, mélangez les *60 cartes* pour former une *pioche* face cachée au centre de la table.
+Retournez la première carte pour initier une *défausse*.
+
+Au début de chaque manche, *distribuez 5 cartes de la pioche à chaque joueur* pour constituer sa main.
+Un joueur ne peut pas regarder la main des autres joueurs.
+
+Lorsque la pioche est vide, mélangez la défausse et placez la face cachée pour former une nouvelle pioche.
+
+Les joueurs jouent dans le sens des aiguilles d’une montre.
+
+Lors de la première manche, déterminez aléatoirement le premier joueur.
+À chaque manche suivante, le premier joueur est celui ayant obtenu le plus haut score à la manche précédente.
+Départagez les égalités aléatoirement.
+
+
+== Jeter ou jouer une carte
+
+Une carte mise à la défausse est *jetée* lorsqu’elle provient directement de la pioche ou *jouée* lorsqu’elle provient de la main d’un joueur.
+
+Une carte *jetée* est mise face visible sur la défausse *sans déclencher* sa capacité spéciale.
+
+Une carte *jouée* est mise face visible sur la défausse et le joueur qui la joue peut éventuellement *déclencher* sa capacité spéciale.
+
+Lors de votre tour, *vous devez compléter une seule action* parmi celles-ci :
+
+* *Piochez* et regardez secrètement la première carte de la pioche.
+  Vous devez alors SOIT la *jeter*, SOIT la garder pour remplacer une carte de votre main.
+  La carte remplacée est ensuite *jouée*.
+
+* *Prenez la première carte de la défausse* pour remplacer une carte de votre main.
+  La carte remplacée est ensuite *jouée*.
+
+* *Révélez une carte de votre main* de même valeur que la première carte de la défausse et *jouez*-la.
+
+* *Révélez une paire de cartes de même valeur* de votre main et *jouez* une des deux.
+  L’autre reste dans votre main.
+
+* *Dites "STOP"* afin que la manche s'arrête juste avant votre prochain tour.
+
+La manche s’arrête immédiatement si un joueur n’a plus de cartes en main.
+
+Quand la manche s'arrête, *on fait la somme des valeurs d’Égocentrisme* dans la main de chaque joueur.
+*Le vainqueur est celui qui a le score le plus faible*.
+
+Lors d’une partie en plusieurs manches, chaque joueur fait le total de ses scores à chaque manche.
+Les manches se succèdent jusqu’à ce qu’un joueur atteigne *50*.
+Le joueur avec le total le plus bas l’emporte alors.
+
+
+=== Capacités spéciales
+
+Lorsqu’une carte de valeur 8 à 12 est *jouée*, le joueur qui la joue décide si sa capacité spéciale se déclenche ou non.
+
+* *12* : *Vous pouvez jouer un tour de plus* après celui-ci.
+
+* *11* : *Désignez deux joueurs*, (vous pouvez être l’un d’eux) et *échangez deux cartes de leur main*. +
+Dans la main de chacun des joueurs, vous pouvez *soit prendre une carte secrètement* - choisie librement s’il s’agit de votre main ou *tirée au hasard* dans la main d’un autre joueur - *soit annoncer une valeur précise*.
+Si le joueur a une carte avec cette valeur, il doit l’échanger.
+Si vous vous trompez pour un ou deux joueurs, l’échange est annulé et vous devez piocher et ajouter une carte de pénalité à votre main.
+
+* *10* : *Désignez un autre joueur et regardez secrètement toutes les cartes de sa main.*
+
+* *9* : Cette capacité spéciale n’est pas activée lorsque la carte est jouée.
+*Dès qu’un autre joueur vous désigne* pour résoudre les capacités spéciales *10* ou *11*, vous pouvez dévoiler et *jouer* cette carte immédiatement et *annuler l’effet de cette capacité spéciale*.
+
+* *8* : Lors de votre tour, lorsque cette carte est dans votre main ou sur le dessus de la défausse, *vous pouvez l’utiliser comme si elle avait une valeur de 7, 8 ou 9*.
+
+
+== Mode solo
+
+Plutôt que d’autres joueurs, *vous affrontez deux Citébots*, une à votre gauche et une à votre droite, qui sont considérées comme des joueurs en termes de règles.
+Toutes les règles usuelles s’appliquent, avec les exceptions suivantes :
+
+* À chaque partie, *choisissez un niveau de difficulté : 1, 2 ou 3*.
+À la fin de chaque manche, avant de calculer les scores, si la difficulté est de 2, chaque Citébot retire sa carte ayant la valeur la plus basse.
+Si la difficulté est de 3, chaque Citébot retire sa carte ayant la valeur la plus haute.
+* Lors de la première manche, le premier joueur est la Citébot sur votre gauche.
+* La main d’une Citébot se compose d’*une pile de cartes face cachées*, composée en début de manche de 5 cartes, et de *cartes visibles* qui sont révélées au fur et à mesure du jeu.
+Les cartes récupérées en cours de jeu par une Citébot s'ajoutent à ses cartes visibles.
+
+
+=== Tour d'une citébot
+
+Pour résoudre *le tour d’une Citébot*, résolvez dans l’ordre les étapes suivantes, jusqu’à ce que son tour s’arrête :
+
+1. Si toutes ses cartes sont visibles et leur total d’*Égocentrisme* est plus faible que le vôtre, la Citébot dit “*STOP*” et son tour s’arrête là.
+2. Si toutes ses cartes ne sont pas visibles, elle *révèle* la première carte de sa pile.
+3. Si toutes ses cartes ne sont pas visibles et qu’aucune n’a une valeur supérieure à *7*, elle *révèle* la carte suivante de sa pile.
+4. Si une de ses cartes visibles a la même valeur que celle sur le dessus de la défausse, la Citébot la *joue* et son tour s’arrête là.
+5. Si plusieurs de ses cartes visibles ont même valeur, la Citébot *joue* l'une d'elles (la valeur la plus élevée s’il y a plusieurs paires visibles) et son tour s’arrête là.
+6. Si la valeur la plus élevée parmi ses cartes visibles est supérieure à celle de la carte sur le dessus de la défausse, la Citébot récupère cette dernière, *joue* sa carte de plus haute valeur et son tour s’arrête là.
+7. Si son tour ne s’est pas encore terminé, la Citébot *pioche* une carte et la *révèle*.
+8. Si la valeur la plus élevée parmi ses cartes visibles est plus élevée que celle de la carte piochée, la Citébot récupère cette dernière, *joue* sa carte la plus élevée et son tour s’arrête là.
+9. Dans tous les autres cas, la carte piochée est *défaussée* et le tour de la Citébot s’arrête là.
+
+
+=== Capacités spéciales des citébots
+
+*Lorsqu’une Citébot joue une carte de valeur 8 à 12*, les règles s’appliquent ainsi :
+
+* *12* : *La Citébot refait un tour* après celui-ci.
+
+* *11* : *La Citébot révèle et échange la première carte de sa pile contre votre carte ayant la valeur la plus basse*.
+Si toutes ses cartes sont visibles, elle échange sa carte ayant la valeur la plus haute contre votre carte ayant la valeur la plus basse.
+
+* *10* : *Toutes les cartes encore cachées de l’autre Citébot sont révélées*.
+
+* *9* : *Vous ne pouvez utiliser les capacités spéciales 10 et 11 contre une Citébot ayant une carte 9 visible*.
+Si une ou plusieurs cartes 9 dans la pile d’une Citébot sont révélées par la capacité *10*, cette Citébot *joue* immédiatement une de ces cartes.
+
+* *8* : Aux étapes 4 et 5 du tour d’une Citébot, lorsque cette carte est parmi ses cartes visibles ou sur le dessus de la défausse, *elle compte comme ayant les valeurs 7, 8 et 9*.
+Si la Citébot peut jouer une carte 7 ou 9 à l’étape 4, elle n’utilisera pas cette capacité spéciale.
+
+
+=== Capacités spéciales du joueur
+
+*Lorsque vous jouez une carte de valeur 8 à 12*, les règles s’appliquent ainsi :
+
+* *12* : *Vous pouvez jouer un tour de plus* après celui-ci.
+
+* *11* : *Échangez une de vos cartes contre celle d’une Citébot*, une de celles visibles ou celle du dessus de sa pile (la carte que vous lui donnez reste visible).
+*OU échangez deux cartes visibles de deux Citébots différentes*.
+
+* *10* : *Révélez toutes les cartes encore cachées dans la pile d’une Citébot de votre choix*.
+
+* *9* : Cette capacité spéciale n’est pas activée lorsque la carte est jouée.
+*Dès qu’une Citébot utilise la capacité 11*, vous pouvez jouer cette carte immédiatement et *annuler l’effet de cette capacité spéciale*.
+
+* *8* : Lors de votre tour, lorsque cette carte est dans votre main ou sur le dessus de la défausse, *vous pouvez l’utiliser comme si elle avait une valeur de 7, 8 ou 9*.

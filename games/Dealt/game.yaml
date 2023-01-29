@@ -1,0 +1,13 @@
+type:
+  - Hand Management
+  - Ladder Climbing
+  - Single Loser
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-12
+      hearts: 1-12
+      clubs: 1-12
+      diamonds: 1-12
+      specials: Butterfly*2, Wolf*2, Monkey*2

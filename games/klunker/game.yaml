@@ -1,0 +1,19 @@
+type:
+  - Drafting
+  - Set Collection
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      stars: 1-14
+      spades: 1-14
+      hearts: 1-14
+      clubs: 1-14
+      diamonds: 1-14
+      florettes: 1-14
+      wheels: 1-3,K
+      specials: Butterfly*3,Wolf*5
+    4,5-players:
+      wheels: 4
+    5-players:
+      wheels: 5

@@ -1,0 +1,227 @@
+= Shamans
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Cédrick Chaboussit.
+
+.Components
+****
+* 56 World cards: 1–8 in ★, ♠, ♥, ♣, ♦, ✿, ⎈
+* 5 Role cards:
+** 2 Shadows (★J, ♠J)
+** 3 Shamans (♥K, ♣K, ♦K)
+* 12 animals:
+** 5 Wolves
+** 2 Dragons
+** 3 Phoenixes
+** 2 Snakes
+* 1 Ø card
+* 16 moon cards:
+** 11-19 in ★ & 10-16 in ♠
+* 1 First Player Monkey card
+****
+
+You are a shaman.
+Since the dawn of time,you’ve been protecting the spirit worlds from the threat of the shadows.
+Your mission has never been more perilous.
+Before the moon is at its zenith, you must restore balance to the different worlds to keep the universe from falling into chaos.
+But could the danger come from within your own ranks?
+
+Some shamans, corrupted by the shadows, are secretly working towards your failure...
+Perhaps you are one of them?
+
+When the time comes, will you be able to read through the schemes of your rivals and find yourself on the right side of this age-old struggle?
+
+
+== Concept and goal of the game
+
+Shamans is a trick-taking game that lasts a variable number of rounds.
+Each round represents a lunar cycle, during which Shamans and Shadows face off.
+Each round, the players will be divided secretly and randomly between the two teams, Shamans and Shadows.
+Indeed, this means that the teams change from round to round.
+
+* The Shamans win the round if they either manage to eliminate all Shadows, or if the moon stack is not empty when players have played all their cards.
+* The Shadows win the round, and 3 points each, if the moon stack is empty.
+
+Players score points when they are on the winning team, and through several effects.
+The player who has the most victory points at the end of the game will be declared the winner.
+
+
+== Setup
+
+* Create the moon stack and place it face up in the middle of the table, in this order (last on top):
+** 3 players: ★11 to ★17
+** 4 players: ★11 to ★19
+** 5 players: ★11 to ★19 & ♠10 to ♠16
+
+* Sort the World & Role cards according to the player count:
++
+[cols="^.^,^.^,^.^,^.^,^.^"]
+|===
+.2+h|          2+h| Role cards                2+h| World cards
+                 h| Shamans (K)  h| Shadows (J)  h| Colors                   h| Values
+   h| 3 players   | *2*           | *1*           | 5: *★, ♠, ♥, ♣, ♦*        | *1-6* (30 cards)
+   h| 4 players   | *3* (all)     | *1*           | 6: *★, ♠, ♥, ♣, ♦, ✿*     | *1-6* (36 cards)
+   h| 5 players   | *3* (all)     | *2* (all)     | 7: *★, ♠, ♥, ♣, ♦, ✿, ⎈*  | *1-8* (all 56 cards)
+|===
+
+* In a 3- or 4-player game, remove the unused cards from the game.
+
+* Give the First Player Monkey card to the oldest player (placed face up in front of him).
+
+
+== Round setup
+
+1. Place all moon cards in a stack face up.
+2. Shuffle the 12 Animal cards face down; reveal 2, and place them on the table.
+Then shuffle the Ø card *face up* together with the 10 remaining face down Animal cards, and place this Animal stack face down near the 2 revealed Animal cards.
+If the Ø card is the top card of the deck, reshuffle the cards until it is not visible.
+3. Deal 1 Role card to each player.
+Keep your Role card face down in front of you.
+You can look at your Role card at any time.
+4. Deal out the World cards according to the player count (3- or 4-player game: 9 cards; 5-player game: 11 cards).
+Place any leftover card (3-player game: 3 cards; 5-player game: 1 card) face up on the table, sorted by color.
+5. The player with the First Player Monkey card will be the first Guide of the round.
+
+
+== A turn of play
+
+The Guide chooses a card from their hand, and places it face up in front of them.
+This card indicates the Destination for the turn (the World that the Shamans will protect this turn).
+Then each other player, in clockwise order, MUST play a card:
+
+* *If your card matches the Destination (same World's color)*:
+Place it face up in front of you; it will be resolved after everyone has played their card.
+* *If your card does not match the Destination (different World's color)*:
+Immediately discard 1 face up card from the Moon stack and place it face down next to it.
+If the Moon stack is now empty, the Shadows immediately win the round.
++
+Place the card on the table, on a stack with all other cards on the same color.
+If all the cards of a World are now placed (each World is made of 6 cards for 3- 4-player games, or 8 cards for 5-player games), the player who placed the card must immediately perform that World’s ritual (see <<ritual-effects>>).
+
+NOTE: There are no constraints about which card you play, unlike in many trick-taking games; you can play any card you wish.
+You may speak freely about your cards, as long as you do not mention their colors, worlds, or numeric values.
+
+
+=== Resolving cards
+
+Once everyone has placed a card, it is time to evaluate the cards that match the color of the Destination, to see who played the smallest number matching the Destination, and who played the largest number matching the Destination.
+
+NOTE: If you are the only person who played a card *matching the Destination* (or the other players have been eliminated), then you played both the smallest *AND* largest number.
+
+Then, do the following, in strictly this order:
+
+1. *The player who played the card with the smallest number:* +
+Take an Animal card of your choice: either one of the 2 that are revealed, or the top one from the deck.
+If you draw the top card of the deck, you may keep it face down if you wish, unless it is a Snake, which always must be revealed and activated.
+If you took a revealed Animal, reveal a new one to replace it.
+If, at any moment, the Ø card is visible atop the deck, immediately apply its effect.
++
+.The Ø card's effect
+****
+Each player must pass a card from their hand to their left (if this is an even round) or right (if this is an odd round) neighbor.
+Then discard the Ø card.
+
+NOTE: If the Ø card is revealed in the last turn, some players may not have a card in their hand.
+In this case, only players with at least one card in hand will deal and receive a card.
+****
+
+2. *The player who played the card with the largest number:* +
+Collect all of the cards in front of players, and place them on the table, sorted by color, keeping all of the values visible.
+If all the cards of a World are now placed this way, you must immediately perform that World’s ritual (see <<ritual-effects>>).
+If players still have cards in their hands, you become the new Guide, and begin a new round; otherwise, the round ends.
+
+=== Animal cards' effects
+
+* *Dragon:* +
+Keep this card in front of you.
+You can discard it at any time to either discard a card from the Moon stack, or place on discarded card back on the Moon stack.
++
+IMPORTANT: If the Moon stack, at any moment whatsoever, becomes empty, the Shadows immediately win the round.
++
+You can play your Dragon card at absolutely any moment to apply its effect, even just before being eliminated, or just before the Moon stack becomes empty.
+
+* *Snake:* +
+If you take this card, you *MUST* immediately reveal YOUR Role card.
+Even if you drew this card from the top of the deck, you must reveal it immediately.
+
+* *Wolf:* +
+Keep this card in front of you.
+You can discard it to eliminate a player when you perform a Neutralization ritual (see <<ritual-effects>>).
+
+* *Phoenix:* +
+Keep this card in front of you.
+At the end of the round, if,you have at least two of these and have not been eliminated, You earn 2 victory points.
+
+
+[[ritual-effects]]
+=== Ritual effects
+
+* *Stabilization ritual (♠):* +
+Place back 2 discarded Moon cards back on the Moon stack *OR* take an Animal card (one of the 2 revealed ones, or one from the top of the deck).
+
+* *Permutation ritual (♥):* +
+Exchange your Role card with another player.
+Both of you can immediately look at your new Role card.
+This might cause you to switch teams in the middle of the round!
+
+* *Illumination ritual (★):* +
+Gain 1 victory point.
+
+* *Neutralization ritual (♣, ♦, ✿, ⎈):* +
+If you have a face up Wolf card visible in front of you, you *MUST* discard it and choose another player to eliminate for the round.
++
+NOTE: If your Wolf is face down, you can decide not to reveal it.
+If you have no Wolf, or decide not to reveal one, this ritual has no effect.
++
+.Effects of elimination
+****
+The eliminated player reveals their Role card.
+
+* *If the eliminated player is a Shaman:* +
+Discard 1 card from the Moon stack for each card the eliminated player still had in their hand.
+This might cause the Shadows to win the round.
+The eliminated player sets their cards aside, face down.
+These cards will not be placed this round, and thus certain Worlds will not be completed.
+
+* *If the eliminated player is a Shadow:* +
+If this was the last Shadow in play, the Shamans immediately win the round.
+Otherwise (but only in a 5-player game), the eliminated player reveals their hand and places each card on its matching World pile, without discarding Moon cards.
+This can trigger a chain reaction if all the cards of a World are placed.
+When this happens, the player who eliminated the Shadow player resolves the Ritual effects in any order.
+Then the game continues as usual.
+
+NOTE: Remove the eliminated player’s Animal cards from play until the end of the round.
+
+IMPORTANT: You also collect and place the card from each eliminated player, even though you ignore that card’s value when determining the who played the smallest and largest values.
+If an eliminated player played the only card matching the Destination this turn, the eliminated player chooses who will be the new Guide.
+****
+
+
+== End of the round or the game
+
+The round can end in several ways:
+
+1. *When the players have no more cards in their hands:* +
+The Shamans managed to protect the Spirit World and win the round.
+2. *When the last Shadow is eliminated:* +
+The Shamans managed to expose all the Shadows and win the round.
+3. *When the Moon stack is empty:* +
+The Shadows manage to corrupt the Spirit World and win the round.
+
+Then:
+
+* If the Shamans won the round, each Shaman player who was not eliminated gains 2 victory points.
+* If the Shadows won the round, each Shadow player who was not eliminated gains 3 victory points.
+* If a player who was not eliminated has 2 (or 3) Phoenixes, that player gains 2 additional victory points.
+* If nobody has a total of 8 or more victory points, begin a new round.
+The player with the First Player Monkey card passes it to the player on their left.
+You keep nothing but your victory points from one round to the next.
+All players and all cards are back in the game for the new round.
+
+As soon as someone has a total of at least 8 victory points, the player with the most victory points wins the game.
+If it’s a tie, keep playing additional rounds until only one player has the single most points.
+
+NOTE: Shadows do not win the round if they eliminate all the Shamans but the Moon stack is not empty by the end of the round.
+

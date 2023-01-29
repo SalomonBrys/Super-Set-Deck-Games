@@ -1,0 +1,567 @@
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>A game by Naoki Homma.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Components</div>
+<div class="ulist">
+<ul>
+<li>
+<p>66 cards : 0-10 à ♠, ♥, ♣, ♦, ✿, ★.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>The parade has started in Wonderland.
+Everybody is dressed up, the streets are decorated, excitement is in the air.
+Let’s find more people to join the parade.
+You are one of the organizers of the parade and are constantly trying your best to encourage people to join the parade.</p>
+</div>
+<div class="paragraph">
+<p>If only the people already taking part didn’t leave so early…
+After a short while they just loose any interest in the parade.
+And if somebody shows up with the same dress or of higher rank, all they do is to leave the parade immediately and complain to you.
+You just want everybody to have fun, but why is it so difficult nowadays…?</p>
+</div>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_goal_of_the_game">Goal of the game</a></li>
+<li><a href="#_preparation_of_the_parade">Preparation of the parade</a></li>
+<li><a href="#_sequence_of_play">Sequence of play</a>
+<ul class="sectlevel2">
+<li><a href="#_1_adding_to_the_parade">1. Adding to the parade</a></li>
+<li><a href="#_2_removing_from_the_parade">2. Removing from the parade</a></li>
+<li><a href="#_3_drawing">3. Drawing</a></li>
+</ul>
+</li>
+<li><a href="#_last_round_and_end_of_the_game">Last round and end of the game</a></li>
+<li><a href="#_scoring">Scoring</a></li>
+<li><a href="#_2_persons_play">2 persons play</a></li>
+</ul>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_goal_of_the_game">Goal of the game</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The players play their hand of cards while trying not to get cards from the parade, as these score negative points.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_preparation_of_the_parade">Preparation of the parade</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The start player has to be determined. Starting with the start player the game continues clockwise.
+The start player shuffles the deck and deals each player 5 cards face down.</p>
+</div>
+<div class="paragraph">
+<p>6 more cards are placed face up next to each other in the middle of the table.
+These cards are the initial participants of the parade.
+The remaining cards are placed face down as the drawing pile at one end of the parade to mark the front of the parade.
+The other side is called the end of the parade.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sequence_of_play">Sequence of play</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>During his turn a player performs the following actions in the order given below.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>He chooses one of the cards on his hand and lays it at the end of the parade.</p>
+</li>
+<li>
+<p>If necessary, cards will be removed from the parade and laid in front of the player.</p>
+</li>
+<li>
+<p>He draws a card from the drawing pile.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>The next player performs the same actions during his turn.</p>
+</div>
+<div class="sect2">
+<h3 id="_1_adding_to_the_parade">1. Adding to the parade</h3>
+<div class="paragraph">
+<p>The player chooses one of the cards in his hand and places it face up at the end of the parade.
+This card does never count when counting the number of cards in the next action.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_2_removing_from_the_parade">2. Removing from the parade</h3>
+<div class="paragraph">
+<p>Depending on which card is played, some cards have to be removed from the parade.</p>
+</div>
+<div class="paragraph">
+<p>If the number of cards already taking part in the parade is <strong>less or equal</strong> to the value of the played card, no cards have to be removed from the parade.</p>
+</div>
+<div class="paragraph">
+<p>If the number of cards already taking part is <strong>larger</strong> than the value of the played card, the cards are numbered beginning at the end of the parade.</p>
+</div>
+<div class="paragraph">
+<p>The card which was played is not taken into account.
+Every card with a <strong>position</strong> number larger than the value of the played card enters the <strong>removal</strong> mode.</p>
+</div>
+<div class="paragraph">
+<p>The player has to take some of the cards in removed mode:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>All cards with the same colour as the played card.</p>
+</li>
+<li>
+<p>All cards with a value less or equal to the value of the played card.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The removed cards are laid face up and divided into colours in front of the player.
+The values of all cards must be visible for all players, so it is best to lay them slightly shifted on top of each other.</p>
+</div>
+<div class="paragraph">
+<p>The remaining cards in the parade are moved forward towards the front of the parade to close the gaps.</p>
+</div>
+<div class="paragraph">
+<p>If a card with the value 0 is played, <strong>all cards</strong> enter <strong>removal</strong> mode.</p>
+</div>
+<div class="exampleblock">
+<div class="title">Example 1. Removal</div>
+<div class="content">
+<table class="tableblock frame-all grid-all fit-content">
+<caption class="title">Table 1. Parade</caption>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♠5</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♣0</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♣7</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♥3</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♠7</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♥1</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">♣4</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">&#8592; ♣3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-top" colspan="4"><p class="tableblock"><strong>Removal mode</strong></p></td>
+<td class="tableblock halign-center valign-top" colspan="3"><p class="tableblock">Not affected</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">New card</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>A card (♣3) is played from the hand and laid at the end of the parade.</p>
+</div>
+<div class="paragraph">
+<p>The following cards have to be taken by the player:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>All cards with the same colour as the played card.
+Of all cards in removal mode, the cards ♣0 and ♣7 have to be removed.</p>
+</li>
+<li>
+<p>All cards with a value less or equal the value of the played card.
+Of all cards in removal mode, the card ♥3 has to be removed.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Note that only the cards in <strong>removal mode</strong> can be removed.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_3_drawing">3. Drawing</h3>
+<div class="paragraph">
+<p>The player draws a card from the drawing pile to replenish his hand to 5 cards.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_last_round_and_end_of_the_game">Last round and end of the game</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The last round starts when a player has collected cards of all 6 colours or if the drawing pile is exhausted.</p>
+</div>
+<div class="paragraph">
+<p>If a player has collected the 6th colour, he finishes his turn as before.
+After that every player including the one who collected the 6th colour plays one more turn.
+However, the players don&#8217;t draw a card from the drawing pile.
+After this last round the game ends.</p>
+</div>
+<div class="paragraph">
+<p>If the drawing pile is exhausted, every player plays one more turn.
+The game ends when everybody has only 4 cards left on their hand.</p>
+</div>
+<div class="paragraph">
+<p>Even if other players get their 6th colour during the last round, this has no further effect.
+The game ends after the round.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_scoring">Scoring</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>After the end of the game each player chooses 2 of his hand cards and discards them.
+The remaining 2 cards from his hand are laid to the other cards of the same colour already lying in front of the player.
+Only the cards lying in front of a player are scored.
+The cards still taking part in the parade are discarded.</p>
+</div>
+<div class="paragraph">
+<p>Pour déterminer votre score, comptez uniquement les cartes placées devant vous.
+Défaussez les cartes encore présentes dans le défilé.</p>
+</div>
+<div class="paragraph">
+<p>For each colour the negative points are determined separately:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>For each colour it is determined, which player has the largest number of cards.
+For each card this player gets one negative point.
+The value of the cards is of no importance.
+If several players have the same number of cards, all of these player get the same negative points according to the number of cards.</p>
+</li>
+<li>
+<p>With the exception of the player(s), who has the largest number of cards of a colour, all other players calculate the sum of the values of their cards.
+They receive this sum as negative point.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>The player with the highest number of cards of a colour should turn over his cards.
+These cards lying face down count one point whereas for the cards of the other players lying face up the values have to be added.</p>
+</div>
+<div class="paragraph">
+<p>The player with the fewest negative points wins the game.
+In case of a tie, the player with the fewest cards in front of him wins the game.</p>
+</div>
+<div class="exampleblock">
+<div class="title">Example 2. Scoring</div>
+<div class="content">
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Alice</strong>:</p>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">♠</th>
+<th class="tableblock halign-left valign-top">♥</th>
+<th class="tableblock halign-left valign-top">♣</th>
+<th class="tableblock halign-left valign-top">♦</th>
+<th class="tableblock halign-left valign-top">✿</th>
+<th class="tableblock halign-left valign-top">★</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">9<br>
+7<br>
+6<br>
+5<br>
+0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10<br>
+8<br>
+3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">4<br>
+2</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">7<br>
+4<br>
+0</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Alice owns the largest number of ♠ and ★ cards.
+Her negative points are:</p>
+</div>
+<table class="tableblock frame-none grid-none fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♠</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$5*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=5\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♥</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$10+8+3\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=21\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♣</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$4+2\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=6\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">✿</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$0\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=0\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">★</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$3*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=3\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"></td>
+<td class="tableblock halign-left valign-middle" colspan="2"><p class="tableblock"><strong>Total</strong> :</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=35\$ points</p></td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>The hatter</strong>:</p>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">♠</th>
+<th class="tableblock halign-left valign-top">♥</th>
+<th class="tableblock halign-left valign-top">♣</th>
+<th class="tableblock halign-left valign-top">♦</th>
+<th class="tableblock halign-left valign-top">✿</th>
+<th class="tableblock halign-left valign-top">★</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">8</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1<br>
+0</p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10<br>
+1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">8<br>
+7<br>
+5<br>
+3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">9<br>
+8<br>
+1</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>The Hatter owns the largest number of ✿ and ★ cards.
+His negative points are:</p>
+</div>
+<table class="tableblock frame-none grid-none fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♠</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$8\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=8\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♥</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$1+0\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=1\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♦</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$10+1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=11\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">✿</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$4*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=4\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">★</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$3*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=3\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"></td>
+<td class="tableblock halign-left valign-middle" colspan="2"><p class="tableblock"><strong>Total</strong> :</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=27\$ points</p></td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>The White Rabbit</strong>:</p>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">♠</th>
+<th class="tableblock halign-left valign-top">♥</th>
+<th class="tableblock halign-left valign-top">♣</th>
+<th class="tableblock halign-left valign-top">♦</th>
+<th class="tableblock halign-left valign-top">✿</th>
+<th class="tableblock halign-left valign-top">★</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">4<br>
+3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">7<br>
+6<br>
+5<br>
+2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">9<br>
+8<br>
+7<br>
+6</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">3<br>
+2<br>
+0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2<br>
+1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>The White Rabbit owns the largest number of ♥, ♣ and ♦ cards.
+His negative points are:</p>
+</div>
+<table class="tableblock frame-none grid-none fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♠</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$4+3\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=7\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♥</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$4*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=4\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♣</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$4*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=4\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">♦</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Cards:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$3*1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=3\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">✿</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$2+1\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=3\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">★</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Values:</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$10\$</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=10\$</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-middle"></td>
+<td class="tableblock halign-left valign-middle" colspan="2"><p class="tableblock"><strong>Total</strong> :</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">\$=31\$ points</p></td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>The hatter has won the game!</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_2_persons_play">2 persons play</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The rules don&#8217;t change when playing with only 2 players, only the scoring is different.</p>
+</div>
+<div class="paragraph">
+<p>If a player owns of a colour at least 2 cards more than the other player, the number of cards are his negative points.
+If a player owns only 1 card more or the same number of cards or less, the values of these cards are added up.</p>
+</div>
+</div>
+</div>

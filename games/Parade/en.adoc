@@ -1,0 +1,303 @@
+= Parade
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Naoki Homma.
+
+.Components
+****
+* 66 cards : 0-10 à ♠, ♥, ♣, ♦, ✿, ★.
+****
+
+The parade has started in Wonderland.
+Everybody is dressed up, the streets are decorated, excitement is in the air.
+Let’s find more people to join the parade.
+You are one of the organizers of the parade and are constantly trying your best to encourage people to join the parade.
+
+If only the people already taking part didn’t leave so early…
+After a short while they just loose any interest in the parade.
+And if somebody shows up with the same dress or of higher rank, all they do is to leave the parade immediately and complain to you.
+You just want everybody to have fun, but why is it so difficult nowadays…?
+
+
+== Goal of the game
+
+The players play their hand of cards while trying not to get cards from the parade, as these score negative points.
+
+== Preparation of the parade
+
+The start player has to be determined. Starting with the start player the game continues clockwise.
+The start player shuffles the deck and deals each player 5 cards face down.
+
+6 more cards are placed face up next to each other in the middle of the table.
+These cards are the initial participants of the parade.
+The remaining cards are placed face down as the drawing pile at one end of the parade to mark the front of the parade.
+The other side is called the end of the parade.
+
+
+== Sequence of play
+
+During his turn a player performs the following actions in the order given below.
+
+1. He chooses one of the cards on his hand and lays it at the end of the parade.
+2. If necessary, cards will be removed from the parade and laid in front of the player.
+3. He draws a card from the drawing pile.
+
+The next player performs the same actions during his turn.
+
+
+=== 1. Adding to the parade
+
+The player chooses one of the cards in his hand and places it face up at the end of the parade.
+This card does never count when counting the number of cards in the next action.
+
+
+=== 2. Removing from the parade
+
+Depending on which card is played, some cards have to be removed from the parade.
+
+If the number of cards already taking part in the parade is *less or equal* to the value of the played card, no cards have to be removed from the parade.
+
+If the number of cards already taking part is *larger* than the value of the played card, the cards are numbered beginning at the end of the parade.
+
+The card which was played is not taken into account.
+Every card with a *position* number larger than the value of the played card enters the *removal* mode.
+
+The player has to take some of the cards in removed mode:
+
+* All cards with the same colour as the played card.
+* All cards with a value less or equal to the value of the played card.
+
+The removed cards are laid face up and divided into colours in front of the player.
+The values of all cards must be visible for all players, so it is best to lay them slightly shifted on top of each other.
+
+The remaining cards in the parade are moved forward towards the front of the parade to close the gaps.
+
+If a card with the value 0 is played, *all cards* enter *removal* mode.
+
+.Removal
+====
+
+.Parade
+[options="autowidth",cols="^,^,^,^,^,^,^,^"]
+|===
+| ♠5 | ♣0 | ♣7 | ♥3 | ♠7 | ♥1 | ♣4 | <- ♣3
+4+| *Removal mode* 3+| Not affected | New card
+|===
+
+A card (♣3) is played from the hand and laid at the end of the parade.
+
+The following cards have to be taken by the player:
+
+* All cards with the same colour as the played card.
+Of all cards in removal mode, the cards ♣0 and ♣7 have to be removed.
+* All cards with a value less or equal the value of the played card.
+Of all cards in removal mode, the card ♥3 has to be removed.
+
+Note that only the cards in *removal mode* can be removed.
+====
+
+
+=== 3. Drawing
+
+The player draws a card from the drawing pile to replenish his hand to 5 cards.
+
+
+== Last round and end of the game
+
+The last round starts when a player has collected cards of all 6 colours or if the drawing pile is exhausted.
+
+If a player has collected the 6th colour, he finishes his turn as before.
+After that every player including the one who collected the 6th colour plays one more turn.
+However, the players don't draw a card from the drawing pile.
+After this last round the game ends.
+
+If the drawing pile is exhausted, every player plays one more turn.
+The game ends when everybody has only 4 cards left on their hand.
+
+Even if other players get their 6th colour during the last round, this has no further effect.
+The game ends after the round.
+
+
+== Scoring
+
+After the end of the game each player chooses 2 of his hand cards and discards them.
+The remaining 2 cards from his hand are laid to the other cards of the same colour already lying in front of the player.
+Only the cards lying in front of a player are scored.
+The cards still taking part in the parade are discarded.
+
+Pour déterminer votre score, comptez uniquement les cartes placées devant vous.
+Défaussez les cartes encore présentes dans le défilé.
+
+For each colour the negative points are determined separately:
+
+1. For each colour it is determined, which player has the largest number of cards.
+For each card this player gets one negative point.
+The value of the cards is of no importance.
+If several players have the same number of cards, all of these player get the same negative points according to the number of cards.
+2. With the exception of the player(s), who has the largest number of cards of a colour, all other players calculate the sum of the values of their cards.
+They receive this sum as negative point.
+
+The player with the highest number of cards of a colour should turn over his cards.
+These cards lying face down count one point whereas for the cards of the other players lying face up the values have to be added.
+
+The player with the fewest negative points wins the game.
+In case of a tie, the player with the fewest cards in front of him wins the game.
+
+
+.Scoring
+====
+* *Alice*:
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+9 +
+7 +
+6 +
+5 +
+0
+
+|
+10 +
+8 +
+3
+
+|
+4 +
+2
+
+|
+
+|
+0
+
+|
+7 +
+4 +
+0
+
+|===
++
+Alice owns the largest number of ♠ and ★ cards.
+Her negative points are:
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Cards: | stem:[5*1] | stem:[=5]
+| ♥ | Values: | stem:[10+8+3] | stem:[=21]
+| ♣ | Values: | stem:[4+2] | stem:[=6]
+| ✿ | Values: | stem:[0] | stem:[=0]
+| ★ | Cards: | stem:[3*1] | stem:[=3]
+| 2+| *Total* : | stem:[=35] points
+|===
+
+* *The hatter*:
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+8
+
+|
+1 +
+0
+
+|
+
+|
+10 +
+1
+
+|
+8 +
+7 +
+5 +
+3
+
+|
+9 +
+8 +
+1
+
+|===
++
+The Hatter owns the largest number of ✿ and ★ cards.
+His negative points are:
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Values: | stem:[8] | stem:[=8]
+| ♥ | Values: | stem:[1+0] | stem:[=1]
+| ♦ | Values: | stem:[10+1] | stem:[=11]
+| ✿ | Cards: | stem:[4*1] | stem:[=4]
+| ★ | Cards: | stem:[3*1] | stem:[=3]
+| 2+| *Total* : | stem:[=27] points
+|===
+
+* *The White Rabbit*:
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+4 +
+3
+
+|
+7 +
+6 +
+5 +
+2
+
+|
+9 +
+8 +
+7 +
+6
+
+|
+3 +
+2 +
+0
+
+|
+2 +
+1
+
+|
+10
+
+|===
++
+The White Rabbit owns the largest number of ♥, ♣ and ♦ cards.
+His negative points are:
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Values: | stem:[4+3] | stem:[=7]
+| ♥ | Cards: | stem:[4*1] | stem:[=4]
+| ♣ | Cards: | stem:[4*1] | stem:[=4]
+| ♦ | Cards: | stem:[3*1] | stem:[=3]
+| ✿ | Values: | stem:[2+1] | stem:[=3]
+| ★ | Values: | stem:[10] | stem:[=10]
+| 2+| *Total* : | stem:[=31] points
+|===
+
+*The hatter has won the game!*
+
+====
+
+
+== 2 persons play
+
+The rules don't change when playing with only 2 players, only the scoring is different.
+
+If a player owns of a colour at least 2 cards more than the other player, the number of cards are his negative points.
+If a player owns only 1 card more or the same number of cards or less, the values of these cards are added up.

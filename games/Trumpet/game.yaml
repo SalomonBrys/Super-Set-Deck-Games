@@ -1,0 +1,22 @@
+type:
+  - Trick Taking
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-11, K*3, A
+      hearts: 1-11, K*3, A
+      clubs: 1-11, K*3, A
+      diamonds: 1-11, K*3, A
+      stars: 1-11, K*3, A
+      florettes: 1-11, K*3, A
+      wheels: 1-6, J, Q, K
+      specials: Butterfly*2, Wolf*2
+    3,4,5,6-players:
+      specials: Phoenix*2
+    4,5,6-players:
+      specials: Monkey*2
+    5,6-players:
+      specials: Snake*2
+    6-players:
+      specials: Dragon*2

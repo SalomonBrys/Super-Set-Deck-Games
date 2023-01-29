@@ -1,0 +1,2241 @@
+@charset "UTF-8";
+.adoc a {
+    background: none;
+}
+
+.adoc a:focus {
+    outline: thin dotted;
+}
+
+.adoc a:active, .adoc a:hover {
+    outline: 0;
+}
+
+.adoc h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+.adoc b, .adoc strong {
+    font-weight: bold;
+}
+
+.adoc abbr {
+    font-size: 0.9em;
+}
+
+.adoc abbr[title] {
+    cursor: help;
+    border-bottom: 1px dotted #dddddf;
+    text-decoration: none;
+}
+
+.adoc dfn {
+    font-weight: bold;
+}
+
+.adoc hr {
+    height: 0;
+}
+
+.adoc mark {
+    background: #ff0;
+    color: #000;
+}
+
+.adoc code, .adoc kbd, .adoc pre, .adoc samp {
+    font-family: monospace;
+    font-size: 1em;
+}
+
+.adoc pre {
+    white-space: pre-wrap;
+}
+
+.adoc q {
+    quotes: "“" "”" "‘" "’";
+}
+
+.adoc small {
+    font-size: 80%;
+}
+
+.adoc sub, .adoc sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.adoc sup {
+    top: -0.5em;
+}
+
+.adoc sub {
+    bottom: -0.25em;
+}
+
+.adoc img {
+    border: 0;
+}
+
+.adoc svg:not(:root) {
+    overflow: hidden;
+}
+
+.adoc figure {
+    margin: 0;
+}
+
+.adoc audio, .adoc video {
+    display: inline-block;
+}
+
+.adoc audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+.adoc fieldset {
+    border: 1px solid silver;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+.adoc legend {
+    border: 0;
+    padding: 0;
+}
+
+.adoc button, .adoc input, .adoc select, .adoc textarea {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+}
+
+.adoc button, .adoc input {
+    line-height: normal;
+}
+
+.adoc button, .adoc select {
+    text-transform: none;
+}
+
+.adoc button, .adoc input[type=button], .adoc input[type=reset], .adoc input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+.adoc button[disabled], .adoc input[disabled] {
+    cursor: default;
+}
+
+.adoc input[type=checkbox], .adoc input[type=radio] {
+    padding: 0;
+}
+
+.adoc button::-moz-focus-inner, .adoc input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+.adoc textarea {
+    overflow: auto;
+    vertical-align: top;
+}
+
+.adoc table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.adoc *, .adoc ::before, .adoc ::after {
+    box-sizing: border-box;
+}
+
+html.adoc, .adoc body {
+    font-size: 100%;
+}
+
+.adoc body {
+    background: #fff;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 0;
+    margin: 0;
+    font-family: "Picon", sans-serif;
+    line-height: 1;
+    position: relative;
+    cursor: auto;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    word-wrap: anywhere;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+.adoc a:hover {
+    cursor: pointer;
+}
+
+.adoc img, .adoc object, .adoc embed {
+    max-width: 100%;
+    height: auto;
+}
+
+.adoc object, .adoc embed {
+    height: 100%;
+}
+
+.adoc img {
+    -ms-interpolation-mode: bicubic;
+}
+
+.adoc .left {
+    float: left !important;
+}
+
+.adoc .right {
+    float: right !important;
+}
+
+.adoc .text-left {
+    text-align: left !important;
+}
+
+.adoc .text-right {
+    text-align: right !important;
+}
+
+.adoc .text-center {
+    text-align: center !important;
+}
+
+.adoc .text-justify {
+    text-align: justify !important;
+}
+
+.adoc .hide {
+    display: none;
+}
+
+.adoc img, .adoc object, .adoc svg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.adoc textarea {
+    height: auto;
+    min-height: 50px;
+}
+
+.adoc select {
+    width: 100%;
+}
+
+.adoc .subheader, .adoc .admonitionblock td.content > .title, .adoc .audioblock > .title, .adoc .exampleblock > .title, .adoc .imageblock > .title, .adoc .listingblock > .title, .adoc .literalblock > .title, .adoc .stemblock > .title, .adoc .openblock > .title, .adoc .paragraph > .title, .adoc .quoteblock > .title, .adoc table.tableblock > .title, .adoc .verseblock > .title, .adoc .videoblock > .title, .adoc .dlist > .title, .adoc .olist > .title, .adoc .ulist > .title, .adoc .qlist > .title, .adoc .hdlist > .title {
+    line-height: 1.45;
+    color: #7a2518;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0.25em;
+}
+
+.adoc div, .adoc dl, .adoc dt, .adoc dd, .adoc ul, .adoc ol, .adoc li, .adoc h1, .adoc h2, .adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title, .adoc h4, .adoc h5, .adoc h6, .adoc pre, .adoc form, .adoc p, .adoc blockquote, .adoc th, .adoc td {
+    margin: 0;
+    padding: 0;
+}
+
+.adoc a {
+    color: #2156a5;
+    text-decoration: underline;
+    line-height: inherit;
+}
+
+.adoc a:hover, .adoc a:focus {
+    color: #1d4b8f;
+}
+
+.adoc a img {
+    border: 0;
+}
+
+.adoc p {
+    line-height: 1.6;
+    margin-bottom: 1.25em;
+    text-rendering: optimizeLegibility;
+}
+
+.adoc p aside {
+    font-size: 0.875em;
+    line-height: 1.35;
+    font-weight: bold;
+}
+
+.adoc h1, .adoc h2, .adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title, .adoc h4, .adoc h5, .adoc h6 {
+    font-family: "Picon-Extended", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #ba3925;
+    text-rendering: optimizeLegibility;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.0125em;
+}
+
+.adoc h1 small, .adoc h2 small, .adoc h3 small, .adoc #toctitle small, .adoc .sidebarblock > .content > .title small, .adoc h4 small, .adoc h5 small, .adoc h6 small {
+    font-size: 60%;
+    color: #e99b8f;
+    line-height: 0;
+}
+
+.adoc h1 {
+    font-size: 2.125em;
+}
+
+.adoc h2 {
+    font-size: 1.6875em;
+}
+
+.adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title {
+    font-size: 1.375em;
+}
+
+.adoc h4, .adoc h5 {
+    font-size: 1.125em;
+}
+
+.adoc h6 {
+    font-size: 1em;
+}
+
+.adoc hr {
+    border: solid #dddddf;
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 1.25em 0 1.1875em;
+}
+
+.adoc em, .adoc i {
+    font-weight: bold;
+    line-height: inherit;
+}
+
+.adoc strong, .adoc b {
+    font-weight: bold;
+    line-height: inherit;
+}
+
+.adoc small {
+    font-size: 60%;
+    line-height: inherit;
+}
+
+.adoc code {
+    font-family: monospace;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.adoc ul, .adoc ol, .adoc dl {
+    line-height: 1.6;
+    margin-bottom: 1.25em;
+    list-style-position: outside;
+    font-family: inherit;
+}
+
+.adoc ul, .adoc ol {
+    margin-left: 1.5em;
+}
+
+.adoc ul li ul, .adoc ul li ol {
+    margin-left: 1.25em;
+    margin-bottom: 0;
+}
+
+.adoc ul.square li ul, .adoc ul.circle li ul, .adoc ul.disc li ul {
+    list-style: inherit;
+}
+
+.adoc ul.square {
+    list-style-type: square;
+}
+
+.adoc ul.circle {
+    list-style-type: circle;
+}
+
+.adoc ul.disc {
+    list-style-type: disc;
+}
+
+.adoc ol li ul, .adoc ol li ol {
+    margin-left: 1.25em;
+    margin-bottom: 0;
+}
+
+.adoc dl dt {
+    margin-bottom: 0.3125em;
+    font-weight: bold;
+}
+
+.adoc dl dd {
+    margin-bottom: 1.25em;
+}
+
+.adoc blockquote {
+    margin: 0 0 1.25em;
+    padding: 0.5625em 1.25em 0 1.1875em;
+    border-left: 1px solid #ddd;
+}
+
+.adoc blockquote, .adoc blockquote p {
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+@media screen and (min-width: 768px) {
+    .adoc h1, .adoc h2, .adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title, .adoc h4, .adoc h5, .adoc h6 {
+        line-height: 1.2;
+    }
+
+    .adoc h1 {
+        font-size: 2.75em;
+    }
+
+    .adoc h2 {
+        font-size: 2.3125em;
+    }
+
+    .adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title {
+        font-size: 1.6875em;
+    }
+
+    .adoc h4 {
+        font-size: 1.4375em;
+    }
+}
+
+.adoc table {
+    background: #fff;
+    margin-bottom: 1.25em;
+    border: 1px solid #dedede;
+    word-wrap: normal;
+}
+
+.adoc table thead, .adoc table tfoot {
+    background: #f7f8f7;
+}
+
+.adoc table thead tr th, .adoc table thead tr td, .adoc table tfoot tr th, .adoc table tfoot tr td {
+    padding: 0.5em 0.625em 0.625em;
+    font-size: inherit;
+    color: rgba(0, 0, 0, 0.8);
+    text-align: left;
+}
+
+.adoc table tr th, .adoc table tr td {
+    padding: 0.5625em 0.625em;
+    font-size: inherit;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.adoc table tr.even, .adoc table tr.alt {
+    background: #f8f8f7;
+}
+
+.adoc table thead tr th, .adoc table tfoot tr th, .adoc table tbody tr td, .adoc table tr td, .adoc table tfoot tr td {
+    line-height: 1.6;
+}
+
+.adoc h1, .adoc h2, .adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title, .adoc h4, .adoc h5, .adoc h6 {
+    line-height: 1.2;
+    word-spacing: -0.05em;
+}
+
+.adoc h1 strong, .adoc h2 strong, .adoc h3 strong, .adoc #toctitle strong, .adoc .sidebarblock > .content > .title strong, .adoc h4 strong, .adoc h5 strong, .adoc h6 strong {
+    font-weight: 400;
+}
+
+.adoc .center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.adoc .stretch {
+    width: 100%;
+}
+
+.adoc .clearfix::before, .adoc .clearfix::after, .adoc .float-group::before, .adoc .float-group::after {
+    content: " ";
+    display: table;
+}
+
+.adoc .clearfix::after, .adoc .float-group::after {
+    clear: both;
+}
+
+.adoc :not(pre).nobreak {
+    word-wrap: normal;
+}
+
+.adoc :not(pre).nowrap {
+    white-space: nowrap;
+}
+
+.adoc :not(pre).pre-wrap {
+    white-space: pre-wrap;
+}
+
+.adoc :not(pre):not([class^=L]) > code {
+    font-size: 0.9375em;
+    font-style: normal !important;
+    letter-spacing: 0;
+    padding: 0.1em 0.5ex;
+    word-spacing: -0.15em;
+    background: #f7f7f8;
+    border-radius: 4px;
+    line-height: 1.45;
+    text-rendering: optimizeSpeed;
+}
+
+.adoc pre {
+    color: rgba(0, 0, 0, 0.9);
+    font-family: monospace;
+    line-height: 1.45;
+    text-rendering: optimizeSpeed;
+}
+
+.adoc pre code, .adoc pre pre {
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.adoc pre > code {
+    display: block;
+}
+
+.adoc pre.nowrap, .adoc pre.nowrap pre {
+    white-space: pre;
+    word-wrap: normal;
+}
+
+.adoc em em {
+    font-style: normal;
+}
+
+.adoc strong strong {
+    font-weight: 400;
+}
+
+.adoc .keyseq {
+    color: rgba(51, 51, 51, 0.8);
+}
+
+.adoc kbd {
+    font-family: monospace;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 0.65em;
+    line-height: 1.45;
+    background: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), inset 0 0 0 0.1em #fff;
+    margin: 0 0.15em;
+    padding: 0.2em 0.5em;
+    vertical-align: middle;
+    position: relative;
+    top: -0.1em;
+    white-space: nowrap;
+}
+
+.adoc .keyseq kbd:first-child {
+    margin-left: 0;
+}
+
+.adoc .keyseq kbd:last-child {
+    margin-right: 0;
+}
+
+.adoc .menuseq, .adoc .menuref {
+    color: #000;
+}
+
+.adoc .menuseq b:not(.caret), .adoc .menuref {
+    font-weight: inherit;
+}
+
+.adoc .menuseq {
+    word-spacing: -0.02em;
+}
+
+.adoc .menuseq b.caret {
+    font-size: 1.25em;
+    line-height: 0.8;
+}
+
+.adoc .menuseq i.caret {
+    font-weight: bold;
+    text-align: center;
+    width: 0.45em;
+}
+
+.adoc b.button::before, .adoc b.button::after {
+    position: relative;
+    top: -1px;
+    font-weight: 400;
+}
+
+.adoc b.button::before {
+    content: "[";
+    padding: 0 3px 0 2px;
+}
+
+.adoc b.button::after {
+    content: "]";
+    padding: 0 2px 0 3px;
+}
+
+.adoc p a > code:hover {
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.adoc #header, .adoc #content, .adoc #footnotes, .adoc #footer {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 62.5em;
+    *zoom: 1;
+    position: relative;
+    padding-left: 0.9375em;
+    padding-right: 0.9375em;
+}
+
+.adoc #header::before, .adoc #header::after, .adoc #content::before, .adoc #content::after, .adoc #footnotes::before, .adoc #footnotes::after, .adoc #footer::before, .adoc #footer::after {
+    content: " ";
+    display: table;
+}
+
+.adoc #header::after, .adoc #content::after, .adoc #footnotes::after, .adoc #footer::after {
+    clear: both;
+}
+
+.adoc #content {
+    margin-top: 1.25em;
+}
+
+.adoc #content::before {
+    content: none;
+}
+
+.adoc #header > h1:first-child {
+    color: rgba(0, 0, 0, 0.85);
+    margin-top: 2.25rem;
+    margin-bottom: 0;
+}
+
+.adoc #header > h1:first-child + #toc {
+    margin-top: 8px;
+    border-top: 1px solid #dddddf;
+}
+
+.adoc #header > h1:only-child, .adoc body.toc2 #header > h1:nth-last-child(2) {
+    border-bottom: 1px solid #dddddf;
+    padding-bottom: 8px;
+}
+
+.adoc #header .details {
+    border-bottom: 1px solid #dddddf;
+    line-height: 1.45;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    padding-left: 0.25em;
+    color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.adoc #header .details span:first-child {
+    margin-left: -0.125em;
+}
+
+.adoc #header .details span.email a {
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.adoc #header .details br {
+    display: none;
+}
+
+.adoc #header .details br + span::before {
+    content: " – ";
+}
+
+.adoc #header .details br + span.author::before {
+    content: " ⋅ ";
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.adoc #header .details br + span#revremark::before {
+    content: " | ";
+}
+
+.adoc #header #revnumber {
+    text-transform: capitalize;
+}
+
+.adoc #header #revnumber::after {
+    content: " ";
+}
+
+.adoc #content > h1:first-child:not([class]) {
+    color: rgba(0, 0, 0, 0.85);
+    border-bottom: 1px solid #dddddf;
+    padding-bottom: 8px;
+    margin-top: 0;
+    padding-top: 1rem;
+    margin-bottom: 1.25rem;
+}
+
+.adoc #toc {
+    border-bottom: 1px solid #e7e7e9;
+    padding-bottom: 0.5em;
+}
+
+.adoc #toc > ul {
+    margin-left: 0.125em;
+}
+
+.adoc #toc ul.sectlevel0 > li > a {
+    font-weight: bold;
+}
+
+.adoc #toc ul.sectlevel0 ul.sectlevel1 {
+    margin: 0.5em 0;
+}
+
+.adoc #toc ul {
+    font-family: "Picon", sans-serif;
+    list-style-type: none;
+}
+
+.adoc #toc li {
+    line-height: 1.3334;
+    margin-top: 0.3334em;
+}
+
+.adoc #toc a {
+    text-decoration: none;
+}
+
+.adoc #toc a:active {
+    text-decoration: underline;
+}
+
+.adoc #toctitle {
+    color: #7a2518;
+    font-size: 1.2em;
+}
+
+@media screen and (min-width: 768px) {
+    .adoc #toctitle {
+        font-size: 1.375em;
+    }
+
+    .adoc body.toc2 {
+        padding-left: 15em;
+        padding-right: 0;
+    }
+
+    .adoc #toc.toc2 {
+        margin-top: 0 !important;
+        background: #f8f8f7;
+        position: fixed;
+        width: 15em;
+        left: 0;
+        top: 0;
+        border-right: 1px solid #e7e7e9;
+        border-top-width: 0 !important;
+        border-bottom-width: 0 !important;
+        z-index: 1000;
+        padding: 1.25em 1em;
+        height: 100%;
+        overflow: auto;
+    }
+
+    .adoc #toc.toc2 #toctitle {
+        margin-top: 0;
+        margin-bottom: 0.8rem;
+        font-size: 1.2em;
+    }
+
+    .adoc #toc.toc2 > ul {
+        font-size: 0.9em;
+        margin-bottom: 0;
+    }
+
+    .adoc #toc.toc2 ul ul {
+        margin-left: 0;
+        padding-left: 1em;
+    }
+
+    .adoc #toc.toc2 ul.sectlevel0 ul.sectlevel1 {
+        padding-left: 0;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+    .adoc body.toc2.toc-right {
+        padding-left: 0;
+        padding-right: 15em;
+    }
+
+    .adoc body.toc2.toc-right #toc.toc2 {
+        border-right-width: 0;
+        border-left: 1px solid #e7e7e9;
+        left: auto;
+        right: 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .adoc body.toc2 {
+        padding-left: 20em;
+        padding-right: 0;
+    }
+
+    .adoc #toc.toc2 {
+        width: 20em;
+    }
+
+    .adoc #toc.toc2 #toctitle {
+        font-size: 1.375em;
+    }
+
+    .adoc #toc.toc2 > ul {
+        font-size: 0.95em;
+    }
+
+    .adoc #toc.toc2 ul ul {
+        padding-left: 1.25em;
+    }
+
+    .adoc body.toc2.toc-right {
+        padding-left: 0;
+        padding-right: 20em;
+    }
+}
+
+.adoc #content #toc {
+    border: 1px solid #e0e0dc;
+    margin-bottom: 1.25em;
+    padding: 1.25em;
+    background: #f8f8f7;
+    border-radius: 4px;
+}
+
+.adoc #content #toc > :first-child {
+    margin-top: 0;
+}
+
+.adoc #content #toc > :last-child {
+    margin-bottom: 0;
+}
+
+.adoc #footer {
+    max-width: none;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 1.25em;
+}
+
+.adoc #footer-text {
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.44;
+}
+
+.adoc #content {
+    margin-bottom: 0.625em;
+}
+
+.adoc .sect1 {
+    padding-bottom: 0.625em;
+}
+
+@media screen and (min-width: 768px) {
+    .adoc #content {
+        margin-bottom: 1.25em;
+    }
+
+    .adoc .sect1 {
+        padding-bottom: 1.25em;
+    }
+}
+
+.adoc .sect1:last-child {
+    padding-bottom: 0;
+}
+
+.adoc .sect1 + .sect1 {
+    border-top: 1px solid #e7e7e9;
+}
+
+.adoc #content h1 > a.anchor, .adoc h2 > a.anchor, .adoc h3 > a.anchor, .adoc #toctitle > a.anchor, .adoc .sidebarblock > .content > .title > a.anchor, .adoc h4 > a.anchor, .adoc h5 > a.anchor, .adoc h6 > a.anchor {
+    position: absolute;
+    z-index: 1001;
+    width: 1.5ex;
+    margin-left: -1.5ex;
+    display: block;
+    text-decoration: none !important;
+    visibility: hidden;
+    text-align: center;
+    font-weight: 400;
+}
+
+.adoc #content h1 > a.anchor::before, .adoc h2 > a.anchor::before, .adoc h3 > a.anchor::before, .adoc #toctitle > a.anchor::before, .adoc .sidebarblock > .content > .title > a.anchor::before, .adoc h4 > a.anchor::before, .adoc h5 > a.anchor::before, .adoc h6 > a.anchor::before {
+    content: "§";
+    font-size: 0.85em;
+    display: block;
+    padding-top: 0.1em;
+}
+
+.adoc #content h1:hover > a.anchor, .adoc #content h1 > a.anchor:hover, .adoc h2:hover > a.anchor, .adoc h2 > a.anchor:hover, .adoc h3:hover > a.anchor, .adoc #toctitle:hover > a.anchor, .adoc .sidebarblock > .content > .title:hover > a.anchor, .adoc h3 > a.anchor:hover, .adoc #toctitle > a.anchor:hover, .adoc .sidebarblock > .content > .title > a.anchor:hover, .adoc h4:hover > a.anchor, .adoc h4 > a.anchor:hover, .adoc h5:hover > a.anchor, .adoc h5 > a.anchor:hover, .adoc h6:hover > a.anchor, .adoc h6 > a.anchor:hover {
+    visibility: visible;
+}
+
+.adoc #content h1 > a.link, .adoc h2 > a.link, .adoc h3 > a.link, .adoc #toctitle > a.link, .adoc .sidebarblock > .content > .title > a.link, .adoc h4 > a.link, .adoc h5 > a.link, .adoc h6 > a.link {
+    color: #ba3925;
+    text-decoration: none;
+}
+
+.adoc #content h1 > a.link:hover, .adoc h2 > a.link:hover, .adoc h3 > a.link:hover, .adoc #toctitle > a.link:hover, .adoc .sidebarblock > .content > .title > a.link:hover, .adoc h4 > a.link:hover, .adoc h5 > a.link:hover, .adoc h6 > a.link:hover {
+    color: #a53221;
+}
+
+.adoc details, .adoc .audioblock, .adoc .imageblock, .adoc .literalblock, .adoc .listingblock, .adoc .stemblock, .adoc .videoblock {
+    margin-bottom: 1.25em;
+}
+
+.adoc details {
+    margin-left: 1.25rem;
+}
+
+.adoc details > summary {
+    cursor: pointer;
+    display: block;
+    position: relative;
+    line-height: 1.6;
+    margin-bottom: 0.625rem;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.adoc details > summary::-webkit-details-marker {
+    display: none;
+}
+
+.adoc details > summary::before {
+    content: "";
+    border: solid transparent;
+    border-left: solid;
+    border-width: 0.3em 0 0.3em 0.5em;
+    position: absolute;
+    top: 0.5em;
+    left: -1.25rem;
+    transform: translateX(15%);
+}
+
+.adoc details[open] > summary::before {
+    border: solid transparent;
+    border-top: solid;
+    border-width: 0.5em 0.3em 0;
+    transform: translateY(15%);
+}
+
+.adoc details > summary::after {
+    content: "";
+    width: 1.25rem;
+    height: 1em;
+    position: absolute;
+    top: 0.3em;
+    left: -1.25rem;
+}
+
+.adoc .admonitionblock td.content > .title, .adoc .audioblock > .title, .adoc .exampleblock > .title, .adoc .imageblock > .title, .adoc .listingblock > .title, .adoc .literalblock > .title, .adoc .stemblock > .title, .adoc .openblock > .title, .adoc .paragraph > .title, .adoc .quoteblock > .title, .adoc table.tableblock > .title, .adoc .verseblock > .title, .adoc .videoblock > .title, .adoc .dlist > .title, .adoc .olist > .title, .adoc .ulist > .title, .adoc .qlist > .title, .adoc .hdlist > .title {
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    font-family: "Picon", sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.adoc table.tableblock.fit-content > caption.title {
+    white-space: nowrap;
+    width: 0;
+}
+
+.adoc .paragraph.lead > p, .adoc #preamble > .sectionbody > [class=paragraph]:first-of-type p {
+    font-size: 1.21875em;
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.adoc .admonitionblock > table {
+    border-collapse: separate;
+    border: 0;
+    background: none;
+    width: 100%;
+}
+
+.adoc .admonitionblock > table td.icon {
+    text-align: center;
+    width: 80px;
+}
+
+.adoc .admonitionblock > table td.icon img {
+    max-width: none;
+}
+
+.adoc .admonitionblock > table td.icon .title {
+    font-weight: bold;
+    font-family: "Picon", sans-serif;
+    text-transform: uppercase;
+}
+
+.adoc .admonitionblock > table td.content {
+    padding-left: 1.125em;
+    padding-right: 1.25em;
+    border-left: 1px solid #dddddf;
+    /*color: rgba(0, 0, 0, 0.6);*/
+    word-wrap: anywhere;
+}
+
+.adoc .admonitionblock > table td.content > :last-child > :last-child {
+    margin-bottom: 0;
+}
+
+.adoc .exampleblock > .content {
+    border: 1px solid #e6e6e6;
+    margin-bottom: 1.25em;
+    padding: 1.25em;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.adoc .exampleblock > .content > :first-child {
+    margin-top: 0;
+}
+
+.adoc .exampleblock > .content > :last-child {
+    margin-bottom: 0;
+}
+
+.adoc .sidebarblock {
+    border: 1px solid #dbdbd6;
+    margin-bottom: 1.25em;
+    padding: 1.25em;
+    background: #f3f3f2;
+    border-radius: 4px;
+}
+
+.adoc .sidebarblock > :first-child {
+    margin-top: 0;
+}
+
+.adoc .sidebarblock > :last-child {
+    margin-bottom: 0;
+}
+
+.adoc .sidebarblock > .content > .title {
+    color: #7a2518;
+    margin-top: 0;
+    text-align: center;
+}
+
+.adoc .exampleblock > .content > :last-child > :last-child, .adoc .exampleblock > .content .olist > ol > li:last-child > :last-child, .adoc .exampleblock > .content .ulist > ul > li:last-child > :last-child, .adoc .exampleblock > .content .qlist > ol > li:last-child > :last-child, .adoc .sidebarblock > .content > :last-child > :last-child, .adoc .sidebarblock > .content .olist > ol > li:last-child > :last-child, .adoc .sidebarblock > .content .ulist > ul > li:last-child > :last-child, .adoc .sidebarblock > .content .qlist > ol > li:last-child > :last-child {
+    margin-bottom: 0;
+}
+
+.adoc .literalblock pre, .adoc .listingblock > .content > pre {
+    border-radius: 4px;
+    overflow-x: auto;
+    padding: 1em;
+    font-size: 0.8125em;
+}
+
+@media screen and (min-width: 768px) {
+    .adoc .literalblock pre, .adoc .listingblock > .content > pre {
+        font-size: 0.90625em;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .adoc .literalblock pre, .adoc .listingblock > .content > pre {
+        font-size: 1em;
+    }
+}
+
+.adoc .literalblock pre, .adoc .listingblock > .content > pre:not(.highlight), .adoc .listingblock > .content > pre[class=highlight], .adoc .listingblock > .content > pre[class^="highlight "] {
+    background: #f7f7f8;
+}
+
+.adoc .literalblock.output pre {
+    color: #f7f7f8;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.adoc .listingblock > .content {
+    position: relative;
+}
+
+.adoc .listingblock code[data-lang]::before {
+    display: none;
+    content: attr(data-lang);
+    position: absolute;
+    font-size: 0.75em;
+    top: 0.425rem;
+    right: 0.5rem;
+    line-height: 1;
+    text-transform: uppercase;
+    color: inherit;
+    opacity: 0.5;
+}
+
+.adoc .listingblock:hover code[data-lang]::before {
+    display: block;
+}
+
+.adoc .listingblock.terminal pre .command::before {
+    content: attr(data-prompt);
+    padding-right: 0.5em;
+    color: inherit;
+    opacity: 0.5;
+}
+
+.adoc .listingblock.terminal pre .command:not([data-prompt])::before {
+    content: "$";
+}
+
+.adoc .listingblock pre.highlightjs {
+    padding: 0;
+}
+
+.adoc .listingblock pre.highlightjs > code {
+    padding: 1em;
+    border-radius: 4px;
+}
+
+.adoc .listingblock pre.prettyprint {
+    border-width: 0;
+}
+
+.adoc .prettyprint {
+    background: #f7f7f8;
+}
+
+.adoc pre.prettyprint .linenums {
+    line-height: 1.45;
+    margin-left: 2em;
+}
+
+.adoc pre.prettyprint li {
+    background: none;
+    list-style-type: inherit;
+    padding-left: 0;
+}
+
+.adoc pre.prettyprint li code[data-lang]::before {
+    opacity: 1;
+}
+
+.adoc pre.prettyprint li:not(:first-child) code[data-lang]::before {
+    display: none;
+}
+
+.adoc table.linenotable {
+    border-collapse: separate;
+    border: 0;
+    margin-bottom: 0;
+    background: none;
+}
+
+.adoc table.linenotable td[class] {
+    color: inherit;
+    vertical-align: top;
+    padding: 0;
+    line-height: inherit;
+    white-space: normal;
+}
+
+.adoc table.linenotable td.code {
+    padding-left: 0.75em;
+}
+
+.adoc table.linenotable td.linenos, .adoc pre.pygments .linenos {
+    border-right: 1px solid;
+    opacity: 0.35;
+    padding-right: 0.5em;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.adoc pre.pygments span.linenos {
+    display: inline-block;
+    margin-right: 0.75em;
+}
+
+.adoc .quoteblock {
+    margin: 0 1em 1.25em 1.5em;
+    display: table;
+}
+
+.adoc .quoteblock:not(.excerpt) > .title {
+    margin-left: -1.5em;
+    margin-bottom: 0.75em;
+}
+
+.adoc .quoteblock blockquote, .adoc .quoteblock p {
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 1.15rem;
+    line-height: 1.75;
+    word-spacing: 0.1em;
+    letter-spacing: 0;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.adoc .quoteblock blockquote {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.adoc .quoteblock blockquote::before {
+    content: "“";
+    float: left;
+    font-size: 2.75em;
+    font-weight: bold;
+    line-height: 0.6em;
+    margin-left: -0.6em;
+    color: #7a2518;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.adoc .quoteblock blockquote > .paragraph:last-child p {
+    margin-bottom: 0;
+}
+
+.adoc .quoteblock .attribution {
+    margin-top: 0.75em;
+    margin-right: 0.5ex;
+    text-align: right;
+}
+
+.adoc .verseblock {
+    margin: 0 1em 1.25em;
+}
+
+.adoc .verseblock pre {
+    font-family: "Picon", sans-serif;
+    font-size: 1.15rem;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+.adoc .verseblock pre strong {
+    font-weight: 400;
+}
+
+.adoc .verseblock .attribution {
+    margin-top: 1.25rem;
+    margin-left: 0.5ex;
+}
+
+.adoc .quoteblock .attribution, .adoc .verseblock .attribution {
+    font-size: 0.9375em;
+    line-height: 1.45;
+    font-weight: bold;
+}
+
+.adoc .quoteblock .attribution br, .adoc .verseblock .attribution br {
+    display: none;
+}
+
+.adoc .quoteblock .attribution cite, .adoc .verseblock .attribution cite {
+    display: block;
+    letter-spacing: -0.025em;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.adoc .quoteblock.abstract blockquote::before, .adoc .quoteblock.excerpt blockquote::before, .adoc .quoteblock .quoteblock blockquote::before {
+    display: none;
+}
+
+.adoc .quoteblock.abstract blockquote, .adoc .quoteblock.abstract p, .adoc .quoteblock.excerpt blockquote, .adoc .quoteblock.excerpt p, .adoc .quoteblock .quoteblock blockquote, .adoc .quoteblock .quoteblock p {
+    line-height: 1.6;
+    word-spacing: 0;
+}
+
+.adoc .quoteblock.abstract {
+    margin: 0 1em 1.25em;
+    display: block;
+}
+
+.adoc .quoteblock.abstract > .title {
+    margin: 0 0 0.375em;
+    font-size: 1.15em;
+    text-align: center;
+}
+
+.adoc .quoteblock.excerpt > blockquote, .adoc .quoteblock .quoteblock {
+    padding: 0 0 0.25em 1em;
+    border-left: 0.25em solid #dddddf;
+}
+
+.adoc .quoteblock.excerpt, .adoc .quoteblock .quoteblock {
+    margin-left: 0;
+}
+
+.adoc .quoteblock.excerpt blockquote, .adoc .quoteblock.excerpt p, .adoc .quoteblock .quoteblock blockquote, .adoc .quoteblock .quoteblock p {
+    color: inherit;
+    font-size: 1.0625rem;
+}
+
+.adoc .quoteblock.excerpt .attribution, .adoc .quoteblock .quoteblock .attribution {
+    color: inherit;
+    font-size: 0.85rem;
+    text-align: left;
+    margin-right: 0;
+}
+
+.adoc p.tableblock:last-child {
+    margin-bottom: 0;
+}
+
+.adoc td.tableblock > .content {
+    margin-bottom: 1.25em;
+    word-wrap: anywhere;
+}
+
+.adoc td.tableblock > .content > :last-child {
+    margin-bottom: -1.25em;
+}
+
+.adoc table.tableblock, .adoc th.tableblock, .adoc td.tableblock {
+    border: 0 solid #dedede;
+}
+
+.adoc table.grid-all > * > tr > * {
+    border-width: 1px;
+}
+
+.adoc table.grid-cols > * > tr > * {
+    border-width: 0 1px;
+}
+
+.adoc table.grid-rows > * > tr > * {
+    border-width: 1px 0;
+}
+
+.adoc table.frame-all {
+    border-width: 1px;
+}
+
+.adoc table.frame-ends {
+    border-width: 1px 0;
+}
+
+.adoc table.frame-sides {
+    border-width: 0 1px;
+}
+
+.adoc table.frame-none > colgroup + * > :first-child > *, .adoc table.frame-sides > colgroup + * > :first-child > * {
+    border-top-width: 0;
+}
+
+.adoc table.frame-none > :last-child > :last-child > *, .adoc table.frame-sides > :last-child > :last-child > * {
+    border-bottom-width: 0;
+}
+
+.adoc table.frame-none > * > tr > :first-child, .adoc table.frame-ends > * > tr > :first-child {
+    border-left-width: 0;
+}
+
+.adoc table.frame-none > * > tr > :last-child, .adoc table.frame-ends > * > tr > :last-child {
+    border-right-width: 0;
+}
+
+.adoc table.stripes-all > * > tr, .adoc table.stripes-odd > * > tr:nth-of-type(odd), .adoc table.stripes-even > * > tr:nth-of-type(even), .adoc table.stripes-hover > * > tr:hover {
+    background: #f8f8f7;
+}
+
+.adoc th.halign-left, .adoc td.halign-left {
+    text-align: left;
+}
+
+.adoc th.halign-right, .adoc td.halign-right {
+    text-align: right;
+}
+
+.adoc th.halign-center, .adoc td.halign-center {
+    text-align: center;
+}
+
+.adoc th.valign-top, .adoc td.valign-top {
+    vertical-align: top;
+}
+
+.adoc th.valign-bottom, .adoc td.valign-bottom {
+    vertical-align: bottom;
+}
+
+.adoc th.valign-middle, .adoc td.valign-middle {
+    vertical-align: middle;
+}
+
+.adoc table thead th, .adoc table tfoot th {
+    font-weight: bold;
+}
+
+.adoc tbody tr th {
+    background: #f7f8f7;
+}
+
+.adoc tbody tr th, .adoc tbody tr th p, .adoc tfoot tr th, .adoc tfoot tr th p {
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+}
+
+.adoc p.tableblock > code:only-child {
+    background: none;
+    padding: 0;
+}
+
+.adoc p.tableblock {
+    font-size: 1em;
+}
+
+.adoc ol {
+    margin-left: 1.75em;
+}
+
+.adoc ul li ol {
+    margin-left: 1.5em;
+}
+
+.adoc dl dd {
+    margin-left: 1.125em;
+}
+
+.adoc dl dd:last-child, .adoc dl dd:last-child > :last-child {
+    margin-bottom: 0;
+}
+
+.adoc li p, .adoc ul dd, .adoc ol dd, .adoc .olist .olist, .adoc .ulist .ulist, .adoc .ulist .olist, .adoc .olist .ulist {
+    margin-bottom: 0.625em;
+}
+
+.adoc ul.checklist, .adoc ul.none, .adoc ol.none, .adoc ul.no-bullet, .adoc ol.no-bullet, .adoc ol.unnumbered, .adoc ul.unstyled, .adoc ol.unstyled {
+    list-style-type: none;
+}
+
+.adoc ul.no-bullet, .adoc ol.no-bullet, .adoc ol.unnumbered {
+    margin-left: 0.625em;
+}
+
+.adoc ul.unstyled, .adoc ol.unstyled {
+    margin-left: 0;
+}
+
+.adoc li > p:empty:only-child::before {
+    content: "";
+    display: inline-block;
+}
+
+.adoc ul.checklist > li > p:first-child {
+    margin-left: -1em;
+}
+
+.adoc ul.checklist > li > p:first-child > .fa-square-o:first-child, .adoc ul.checklist > li > p:first-child > .fa-check-square-o:first-child {
+    width: 1.25em;
+    font-size: 0.8em;
+    position: relative;
+    bottom: 0.125em;
+}
+
+.adoc ul.checklist > li > p:first-child > input[type=checkbox]:first-child {
+    margin-right: 0.25em;
+}
+
+.adoc ul.inline {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    margin: 0 0 0.625em -1.25em;
+}
+
+.adoc ul.inline > li {
+    margin-left: 1.25em;
+}
+
+.adoc .unstyled dl dt {
+    font-weight: 400;
+    font-style: normal;
+}
+
+.adoc ol.arabic {
+    list-style-type: decimal;
+}
+
+.adoc ol.decimal {
+    list-style-type: decimal-leading-zero;
+}
+
+.adoc ol.loweralpha {
+    list-style-type: lower-alpha;
+}
+
+.adoc ol.upperalpha {
+    list-style-type: upper-alpha;
+}
+
+.adoc ol.lowerroman {
+    list-style-type: lower-roman;
+}
+
+.adoc ol.upperroman {
+    list-style-type: upper-roman;
+}
+
+.adoc ol.lowergreek {
+    list-style-type: lower-greek;
+}
+
+.adoc .hdlist > table, .adoc .colist > table {
+    border: 0;
+    background: none;
+}
+
+.adoc .hdlist > table > tbody > tr, .adoc .colist > table > tbody > tr {
+    background: none;
+}
+
+.adoc td.hdlist1, .adoc td.hdlist2 {
+    vertical-align: top;
+    padding: 0 0.625em;
+}
+
+.adoc td.hdlist1 {
+    font-weight: bold;
+    padding-bottom: 1.25em;
+}
+
+.adoc td.hdlist2 {
+    word-wrap: anywhere;
+}
+
+.adoc .literalblock + .colist, .adoc .listingblock + .colist {
+    margin-top: -0.5em;
+}
+
+.adoc .colist td:not([class]):first-child {
+    padding: 0.4em 0.75em 0;
+    line-height: 1;
+    vertical-align: top;
+}
+
+.adoc .colist td:not([class]):first-child img {
+    max-width: none;
+}
+
+.adoc .colist td:not([class]):last-child {
+    padding: 0.25em 0;
+}
+
+.adoc .thumb, .adoc .th {
+    line-height: 0;
+    display: inline-block;
+    border: 4px solid #fff;
+    box-shadow: 0 0 0 1px #ddd;
+}
+
+.adoc .imageblock.left {
+    margin: 0.25em 0.625em 1.25em 0;
+}
+
+.adoc .imageblock.right {
+    margin: 0.25em 0 1.25em 0.625em;
+}
+
+.adoc .imageblock > .title {
+    margin-bottom: 0;
+}
+
+.adoc .imageblock.thumb, .adoc .imageblock.th {
+    border-width: 6px;
+}
+
+.adoc .imageblock.thumb > .title, .adoc .imageblock.th > .title {
+    padding: 0 0.125em;
+}
+
+.adoc .image.left, .adoc .image.right {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    display: inline-block;
+    line-height: 0;
+}
+
+.adoc .image.left {
+    margin-right: 0.625em;
+}
+
+.adoc .image.right {
+    margin-left: 0.625em;
+}
+
+.adoc a.image {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.adoc a.image object {
+    pointer-events: none;
+}
+
+.adoc sup.footnote, .adoc sup.footnoteref {
+    font-size: 0.875em;
+    position: static;
+    vertical-align: super;
+}
+
+.adoc sup.footnote a, .adoc sup.footnoteref a {
+    text-decoration: none;
+}
+
+.adoc sup.footnote a:active, .adoc sup.footnoteref a:active {
+    text-decoration: underline;
+}
+
+.adoc #footnotes {
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    margin-bottom: 0.625em;
+}
+
+.adoc #footnotes hr {
+    width: 20%;
+    min-width: 6.25em;
+    margin: -0.25em 0 0.75em;
+    border-width: 1px 0 0;
+}
+
+.adoc #footnotes .footnote {
+    padding: 0 0.375em 0 0.225em;
+    line-height: 1.3334;
+    font-size: 0.875em;
+    margin-left: 1.2em;
+    margin-bottom: 0.2em;
+}
+
+.adoc #footnotes .footnote a:first-of-type {
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: -1.05em;
+}
+
+.adoc #footnotes .footnote:last-of-type {
+    margin-bottom: 0;
+}
+
+.adoc #content #footnotes {
+    margin-top: -0.625em;
+    margin-bottom: 0;
+    padding: 0.75em 0;
+}
+
+.adoc div.unbreakable {
+    page-break-inside: avoid;
+}
+
+.adoc .big {
+    font-size: larger;
+}
+
+.adoc .small {
+    font-size: smaller;
+}
+
+.adoc .underline {
+    text-decoration: underline;
+}
+
+.adoc .overline {
+    text-decoration: overline;
+}
+
+.adoc .line-through {
+    text-decoration: line-through;
+}
+
+.adoc .aqua {
+    color: #00bfbf;
+}
+
+.adoc .aqua-background {
+    background: #00fafa;
+}
+
+.adoc .black {
+    color: #000;
+}
+
+.adoc .black-background {
+    background: #000;
+}
+
+.adoc .blue {
+    color: #0000bf;
+}
+
+.adoc .blue-background {
+    background: #0000fa;
+}
+
+.adoc .fuchsia {
+    color: #bf00bf;
+}
+
+.adoc .fuchsia-background {
+    background: #fa00fa;
+}
+
+.adoc .gray {
+    color: #606060;
+}
+
+.adoc .gray-background {
+    background: #7d7d7d;
+}
+
+.adoc .green {
+    color: #006000;
+}
+
+.adoc .green-background {
+    background: #007d00;
+}
+
+.adoc .lime {
+    color: #00bf00;
+}
+
+.adoc .lime-background {
+    background: #00fa00;
+}
+
+.adoc .maroon {
+    color: #600000;
+}
+
+.adoc .maroon-background {
+    background: #7d0000;
+}
+
+.adoc .navy {
+    color: #000060;
+}
+
+.adoc .navy-background {
+    background: #00007d;
+}
+
+.adoc .olive {
+    color: #606000;
+}
+
+.adoc .olive-background {
+    background: #7d7d00;
+}
+
+.adoc .purple {
+    color: #600060;
+}
+
+.adoc .purple-background {
+    background: #7d007d;
+}
+
+.adoc .red {
+    color: #bf0000;
+}
+
+.adoc .red-background {
+    background: #fa0000;
+}
+
+.adoc .silver {
+    color: #909090;
+}
+
+.adoc .silver-background {
+    background: #bcbcbc;
+}
+
+.adoc .teal {
+    color: #006060;
+}
+
+.adoc .teal-background {
+    background: #007d7d;
+}
+
+.adoc .white {
+    color: #bfbfbf;
+}
+
+.adoc .white-background {
+    background: #fafafa;
+}
+
+.adoc .yellow {
+    color: #bfbf00;
+}
+
+.adoc .yellow-background {
+    background: #fafa00;
+}
+
+.adoc span.icon > .fa {
+    cursor: default;
+}
+
+.adoc a span.icon > .fa {
+    cursor: inherit;
+}
+
+.adoc .admonitionblock td.icon [class^="fa icon-"] {
+    font-size: 2.5em;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    cursor: default;
+}
+
+.adoc .admonitionblock td.icon .icon-note::before {
+    content: "";
+    color: #19407c;
+}
+
+.adoc .admonitionblock td.icon .icon-tip::before {
+    content: "";
+    text-shadow: 1px 1px 2px rgba(155, 155, 0, 0.8);
+    color: #111;
+}
+
+.adoc .admonitionblock td.icon .icon-warning::before {
+    content: "";
+    color: #bf6900;
+}
+
+.adoc .admonitionblock td.icon .icon-caution::before {
+    content: "";
+    color: #bf3400;
+}
+
+.adoc .admonitionblock td.icon .icon-important::before {
+    content: "";
+    color: #bf0000;
+}
+
+.adoc .conum[data-value] {
+    display: inline-block;
+    color: #fff !important;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 50%;
+    text-align: center;
+    font-size: 0.75em;
+    width: 1.67em;
+    height: 1.67em;
+    line-height: 1.67em;
+    font-family: "Picon", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.adoc .conum[data-value] * {
+    color: #fff !important;
+}
+
+.adoc .conum[data-value] + b {
+    display: none;
+}
+
+.adoc .conum[data-value]::after {
+    content: attr(data-value);
+}
+
+.adoc pre .conum[data-value] {
+    position: relative;
+    top: -0.125em;
+}
+
+.adoc b.conum * {
+    color: inherit !important;
+}
+
+.adoc .conum:not([data-value]):empty {
+    display: none;
+}
+
+.adoc dt, .adoc th.tableblock, .adoc td.content, .adoc div.footnote {
+    text-rendering: optimizeLegibility;
+}
+
+.adoc h1, .adoc h2, .adoc p, .adoc td.content, .adoc span.alt, .adoc summary {
+    letter-spacing: -0.01em;
+}
+
+.adoc p strong, .adoc td.content strong, .adoc div.footnote strong {
+    letter-spacing: -0.005em;
+}
+
+.adoc p, .adoc blockquote, .adoc dt, .adoc td.content, .adoc span.alt, .adoc summary {
+    font-size: 1.0625rem;
+}
+
+.adoc p {
+    margin-bottom: 1.25rem;
+}
+
+.adoc .sidebarblock p, .adoc .sidebarblock dt, .adoc .sidebarblock td.content, .adoc p.tableblock {
+    font-size: 1em;
+}
+
+.adoc .exampleblock > .content {
+    background: #fffef7;
+    border-color: #e0e0dc;
+    box-shadow: 0 1px 4px #e0e0dc;
+}
+
+.adoc .print-only {
+    display: none !important;
+}
+
+@media print {
+    .adoc {
+        margin: 1.25cm 0.75cm;
+    }
+
+    .adoc * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    html.adoc {
+        font-size: 80%;
+    }
+
+    .adoc a {
+        color: inherit !important;
+        text-decoration: underline !important;
+    }
+
+    .adoc a.bare, .adoc a[href^="#"], .adoc a[href^="mailto:"] {
+        text-decoration: none !important;
+    }
+
+    .adoc a[href^="http:"]:not(.bare)::after, .adoc a[href^="https:"]:not(.bare)::after {
+        content: "(" attr(href) ")";
+        display: inline-block;
+        font-size: 0.875em;
+        padding-left: 0.25em;
+    }
+
+    .adoc abbr[title] {
+        border-bottom: 1px dotted;
+    }
+
+    .adoc abbr[title]::after {
+        content: " (" attr(title) ")";
+    }
+
+    .adoc pre, .adoc blockquote, .adoc tr, .adoc img, .adoc object, .adoc svg {
+        page-break-inside: avoid;
+    }
+
+    .adoc thead {
+        display: table-header-group;
+    }
+
+    .adoc svg {
+        max-width: 100%;
+    }
+
+    .adoc p, .adoc blockquote, .adoc dt, .adoc td.content {
+        font-size: 1em;
+        orphans: 3;
+        widows: 3;
+    }
+
+    .adoc h2, .adoc h3, .adoc #toctitle, .adoc .sidebarblock > .content > .title {
+        page-break-after: avoid;
+    }
+
+    .adoc #header, .adoc #content, .adoc #footnotes, .adoc #footer {
+        max-width: none;
+    }
+
+    .adoc #toc, .adoc .sidebarblock, .adoc .exampleblock > .content {
+        background: none !important;
+    }
+
+    .adoc #toc {
+        border-bottom: 1px solid #dddddf !important;
+        padding-bottom: 0 !important;
+    }
+
+    .adoc body.book #header {
+        text-align: center;
+    }
+
+    .adoc body.book #header > h1:first-child {
+        border: 0 !important;
+        margin: 2.5em 0 1em;
+    }
+
+    .adoc body.book #header .details {
+        border: 0 !important;
+        display: block;
+        padding: 0 !important;
+    }
+
+    .adoc body.book #header .details span:first-child {
+        margin-left: 0 !important;
+    }
+
+    .adoc body.book #header .details br {
+        display: block;
+    }
+
+    .adoc body.book #header .details br + span::before {
+        content: none !important;
+    }
+
+    .adoc body.book #toc {
+        border: 0 !important;
+        text-align: left !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .adoc body.book #toc, .adoc body.book #preamble, .adoc body.book h1.sect0, .adoc body.book .sect1 > h2 {
+        page-break-before: always;
+    }
+
+    .adoc .listingblock code[data-lang]::before {
+        display: block;
+    }
+
+    .adoc #footer {
+        padding: 0 0.9375em;
+    }
+
+    .adoc .hide-on-print {
+        display: none !important;
+    }
+
+    .adoc .print-only {
+        display: block !important;
+    }
+
+    .adoc .hide-for-print {
+        display: none !important;
+    }
+
+    .adoc .show-for-print {
+        display: inherit !important;
+    }
+}
+
+@media amzn-kf8, print {
+    .adoc #header > h1:first-child {
+        margin-top: 1.25rem;
+    }
+
+    .adoc .sect1 {
+        padding: 0 !important;
+    }
+
+    .adoc .sect1 + .sect1 {
+        border: 0;
+    }
+
+    .adoc #footer {
+        background: none;
+    }
+
+    .adoc #footer-text {
+        color: rgba(0, 0, 0, 0.6);
+        font-size: 0.9em;
+    }
+}
+
+@media amzn-kf8 {
+    .adoc #header, .adoc #content, .adoc #footnotes, .adoc #footer {
+        padding: 0;
+    }
+}
+
+
+
+.adoc-fragment {
+    padding: 1rem 2rem;
+    margin: 1rem auto 0 auto;
+}
+
+.adoc #header {
+    background-color: var(--mdc-theme-primary);
+    padding: 25px;
+    max-width: none;
+}
+
+.adoc h1, .adoc h2 {
+    background-color: var(--mdc-theme-primary);
+    color: white !important;
+    font-family: "Picon-Extended", sans-serif;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.adoc h3 {
+    font-family: "Picon-Extended", sans-serif;
+    font-weight: 600;
+}
+
+.adoc h3, .adoc h4, .adoc h5, .adoc h6 {
+    font-family: "Picon-Extended", sans-serif;
+    color: var(--mdc-theme-primary);
+}
+
+.adoc .title {
+    color: var(--mdc-theme-secondary) !important;
+    font-family: "Picon-Extended", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.adoc p {
+    font-family: "Picon", sans-serif ! important
+}
+
+.adoc #toc.toc2 a:link {
+    color: white;
+}
+
+.adoc a {
+    text-decoration: none;
+    color: var(--mdc-theme-primary);
+    filter: brightness(0.5);
+}
+
+.adoc a:hover {
+    color: var(--mdc-theme-secondary);
+    filter: brightness(0.9);
+}
+
+.adoc .quoteblock blockquote::before {
+    color: var(--mdc-theme-primary);
+    filter: brightness(0.5);
+}
+
+.adoc mark {
+    color: white;
+    background-color: var(--mdc-theme-primary);
+}
+
+.adoc .sect1, .adoc #toc {
+    border-bottom: none !important;
+    border-top: none !important;;
+}
+
+.adoc th {
+    background-color: var(--mdc-theme-secondary);
+    color: white !important;
+}
+
+.adoc #toc.toc2 {
+    background-color: var(--mdc-theme-primary);
+    color: white !important;
+}
+
+.adoc #toc.toc2.a {
+    color: white;
+}
+
+.adoc #toc.toc2.a:active {
+    color: white !important;
+}
+
+.adoc #toc.toc2.a:visited {
+    color: white !important;
+}
+
+.adoc #toctitle {
+    color: var(--mdc-theme-secondary);
+    font-size: 27px;
+}
+
+/* Responsiveness fixes */
+.adoc video {
+    max-width: 100%;
+}
+
+/*.adoc .admonitionblock > table td.content {*/
+/*    color: var(--mdc-theme-secondary);*/
+/*    filter: brightness(0.25);*/
+/*}*/
+
+.toc ul li a {
+    display: block;
+}
+
+@media all and (max-width: 600px) {
+    .adoc-fragment {
+        padding: 1rem 0.5rem;
+    }
+
+    .adoc table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .adoc table td.icon {
+        width: 55px !important;
+    }
+
+    .toc ul li a {
+        padding: 5px;
+    }
+
+    .adoc ul, .adoc ol {
+        margin-left: 1em;
+    }
+
+    .adoc .exampleblock > .content, .adoc .sidebarblock {
+        padding: 1em 0.75em;
+    }
+
+    .adoc .admonitionblock > table td.content {
+        padding-left: 0.75em;
+        padding-right: 0.75em;
+    }
+
+    .adoc table.big-table {
+        display: block;
+        max-width: 100%;
+        overflow-x: auto;
+        border: none;
+    }
+}

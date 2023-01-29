@@ -1,0 +1,27 @@
+type:
+  - Trick Taking
+  - Predictive Bid
+  - Score and Reset
+players: 3,4,5
+cards:
+  Base:
+    all-players:
+      spades: 1-9, K*3
+      hearts: 1-9, K*3
+      clubs: 1-9, K*3
+      diamonds: 1-9, K*3
+      stars: 1-9, K*3, C, S
+      wheels: A
+      specials: Wolf*6, Butterfly*4
+    4,5-players:
+      spades: 10-12
+      hearts: 10-12
+      clubs: 10-12
+      diamonds: 10-12
+      stars: 10-12
+    5-players:
+      spades: 13-15
+      hearts: 13-15
+      clubs: 13-15
+      diamonds: 13-15
+      stars: 13-15
