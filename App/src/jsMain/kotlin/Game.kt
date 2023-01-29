@@ -228,8 +228,7 @@ fun RouteBuilder.Game(game: Game?, langMenu: LangMenu) {
                                             "link" -> {
                                                 val share = json(
                                                     "title" to gameName,
-                                                    "text" to gameName,
-                                                    "url" to "https://super-set-deck.games/#/game/${game?.id}"
+                                                    "text" to "$gameName: https://super-set-deck.games/#/game/${game?.id}",
                                                 )
                                                 window.navigator.asDynamic().share(share)
                                             }
