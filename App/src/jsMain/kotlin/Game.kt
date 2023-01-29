@@ -1,7 +1,9 @@
 import androidx.compose.runtime.*
 import app.softwork.routingcompose.RouteBuilder
 import app.softwork.routingcompose.Router
-import data.*
+import data.Game
+import data.LocalLang
+import data.name
 import dev.petuska.kmdc.card.Content
 import dev.petuska.kmdc.card.MDCCard
 import dev.petuska.kmdc.card.PrimaryAction
@@ -32,8 +34,10 @@ import dev.petuska.kmdcx.icons.mdcIcon
 import kotlinx.browser.window
 import org.jetbrains.compose.web.css.*
 import org.jetbrains.compose.web.dom.*
-import org.jetbrains.compose.web.dom.Text
-import org.w3c.dom.*
+import org.w3c.dom.INSTANT
+import org.w3c.dom.SMOOTH
+import org.w3c.dom.ScrollBehavior
+import org.w3c.dom.ScrollToOptions
 import org.w3c.dom.events.EventListener
 import utils.*
 import kotlin.js.json

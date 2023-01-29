@@ -53,7 +53,7 @@ Notez que la page de règle d'un jeu vous permet de :
 image::game-header.png[Game header, width=300px]
 
 
-=== Références
+=== Références en jeu
 
 Il peut être difficile de se souvenir de toutes les particularités d'un jeu.
 Pour vous aider (ainsi que vos co-joueur·euse·s), nous fournissons souvent des images de références qui devraient vous aider pendant votre partie.
@@ -84,6 +84,15 @@ Dans le visualiseur, si plusieurs images de références sont disponibles pour c
 
 * Glisser (swipe) entre les images.
 * Cliquer sur une image pour la centrer.
+
+
+=== Partage
+
+Vous pouvez partager le lien vers la page d'un jeu en cliquant sur le image:share-menu.png[Icone partage] menu partage.
+
+Vous pouvez toujours afficher un QR-Code qui pointe sur la page d'un jeu.
+
+De plus, sur mobile, vous pouvez partager un lien par message.
 
 
 == Packer

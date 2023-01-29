@@ -4,7 +4,6 @@ import app.softwork.routingcompose.Router
 import data.Game
 import data.LocalLang
 import data.langs
-import dev.petuska.kmdc.core.jsObject
 import dev.petuska.kmdc.menu.MDCMenu
 import dev.petuska.kmdc.menu.MenuItem
 import dev.petuska.kmdc.menu.onSelected
@@ -15,7 +14,6 @@ import dev.petuska.kmdc.tooltip.MDCTooltip
 import dev.petuska.kmdc.tooltip.tooltipId
 import dev.petuska.kmdc.top.app.bar.ActionLink
 import dev.petuska.kmdc.top.app.bar.MDCTopAppBarSectionScope
-import kotlinx.browser.document
 import kotlinx.browser.window
 import kotlinx.coroutines.MainScope
 import kotlinx.coroutines.await
@@ -25,9 +23,7 @@ import kotlinx.serialization.json.Json
 import org.jetbrains.compose.web.dom.Small
 import org.jetbrains.compose.web.dom.Text
 import org.jetbrains.compose.web.renderComposableInBody
-import org.w3c.dom.HTMLScriptElement
 import utils.Cookies
-import kotlin.js.json
 import kotlin.time.Duration.Companion.days
 
 
@@ -70,6 +66,7 @@ private fun WithLang(content: @Composable (LangMenu) -> Unit) {
             ActionLink(attrs = {
                 onClick { menuOpen = true }
                 tooltipId("lang")
+
             }) {
                 MDCMenuSurfaceAnchor {
                     val langIds = remember { langs.keys.sorted() }
@@ -95,8 +92,6 @@ private fun WithLang(content: @Composable (LangMenu) -> Unit) {
         }
     }
 }
-
-fun homePath() = Cookies["lastFilterHash"] ?: "/"
 
 @Composable
 fun App() {

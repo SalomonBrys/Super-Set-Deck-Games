@@ -47,5 +47,6 @@
     }
   ],
   "display": "standalone",
-  "background_color": "#ffa726"
+  "background_color": "#ffa726",
+  "orientation": "any"
 }

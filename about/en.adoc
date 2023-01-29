@@ -52,7 +52,7 @@ Note that you can use the rules header to:
 image::game-header.png[Game header, width=300px]
 
 
-=== References
+=== In-game References
 
 It may be hard to remember all particularities of a specific game.
 To help you and your fellow players, we often provide reference images that help you during a game.
@@ -83,6 +83,15 @@ Once in viewer mode, if there are multiple references for this game you can:
 
 * Swipe between images.
 * Click on an image to center it.
+
+
+=== Share
+
+You can share the link to a game rule by clicking on the image:share-menu.png[Share Icon] share menu.
+
+You can always display a QR-Code that links to the game page.
+
+Additionally, on mobile only, you can share a link by message.
 
 
 == Packer
