@@ -119,3 +119,8 @@ In Chrome, click on the top-right image:chrome-menu.png[Chrome menu] menu and se
 === iOS
 
 In Safari, click on the bottom image:safari-menu.png[Safari menu] share menu and select image:safari-install-app.png[Install icon] "Add to Home Screen".
+
+
+== Contribute
+
+You can access the sources of this website and contribute new rules and/or languages https://github.com/SalomonBrys/Super-Set-Deck-Games[here].

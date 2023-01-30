@@ -1,4 +1,4 @@
-= "Niet !"
+= Niet !
 :toc: preamble
 :toclevels: 4
 :toc-title: Sommaire

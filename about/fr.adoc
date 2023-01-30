@@ -120,3 +120,8 @@ Dans Chrome, cliquez sur le image:chrome-menu.png[Chrome menu] menu en hait à d
 === iOS
 
 Dans Safari, cliquez sur le image:safari-menu.png[Safari menu] menu partage en bas et sélectionnez image:safari-install-app.png[Icone installer] "Sur l'écran d'accueil".
+
+
+== Contribuer
+
+Vous pouvez accéder aux sources de ce site web et contribuer de nouvelles règles et/ou langues https://github.com/SalomonBrys/Super-Set-Deck-Games[ici].

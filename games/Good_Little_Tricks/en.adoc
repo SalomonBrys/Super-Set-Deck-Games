@@ -84,7 +84,7 @@ Unlike most regular trick-taking games, the suit that is trumps can change durin
 At any time, the trump suit is the *smallest* suit of which at least one card remains in the players’ hands (the leftmost visible A card).
 Once all the cards in this suit have been played, the corresponding A card is flipped face-down, and the trump suit for the next hand shifts to the next smallest suit of which cards remain un-played.
 
-Therefore, at the start of a hand, the ★ suit will almost always be trumps, unless in a 4- or 5-player game both ♠ cards were dealt to the Display.
+Therefore, at the start of a hand, the ★ suit will almost always be trumps, unless in a 4- or 5-player game both ★ cards were dealt to the Display.
 In this rare case, the ♠ suit will be trumps.
 
 

@@ -1,0 +1,29 @@
+= Super-Set Deck
+
+Sources of the https://super-set-deck.games[Super-Set-Deck.Games] website.
+
+Read about this project here: https://super-set-deck.games/#/about.
+
+== Contribute
+
+=== Contribute new game rules
+
+Game rules are written using https://asciidoctor.org/[Asciidoctor].
+
+Each game has:
+
+* Mandatory files:
+** `en.adoc`: english rules.
+** `game.yaml`: game properties (types & used cards).
+* Optional files:
+** Rules in other languages (such as `fr.adoc`).
+** Reference cards named `R_*.png`.
+
+The design files can be found in the `Design` directory.
+
+All icons must be from https://game-icons.net.
+
+
+=== Contribute new app language
+
+Have a look at the `App/src/jsMain/kotlin/data/Lang.kt` file.

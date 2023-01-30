@@ -42,7 +42,7 @@ NOTE: Rappel : C'est le joueur avec le plus petit nombre de points à la fin du 
 
 La partie est jouée en un nombre fixé de 'mains'.
 À 2 ou 3 joueur·euse·s, jouez 2 mains par joueur·euse.
-À 4 ou 5 players, jouez 1 main par joueur·euse.
+À 4 ou 5 joueur·euse·s, jouez 1 main par joueur·euse.
 
 * *2 joueur·euse·s* : Jouez 4 mains
 * *3 joueur·euse·s* : Jouez 6 mains
@@ -85,7 +85,7 @@ Contrairement aux jeux de plis classiques, la couleur d'atout change pendant le 
 À tout moment, la couleur d'atout est la *plus petite* couleur dont il reste au moins une carte dans la main des joueurs·euse·s (la carte A visible la plus à gauche).
 Une fois que toutes les cartes d'une couleur ont été jouées, la carte A correspondante est retournée face cachée et la couleur d'atout pour la prochaine main passe à la plus petite couleur suivante ayant des cartes non jouées.
 
-Ainsi, au démarrage d'une main, la couleur ★ sera quasiment toujours atout, à moins que dans un jeu à 4 ou 5 joueur·euse·s les deux cartes ♠ soient placées directement dans le Tableau.
+Ainsi, au démarrage d'une main, la couleur ★ sera quasiment toujours atout, à moins que dans un jeu à 4 ou 5 joueur·euse·s les deux cartes ★ soient placées directement dans le Tableau.
 Dans ce rare cas, la couleur ♠ sera atout.
 
 
