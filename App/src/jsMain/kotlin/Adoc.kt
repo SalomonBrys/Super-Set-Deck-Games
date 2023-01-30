@@ -45,12 +45,8 @@ fun Adoc(url: String, section: String?, page: String, filePrefix: String) {
                         link as HTMLAnchorElement
                         link.attributes["href"]?.value?.let {
                             when {
-                                it.startsWith("#") -> {
-                                    link.href = "#$page?section=${it.removePrefix("#")}"
-                                }
-                                !it.startsWith("/") && "://" !in it -> {
-                                    link.href = "$filePrefix/${it}"
-                                }
+                                it.startsWith("#") -> link.href = "#$page?section=${it.removePrefix("#")}"
+                                !it.startsWith("/") && "://" !in it -> link.href = "$filePrefix/${it}"
                             }
                         }
                     }

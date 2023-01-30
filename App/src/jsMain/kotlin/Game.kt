@@ -107,6 +107,89 @@ private fun GameRules(game: Game, section: String?) {
     )
 }
 
+
+@Composable
+fun RefViewer(
+    game: Game,
+    focusRefId: String,
+    onRefChange: (String?) -> Unit
+) {
+    P({
+        style {
+            position(Position.Absolute)
+            top(0.2.em)
+            right(0.2.em)
+            fontWeight(900)
+            color(Color.white)
+            fontSize(3.em)
+            cursor("pointer")
+            property("z-index", "12")
+            padding(0.em)
+            margin(0.em)
+        }
+        onClick { onRefChange(null) }
+    }) {
+        Text("×")
+    }
+    val references = remember(game) { game.references.sorted() }
+    Div({
+        style {
+            width(100.percent)
+            height(100.percent)
+            overflowX("scroll")
+            overflowY("hidden")
+        }
+    }) {
+        var isPortrait by remember { mutableStateOf(window.innerHeight >= window.innerWidth) }
+        DisposableEffect(null) {
+            val onResize = EventListener {
+                isPortrait = window.innerHeight >= window.innerWidth
+            }
+            window.addEventListener("resize", onResize)
+            onDispose { window.removeEventListener("resize", onResize) }
+        }
+        val imgWidth = if (isPortrait || references.size == 1) 100.vw else 50.vw
+        val imgSep = if (isPortrait) 50 else 0
+
+        var counter by remember { mutableStateOf(0) }
+        DisposableEffect(focusRefId, counter) {
+            val index = references.indexOf(focusRefId)
+            scopeElement.scrollTo(ScrollToOptions(
+                left = (index * (window.innerWidth + imgSep)).toDouble(),
+                behavior = if (counter == 0) ScrollBehavior.INSTANT else ScrollBehavior.SMOOTH
+            ))
+            onDispose {}
+        }
+        Div({
+            style {
+                width(game.references.size * imgWidth + (game.references.size - 1) * imgSep.px)
+                height(100.percent)
+                display(DisplayStyle.Flex)
+                flexDirection(FlexDirection.Row)
+                flexWrap(FlexWrap.Nowrap)
+                justifyContent(JustifyContent.SpaceBetween)
+                overflow("hidden")
+            }
+        }) {
+            for (ref in references) {
+                Img(src = "games/${game.id}/R-$ref.png") {
+                    style {
+                        width(imgWidth)
+                        height(100.vh)
+                        property("object-fit", "contain")
+                        transform { scale(1.06) }
+                        property("z-index", "11")
+                    }
+                    onClick {
+                        onRefChange(ref)
+                        ++counter
+                    }
+                }
+            }
+        }
+    }
+}
+
 @Composable
 fun GameReferences(game: Game) {
     var focusRefId: String? by remember { mutableStateOf(null) }
@@ -181,6 +264,41 @@ fun GameReferences(game: Game) {
             }
         }
     }
+}
+
+@Composable
+fun ShareQRCodeDialog(game: Game, isDialogOpen: Boolean, setDialogOpen: (Boolean) -> Unit) {
+    MDCDialog(
+        open = isDialogOpen,
+        attrs = {
+            onOpened { setDialogOpen(true) }
+            onClosed { setDialogOpen(false) }
+        }
+    ) {
+        Title(game.name)
+        Content {
+            Canvas({
+                style {
+                    width(100.percent)
+                    property("aspect-ratio", "1")
+                }
+            }) {
+                DisposableEffect(isDialogOpen, game) {
+                    if (!isDialogOpen) return@DisposableEffect onDispose {}
+                    val options = js("({})").unsafeCast<QrCodeOptions>().apply {
+                        width = scopeElement.width
+                        height = scopeElement.height
+                    }
+                    qrcode.toCanvas(scopeElement, "https://super-set-deck.games/#/game/${game.id}", options)
+                    onDispose {}
+                }
+            }
+        }
+        Actions {
+            Action("close") { Text(LocalLang.current.Close) }
+        }
+    }
+
 }
 
 @Composable
@@ -307,119 +425,11 @@ fun RouteBuilder.Game(game: Game?, langMenu: LangMenu) {
         }
     }
 
-    MDCDialog(
-        open = shareDialogOpen,
-        attrs = {
-            onOpened { shareDialogOpen = true }
-            onClosed { shareDialogOpen = false }
-        }
-    ) {
-        Title(game?.name ?: "")
-        Content {
-            Canvas({
-                style {
-                    width(100.percent)
-                    property("aspect-ratio", "1")
-                }
-            }) {
-                DisposableEffect(shareDialogOpen, game) {
-                    if (!shareDialogOpen) return@DisposableEffect onDispose {}
-                    game?.id?.let {
-                        val options = js("({})").unsafeCast<QrCodeOptions>().apply {
-                            width = scopeElement.width
-                            height = scopeElement.height
-                        }
-                        qrcode.toCanvas(scopeElement, "https://super-set-deck.games/#/game/$it", options)
-                    }
-                    onDispose {}
-                }
-            }
-        }
-        Actions {
-            Action("close") { Text(LocalLang.current.Close) }
-        }
-    }
-
-}
-
-@Composable
-fun RefViewer(
-    game: Game,
-    focusRefId: String,
-    onRefChange: (String?) -> Unit
-) {
-    P({
-        style {
-            position(Position.Absolute)
-            top(0.2.em)
-            right(0.2.em)
-            fontWeight(900)
-            color(Color.white)
-            fontSize(3.em)
-            cursor("pointer")
-            property("z-index", "12")
-            padding(0.em)
-            margin(0.em)
-        }
-        onClick { onRefChange(null) }
-    }) {
-        Text("×")
-    }
-    val references = remember(game) { game.references.sorted() }
-    Div({
-        style {
-            width(100.percent)
-            height(100.percent)
-            overflowX("scroll")
-            overflowY("hidden")
-        }
-    }) {
-        var isPortrait by remember { mutableStateOf(window.innerHeight >= window.innerWidth) }
-        DisposableEffect(null) {
-            val onResize = EventListener {
-                isPortrait = window.innerHeight >= window.innerWidth
-            }
-            window.addEventListener("resize", onResize)
-            onDispose { window.removeEventListener("resize", onResize) }
-        }
-        val imgWidth = if (isPortrait || references.size == 1) 100.vw else 50.vw
-        val imgSep = if (isPortrait) 50 else 0
-
-        var counter by remember { mutableStateOf(0) }
-        DisposableEffect(focusRefId, counter) {
-            val index = references.indexOf(focusRefId)
-            scopeElement.scrollTo(ScrollToOptions(
-                left = (index * (window.innerWidth + imgSep)).toDouble(),
-                behavior = if (counter == 0) ScrollBehavior.INSTANT else ScrollBehavior.SMOOTH
-            ))
-            onDispose {}
-        }
-        Div({
-            style {
-                width(game.references.size * imgWidth + (game.references.size - 1) * imgSep.px)
-                height(100.percent)
-                display(DisplayStyle.Flex)
-                flexDirection(FlexDirection.Row)
-                flexWrap(FlexWrap.Nowrap)
-                justifyContent(JustifyContent.SpaceBetween)
-                overflow("hidden")
-            }
-        }) {
-            for (ref in references) {
-                Img(src = "games/${game.id}/R-$ref.png") {
-                    style {
-                        width(imgWidth)
-                        height(100.vh)
-                        property("object-fit", "contain")
-                        transform { scale(1.06) }
-                        property("z-index", "11")
-                    }
-                    onClick {
-                        onRefChange(ref)
-                        ++counter
-                    }
-                }
-            }
-        }
+    game?.let { g ->
+        ShareQRCodeDialog(
+            game = g,
+            isDialogOpen = shareDialogOpen,
+            setDialogOpen = { shareDialogOpen = it }
+        )
     }
 }

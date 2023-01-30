@@ -32,7 +32,6 @@ fun RouteBuilder.Home(games: List<Game>?, langMenu: LangMenu, page: Page?) {
     val router = Router.current
 
     var isDrawerOpen: Boolean by remember { mutableStateOf(false) }
-//    var page: Page? by remember { mutableStateOf(null) }
 
     MDCDrawer(
         open = isDrawerOpen,
@@ -147,30 +146,6 @@ fun RouteBuilder.Home(games: List<Game>?, langMenu: LangMenu, page: Page?) {
                         }
                         null -> {}
                     }
-//                    route("packer") {
-//                        SideEffect { page = Page.Packer }
-//                        if (games == null) {
-//                            Loader()
-//                        } else {
-//                            Packer(games)
-//                        }
-//                    }
-//                    string {
-//                        SideEffect { router.navigate("/") }
-//                    }
-//                    noMatch {
-//                        SideEffect { page = Page.Games }
-//                        if (games == null) {
-//                            Loader()
-//                        } else {
-//                            GamesList(
-//                                games = games,
-//                                playerCount = parameters?.map?.get("playerCount")?.firstOrNull()?.toIntOrNull() ?: 0,
-//                                gameType = parameters?.map?.get("gameType")?.firstOrNull(),
-//                                favorites = parameters?.map?.get("favorites")?.firstOrNull() == "1"
-//                            )
-//                        }
-//                    }
                 }
 
             }

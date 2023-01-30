@@ -407,8 +407,6 @@ private fun PackerGameCards(packs: List<Pack>) {
                         }
                         Span({
                             style {
-//                                display(DisplayStyle.InlineBlock)
-//                                paddingLeft(0.1.em)
                                 fontSize(2.5.em)
                             }
                         }) {

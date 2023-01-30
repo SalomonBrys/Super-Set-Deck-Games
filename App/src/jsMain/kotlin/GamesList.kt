@@ -211,6 +211,41 @@ private fun GamesListFilters(games: List<Game>, playerCount: Int, gameType: Stri
 }
 
 @Composable
+fun Welcome() {
+    val router = Router.current
+    var about by remember { mutableStateOf(Cookies["first-time"]) }
+    MDCDialog(
+        open = about == null,
+        attrs = {
+            onClosed {
+                about = it.detail.action
+            }
+        },
+        scrimClickAction = ""
+    ) {
+        Title(LocalLang.current.Welcome)
+        Content {
+            Text(LocalLang.current.FirstTime)
+            Br()
+            Text(LocalLang.current.GoToAbout)
+        }
+        Actions {
+            Action(action = "goTo", text = LocalLang.current.GoToAboutYes)
+            Action(action = "close", text = LocalLang.current.GoToAboutNo)
+        }
+    }
+    LaunchedEffect(about) {
+        if (about != null) {
+            Cookies.set("first-time", "done", 365.days)
+        }
+        if (about == "goTo") {
+            router.navigate("/about")
+        }
+    }
+
+}
+
+@Composable
 fun GamesList(games: List<Game>, playerCount: Int, gameType: String?, favorites: Boolean) {
     GamesListFilters(games, playerCount, gameType, favorites)
 
@@ -270,33 +305,5 @@ fun GamesList(games: List<Game>, playerCount: Int, gameType: String?, favorites:
         }
     }
 
-    var about by remember { mutableStateOf(Cookies["first-time"]) }
-    MDCDialog(
-        open = about == null,
-        attrs = {
-            onClosed {
-                about = it.detail.action
-            }
-        },
-        scrimClickAction = ""
-    ) {
-        Title("Welcome!")
-        Content {
-            Text("It looks like it is the first time you are visiting this website.")
-            Br()
-            Text("Do you want to learn how to use it?")
-        }
-        Actions {
-            Action(action = "goTo", text = "Yes, take me to the learning documentation!")
-            Action(action = "close", text = "No thanks, I know my way around :)")
-        }
-    }
-    LaunchedEffect(about) {
-        if (about != null) {
-            Cookies.set("first-time", "done", 365.days)
-        }
-        if (about == "goTo") {
-            router.navigate("/about")
-        }
-    }
+    Welcome()
 }

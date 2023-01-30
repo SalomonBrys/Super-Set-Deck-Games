@@ -30,6 +30,11 @@ data class Lang(
     val Back: String,
     val Language: String,
     val Menu: String,
+    val Welcome: String,
+    val FirstTime: String,
+    val GoToAbout: String,
+    val GoToAboutYes: String,
+    val GoToAboutNo: String,
 
     val gameTypes: Map<String, String> = emptyMap(),
     val cardNames: Map<String, String> = emptyMap()
@@ -66,6 +71,11 @@ val langs = mapOf(
         Back = "Back",
         Language = "Language",
         Menu = "Menu",
+        Welcome = "Welcome!",
+        FirstTime = "It looks like it is the first time you are visiting this website.",
+        GoToAbout = "Do you want to learn how to use it?",
+        GoToAboutYes = "Yes, take me to the learning documentation!",
+        GoToAboutNo = "No thanks, I know my way around :)",
     ),
 
     "fr" to Lang(
@@ -96,6 +106,11 @@ val langs = mapOf(
         Back = "Retour",
         Language = "Langue",
         Menu = "Menu",
+        Welcome = "Bienvenue !",
+        FirstTime = "Il semblerait que ce soit votre première visite sur ce site.",
+        GoToAbout = "Voulez vous apprendre à l'utiliser ?",
+        GoToAboutYes = "Oui, montrez-moi la documentation !",
+        GoToAboutNo = "Non merci, je sais ce que je fais :)",
 
         gameTypes = mapOf(
             "Auction" to "Enchères",
