@@ -8,6 +8,7 @@ A game by Reiner Knizia, adapted from Roll & Write by Salomon BRYS.
 .Components
 ****
 * 60 numbered cards: 1-10 in ♠, ♥, ♣, ♦, ✿ & ★.
+* 1 Monkey King first player card.
 * As much link:Boards.pdf[game sheets] as there are players.
 ****
 
@@ -52,7 +53,11 @@ Each of you will receive one link:Boards.pdf[*game sheet*].
 
 Place your game sheet in front of you so that all other players can easily see it during the game.
 
-Shuffle the cards and place them face down on the table.
+Give the first player card to a random player.
+That player will be the first player to take their turn.
+
+Shuffle the cards and create a draw deck of 24 random cards.
+Discard the other cards without looking at them.
 
 Each player should have a pen.
 
@@ -173,6 +178,13 @@ This is the most exciting way to play, as everyone has an understanding of their
 ====
 
 
+=== Continue play
+
+Discard all four drawn cards.
+
+If the draw deck is now empty, shuffle all cards, and create a new draw deck of 24 random cards.
+
+
 == End of Game and Scoring
 
 If a player circles the ninth (last) card passing symbol on the right side of their game sheet, they are "exhausted".
@@ -181,13 +193,17 @@ However, the player continues to play the game.
 
 Once you have circled your last card passing symbol, you will receive 0 points for this column.
 
-*The game ends when at the end of a turn:*
+*The game end triggers when at the end of a turn:*
 
 * either all players are "exhausted"
 * or all eight bridges have been passed.
 The bridges may have been passed by different players.
 
-Each player now tallies their score as follows:
+Continue play until every player has had the same number of turn.
+
+CAUTION: Once the game end has been triggered, players can pass (as before) but *do not circle card passing symbols* when doing so.
+
+After the player to the right of the first player has taken their last turn, each player now tallies their score as follows:
 
 
 === Scoring expeditions

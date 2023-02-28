@@ -8,7 +8,8 @@ Un jeu de Reiner Knizia, adapté du Roll & Write par Salomon BRYS.
 
 .Components
 ****
-* 60 numbered cards: 1-10 in ♠, ♥, ♣, ♦, ✿ & ★.
+* 60 cartes numérotées: 1-10 in ♠, ♥, ♣, ♦, ✿ & ★.
+* 1 carte premier joueur Roi Singe.
 * Autant de link:Boards.pdf[feuilles de jeux] que de joueurs.
 ****
 
@@ -51,9 +52,11 @@ Si vous encerclez le ×2 au bas d'une expédition, les points de cette expéditi
 
 Chacun de vous reçoit une link:Boards.pdf[*feuille de jeu*].
 
-Placez votre feuille de jeu devant vous, de manière que chaque autres joueurs puisse facilement la voir pendant la partie.
+Donnez la carte premier joueur à un joueur aléatoire.
+Ce joueur sera le premier à jouer son tour.
 
-Mélangez les cartes et placez-les face cachée sur la table.
+Mélangez les cartes et créez un paquet de 24 cartes aléatoires.
+Défaussez les autres cartes sans les regarder.
 
 Chaque joueur devrait avoir un crayon.
 
@@ -175,6 +178,13 @@ C'est la manière la plus excitante de jouer, permettant à tous de comprendre l
 ====
 
 
+=== Continuer le jeu
+
+Défaussez les quatre cartes révélées.
+
+Si le paquet est maintenant vide, mélangez toutes les cartes et creez un nouveau paquet de 24 cartes.
+
+
 == Fin de partie et scores
 
 Si un joueur encercle le neuvième symbole de "passe" dans la colonne de droite de sa feuille de jeu, il est "épuisé".
@@ -183,13 +193,17 @@ Il continue cependant à jouer normalement.
 
 Une fois que vous avez encerclé le dernier symbole de "passe", vous recevrez 0 points pour cette colonne.
 
-*Le jeu se termine à la fin d'un tour lorsque :*
+*La fin du jeu est déclenchée à la fin d'un tour lorsque :*
 
 * les joueurs sont soit tous "épuisés",
 * ou les huit ponts bonus ont été franchis.
 Les ponts peuvent avoir été franchis par différents joueurs.
 
-Chaque joueur additionne maintenant son score ainsi:
+Continuez à jouer jusqu'à ce que chaque joueur ait joué le même nombre de tours.
+
+CAUTION: Une fois la fin du jeu déclenchée, les joueurs peuvent passer (comme avant) mais *n'encerclent pas de symboles de passe* lorsqu'ils le font.
+
+Après que le joueur à droite du premier joueur a joué son dernier tour, chaque joueur additionne maintenant son score ainsi :
 
 
 === Scores des expéditions
