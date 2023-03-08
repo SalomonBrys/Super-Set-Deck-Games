@@ -1,0 +1,13 @@
+type:
+  - Cooperative
+  - Hand Management
+players: 1, 2, 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: K*2, 1-8
+      hearts: K*2, 1-8
+      clubs: K*2, 1-8
+      diamonds: K*2, 1-8
+      florettes: K*2, 1-8
+      specials: Phoenix*3

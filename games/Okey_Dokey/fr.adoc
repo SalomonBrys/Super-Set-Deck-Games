@@ -1,0 +1,275 @@
+= Oki Doki
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Hisashi Hayashi.
+
+.Matériel
+****
+* 40 cartes Chiffre : 1-8 à ♠, ♥, ♣, ♦ & ✿.
+* 10 cartes Reset : 2 K à ♠, ♥, ♣, ♦ & ✿.
+* 3 Phénix.
+****
+
+Vous vous êtes toutes et tous réunis pour organiser un festival de musique spectaculaire.
+Voix, guitares, batteries, pianos et basses de tout le pays se rassemblent pour jouer leur rôle dans cet évènement si spécial.
+Beaucoup de groupes sont venus, et chaque participant·e aura sa place dans la création de ce grand festival de musique !
+
+
+== But du jeu
+
+Oki Doki est un jeu coopératif où les joueur·euse·s ne sont pas en compétition, mais travaillent ensemble à l'objectif commun : réussir à organiser le festival.
+Les joueur·euse·s jouent chacun·e leur tour pour former un tableau de 5 par 10 cartes et créer un festival coloré.
+
+
+== Goal of the Game (in detail)
+
+L'objectif du jeu est de pouvoir jouer les 50 cartes Chiffre et Reset dans un tableau de 5 lignes par 10 colonnes.
+
+.Example
+[options="autowidth", frame=none, grid=none, cols="^,^,^,^,^,^,^,^,^,^,^"]
+|===
+h| ♠ | 2 | K | 1 | 3 | 7 | 8 | K | 4 | 5 | 6
+h| ♥ | K | 2 | 3 | 4 | 5 | 6 | 7 | 8 | K | 1
+h| ♣ | 1 | 2 | 5 | K | 3 | 4 | 6 | 7 | 8 | K
+h| ♦ | 2 | 6 | K | 7 | 8 | K | 1 | 3 | 4 | 5
+h| ✿ | 1 | 3 | 4 | 6 | K | 2 | 5 | K | 7 | 8
+|===
+
+
+== Mise en place
+
+1. Déterminez d'abord le niveau de difficulté de la partie.
+Le niveau de difficulté détermine le nombre de cartes Phénix utilisées dans la partie.
++
+[%autowidth]
+|===
+| Niveau de difficulté | Nombre de cartes Phénix
+
+| Amateur | 3
+| Standard | 2
+| Professionnel | 1
+| Maestro | 0
+|===
+
+2. Mélangez le nombre correspondant de cartes Phénix et toutes les cartes Chiffre en une pioche face cachée.
+Retournez les cartes Phénix non utilisés, elles ne seront pas utilisées dans cette partie.
+Distribuez ensuite les cartes Chiffre (avec les cartes Phénix mélangées, mais pas les cartes Reset) en fonction du nombre de joueur·euse·s.
+Le nombre de cartes que reçoit chaque joueur·euse est indiqué ici :
++
+[%autowidth]
+|===
+| Nombre de joueur·euse·s | Taille de la main de départ
+
+| 1 joueur·euse   | 10 cartes
+| 2 joueur·euse·s | 7 cartes
+| 3 joueur·euse·s | 6 cartes
+| 4 joueur·euse·s | 5 cartes
+| 5 joueur·euse·s | 4 cartes
+|===
++
+Les cartes restantes sont placées en une pioche à côte de l'aire de jeu.
+
+3. Placez les cartes Reset en créant 5 piles de chaque 2 carte K face visible en 5 colonnes :
++
+[%autowidth]
+|===
+| ♠K
+| ♥K
+| ♣K
+| ♦K
+| ✿K
+|===
+
+4. Choisissez ensemble qui sera le·la premier·e joueur·euse.
+Regardez tous votre main de cartes et décidez collégialement qui commencera.
+Une fois le jeu commencé, chacun·e joue à son tour dans le sens horaire.
+Vous êtes maintenant prêt !
+
+
+== Déroulement du jeu
+
+Le jeu continue jusqu' ce que les 50 cartes aient été placées dans le tableau.
+Chacun·e joue à son tour dans le sens horaire.
+
+CAUTION: *Exception*: Lors d'une partie a 5 joueur·euse·s, lorsque la cinquième carte d'une colonne est placée, celui·celle l'ayant placé joue immédiatement un tour supplémentaire.
+
+À son tour, un·e joueur·euse réalise l'une de ces deux actions :
+
+a. Jouer une carte Chiffre.
+b. Placer une carte Reset.
+
+Si, pendant le son tour, un·e joueur·euse n'est incapable de réaliser les deux actions (ni (a), ni (b)), la partie prend immédiatement fin sur une défaite.
+
+
+=== a. Jouer une carte Chiffre
+
+Jouez une carte chiffre dans le tableau.
+Il est possible de jouer une carte Phénix à la place d'une carte Chiffre.
+Les règles de placement des cartes Chiffre (ci-après) doivent être respectées.
+Après avoir joué une carte Chiffre, piochez une carte de la pioche, si c'est possible.
+
+
+=== b. Placer une carte Reset
+
+Choisissez une couleur et placez une carte Reset (K) de la ligne correspondante dans le tableau.
+Vous ne pouvez pas réaliser cette action s'il n'y a plus de carte Reset dans la couleur,
+Les règles de placement des cartes Reset (ci-après) doivent être respectées.
+Puis, s'il reste des cartes dans la pioche, vous pouvez défausser jusqu'à 2 cartes de votre main face cachée et les placer sous la pioche pour piocher le même nombre de cartes.
+
+
+=== Piocher des cartes
+
+Une fois la pioche épuisée vous ne pouvez plus piocher de cartes.
+
+De plus, lorsque vous jouez une carte Phénix, vous pouvez défausser une carte Chiffre de la couleur de la colonne où le Phénix a été placé.
+Placez la carte ainsi défaussée sous la carte Phénix qui vient d'être jouée.
+Une seule carte peut ainsi être défaussée par carte Phénix.
+
+Si vous n'avez plus de carte en main, passez votre tour jusqu'à la fin de la partie.
+
+
+=== Règles de placement des cartes
+
+==== Règle des colonnes
+
+Chaque carte doit être placée dans la colonne courante.
+Une nouvelle colonne ne peut être créée que si la précédente est complète.
+(c.-à-d. Vous ne pouvez placer de carte dans la colonne 2 seulement après avoir placé 5 cartes dans la colonne 1).
+
+.Example *OK* : La colonne contient 5 cartes, le 4♥ *peut* donc être placé.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 1♠ | _
+| 3♥ | <- 4♥
+| 2♣ | _
+| K♦ | _
+| 4✿ | _
+|===
+
+.Exemple *Incorrect* : La colonne ne contient que 3 cartes, le 4♥ *ne peut* donc *pas* être placé.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| _  | _
+| 3♥ | <- 4♥
+| 2♣ | _
+| K♦ | _
+| _  | _
+|===
+
+
+==== Règle des couleurs
+
+Chaque ligne ne doit contenir que des cartes de la même couleur.
+De plus, il ne peut y avoir qu'une ligne par couleur.
+(Par exemple, même si une carte Reset est placée dans la première colonne de la première ligne, les cartes suivantes doivent tout de même être à ♠).
+
+.Exemple *OK* : Le 4♥ *peut* être placé, car il est de la même couleur.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 2♠ | _
+| 3♥ | <- 4♥
+| K♣ | _
+| 1♦ | _
+| 4✿ | _
+|===
+
+.Exemple *Incorrect* : Le 4♥ *ne peut pas* être placé dans cette ligne.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 2♠ | <- 4♥
+| 3♥ | _
+| K♣ | _
+| 1♦ | _
+| 4✿ | _
+|===
+
+
+==== Règle des chiffres
+
+Le chiffre des chaque carte doit être égal ou supérieur au chiffre de la carte précédente dans la ligne.
+Vous pouvez jouer une carte Reset (K) sans prendre en compte la carte précédente.
+Si une carte Reset est placée, cela revient à revenir au chiffre zéro (n'importe quelle carte chiffre peut donc être jouée à sa suite).
+
+.Exemple
+[options="autowidth", frame=none, grid=none, cols="^,^,^"]
+|===
+| ... | 6♠ | <- Vous pouvez jouer ici un 7♠, 8♠, Phénix ou K♠.
+| ... | P  | <- Vous pouvez jouer ici un n'importe quelle carte ♥, Phénix ou K♥.
+|===
+
+
+==== Règle des cartes Reset
+
+Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et 1 carte Reset (K).
+À la fin de la partie, il devrait y avoir exactement deux cartes Reset par ligne.
+
+.Exemple *OK* : Il y a exactement 1 Reset (K) dans cette colonne.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 2♠
+| 3♥
+| 4♣
+| 1♦
+| K✿
+|===
+
+.Exemple *Incorrect* : Il y a dex cartes Reset dans cette colonne.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 3♠
+| 7♥
+| K♣
+| K♦
+| 2✿
+|===
+
+.Exemple *Incorrect* : Il n'y a pas de carte Reset dans cette colonne.
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 3♠
+| 4♥
+| 8♣
+| 1♦
+| 2✿
+|===
+
+
+==== Règle des Phénix
+
+Les cartes Phénix peuvent être placées à la place de n'importe quelle carte Chiffre.
+Lorsqu'une carte Phénix est jouée, le chiffre de cette carte Phénix est le même que la carte précédente.
+Si la carte à sa gauche est une carte Reset (K), la valeur de ce Phénix est zéro.
+
+.Exemple
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| 6♠ | P <- Ce Phénix est similaire à un 6♠.
+| 2♥ |
+| An | P <- Ce Phénix est similaire à un 0♣.
+| 3♦ |
+| 1✿ |
+|===
+
+
+== Fin du jeu
+
+Lorsque les 50 cartes ont été placées dans le tableau et que les 10 colonnes ont été remplie, les joueur·euse·s remportent la partie.
+Si cela ne peut être accompli, tout le monde a perdu la partie.
+
+
+== Discussion entre les joueur·euse·s
+
+Vous ne pouvez pas montrer votre main.
+Vous ne pouvez pas dire ou sous-entendre les valeurs des cartes dans votre main.
+Cependant, vous pouvez révéler combien de carte vous détenez dans une couleur.
+Vous pouvez également suggérer la couleur dans laquelle vous aimeriez pouvoir jouer.
+
+
+== Conseils
+
+* Pour chaque colonne, il peut être utile de discuter qui va jouer quelle couleur, et qui va jouer la carte Reset.
+* Les cartes de valeur 1 ne peuvent être placées que dans la première colonne ou à la suite d'une carte Reset (K), essayez donc de les jouer au plus tôt.
+* À part dans la colonne 10, évitez de placer le chiffre 8 deux fois dans la même colonne.
