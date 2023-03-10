@@ -15,6 +15,8 @@ A game by Stefan Dorra.
 ** 5 trick value cards: 1-4 & -‽ in ★
 * 1 bonus card: ★×2
 * 12 character cards: 2 Butterflies, 2 Wolves, 2 Phoenixes, 2 Snakes, 2 Dragons & 2 Monkeys.
+
+TIP: Instead of using Nyet! cards, you can play using a link:Nyet-Board.pdf[board] & tokens to block items on it.
 ****
 
 Players are split into 2 teams that each try to score points by taking tricks.

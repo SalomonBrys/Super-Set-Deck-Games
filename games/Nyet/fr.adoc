@@ -16,6 +16,8 @@ Un jeu de Stefan Dorra.
 ** 5 cartes valeur de pli : 1-4 & -‽ à ★
 * 1 carte bonus : ×2★
 * 12 cartes personnage : 2 Papillons, 2 Loups, 2 Phénix, 2 Serpents, 2 Dragons & 2 Singes.
+
+TIP: Au lieu d'utiliser les cartes "Niet !", vous pouvez jouer avec un link:Nyet-Board.pdf[plateau] & des jetons pour y cacher les éléments.
 ****
 
 Les joueurs sont répartis en 2 équipes qui tentent chacune de remporter des plis et ainsi de marquer des points.
