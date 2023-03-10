@@ -287,18 +287,23 @@ stem:[116 - 40 = +76] +
 The Preneur scores stem:[76 * 3 = +228] and each Defender scores stem:[-76].
 
 * The Preneur fails Prise by 7 after having presented a Poignée of 10 Trumps, but achieving Petit au bout. +
-stem:[25 + 7 + 20_"poignée" - 10_"petit au bout" = 42]. +
+stem:[25 + 7 + 20_"poignée"] +
+stem:[- 10_"petit au bout" = 42]. +
 Each Defender scores stem:[+42] and the Preneur scores stem:[-42 x 3 = -126].
 
 * The Preneur wins Garde by 11.
 The Defense presented a Poignée. +
-stem:[(25 + 11) x 2_"Garde" = 72 + 20_"poignée paid by the defense" = 92]. +
+stem:[(25 + 11) * 2_"garde" = 72] +
+stem:[+ 20_"poignée payée par la défense" = 92]. +
 The Preneur scores stem:[+276] and each Defender scores stem:[-92].
 
 * On a Garde, the Preneur announces and achieves Chelem, shows a Poignée of 10 Trumps and achieves Petit au bout.
 The Defense retains the Butterfly with which they started.
 With 2 Bouts, the Preneur wins by stem:[87 - 41 = 46] points. +
-He earns stem:[(46 + 25) * 2_"garde" + 20_"poignée" + 20_"petit au bout" + 400_"announced Chelem" = 582]. +
+He earns
+stem:[(46 + 25) * 2_"garde" + 20_"poignée"] +
+stem:[+ 20_"petit au bout" + 400_"chelem annoncé"] +
+stem:[= 582]. +
 Each Defender scores stem:[-582].
 The Taker scores stem:[+582 * 3 = +1746].
 ====

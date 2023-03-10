@@ -97,12 +97,25 @@ The opponents can turn over the Strategy card once either partnership takes at l
 ** if the Captain’s team took exactly 5 total point cards, the round is a *draw*.
 --
 +
-[options=autowidth,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+[options=autowidth,cols="^.^,^.^,^.^,^.^"]
 |===
-.2+h| Captain's team  5+h| Win                        h| Draw   9+|
-                         | *0* | *1* | *2* | *3* | *4* | _5_      | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14
-.2+h| Opposing team      | 14  | 13  | 12  | 11  | 10  | _9_      | *8* | *7* | *6* | *5* | *4* | *3* | *2* | *1* | *0*
-                       5+|                            h| Draw  9+h| Win
+2.+| Captain's team 2.+| Opposing team
+
+.5+h| Win | *0* | 14 .5+|
+| *1* | 13
+| *2* | 12
+| *3* | 11
+| *4* | 10
+h| Draw | _5_ | _9_ h| Draw
+.9+| | 6 | *8*  .9+h| Win
+| 7 | *7*
+| 8 | *6*
+| 9 | *5*
+| 10 | *4*
+| 11 | *3*
+| 12 | *2*
+| 13 | *1*
+| 14 | *0*
 |===
 
 * If the Captain’s team chose the *Wolf*:
@@ -113,12 +126,25 @@ The opponents can turn over the Strategy card once either partnership takes at l
 ** if the Captain’s team took exactly 9 total point cards, the round is a draw.
 --
 +
-[options=autowidth,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+[options=autowidth,cols="^.^,^.^,^.^,^.^"]
 |===
-.2+h| Captain's team  9+|                                                         h| Draw  5+h| Win
-                        | 0    | 1    | 2    | 3    | 4    | 5   | 6   | 7   | 8   | _9_      | *10* | *11* | *12* | *13* | *14*
-.2+h| Opposing team     | *14* | *13* | *12* | *11* | *10* | *9* | *8* | *7* | *6* | _5_      | 4    | 3    | 2    | 1    | 0
-                     9+h| Win                                                     h| Draw   5+|
+2.+| Captain's team 2.+| Opposing team
+
+.9+| | 0 | *14*  .9+h| Win
+| 1 | *13*
+| 2 | *12*
+| 3 | *11*
+| 4 | *10*
+| 5 | *9*
+| 6 | *8*
+| 7 | *7*
+| 8 | *6*
+h| Draw | _9_ | _5_ h| Draw
+.5+h| Win | *10* | 4 .5+|
+| *11* | 3
+| *12* | 2
+| *13* | 1
+| *14* | 0
 |===
 
 

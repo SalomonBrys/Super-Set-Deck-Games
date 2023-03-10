@@ -60,17 +60,21 @@ There are 7 suits (colors) with 7 cards in each suit.
 
 Each suit has different range of card values.
 
-[%autowidth,role="big-table"]
+[%autowidth,cols="^,^,^,^,^,^,^,^"]
 |===
-| A | 2 | 3 | 4 | 5 | 6 | K | 8 | 9 | 10 | 11 | 12 | 13
-
-| ★ | ★ | ★ | ★ | ★ | ★ | ★ |   |   |    |    |    |
-|   | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ | ⎈ |   |    |    |    |
-|   |   | ✿ | ✿ | ✿ | ✿ | ✿ | ✿ | ✿ |    |    |    |
-|   |   |   | ♦ | ♦ | ♦ | ♦ | ♦ | ♦ | ♦  |    |    |
-|   |   |   |   | ♣ | ♣ | ✿ | ✿ | ✿ | ✿  | ✿  |    |
-|   |   |   |   |   | ♥ | ♥ | ♥ | ♥ | ♥  | ♥  | ♥  |
-|   |   |   |   |   |   | ♠ | ♠ | ♠ | ♠  | ♠  | ♠  | ♠
+h| A  | ★ |   |   |   |   |   |
+h| 2  | ★ | ⎈ |   |   |   |   |
+h| 3  | ★ | ⎈ | ✿ |   |   |   |
+h| 4  | ★ | ⎈ | ✿ | ♦ |   |   |
+h| 5  | ★ | ⎈ | ✿ | ♦ | ♣ |   |
+h| 6  | ★ | ⎈ | ✿ | ♦ | ♣ | ♥ |
+h| K  | ★ | ⎈ | ✿ | ♦ | ♣ | ♥ | ♠
+h| 8  |   | ⎈ | ✿ | ♦ | ♣ | ♥ | ♠
+h| 9  |   |   | ✿ | ♦ | ♣ | ♥ | ♠
+h| 10 |   |   |   | ♦ | ♣ | ♥ | ♠
+h| 11 |   |   |   |   | ♣ | ♥ | ♠
+h| 12 |   |   |   |   |   | ♥ | ♠
+h| 13 |   |   |   |   |   |   | ♠
 |===
 
 The *K* card in each suit is a special card called Boss Yokai, and *has a value of 7*.

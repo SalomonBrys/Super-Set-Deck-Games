@@ -101,17 +101,30 @@ Le jeu se termine après six manches, à moins que les joueurs se mettent d'acco
 
 Tous les joueurs qui n'ont reçu aucune carte ★ à la fin d'une manche reçoivent un nombre de points dépendant du nombre de joueurs et du nombre de fois où ils ont déjà reçu les points de chance du perdant.
 
-[%autowidth,cols="^h,^,^,^,^"]
+[%autowidth,cols="^h,^,^"]
 |===
-| # rounds | 3 joueurs      | 4 joueurs     | 5 joueurs     | 6 joueurs
+| # rounds | 3 joueurs      | 4 joueurs
 
-| 1        | stem:[1*12=12] | stem:[1*8=12] | stem:[1*8=12] | stem:[1*7=12]
-| 2        | stem:[2*12=24] | stem:[2*8=16] | stem:[2*8=16] | stem:[2*7=14]
-| 3        | stem:[3*12=36] | stem:[3*8=24] | stem:[3*8=24] | stem:[3*7=21]
-| 4        | stem:[4*12=48] | stem:[4*8=32] | stem:[4*8=32] | stem:[4*7=28]
-| 5        | stem:[5*12=60] | stem:[5*8=40] | stem:[5*8=40] | stem:[5*7=35]
-| 6        | stem:[6*12=72] | stem:[6*8=48] | stem:[6*8=48] | stem:[6*7=42]
-| ...      | stem:[...*12]  | stem:[...*8]  | stem:[...*8]  | stem:[...*7]
+| 1        | stem:[1*12=12] | stem:[1*8=12]
+| 2        | stem:[2*12=24] | stem:[2*8=16]
+| 3        | stem:[3*12=36] | stem:[3*8=24]
+| 4        | stem:[4*12=48] | stem:[4*8=32]
+| 5        | stem:[5*12=60] | stem:[5*8=40]
+| 6        | stem:[6*12=72] | stem:[6*8=48]
+| ...      | stem:[...*12]  | stem:[...*8]
+|===
+
+[%autowidth,cols="^h,^,^"]
+|===
+| # rounds | 5 joueurs     | 6 joueurs
+
+| 1        | stem:[1*8=12] | stem:[1*7=12]
+| 2        | stem:[2*8=16] | stem:[2*7=14]
+| 3        | stem:[3*8=24] | stem:[3*7=21]
+| 4        | stem:[4*8=32] | stem:[4*7=28]
+| 5        | stem:[5*8=40] | stem:[5*7=35]
+| 6        | stem:[6*8=48] | stem:[6*7=42]
+| ...      | stem:[...*8]  | stem:[...*7]
 |===
 
 .4 joueurs
@@ -120,7 +133,9 @@ Un joueur reçoit 9 points à la manche 1.
 Lors des 3 manches suivantes, il ne remporte aucune carte ★.
 Lors de la 5^ème^ manche, il reçoit 13 points et à ne remporte aucune carte ★ à la dernière manche.
 
-Après la 6^ème^ manche, il reçoit donc stem:[9 + (1*8) + (2*8) + (3*8) + 13 + (4*8) = 102] points.
+Après la 6^ème^ manche, il reçoit donc
+stem:[9 + (1*8) + (2*8) + (3*8)].
+stem:[+ 13 + (4*8) = 102] points.
 ====
 
 

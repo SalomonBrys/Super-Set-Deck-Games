@@ -48,5 +48,5 @@
   ],
   "display": "standalone",
   "background_color": "#ffa726",
-  "orientation": "portrait-primary"
+  "orientation": "any"
 }

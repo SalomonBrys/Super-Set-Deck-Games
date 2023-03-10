@@ -71,7 +71,6 @@ Players play cards one by one in accordance with the rules to a 5 by 10 grid to 
 <p>The goal of the game is to be able to play all 50 Number and Reset (K) cards to a grid of 5 rows by 10 columns</p>
 </div>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 1. Example</caption>
 <colgroup>
 <col>
 <col>
@@ -348,8 +347,11 @@ Only one card may be discarded per Phoenix card.</p>
 Only when columns are complete can a new column be created.
 (e.g. Only after placing 5 cards in column 1 can you place a card in column 2).</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>OK example</strong>: The column has 5 cards, so the ♥4 <strong>can</strong> be placed.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 2. <strong>OK</strong> example: The column has 5 cards, so the ♥4 <strong>can</strong> be placed.</caption>
 <colgroup>
 <col>
 <col>
@@ -377,8 +379,10 @@ Only when columns are complete can a new column be created.
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p>.<strong>Error example</strong>: The column only has 3 cards, so the ♥4 <strong>cannot</strong> be placed.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 3. <strong>Error</strong> example: The column only has 3 cards, so the ♥4 <strong>cannot</strong> be placed.</caption>
 <colgroup>
 <col>
 <col>
@@ -406,6 +410,9 @@ Only when columns are complete can a new column be created.
 </tr>
 </tbody>
 </table>
+</li>
+</ul>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_colour_placement_rules">Colour Placement Rules</h4>
@@ -414,8 +421,11 @@ Only when columns are complete can a new column be created.
 In addition, there is exactly only one row for each colour.
 (For example, even if a Reset card is placed in the first column of the first row, all subsequent cards still have to be ♠).</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>OK example</strong>: Same colour, so the ♥4 <strong>can</strong> be placed.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 4. <strong>OK</strong> example: Same colour, so the ♥4 <strong>can</strong> be placed.</caption>
 <colgroup>
 <col>
 <col>
@@ -443,8 +453,10 @@ In addition, there is exactly only one row for each colour.
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p><strong>Error example</strong>: Different colour, so the ♥4 <strong>cannot</strong> be placed.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 5. <strong>Error</strong> example: Different colour, so the ♥4 <strong>cannot</strong> be placed.</caption>
 <colgroup>
 <col>
 <col>
@@ -472,6 +484,9 @@ In addition, there is exactly only one row for each colour.
 </tr>
 </tbody>
 </table>
+</li>
+</ul>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_number_placement_rules">Number Placement Rules</h4>
@@ -480,8 +495,11 @@ In addition, there is exactly only one row for each colour.
 You may play a Reset (K) card regardless of the number of the previous card.
 If a Reset card is placed, it is equivalent to resetting the number to zero (i.e. any card number may be subsequently played).</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Example</strong>.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 6. Example</caption>
 <colgroup>
 <col>
 <col>
@@ -500,6 +518,9 @@ If a Reset card is placed, it is equivalent to resetting the number to zero (i.e
 </tr>
 </tbody>
 </table>
+</li>
+</ul>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_reset_placement_rules">Reset Placement Rules</h4>
@@ -507,8 +528,11 @@ If a Reset card is placed, it is equivalent to resetting the number to zero (i.e
 <p>In every column of 5 cards, there must be exactly 4 Number cards and 1 Reset (K) card.
 At the end of the game, there should be exactly two Reset cards per row.</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>OK example</strong>: There is exactly 1 Reset (K) in this column.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 7. <strong>OK</strong> example: There is exactly 1 Reset (K) in this column.</caption>
 <colgroup>
 <col>
 <col>
@@ -524,8 +548,10 @@ At the end of the game, there should be exactly two Reset cards per row.</p>
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p><strong>Error example</strong>: There are 2 or more Reset cards in this column.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 8. <strong>Error</strong> example: There are 2 or more Reset cards in this column.</caption>
 <colgroup>
 <col>
 <col>
@@ -541,8 +567,10 @@ At the end of the game, there should be exactly two Reset cards per row.</p>
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p><strong>Error example</strong>: There are no Reset cards in this column.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 9. <strong>Error</strong> example: There are no Reset cards in this column.</caption>
 <colgroup>
 <col>
 <col>
@@ -558,6 +586,9 @@ At the end of the game, there should be exactly two Reset cards per row.</p>
 </tr>
 </tbody>
 </table>
+</li>
+</ul>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_phoenix_placement_rules">Phoenix Placement Rules</h4>
@@ -566,8 +597,11 @@ At the end of the game, there should be exactly two Reset cards per row.</p>
 When a Phoenix card is played, the value of the Phoenix card is the same as the card to its left.
 If the card to the left is a Reset (K) card, then the value of the Phoenix is zero.</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Example</strong>.</p>
 <table class="tableblock frame-none grid-none fit-content">
-<caption class="title">Table 10. Example</caption>
 <colgroup>
 <col>
 <col>
@@ -595,6 +629,9 @@ If the card to the left is a Reset (K) card, then the value of the Phoenix is ze
 </tr>
 </tbody>
 </table>
+</li>
+</ul>
+</div>
 </div>
 </div>
 </div>

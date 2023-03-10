@@ -32,17 +32,29 @@ Create the path in the center of the table.
 Place all K cards face down: they are empty spaces on the path.
 Place all ⎈ cards face up (*their value does not matter*): they are trump spaces on the path.
 
-[%autowidth,cols=">,^,^,^,^,^,^,^,^,^,^,^"]
+.From **S**tart to **F**inish
+[%autowidth,cols="^,^,^,^,^,^,^"]
 |===
-2+| Start -> | __ | __ | ⎈ | __ | __ | ⎈ | __ | __ | __ | ⎈
-11.4+^.^| -> Trumps Line                                | __
-                                                        | __
-                                                        | __
-                                                        | __
-| End <-   | __ | ⎈ | __ | __ | ⎈ | __ | | __ | __ | __ | ⎈
+h| ⎈ h| _ h| _ h| _ h| _ h| ⎈ .4+|
+h| _
+4.11+.^| Trumps +
+Line
+h| _
+h| _ h| _
+h| _ h| _
+h| ⎈ .7+| h| _
+h| _ h| ⎈
+h| _ h| _
+h| ⎈ h| _
+h| _ h| ⎈
+h| _ h| _
+h| ↑ +
+*S*
+h| ↓ +
+*F*
 |===
 
-CAUTION: There is an empty interval before the six last spaces of the path to remind the players that these 6 last spaces are special.
+CAUTION: There is a gap before the six last spaces of the path to remind the players that these 6 last spaces are special.
          This empty interval is *NOT* a space on the path.
 
 Each player selects a pair of character cards, places the first in front of them and the second at the start of the path (before the first path empty space).

@@ -317,12 +317,14 @@ Le nombre de points est égal à stem:[116 - 40 = +76] +
 Chaque défenseur marque stem:[-76] et le preneur stem:[76 * 3 = +228].
 
 * Le preneur chute une Prise de 7 après avoir présenté une poignée de 10 atouts, mais en menant le petit au bout. +
-stem:[25 + 7 + 20_"poignée" - 10_"petit au bout" = 42]. +
+stem:[25 + 7 + 20_"poignée"] +
+stem:[- 10_"petit au bout" = 42]. +
 Chaque défenseur marque stem:[+42].
 Le preneur marque stem:[-42 * 3 = -126].
 
 * Le preneur gagne une garde de 11, la défense ayant présenté une poignée. +
-stem:[(25 + 11) * 2_"garde" = 72 + 20_"poignée payée par la défense" = 92]. +
+stem:[(25 + 11) * 2_"garde" = 72] +
+stem:[+ 20_"poignée payée par la défense" = 92]. +
 Le nombre de points est de stem:[+92].
 Le preneur marque stem:[+276] et chaque défenseur stem:[-92].
 
@@ -330,7 +332,9 @@ Le preneur marque stem:[+276] et chaque défenseur stem:[-92].
 La défense conserve le Papillon qu'elle possédait.
 Avec 2 bouts, le preneur réalise stem:[87] points.
 Il gagne de stem:[87 - 41 = 46]. +
-stem:[(46 + 25) * 2_"garde" + 20_"poignée" + 20_"petit au bout" + 400_"chelem annoncé" = 582]. +
+stem:[(46 + 25) * 2_"garde" + 20_"poignée"] +
+stem:[+ 20_"petit au bout" + 400_"chelem annoncé"] +
+stem:[= 582]. +
 Chaque défenseur marque stem:[-582].
 Le preneur marque stem:[+582 * 3 = +1746].
 ====

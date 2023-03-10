@@ -33,17 +33,30 @@ Créez le chemin au centre de la table.
 Placez les cartes K face cachée : ce sont des espaces vides du chemin.
 Placez les cartes ⎈ face visible (*Leur valeur n'importe pas*) : ce sont les espaces Atout du chemin.
 
-[%autowidth,cols=">,^,^,^,^,^,^,^,^,^,^,^"]
+.Du **D**épart à l'**A**rivée
+[%autowidth,cols="^,^,^,^,^,^,^"]
 |===
-2+| Départ -> | __ | __ | ⎈ | __ | __ | ⎈ | __ | __ | __ | ⎈
-11.4+^.^| -> Ligne des Atouts                            | __
-                                                         | __
-                                                         | __
-                                                         | __
-| Fin <-    | __ | ⎈ | __ | __ | ⎈ | __ | | __ | __ | __ | ⎈
+h| ⎈ h| _ h| _ h| _ h| _ h| ⎈ .4+|
+h| _
+4.11+.^| Ligne +
+des +
+atouts
+h| _
+h| _ h| _
+h| _ h| _
+h| ⎈ .7+| h| _
+h| _ h| ⎈
+h| _ h| _
+h| ⎈ h| _
+h| _ h| ⎈
+h| _ h| _
+h| ↑ +
+*D*
+h| ↓ +
+*A*
 |===
 
-CAUTION: Il y a un interval vide avant les six derniers espaces du chemin pour rappeler aux joueur·euse·s que ces 6 derniers espaces sont spéciaux.
+CAUTION: Il y a un décalage avant les six derniers espaces du chemin pour rappeler aux joueur·euse·s que ces 6 derniers espaces sont spéciaux.
          Cet interval vide n'est *PAS* un espace du chemin.
 
 Chaque joueur·euse choisis une paire de cartes personnages, place la première devant lui·elle, et la seconde au départ du chemin (avant le premier espace vide du chemin).

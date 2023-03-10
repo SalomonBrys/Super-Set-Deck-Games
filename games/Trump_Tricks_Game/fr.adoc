@@ -113,10 +113,24 @@ Le·la premier·e joueur·euse à avoir encore besoin de remporter des plis dét
 
 Après la première, seconde, et troisième manche, chaque joueur·euse marque des points en fonction de la *valeur* de ses cartes.
 
-[%autowidth]
+[%autowidth,cols="^,^"]
 |===
-h| Valeur de la carte | 1 | 2 | 3 | 4 |  5  |  6  |  7  |  8  |  9  | 10 | 11 | 12
-h| Nombre de points   |   |   |   |   | *1* | *2* | *3* | *2* | *1* |    |    |
+h| Valeur de +
+la carte
+h| Nombre +
+de points
+| 1  |
+| 2  |
+| 3  |
+| 4  |
+| 5  | *1*
+| 6  | *2*
+| 7  | *3*
+| 8  | *2*
+| 9  | *1*
+| 10 |
+| 11 |
+| 12 |
 |===
 
 Cette somme est *multipliée* par le nombre de couleurs différentes ayant fourni des points.

@@ -27,7 +27,6 @@ Players play cards one by one in accordance with the rules to a 5 by 10 grid to 
 
 The goal of the game is to be able to play all 50 Number and Reset (K) cards to a grid of 5 rows by 10 columns
 
-.Example
 [options="autowidth", frame=none, grid=none, cols="^,^,^,^,^,^,^,^,^,^,^"]
 |===
 h| ♠ | 2 | K | 1 | 3 | 7 | 8 | K | 4 | 5 | 6
@@ -138,7 +137,8 @@ Cards must be placed in the current column.
 Only when columns are complete can a new column be created.
 (e.g. Only after placing 5 cards in column 1 can you place a card in column 2).
 
-.*OK* example: The column has 5 cards, so the ♥4 *can* be placed.
+* *OK example*: The column has 5 cards, so the ♥4 *can* be placed.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠1 | _
@@ -148,7 +148,8 @@ Only when columns are complete can a new column be created.
 | ✿4 | _
 |===
 
-.*Error* example: The column only has 3 cards, so the ♥4 *cannot* be placed.
+* .*Error example*: The column only has 3 cards, so the ♥4 *cannot* be placed.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | _  | _
@@ -165,7 +166,8 @@ Each row must contain the same colour of Number cards.
 In addition, there is exactly only one row for each colour.
 (For example, even if a Reset card is placed in the first column of the first row, all subsequent cards still have to be ♠).
 
-.*OK* example: Same colour, so the ♥4 *can* be placed.
+* *OK example*: Same colour, so the ♥4 *can* be placed.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠2 | _
@@ -175,7 +177,8 @@ In addition, there is exactly only one row for each colour.
 | ✿4 | _
 |===
 
-.*Error* example: Different colour, so the ♥4 *cannot* be placed.
+* *Error example*: Different colour, so the ♥4 *cannot* be placed.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠2 | <- ♥4
@@ -192,7 +195,8 @@ The number of the card played must be equal to or greater than the number of the
 You may play a Reset (K) card regardless of the number of the previous card.
 If a Reset card is placed, it is equivalent to resetting the number to zero (i.e. any card number may be subsequently played).
 
-.Example
+* *Example*.
++
 [options="autowidth", frame=none, grid=none, cols="^,^,^"]
 |===
 | ... | ♠6 | <- Here, a ♠7, ♠8, Phoenix or ♠K may be played.
@@ -205,7 +209,8 @@ If a Reset card is placed, it is equivalent to resetting the number to zero (i.e
 In every column of 5 cards, there must be exactly 4 Number cards and 1 Reset (K) card.
 At the end of the game, there should be exactly two Reset cards per row.
 
-.*OK* example: There is exactly 1 Reset (K) in this column.
+* *OK example*: There is exactly 1 Reset (K) in this column.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠2
@@ -215,7 +220,8 @@ At the end of the game, there should be exactly two Reset cards per row.
 | ✿K
 |===
 
-.*Error* example: There are 2 or more Reset cards in this column.
+* *Error example*: There are 2 or more Reset cards in this column.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠3
@@ -225,7 +231,8 @@ At the end of the game, there should be exactly two Reset cards per row.
 | ✿2
 |===
 
-.*Error* example: There are no Reset cards in this column.
+* *Error example*: There are no Reset cards in this column.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠3
@@ -242,7 +249,8 @@ Phoenix cards may be placed instead of any Number card.
 When a Phoenix card is played, the value of the Phoenix card is the same as the card to its left.
 If the card to the left is a Reset (K) card, then the value of the Phoenix is zero.
 
-.Example
+* *Example*.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | ♠6 | P <- Treat this Phoenix as a ♠6.

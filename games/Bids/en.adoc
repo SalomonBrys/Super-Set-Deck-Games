@@ -99,17 +99,30 @@ The game finishes after six rounds unless all players agree on a different numbe
 
 All players who do not have any ★ card in front of them at the end of a round receive a number of points depending on the number of players and how many rounds they have won the lucky loser points.
 
-[%autowidth,cols="^h,^,^,^,^"]
+[%autowidth,cols="^h,^,^"]
 |===
-| # rounds | 3 players      | 4 players     | 5 players     | 6 players
+| # rounds | 3 players      | 4 players
 
-| 1        | stem:[1*12=12] | stem:[1*8=12] | stem:[1*8=12] | stem:[1*7=12]
-| 2        | stem:[2*12=24] | stem:[2*8=16] | stem:[2*8=16] | stem:[2*7=14]
-| 3        | stem:[3*12=36] | stem:[3*8=24] | stem:[3*8=24] | stem:[3*7=21]
-| 4        | stem:[4*12=48] | stem:[4*8=32] | stem:[4*8=32] | stem:[4*7=28]
-| 5        | stem:[5*12=60] | stem:[5*8=40] | stem:[5*8=40] | stem:[5*7=35]
-| 6        | stem:[6*12=72] | stem:[6*8=48] | stem:[6*8=48] | stem:[6*7=42]
-| ...      | stem:[...*12]  | stem:[...*8]  | stem:[...*8]  | stem:[...*7]
+| 1        | stem:[1*12=12] | stem:[1*8=12]
+| 2        | stem:[2*12=24] | stem:[2*8=16]
+| 3        | stem:[3*12=36] | stem:[3*8=24]
+| 4        | stem:[4*12=48] | stem:[4*8=32]
+| 5        | stem:[5*12=60] | stem:[5*8=40]
+| 6        | stem:[6*12=72] | stem:[6*8=48]
+| ...      | stem:[...*12]  | stem:[...*8]
+|===
+
+[%autowidth,cols="^h,^,^"]
+|===
+| # rounds | 5 players     | 6 players
+
+| 1        | stem:[1*8=12] | stem:[1*7=12]
+| 2        | stem:[2*8=16] | stem:[2*7=14]
+| 3        | stem:[3*8=24] | stem:[3*7=21]
+| 4        | stem:[4*8=32] | stem:[4*7=28]
+| 5        | stem:[5*8=40] | stem:[5*7=35]
+| 6        | stem:[6*8=48] | stem:[6*7=42]
+| ...      | stem:[...*8]  | stem:[...*7]
 |===
 
 .4 players
@@ -118,7 +131,9 @@ A player wins 9 points in round 1.
 In the next three rounds he ends without having any ★ card.
 In the fifth round, he receives 13 points and in the last round, he did not have any ★ card in front of him at the end.
 
-This means that after six rounds, he will have stem:[9 + (1*8) + (2*8) + (3*8) + 13 + (4*8) = 102] points.
+This means that after six rounds, he will have
+stem:[9 + (1*8) + (2*8) + (3*8)].
+stem:[+ 13 + (4*8) = 102] points.
 ====
 
 

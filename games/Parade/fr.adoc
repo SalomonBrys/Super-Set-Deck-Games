@@ -81,10 +81,10 @@ Lorsqu'une carte de valeur 0 est jouée, *toutes* les cartes du défilé passent
 ====
 
 .Défilé
-[options="autowidth",cols="^,^,^,^,^,^,^,^"]
+[options="autowidth",cols="^,^,^,^,^,^,^"]
 |===
-| 5♠ | 0♣ | 7♣ | 3♥ | 7♠ | 1♥ | 4♣ | <- 3♣
-4+| *Mode retrait* 3+| Pas concerné | Nouvelle carte
+| 5♠ | 0♣ | 7♣ | 3♥ | 7♠ | 1♥ | 4♣
+4+| *Mode retrait* 3+| Pas concerné
 |===
 
 Vous jouez une carte de votre main (un 3♣) que vous placez à la fin du défilé.

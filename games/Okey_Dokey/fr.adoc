@@ -28,7 +28,6 @@ Les joueur·euse·s jouent chacun·e leur tour pour former un tableau de 5 par 1
 
 L'objectif du jeu est de pouvoir jouer les 50 cartes Chiffre et Reset dans un tableau de 5 lignes par 10 colonnes.
 
-.Example
 [options="autowidth", frame=none, grid=none, cols="^,^,^,^,^,^,^,^,^,^,^"]
 |===
 h| ♠ | 2 | K | 1 | 3 | 7 | 8 | K | 4 | 5 | 6
@@ -139,7 +138,8 @@ Chaque carte doit être placée dans la colonne courante.
 Une nouvelle colonne ne peut être créée que si la précédente est complète.
 (c.-à-d. Vous ne pouvez placer de carte dans la colonne 2 seulement après avoir placé 5 cartes dans la colonne 1).
 
-.Example *OK* : La colonne contient 5 cartes, le 4♥ *peut* donc être placé.
+* *Example OK* : La colonne contient 5 cartes, le 4♥ *peut* donc être placé.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 1♠ | _
@@ -149,7 +149,8 @@ Une nouvelle colonne ne peut être créée que si la précédente est complète.
 | 4✿ | _
 |===
 
-.Exemple *Incorrect* : La colonne ne contient que 3 cartes, le 4♥ *ne peut* donc *pas* être placé.
+* *Exemple Incorrect* : La colonne ne contient que 3 cartes, le 4♥ *ne peut* donc *pas* être placé.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | _  | _
@@ -166,7 +167,8 @@ Chaque ligne ne doit contenir que des cartes de la même couleur.
 De plus, il ne peut y avoir qu'une ligne par couleur.
 (Par exemple, même si une carte Reset est placée dans la première colonne de la première ligne, les cartes suivantes doivent tout de même être à ♠).
 
-.Exemple *OK* : Le 4♥ *peut* être placé, car il est de la même couleur.
+* *Exemple OK* : Le 4♥ *peut* être placé, car il est de la même couleur.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 2♠ | _
@@ -176,7 +178,8 @@ De plus, il ne peut y avoir qu'une ligne par couleur.
 | 4✿ | _
 |===
 
-.Exemple *Incorrect* : Le 4♥ *ne peut pas* être placé dans cette ligne.
+* *Exemple Incorrect* : Le 4♥ *ne peut pas* être placé dans cette ligne.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 2♠ | <- 4♥
@@ -193,7 +196,8 @@ Le chiffre des chaque carte doit être égal ou supérieur au chiffre de la cart
 Vous pouvez jouer une carte Reset (K) sans prendre en compte la carte précédente.
 Si une carte Reset est placée, cela revient à revenir au chiffre zéro (n'importe quelle carte chiffre peut donc être jouée à sa suite).
 
-.Exemple
+* *Exemple*.
++
 [options="autowidth", frame=none, grid=none, cols="^,^,^"]
 |===
 | ... | 6♠ | <- Vous pouvez jouer ici un 7♠, 8♠, Phénix ou K♠.
@@ -206,7 +210,8 @@ Si une carte Reset est placée, cela revient à revenir au chiffre zéro (n'impo
 Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et 1 carte Reset (K).
 À la fin de la partie, il devrait y avoir exactement deux cartes Reset par ligne.
 
-.Exemple *OK* : Il y a exactement 1 Reset (K) dans cette colonne.
+* *Exemple OK* : Il y a exactement 1 Reset (K) dans cette colonne.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 2♠
@@ -216,7 +221,8 @@ Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et
 | K✿
 |===
 
-.Exemple *Incorrect* : Il y a dex cartes Reset dans cette colonne.
+* *Exemple Incorrect* : Il y a dex cartes Reset dans cette colonne.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 3♠
@@ -226,7 +232,8 @@ Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et
 | 2✿
 |===
 
-.Exemple *Incorrect* : Il n'y a pas de carte Reset dans cette colonne.
+* *Exemple Incorrect* : Il n'y a pas de carte Reset dans cette colonne.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 3♠
@@ -243,7 +250,8 @@ Les cartes Phénix peuvent être placées à la place de n'importe quelle carte 
 Lorsqu'une carte Phénix est jouée, le chiffre de cette carte Phénix est le même que la carte précédente.
 Si la carte à sa gauche est une carte Reset (K), la valeur de ce Phénix est zéro.
 
-.Exemple
+* *Exemple*.
++
 [options="autowidth", frame=none, grid=none, cols="^,^"]
 |===
 | 6♠ | P <- Ce Phénix est similaire à un 6♠.

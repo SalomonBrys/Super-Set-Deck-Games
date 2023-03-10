@@ -80,10 +80,10 @@ If a card with the value 0 is played, *all cards* enter *removal* mode.
 ====
 
 .Parade
-[options="autowidth",cols="^,^,^,^,^,^,^,^"]
+[options="autowidth",cols="^,^,^,^,^,^,^"]
 |===
-| ♠5 | ♣0 | ♣7 | ♥3 | ♠7 | ♥1 | ♣4 | <- ♣3
-4+| *Removal mode* 3+| Not affected | New card
+| ♠5 | ♣0 | ♣7 | ♥3 | ♠7 | ♥1 | ♣4
+4+| *Removal mode* 3+| Not affected
 |===
 
 A card (♣3) is played from the hand and laid at the end of the parade.

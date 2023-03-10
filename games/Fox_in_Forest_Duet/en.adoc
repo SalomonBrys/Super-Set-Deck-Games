@@ -216,12 +216,11 @@ When this is the second card played in the trick, it has no effect.
 
 === Movement values
 
-[%autowidth,cols=">,^,^,^,^,^,^,^,^,^,^"]
+[%autowidth,cols=">,^,^,^,^,^"]
 |===
-| Rank | 1 | 2     | 3   | 4 | 5 | 6   | 7 | 8   | 9 | 10
+| Rang | 1 | 2 | 3 | 4 | 5
 
-h| Movement
-
+h| Mouvement
 |
 | ☞ +
 ☞ +
@@ -230,6 +229,13 @@ h| Movement
 ☞
 | ☞
 | ☞
+|===
+
+[%autowidth,cols=">,^,^,^,^,^"]
+|===
+| Rang | 6 | 7 | 8 | 9 | 10
+
+h| Mouvement
 | ☞ +
 ☞
 |

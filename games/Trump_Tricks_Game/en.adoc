@@ -112,10 +112,24 @@ The first player who still needs tricks determines the “color of the trick” 
 
 After the first, second, and third game turn each player scores points according to the *value* his cards.
 
-[%autowidth]
+[%autowidth,cols="^,^"]
 |===
-h| Card value       | 1 | 2 | 3 | 4 |  5  |  6  |  7  |  8  |  9  | 10 | 11 | 12
-h| Number of points |   |   |   |   | *1* | *2* | *3* | *2* | *1* |    |    |
+h| Card +
+value
+h| Number +
+of points
+| 1  |
+| 2  |
+| 3  |
+| 4  |
+| 5  | *1*
+| 6  | *2*
+| 7  | *3*
+| 8  | *2*
+| 9  | *1*
+| 10 |
+| 11 |
+| 12 |
 |===
 
 This sum is *multiplied* with the number of different suits that provided points.

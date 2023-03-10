@@ -57,13 +57,22 @@ The player who has the most victory points at the end of the game will be declar
 
 * Sort the World & Role cards according to the player count:
 +
-[cols="^.^,^.^,^.^,^.^,^.^"]
+[options="autowidth",cols="^.^,^.^,^.^"]
 |===
-.2+h|          2+h| Role cards                2+h| World cards
-                 h| Shamans (K)  h| Shadows (J)  h| Colors                   h| Values
-   h| 3 players   | *2*           | *1*           | 5: *★, ♠, ♥, ♣, ♦*        | *1-6* (30 cards)
-   h| 4 players   | *3* (all)     | *1*           | 6: *★, ♠, ♥, ♣, ♦, ✿*     | *1-6* (36 cards)
-   h| 5 players   | *3* (all)     | *2* (all)     | 7: *★, ♠, ♥, ♣, ♦, ✿, ⎈*  | *1-8* (all 56 cards)
+.2+h|            2+h| Cartes Rôle
+h| Shamans (K)  h| Ombres (J)
+h| 3 joueurs     | *2*           | *1*
+h| 4 joueurs     | *3* (toutes)  | *1*
+h| 5 joueurs     | *3* (toutes)  | *2* (toutes)
+|===
++
+[options="autowidth",cols="^.^,^.^,^.^"]
+|===
+.2+h|         2+h| Cartes Monde
+h| Couleurs                 h| Valeurs
+h| 3 joueurs     | 5: *★, ♠, ♥, ♣, ♦*        | *1-6* (30 cartes)
+h| 4 joueurs     | 6: *★, ♠, ♥, ♣, ♦, ✿*     | *1-6* (36 cartes)
+h| 5 joueurs     | 7: *★, ♠, ♥, ♣, ♦, ✿, ⎈*  | *1-8* (toutes les 56 cartes)
 |===
 
 * In a 3- or 4-player game, remove the unused cards from the game.
