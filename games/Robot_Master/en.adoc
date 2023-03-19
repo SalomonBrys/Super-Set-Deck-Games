@@ -1,0 +1,165 @@
+= Robot Master
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Reiner Knizia.
+
+.Components
+****
+* "Robot" 36 cards : 0-6 in ♠, ♥, ♣, ♦, ✿ & ★
+****
+
+CAUTION: The card colors do not matter.
+         This game only uses card *values*.
+
+At the beginning of game, 2 players or 2 teams (for 4 players) determine who will be the owner of the horizontal rows and the vertical columns.
+
+*Objectives*: Optimize the positions of robots of various values, such that at the end of the game, the loser will be the player or the team who have their row or column with the lowest score.
+
+
+== Preparation for 2 players
+
+Shuffle the “Robot” cards and distribute 12 to each player face-down.
+The remaining cards are put aside as a draw deck.
+The top card of the draw deck is turned face up and put in the middle of the table.
+
+.Set-up
+====
+[options="autowidth",frame=none,grid=none,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+|===
+|
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | *S* | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+|
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+|
+|===
+
+- Player A owns the horizontal rows.
+- Player B owns the vertical columns.
+====
+
+
+== Game Play
+
+Randomly choose a start player.
+
+He selects a card from his hand and places it face-up next to the central card on the table.
+
+The other player follows and places a card from his hand.
+The card must touch cards already on the table.
+Thereafter, it is possible to place a card which touches several cards already in place.
+
+The game finishes when all cards are placed, forming a square of 5x5.
+
+
+== Computing score for a row or column
+
+The score of a row / column is the sum of Robot value.
+
+- 1 “Robot” card alone counts only for its face value.
++
+====
+5, 0, 2, 3, 1 = 11 points
+====
+
+- 2 identical “Robot” cards count for 10 times the face value of the card.
++
+====
+3, 0, 3, 1, 4 = 35 points
+====
++
+Note: A row / column can have score of 2 pairs of identical cards (2 multiplications).
++
+====
+5, 2, 2, 1, 5 = 71 points
+====
+
+* 3 identical “Robots” cards count for 100 points, regardless of face value.
++
+====
+0, 0, 2, 3, 0 = 105 points
+====
++
+Note: A row / column can have 3 identical cards and another pair of cards.
++
+====
+4, 4, 2, 4, 2 = 120 points
+====
+
+* 4 or 5 identical “Robots” cards count for 100 points for the first 3 cards plus the unit value of the remaining ones.
++
+====
+2, 2, 2, 2, 3 = 105 points
+====
+
+[WARNING]
+====
+* 1 “0” card is 0 point.
+* 2 “0” cards is 0 point.
+* 3 “0” cards is 100 points!
+====
+
+
+== Game End
+
+When all cards have been played to form a 5x5 square, the players then calculate the score of each row or column respectively.
+Only the row and column of each player with the lowest score are compared: winner is the player with the higher score on this row or column.
+
+In the case of a tie, the second lowest row or column is considered.
+
+If several rounds are played, score of each round is the difference between the lowest row and column.
+The player with the highest total score after several rounds is the winner.
+
+
+== Variants
+
+=== For 2 players
+
+The game is played as in the basic rules, but the players, instead of having 12 cards in hand, receive only 5 initially.
+Only one card is placed face-up on the table and the remaining cards are put aside as a draw deck.
+Each time a player places a card, he draws the top card from the draw deck as a replacement so that he always have 5 cards in hand.
+
+
+=== For 4 players
+
+The play is played in teams of 2 players.
+Team members sit opposite to each other.
+One of the teams owns the horizontal rows and the other owns the vertical columns.
+Each player receives 7 cards and the remaining cards are aside as a draw deck.
+
+The top card of the draw deck is turned face-up and put in the middle of the table.
+One of the players begins the game, then the game continues clockwise.
+Any communication between the team members is prohibited.
+The game plays as in the basic rule.
+
+
+=== Solo Play
+
+Only one card is turned face-up on the middle of the table and all other cards are put aside as a draw deck.
+Draw and place a card one at a time (in the same way as in the basic rule).
+When the square of 5x5 is completed, your score points is the lowest row or column score.

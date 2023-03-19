@@ -1,4 +1,4 @@
-2023-03-10_23:04:54
+2023-03-19_18:03:49
 App.js
 App.js.map
 ServiceWorker.js
@@ -257,6 +257,8 @@ games/Regicide/R-Attack_&_Defense.png
 games/Regicide/R-Suit_Powers.png
 games/Regicide/en.html
 games/Regicide/fr.html
+games/Robot_Master/en.html
+games/Robot_Master/fr.html
 games/Schotten_Totten/R-Combinations.png
 games/Schotten_Totten/R-Tactics.png
 games/Schotten_Totten/en.html

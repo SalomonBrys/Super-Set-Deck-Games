@@ -1,0 +1,336 @@
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>A game by Reiner Knizia.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Components</div>
+<div class="ulist">
+<ul>
+<li>
+<p>"Robot" 36 cards : 0-6 in ♠, ♥, ♣, ♦, ✿ &amp; ★</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="admonitionblock caution">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-caution" title="Caution"></i>
+</td>
+<td class="content">
+The card colors do not matter.
+         This game only uses card <strong>values</strong>.
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>At the beginning of game, 2 players or 2 teams (for 4 players) determine who will be the owner of the horizontal rows and the vertical columns.</p>
+</div>
+<div class="paragraph">
+<p><strong>Objectives</strong>: Optimize the positions of robots of various values, such that at the end of the game, the loser will be the player or the team who have their row or column with the lowest score.</p>
+</div>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_preparation_for_2_players">Preparation for 2 players</a></li>
+<li><a href="#_game_play">Game Play</a></li>
+<li><a href="#_computing_score_for_a_row_or_column">Computing score for a row or column</a></li>
+<li><a href="#_game_end">Game End</a></li>
+<li><a href="#_variants">Variants</a>
+<ul class="sectlevel2">
+<li><a href="#_for_2_players">For 2 players</a></li>
+<li><a href="#_for_4_players">For 4 players</a></li>
+<li><a href="#_solo_play">Solo Play</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_preparation_for_2_players">Preparation for 2 players</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Shuffle the “Robot” cards and distribute 12 to each player face-down.
+The remaining cards are put aside as a draw deck.
+The top card of the draw deck is turned face up and put in the middle of the table.</p>
+</div>
+<div class="exampleblock">
+<div class="title">Example 1. Set-up</div>
+<div class="content">
+<table class="tableblock frame-none grid-none fit-content">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-center valign-middle"></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">B<br>
+↓</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">B<br>
+↓</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">B<br>
+↓</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">B<br>
+↓</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">B<br>
+↓</p></td>
+<td class="tableblock halign-center valign-middle"></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">A →</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">← A</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">A →</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">← A</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">A →</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock"><strong>S</strong></p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">← A</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">A →</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">← A</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">A →</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">▢</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">← A</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-center valign-middle"></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">↑<br>
+B</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">↑<br>
+B</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">↑<br>
+B</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">↑<br>
+B</p></td>
+<td class="tableblock halign-center valign-middle"><p class="tableblock">↑<br>
+B</p></td>
+<td class="tableblock halign-center valign-middle"></td>
+</tr>
+</tbody>
+</table>
+<div class="ulist">
+<ul>
+<li>
+<p>Player A owns the horizontal rows.</p>
+</li>
+<li>
+<p>Player B owns the vertical columns.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_game_play">Game Play</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Randomly choose a start player.</p>
+</div>
+<div class="paragraph">
+<p>He selects a card from his hand and places it face-up next to the central card on the table.</p>
+</div>
+<div class="paragraph">
+<p>The other player follows and places a card from his hand.
+The card must touch cards already on the table.
+Thereafter, it is possible to place a card which touches several cards already in place.</p>
+</div>
+<div class="paragraph">
+<p>The game finishes when all cards are placed, forming a square of 5x5.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_computing_score_for_a_row_or_column">Computing score for a row or column</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The score of a row / column is the sum of Robot value.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>1 “Robot” card alone counts only for its face value.</p>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>5, 0, 2, 3, 1 = 11 points</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p>2 identical “Robot” cards count for 10 times the face value of the card.</p>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>3, 0, 3, 1, 4 = 35 points</p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Note: A row / column can have score of 2 pairs of identical cards (2 multiplications).</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>5, 2, 2, 1, 5 = 71 points</p>
+</div>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>3 identical “Robots” cards count for 100 points, regardless of face value.</p>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>0, 0, 2, 3, 0 = 105 points</p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Note: A row / column can have 3 identical cards and another pair of cards.</p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>4, 4, 2, 4, 2 = 120 points</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p>4 or 5 identical “Robots” cards count for 100 points for the first 3 cards plus the unit value of the remaining ones.</p>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>2, 2, 2, 2, 3 = 105 points</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="admonitionblock warning">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-warning" title="Warning"></i>
+</td>
+<td class="content">
+<div class="ulist">
+<ul>
+<li>
+<p>1 “0” card is 0 point.</p>
+</li>
+<li>
+<p>2 “0” cards is 0 point.</p>
+</li>
+<li>
+<p>3 “0” cards is 100 points!</p>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_game_end">Game End</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>When all cards have been played to form a 5x5 square, the players then calculate the score of each row or column respectively.
+Only the row and column of each player with the lowest score are compared: winner is the player with the higher score on this row or column.</p>
+</div>
+<div class="paragraph">
+<p>In the case of a tie, the second lowest row or column is considered.</p>
+</div>
+<div class="paragraph">
+<p>If several rounds are played, score of each round is the difference between the lowest row and column.
+The player with the highest total score after several rounds is the winner.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_variants">Variants</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_for_2_players">For 2 players</h3>
+<div class="paragraph">
+<p>The game is played as in the basic rules, but the players, instead of having 12 cards in hand, receive only 5 initially.
+Only one card is placed face-up on the table and the remaining cards are put aside as a draw deck.
+Each time a player places a card, he draws the top card from the draw deck as a replacement so that he always have 5 cards in hand.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_for_4_players">For 4 players</h3>
+<div class="paragraph">
+<p>The play is played in teams of 2 players.
+Team members sit opposite to each other.
+One of the teams owns the horizontal rows and the other owns the vertical columns.
+Each player receives 7 cards and the remaining cards are aside as a draw deck.</p>
+</div>
+<div class="paragraph">
+<p>The top card of the draw deck is turned face-up and put in the middle of the table.
+One of the players begins the game, then the game continues clockwise.
+Any communication between the team members is prohibited.
+The game plays as in the basic rule.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_solo_play">Solo Play</h3>
+<div class="paragraph">
+<p>Only one card is turned face-up on the middle of the table and all other cards are put aside as a draw deck.
+Draw and place a card one at a time (in the same way as in the basic rule).
+When the square of 5x5 is completed, your score points is the lowest row or column score.</p>
+</div>
+</div>
+</div>
+</div>

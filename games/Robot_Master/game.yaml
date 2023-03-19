@@ -1,0 +1,14 @@
+type:
+  - Hand Management
+  - Team Based
+#  - Tile Placement
+players: 1, 2, 4
+cards:
+  Base:
+    all-players:
+      spades: 0-6
+      hearts: 0-6
+      clubs: 0-6
+      diamonds: 0-6
+      florettes: 0-6
+      stars: 0-6

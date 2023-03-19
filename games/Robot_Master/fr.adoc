@@ -1,0 +1,165 @@
+= Robot Master
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Reiner Knizia.
+
+.Matériel
+****
+* 36 cartes "Robot" : 0-6 à ♠, ♥, ♣, ♦, ✿ & ★
+****
+
+CAUTION: Les couleurs des cartes n'ont pas d'importance.
+         Ce jeu n'utilise que les *valeurs* des cartes.
+
+En début de partie, les 2 joueurs ou les deux équipes (dans le jeu à 4 joueurs) définissent qui sera le propriétaire des lignes horizontales et des colonnes verticales.
+
+*Leur objectif* : optimiser leur alignement de robots de différentes valeurs, sachant qu'en fin de partie, le perdant sera le joueur ou l'équipe qui possèdera la ligne ou colonne dont le score sera le plus faible.
+
+
+== Préparation pour 2 joueurs
+
+Mélangez les cartes "Robot" et distribuez-en 12 à chaque joueur faces cachées qu'ils regardent sans les montrer.
+Les cartes restantes sont mises au milieu de la table en une pile face cachée.
+La première carte de la pile est retournée face visible au sommet de celle-ci.
+
+.Mise en place
+====
+[options="autowidth",frame=none,grid=none,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+|===
+|
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | *S* | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+|
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+|
+|===
+
+- Le joueur A joue les lignes horizontales.
+- Le joueur B joue les colonnes verticales.
+====
+
+
+== Le jeu
+
+Un des joueurs commence la partie.
+
+Il choisit une carte dans son jeu et la pose face visible sachant que celle-ci doit toucher un côté entier de la carte centrale déjà en place.
+
+C'est ensuite au joueur suivant de poser une carte qui doit toucher l'un des côtés entiers de l'une des cartes déjà posées.
+Par la suite, il sera possible de poser une carte qui touche plusieurs cartes déjà en place.
+
+Le jeu se termine quand toutes les cartes ont été jouées, format ainsi un carré de 5x5.
+
+
+== Comptage des points sur la même ligne ou colonne
+
+La valeur d'une ligne est la somme des valeurs des robots qui la compose.
+
+- 1 carte "Robot" seule compte uniquement pour sa valeur unitaire.
++
+====
+5, 0, 2, 3, 1 = 11 points
+====
+
+- 2 cartes "Robot" de même valeur (sur une même ligne ou une même colonne) comptent pour 10 fois la valeur de la carte qui est en double.
++
+====
+3, 0, 3, 1, 4 = 35 points
+====
++
+NB : Une ligne peut cumuler le score de 2 paires de cartes identiques (2 multiplications).
++
+====
+5, 2, 2, 1, 5 = 71 points
+====
+
+* 3 cartes "Robot" de même valeur (sur une même ligne ou une même colonne) comptent pour 100 points.
++
+====
+0, 0, 2, 3, 0 = 105 points
+====
++
+NB : Une ligne peut cumuler le score de 3 cartes identiques et de 2 cartes identiques.
++
+====
+4, 4, 2, 4, 2 = 120 points
+====
+
+* 4 ou 5 cartes "Robot" de même valeur comptent pour 100 points pour les 3 premières cartes + la valeur unitaire de celle(s) restante(s).
++
+====
+2, 2, 2, 2, 3 = 105 points
+====
+
+[WARNING]
+====
+* 1 carte 0 compte pour 0 point.
+* 2 cartes 0 comptent pour 0 point.
+* 3 carte 0 comptent pour 100 points !
+====
+
+
+== Le gagnant
+
+Quand toutes les cartes ont été jouées, complétant ainsi un carré de 5x5, les joueurs comptabilisent alors le total de leurs 5 lignes ou de leurs 5 colonnes respectives.
+Seules la ligne et la colonne la plus faible de chaque joueur sont comparées : le gagnant est celui qui possède le score le plus élevé sur cette ligne ou colonne.
+
+En cas d'égalité, est pris en compte le score sur la deuxième ligne ou colonne la plus basse.
+
+Si plusieurs parties sont jouées, le gagnant marque pour chaque manche un nombre de points égal à la différence de valeurs entre la ligne et colonne les plus basses.
+Le cumul des points des différentes manches détermine le gagnant.
+
+
+== Variantes
+
+=== À 2 joueurs
+
+Le jeu se joue comme dans la règle de base, mais les joueurs, au lieu d'avoir 12 cartes en main, n'en reçoivent que 5.
+Une seule carte est posée face visible au centre de la table et les autres cartes sont mises de côté pour constituer une pioche.
+Chaque fois qu'un joueur pose une carte, il reprend une nouvelle carte dans la pioche de façon à en avoir toujours 5 en main.
+
+
+=== À 4 joueurs
+
+Le jeu se déroule en équipes de 2.
+Chaque joueur s'assied en face de son partenaire.
+L'une des équipes possède les lignes horizontales et l'autre les colonnes verticales.
+Chaque joueur reçoit 7 cartes et les cartes restantes sont mises au milieu de la table en une pile face cachée.
+
+La première carte de la pile est retournée face visible au sommet de la pile.
+Un des joueurs commence la partie puis c'est au tour du suivant dans le sens des aiguilles d'une montre.
+Toute communication est interdite entre les membres d'une même équipe.
+On joue comme dans la règle de base.
+
+
+=== En solo
+
+Une seule carte est posée face visible au centre de la table et les autres cartes sont mises de côté pour constituer une pioche.
+Les cartes de la pioche sont révélées puis posées une à une (de la même façon que dans le jeu de base).
+Quand le carré de 5x5 est complété, vous marquez un nombre de points égal à la ligne verticale ou colonne horizontale la plus basse.
