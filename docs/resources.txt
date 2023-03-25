@@ -1,4 +1,4 @@
-2023-03-19_18:03:49
+2023-03-25_17:16:24
 App.js
 App.js.map
 ServiceWorker.js
@@ -217,6 +217,9 @@ games/Hanamikoji/fr.html
 games/Herrlof/R-Powers.png
 games/Herrlof/en.html
 games/Herrlof/fr.html
+games/HiMiLo/R-Rules.png
+games/HiMiLo/en.html
+games/HiMiLo/fr.html
 games/High_Society/R-Specials.png
 games/High_Society/en.html
 games/High_Society/fr.html

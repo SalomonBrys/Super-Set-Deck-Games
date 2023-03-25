@@ -1,0 +1,23 @@
+type:
+  - Cooperative
+  - Trick Taking
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-12, J, Q, K
+      hearts: 1-12, J, Q, K
+      clubs: 1-12, J, Q, K
+      diamonds: 1-12, J, Q, K
+      stars: J, K
+      specials: Butterfly, Dragon
+    4-players:
+      spades: 13-15
+      hearts: 13-15
+      clubs: 13-15
+      diamonds: 13-15
+    5-players:
+      spades: 16-18
+      hearts: 16-18
+      clubs: 16-18
+      diamonds: 16-18

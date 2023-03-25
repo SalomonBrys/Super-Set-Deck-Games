@@ -1,0 +1,139 @@
+= Hi MiLo!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de John Burton, adapté au Super-Set-Deck par Salomon BRYS.
+
+.Matériel
+****
+* 72 cartes numérotées : 1-18 à ♠, ♥, ♣ & ♦.
+* 14 cartes "Hi MiLo !" :
+** 12 colorées : J, Q & K à ♠, ♥, ♣ & ♦.
+** 2 neutres : J & K à ★.
+* 2 cartes contrats : 1 papillon & 1 dragon.
+****
+
+
+"Hi MiLo !" est un jeu de plis collaboratif pour 3 à 5 joueur·euse·s où les règles définissant le jeu des cartes et le gain des plis changent à chaque pli, en fonction du paquet unique "Hi MiLo !".
+La stratégie de votre équipe ne sera jamais la même puisque le paquet "Hi MiLo !" est aléatoire, créant ainsi un nouvel ensemble de règles à chaque partie !
+Après avoir regardé leurs cartes, les joueur·euse·s parient qui prendra le plus et le moins de plis dans la manche.
+Sans discuter de leur main, chacun·e travaille en coopération pour permettre à toutes et tous de remporter leur contrat.
+Si les tou·te·s les joueur·euse·s remportent leur contrat, l'équipe l'emporte !
+
+
+== Mise en place
+
+* *3 joueur·euse·s* : jouez avec les cartes 1 à 12 (retirez les cartes numérotées 13 à 18).
+* *4 joueur·euse·s* : jouez avec les cartes 1 à 15 (retirez les cartes numérotées 16 à 18).
+* *5 joueur·euse·s* : jouez avec toutes les cartes.
+
+Mélangez les cartes numérotées et distribuez 14 carte à chaque joueur·euse.
+Les cartes restantes non distribuées sont défaussées face cachée et ne seront pas utilisées pour cette manche.
+
+Chacun·e consulte ses cartes mais les gardes cachées des autres joueur·euse·s.
+
+Mélangez les cartes "Hi MiLo !" et étalez les cartes face visible sur la table de manière que les couleurs et valeurs soient visibles.
+Chaque pli se voit attribué une carte "Hi MiLo !".
+La carte du dessus (celle qui n'est pas couverte par une autre carte) est la "Carte Règle" du pli.
+Ces cartes déterminent les règles de chaque pli de la manche.
+
+
+== Jeu
+
+[[plis]]
+=== Plis
+
+Hi Milo ! est un jeu de pli comme la belote, le tarot, ou le Bridge, et utilise plusieurs règles similaires à ces classiques.
+Chaque joueur·euse place une carte face visible sur la table, et l'un·e d'entre eux·elles remporte le pli en fonction de la couleur et de la valeur des cartes jouées.
+Cependant, "Hi MiLo !" est unique grâce au paquet de cartes "Hi MiLo !" qui définissent quelles cartes vous pouvez jouer, et quelle carte remporte un pli.
+La Carte Règle de chaque pli est collectée par le gagnant du pli, et la Carte Règle suivant détermine les règles du prochain pli.
+
+La Carte Règle définit les règle d'un pli de deux manières.
+
+Tout d'abord, les joueur·euse·s doivent jouer une carte de la même couleur que la Carte Règle, si possible.
+Si la carte Règle est neutre (★), toutes les cartes peuvent être jouées et seules les valeurs des cartes comptent.
+
+Ensuite, le rang de la Carte Règle détermine qui remporte le pli :
+
+* Si la carte règle est un *K* ("Hi"), la carte la plus forte remporte le pli.
+* Si c'est un *J* ("Lo"), la carte la plus faible remporte le pli.
+* Si c'est un *Q* ("Mi"), la carte médiane (entre la plus forte et la plus faible) remporte le pli.
+** *3 joueur·euse·s* : la *carte médiane* qui est entre 1 carte plus forte et 1 carte plus faible remporte le pli.
+** *4 joueur·euse·s* :
+*** ♠ & ♣: la *carte médiane supérieure* qui est entre 1 carte plus forte et 2 cartes plus faibles remporte le pli.
+*** ♥ & ♦: la *carte médiane inférieure* qui est entre 2 cartes plus fortes et 1 carte plus faible remporte le pli.
+** *5 joueur·euse·s* : la *carte médiane* qui est entre 2 cartes plus fortes et 2 cartes plus faibles remporte le pli.
+
+Les joueur·euse·s ne sont pas autorisé·e·s à discuter des cartes de leur main de quelque manière que ce soit.
+
+
+=== Contrats
+
+Au début d'une manche, chacun·e regarde sa main de carte et estime secrètement combien de pli il·elle pense pouvoir remporter.
+Plus exactement, il·elle·s essaient d'estimer si il·elle prendra le plus grand nombre de plis, le plus petit, ou entre les deux.
+Les joueur·euse·s peuvent discuter ensemble pour décider de qui prendra quel contrat, mais il reste interdit de parler de sa main de carte.
+
+Seules les phrases comme "Je pense pouvoir être au milieu, ou peut-être faire le plus de plis" sont autorisées.
+À la fin de cette phase, seul un·e joueur·euse prendra le contrat "le plus grand", et un·e autre joueur·euse prendra le contrat "le plus petit".
+
+* Celui·celle qui prend le contrat "le plus grand" place la carte Dragon devant lui·elle.
+* Celui·celle qui prend le contrat "le plus petit" place la carte Papillon devant lui·elle.
+
+
+=== Échange de cartes
+
+En commençant par celui·celle ayant parié "le plus grand", chacun·e passe 3 cartes face cachées à son voisin de gauche.
+Vous pouvez regarder les cartes qui vous sont passées avant de choisir celles que vous allez passer à votre voisin de gauche.
+
+Une fois que les joueur·euse·s ont passés 3 cartes (et que celui·celle ayant parié "le plus grand" a reçu 3 cartes), la manche peut commencer.
+
+
+=== Les plis
+
+Lors du premier pli de la manche, le·la joueur·euse à gauche de celui·celle qui a distribué joue une carte face visible sur la table.
+En sens horaire, chaque joueur·euse joue ensuite une carte face visible sur la table.
+La seule règle pour jouer une carte est que vous devez jouer une carte de la même couleur que la Carte Règle si vous en avez.
+Une fois toutes les cartes jouées, le·la gagnant·e du pli est déterminé (voir ce qui suit).
+Il·elle collecte la carte Règle, la place face cachée devant lui·elle, et défausse ensuite les cartes du pli.
+Il·elle joue ensuite la première carte du pli suivant.
+
+.Determiner le·la gagnant·e du pli
+****
+Les cartes sont classées par ordre de valeur : 1 ,2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18.
+
+Les cartes sont ensuite classées ainsi :
+
+1. Les cartes de même couleur que la Carte Règle sont supérieures aux cartes des autres couleurs (cartes Hors Couleur).
+2. Les cartes Hors Couleur sont classées entre elles par leur valeur.
+3. Si plusieurs cartes Hors Couleur ont la même valeur, celle qui a été jouée en premier est supérieure.
+
+Parmi les cartes jouées dans le pli, une est la plus forte, une est la plus faible, et les autres sont au milieu.
+Si la Carte Règle est un "Hi" (K), la carte la plus forte remporte le pli.
+Si c'est un "Lo" (J), la carte la plus faible remporte le pli.
+Si c'est un "Mi" (Q), l'une des cartes du milieu remporte le pli (voir <<plis>>).
+****
+
+
+== Score de la manche
+
+Après que le dernier pli soit joué, les joueur·euse·s comptent le nombre de plis qu'il·elle·s ont remportés et se classent entre eux : celui·celle qui a remporté le plus de plis, le moins de plis, et les autres au milieu.
+Comparez ce classement aux contrats pris par les joueur·euse·s au début de la manche.
+
+Si le classement correspond aux contrats, l'équipe remporte la manche !
+
+Sinon, l'équipe perd cette manche.
+En cas d'égalité entre deux ou plus joueur·euse·s pour le plus ou le moins de plis, l'équipe perd la manche.
+
+Pour gagner, choisissez un nombre de manches (comme par exemple 5) et tentez de gagner plus que vous ne perdez.
+
+
+== Variante : rendre le jeu plus difficile
+
+Lorsque vous créez la ligne de cartes "Hi MiLo !", ne révélez qu'un certain nombre de cartes, et placez les cartes restantes en une pile face cachée.
+À chaque fois qu'un pli est remporté et que sa Carte Règle est retiré de la ligne, s'il reste des cartes "Hi MiLo !" dans la pile face cachée, placez une carte de la pile face visible à l'autre bout de la ligne (sous la dernière carte "Hi MiLo !", mais de manière que sa couleur et valeur soit visible).
+
+* Moyen : révélez 7 cartes.
+* Difficile : révélez 5 cartes.
+* Hardcore : révélez 3 cartes.
