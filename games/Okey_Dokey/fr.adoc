@@ -18,7 +18,7 @@ Voix, guitares, batteries, pianos et basses de tout le pays se rassemblent pour 
 Beaucoup de groupes sont venus, et chaque participant·e aura sa place dans la création de ce grand festival de musique !
 
 
-== But du jeu
+== Principe du jeu
 
 Oki Doki est un jeu coopératif où les joueur·euse·s ne sont pas en compétition, mais travaillent ensemble à l'objectif commun : réussir à organiser le festival.
 Les joueur·euse·s jouent chacun·e leur tour pour former un tableau de 5 par 10 cartes et créer un festival coloré.

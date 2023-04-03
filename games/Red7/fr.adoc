@@ -9,8 +9,8 @@ Un jeu de Carl Chudyk & Chris Cieslik.
 .Matériel
 ****
 * 49 cartes de jeu : 1-7 à ★, ♠, ♥, ♣, ♦, ✿, ⎈.
-* 1 première carte de toile (le 0★).
-* Pour 5 ou 6 joueurs : les autres 0 à ♠, ♥, ♣, ♦, ✿, ⎈.
+* 1 première carte de tableau (le S★).
+* Pour 5 ou 6 joueurs : 7 cartes 0 à ★, ♠, ♥, ♣, ♦, ✿, ⎈.
 ****
 
 La règle pour gagner au ★ est simple : avoir la plus haute carte !
@@ -32,7 +32,7 @@ Lorsque vous comparez deux cartes, comparez d’abord leur valeur, puis leur cou
 
 Pour faire une partie de Red7, distribuez une main 7 cartes à chaque joueur, puis une carte supplémentaire face visible en face de chaque joueur pour débuter leur Palette.
 
-Attaquez la Toile (pile de défausse) avec la carte 0★.
+Attaquez la Toile (pile de défausse) avec la carte S★.
 La carte du dessus de la Toile détermine la règle en vigueur.
 Le joueur qui a la plus haute carte sur sa Palette est alors le meilleur au ★, aussi le joueur à sa gauche joue en premier.
 
@@ -60,17 +60,44 @@ Si vous n’avez aucune carte (au ♣ ou au ⎈) qui respecte la règle, vous ne
 Les exemples figurent à la droite de chaque règle.
 Si vous n’avez pas de carte en main au début de votre tour, vous perdez puisque vous ne pouvez rien faire pour gagner d'ici à la fin de votre tour.
 
-[%autowidth]
+[%autowidth, cols="^,<,<"]
 |===
 | Jeu | Règle de la toile | Exemple
 
-| ★ | Carte la plus haute | [5♣, 1✿, #6♦#, 4♦] > [3♦, #6★#, 1⎈, 1♥]
-| ♠ | Cartes de la même valeur | [#2★#, #2⎈#, #2♣#, 1♠] > [#7♠#, #7★#, 1⎈, 2✿]
-| ♥ | Cartes de la même couleur | [#2♣#, #6♣#, 1✿, 5♦] > [6♥, #4♦#, #1♦#, 4♣]
-| ♣ | Cartes paires | [#4♣#, #2★#, #6♣#, 3♦] > [3⎈, 1⎈, #6✿#, 1♠]
-| ♦ | Cartes de couleurs toutes différentes | [6♥, #7♥#, #5♣#, #4✿#] > [#5♦#, #6✿#, #4⎈#, 1♦]
-| ✿ | Cartes formant une suite | [#4♥#, #5♣#, #7♠#, #6♦#] > [#2✿#, #3★#, #4⎈#, #5★#]
-| ⎈ | Cartes de valeur inférieure à 4 | [#1♦#, #2♣#, 4⎈, #3♠#] > [5♣, #1♣#, #1⎈#, 7★]
+| ★
+| Carte la plus haute
+| [5♥, 1♦, #6♣#, 4♣] > +
+[3♣, #6⎈#, 1✿, 1♠]
+
+| ♠
+| Cartes de la même valeur
+| [#2⎈#, #2✿#, #2♥#, 1★] > +
+[#7♠#, #7⎈#, 1✿, 2♦]
+
+| ♥
+| Cartes de la même couleur
+| [#2♥#, #6♥#, 1♦, 5♣] > +
+[6♠, #4★#, #1★#, 4♥]
+
+| ♣
+| Cartes paires
+| [#4♥#, #2⎈#, #6♥#, 3♣] > +
+[3✿, 1✿, #6♦#, 1★]
+
+| ♦
+| Cartes de couleurs toutes différentes
+| [6♠, #7♠#, #5♥#, #4♦#] > +
+[#5♣#, #6♦#, #4✿#, 1♣]
+
+| ✿
+| Cartes formant une suite
+| [#4♠#, #5♥#, #7★#, #6♣#] > +
+[#2♦#, #3⎈#, #4✿#, #5⎈#]
+
+| ⎈
+| Cartes de valeur inférieure à 4
+| [#1♣#, #2♥#, 4✿, #3★#] > +
+[5♥, #1♥#, #1✿#, 7⎈]
 |===
 
 
@@ -83,14 +110,14 @@ Red7 Avancé ajoute deux règles :
 1. Lorsque vous défaussez une carte sur la Toile, si sa valeur est plus grande que le nombre de cartes sur votre Palette, piochez une carte (à moins que la pioche ne soit vide).
 2. Le vainqueur d’une manche marque des points.
 
-Si vous remportez une manche, prenez toutes les cartes de votre Palette qui respectent la règle en vigueur et placez-les sous votre carte de référence.
-Par exemple, si vous avez gagné au ✿ en ayant le plus de cartes de couleurs différentes sur votre Palette, prenez la carte la plus haute de chaque couleur de votre Palette et placez-les sous votre carte de référence.
+Si vous remportez une manche, prenez toutes les cartes de votre Palette qui respectent la règle en vigueur et placez-les en une pile face cachée devant vous.
+Par exemple, si vous avez gagné au ♦ en ayant le plus de cartes de couleurs différentes sur votre Palette, prenez la carte la plus haute de chaque couleur de votre Palette et placez-les en une pile face cachée devant vous.
 La prochaine donne a lieu sans ces cartes, qui forment désormais votre pile de marque.
 Votre score correspond au total des valeurs de ces cartes.
 S’il n’y a pas assez de cartes pour distribuer une nouvelle main à chaque joueur, la partie se termine et le joueur ayant le meilleur score remporte la partie.
 
 
-== 5 or 6 players
+== 5 ou 6 joueurs
 
 Pour jouer avec 5 ou 6 joueurs, ajoutez le 0 de chaque couleur dans le paquet de cartes.
 
@@ -99,6 +126,7 @@ Pour jouer avec 5 ou 6 joueurs, ajoutez le 0 de chaque couleur dans le paquet de
 * Au début de votre tour, si vous êtes premier ou deuxième selon la règle en cours, *passez votre tour*.
 * À la fin de votre tour, vous devez être premier ou deuxième selon la règle en cours pour rester dans la partie.
 
+Il y aura donc 2 gagnants à chaque manche.
 
 == Règles d'actions
 

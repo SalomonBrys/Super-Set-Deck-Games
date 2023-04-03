@@ -8,8 +8,8 @@ A game by Carl Chudyk & Chris Cieslik.
 .Components
 ****
 * 49 game cards: 1-7 in ★, ♠, ♥, ♣, ♦, ✿, ⎈.
-* 1 first canvas card (the ★A).
-* For 5 or 6 players : 7 0s in ♠, ♥, ♣, ♦, ✿, ⎈.
+* 1 first canvas card (the ★S).
+* For 5 or 6 players : 7 0s in ★, ♠, ♥, ♣, ♦, ✿, ⎈.
 ****
 
 The rules of ★ are simple: Have the best card!
@@ -30,7 +30,7 @@ When comparing two cards, compare value first, then color.
 
 To begin a game of Red7, deal out a seven-card hand to each player, and then deal one more card face-up in front of each player to start their Palette.
 
-Start the Canvas (discard pile) with the ★A card.
+Start the Canvas (discard pile) with the ★S card.
 The top card of the Canvas pile determines what the rules are.
 The player with the highest card on their Palette is currently the best at ★, so the player to that player’s left goes first.
 
@@ -59,17 +59,44 @@ If you have no cards (for ♣ or ⎈) that follow the rule, you are not winning.
 Examples are to the right for each rule.
 If you have no cards in your hand at the start of your turn, you lose since you are unable to do anything to win by the end of your turn.
 
-[%autowidth]
+[%autowidth, cols="^,<,<"]
 |===
-| Jeu | Règle de la toile | Exemple
+| Game | Canvas Rule | Example
 
-| ★ | Highest card | [5♣, 1✿, #6♦#, 4♦] > [3♦, #6★#, 1⎈, 1♥]
-| ♠ | Cards of one number | [#2★#, #2⎈#, #2♣#, 1♠] > [#7♠#, #7★#, 1⎈, 2✿]
-| ♥ | Cards of one color | [#2♣#, #6♣#, 1✿, 5♦] > [6♥, #4♦#, #1♦#, 4♣]
-| ♣ | Even cards | [#4♣#, #2★#, #6♣#, 3♦] > [3⎈, 1⎈, #6✿#, 1♠]
-| ♦ | Cards of all different colors | [6♥, #7♥#, #5♣#, #4✿#] > [#5♦#, #6✿#, #4⎈#, 1♦]
-| ✿ | Cards that form a run (I.E. 4 5 6) | [#4♥#, #5♣#, #7♠#, #6♦#] > [#2✿#, #3★#, #4⎈#, #5★#]
-| ⎈ | Cards below 4 | [#1♦#, #2♣#, 4⎈, #3♠#] > [5♣, #1♣#, #1⎈#, 7★]
+| ★
+| Highest card
+| [♥5, ♦1, #♣6#, ♣4] > +
+[♣3, #⎈6#, ✿1, ♠1]
+
+| ♠
+| Cards of one number
+| [#⎈2#, #✿2#, #♥2#, ★1] > +
+[#♠7#, #⎈7#, ✿1, ♦2]
+
+| ♥
+| Cards of one color
+| [#♥2#, #♥6#, ♦1, ♣5] > +
+[♠6, #★4#, #★1#, ♥4]
+
+| ♣
+| Even cards
+| [#♥4#, #⎈2#, #♥6#, ♣3] > +
+[✿3, ✿1, #♦6#, ★1]
+
+| ♦
+| Cards of all different colors
+| [♠6, #♠7#, #♥5#, #♦4#] > +
+[#♣5#, #♦6#, #✿4#, ♣1]
+
+| ✿
+| Cards that form a run
+| [#♠4#, #♥5#, #★7#, #♣6#] > +
+[#♦2#, #⎈3#, #✿4#, #⎈5#]
+
+| ⎈
+| Cards below 4
+| [#♣1#, #♥2#, ✿4, #★3#] > +
+[♥5, #♥1#, #✿1#, ⎈7]
 |===
 
 
@@ -82,10 +109,11 @@ Advanced Red7 has two additional rules.
 1. When you discard a card to the Canvas, if the number on that card is higher than the total number of cards in your Palette, you may draw an additional card from the Draw Deck (unless the Draw Deck is empty).
 2. The winner of a round scores points.
 
-If you win a round, take all the cards from your Palette that meet the current rule and place them under your reference card.
-For example, if you won Blue by having the most differently colored cards on your Palette, take the highest card of each color from your Palette and place them under your reference card.
+If you win a round, take all the cards from your Palette that meet the current rule and place them in a face down pile in front of you.
+For example, if you won ♦ by having the most differently colored cards on your Palette, take the highest card of each color from your Palette and place them in a face down pile in front of you.
 The next hand is dealt without those cards, as they are now your score pile.
-Cards are worth their face value in points. If there aren’t enough cards to deal out a new hand to each player, the game ends and the player with the highest score wins.
+Cards are worth their face value in points.
+If there aren’t enough cards to deal out a new hand to each player, the game ends and the player with the highest score wins.
 
 
 == 5 or 6 players
@@ -97,6 +125,7 @@ When it's your turn, you are eliminated if you're not winning, or in 2nd place:
 * At the beginning of your turn, if you are first or second according to the current rule, *skip your turn*.
 * At the end of your turn, you must be first or second according to the current rule to stay in the game.
 
+There will therefore be 2 winners for each round.
 
 == Action rules (optional)
 

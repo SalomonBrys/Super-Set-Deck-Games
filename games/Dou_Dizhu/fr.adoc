@@ -51,7 +51,7 @@ L'enchérisseur final est le patron.
 Le patron révèle les 3 trois cartes face cachées au centre de la table pour que tout le monde les voient avant de les ajouter à sa main pour un total de 20 cartes.
 
 
-== Play
+== Jeu
 
 Le patron joue en premier, et peut joueur une carte seule ou n'importe quelle combinaison légale.
 En sens anti-horaire, chaque joueur suivant doit soit passer (sans jouer de carte), soit joueur une combinaison plus haute de *même nombre de cartes* et de *même type*.

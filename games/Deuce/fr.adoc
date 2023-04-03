@@ -132,7 +132,7 @@ Le gagnant de la manche reçoit 10 points, plus la valeur combinée des cartes d
 Les cartes face visible des défausses ne sont utilisées que pour déterminer le vainqueur de la manche ; elles ne comptent pas dans son score.
 
 
-== Winning the game
+== Remporter la partie
 
 Une partie consiste en plusieurs manches.
 

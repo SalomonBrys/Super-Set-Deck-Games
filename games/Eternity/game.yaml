@@ -1,0 +1,11 @@
+type:
+  - Trick Taking
+  - Score and Reset
+players: 2, 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-14, A
+      hearts: 1-14, A
+      clubs: 1-14, A
+      specials: Butterfly*6, Wolf*6, Phoenix*4, Dragon*2

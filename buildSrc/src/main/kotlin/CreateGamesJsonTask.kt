@@ -1,8 +1,10 @@
 import com.google.gson.Gson
+import com.google.gson.GsonBuilder
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.InputFiles
 import org.gradle.api.tasks.OutputFile
 import org.gradle.api.tasks.TaskAction
+import org.gradle.kotlin.dsl.withGroovyBuilder
 import org.snakeyaml.engine.v2.api.Load
 import org.snakeyaml.engine.v2.api.LoadSettings
 import java.io.File
@@ -95,7 +97,7 @@ abstract class CreateGamesJsonTask : DefaultTask() {
                 }
         }
 
-        output.writeText(Gson().toJson(games))
+        output.writeText(GsonBuilder().setPrettyPrinting().create().toJson(games))
     }
 
 }

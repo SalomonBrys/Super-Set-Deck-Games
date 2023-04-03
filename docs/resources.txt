@@ -1,4 +1,4 @@
-2023-03-25_17:16:24
+2023-04-03_21:14:50
 App.js
 App.js.map
 ServiceWorker.js
@@ -174,7 +174,7 @@ games/David_and_Goliath/en.html
 games/David_and_Goliath/fr.html
 games/Dead_Drop/R-Count+.png
 games/Dead_Drop/R-Count.png
-games/Dead_Drop/R_Count_Advanced.png
+games/Dead_Drop/R-Count_Advanced.png
 games/Dead_Drop/en.html
 games/Dead_Drop/fr.html
 games/Dealt/R-Combinations_&_Specials.png
@@ -193,6 +193,9 @@ games/Druids/fr.html
 games/Egocentric_World/R-Powers.png
 games/Egocentric_World/en.html
 games/Egocentric_World/fr.html
+games/Eternity/R-Animals.png
+games/Eternity/en.html
+games/Eternity/fr.html
 games/Fiasco/en.html
 games/Fiasco/fr.html
 games/Fox_in_Forest/R-Count.png
@@ -217,9 +220,6 @@ games/Hanamikoji/fr.html
 games/Herrlof/R-Powers.png
 games/Herrlof/en.html
 games/Herrlof/fr.html
-games/HiMiLo/R-Rules.png
-games/HiMiLo/en.html
-games/HiMiLo/fr.html
 games/High_Society/R-Specials.png
 games/High_Society/en.html
 games/High_Society/fr.html

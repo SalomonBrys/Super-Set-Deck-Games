@@ -1,0 +1,175 @@
+= Eternity
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Cyril Blondel.
+
+.Matériel
+****
+* 42 cartes Jeu : 1-14 à ♠, ♥ & ♣.
+* 3 cartes Atout : A à ♠, ♥ & ♣.
+* 18 cartes Animal : 6 Papillon, 6 Loups, 4 Phénix, 2 Dragons.
+****
+
+Le but du jeu est de gagner des points en faisant coïncider plis ramassés et engagements annoncés.
+Donc, il faudra :
+
+* Recueillir les animaux qu'on s'engage à loger, et
+* conquérir les presqu'îles (plis pour pouvoir y loger les animaux).
+
+
+== Préparation
+
+Placer sur le côté les 3 cartes Atout côte à côte dans l'ordre de votre choix.
+Ces 3 cartes représentent *le tableau d'atouts*.
+Laisser de la place en dessous de chaque carte afin d'y accueillir une colonne de cartes de sa famille.
+
+À côté, placer les 18 cartes Animal en pile sur leur face visible.
+
+*Une partie se joue en 3 manches*.
+
+*Le joueur le plus sage* (à qui appartient ce Super-Set Deck) est le premier donneur et le premier joueur.
+
+
+== Déroulement de la première manche
+
+Le donneur mélange les cartes faces cachées et distribuer deux par deux :
+
+* 8 cartes à 5 joueurs
+* 10 cartes à 4 joueurs
+
+Placer les 2 cartes restantes dans le tableau d'Atouts, dans la colonne correspondante à chaque famille.
+
+* À 3 joueurs : distribuer comme à 4 joueurs, puis placer les 10 cartes non attribuées faces visibles au-dessus du tableau d'Atouts.
+
+Le nombre de cartes en main détermine le nombre de tours de jeu (nombre de plis).
+
+L'Atout est déterminé par la famille qui a le plus de cartes et en cas d'égalité, par la famille la plus à gauche dans le tableau.
+Les valeurs des cartes n'ont aucune incidence pour la détermination de l'atout.
+
+IMPORTANT: *Dans Eternity, l'Atout peut changer à la fin de chaque tour de jeu !*
+           Les joueurs doivent donc être attentifs à l'évolution du tableau.
+
+
+=== Tour de jeu
+
+Pour démarrer un tour de jeu (un pli) le premier joueur doit poser une carte.
+
+Les joueurs suivants peuvent alors, au choix :
+
+* *Participer au pli :* le joueur doit mettre une carte de la même famille que celle jouée par le premier joueur.
+S'il n'en a pas, il doit jouer une carte de la famille d'Atout.
+S'il n'en a pas, il peut jouer une carte de son choix.
+
+* *S'engager :* le joueur qui souhaite s'engager *ne met pas sa carte dans le pli*, mais la place *à l'horizontale face visible devant lui*.
+N'importe quelle famille peut être jouée de la sorte, car la carte engagée n'est pas prise en compte dans le pli. +
+Ce joueur prend ensuite un nombre de cartes Animal en fonction de la valeur de la carte et les pose face visible devant lui :
++
+[%autowidth,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+|===
+h| 1 .4+| *0* .5+| h| 5 .5+| *1* .5+| h| 10 .5+| *2*
+h| 2 h| 6 h| 11
+h| 3 h| 7 h| 12
+h| 4 h| 8 h| 13
+2+| h| 9 h| 14
+|===
++
+Si la carte correspond à 0 animal (valeurs 1 à 4), il n'en prend pas (mais l'engagement est pris en compte).
+
+[IMPORTANT]
+====
+Dans un tour de jeu (un pli), à 3 ou 4 joueurs, un seul joueur peut s'engager. +
+À 5 joueurs, 2 joueurs peuvent s'engager.
+
+Les autres joueurs doivent donc participer au pli. +
+Un pli peut n'avoir aucun engagement.
+====
+
+
+=== Fin du tour
+
+Quand tous les joueurs ont posé une carte, le tour de jeu est terminé.
+
+*Parmi les cartes qui participent au pli :*
+
+* Si un ou des Atouts sont présents, la carte Atout la plus forte l'emporte.
+* S'il n'y a pas d'Atout, la carte la plus forte dans la famille demandée par le 1^er^ joueur l'emporte.
+
+Le joueur qui l'emporte prend toutes les cartes du pli et les empile faces cachées devant lui.
+Ce joueur a conquis une presqu'île !
+Ces cartes ne peuvent plus être retournées.
+
+*La carte engagée* (ou les cartes à 5 joueurs) *est ajoutée au tableau d'Atouts* dans la colonne correspondante à sa famille.
+Les joueurs découvrent alors l'Atout pour le tour suivant.
+
+Le joueur qui a emporté le pli devient le premier joueur du pli suivant.
+Les tours de jeux s'enchainent jusqu'à ce que les joueurs n'aient plus de cartes en main.
+
+
+=== Loger un Animal (valider un pli)
+
+Au fur et à mesure des animaux et des plis amassés devant lui, un joueur peut loger ses animaux.
+Pour cela, il place la carte animal face visible sur un pli gagné, donnant ainsi à l'animal un espace de vie.
+(Un joueur peut toujours poser un animal sur un pli, qu'il ait gagné l'animal ou le pli en premier).
+
+
+== Fin de la première manche
+
+Chaque joueur compte les plis et les animaux en sa possession :
+
+* S'il a exactement autant d'animaux que de plis, *le joueur marque 1 point par animal + 2 points supplémentaires*.
+* S'il a logé tous ses animaux, mais qu'il a des plis sans animal, *le joueur marque 1 point par animal*.
+* S'il lui reste des animaux non logés, *il ne marque aucun point !*
+Il est ainsi puni d'avoir laissé des animaux sans habitat et de ne pas avoir respecté ses engagements !
+
+IMPORTANT: *Cas particulier*: Un joueur qui ne fait aucun pli et aucun animal gagne quand même les 2 points supplémentaires.
+
+Les points de chaque joueur sont notés. +
+Tous les joueurs remettent ensuite les cartes Animal utilisées près du tableau d'Atouts.
+Toutes les cartes jeu (celles des plis et du tableau d'Atouts) sont ensuite mélangées.
+
+
+== Deuxième et troisième manche
+
+Ces deux manches se jouent comme la précédente, mais :
+
+* *C'est le joueur qui a eu le moins de points* à la manche précédente qui distribue et lance le premier pli.
+En cas d'égalité, c'est le joueur le plus agé parmi ceux concernés qui commence.
+* *Les points supplémentaires accordés à chaque fin de manche sont de +4 et +7 (si autant d'animaux que de plis) !*
+(Pour rappel, ces points sont aussi attribués si l'on fait 0 pli et 0 animal).
+
+
+== Fin de partie
+
+Après 3 manches, le joueur ayant le plus grand total de points l'emporte.
+En cas d'égalité, le joueur ayant gagné le plus de points à la dernière manche l'emporte.
+S'il y a toujours égalité, il y a plusieurs vainqueurs.
+
+
+== Variante aux points
+
+Vous pouvez jouer en nombre de points (par exemple le premier joueur à 20 points).
+Dans ce cas, le nombre de points supplémentaires est *toujours de +3* en fin de manche si le nombre de plis est égal au nombre d'animal.
+Mais *seul le joueur (ou les joueurs en cas d'égalité)* qui obtient le score de plus haut de la manche remporte ses points (points de plis + points supplémentaires).
+Les autres joueurs ne marquent rien.
+
+
+== Parties à 2 joueurs
+
+Le donneur mélange les cartes face cachées et distribue *14 cartes* à chacun des 2 joueurs.
+Les 14 cartes restantes sont placées en un tas neutre faces cachées.
+
+Chaque manche se joue en *7 plis*.
+
+Au début de chaque tour, on retourne 2 cartes du tas neutre. +
+Attention, au premier tour seulement, ces deux cartes sont placées aussitôt dans le tableau d'Atouts.
+
+À chaque tour, les 4 cartes du pli sont jouées par les deux joueurs (joueur A et joueur B) dans l'ordre suivant : carte de A, carte de B, carte de B, carte de A.
+*Pour le reste, la règle normale s'applique intégralement.*
+
+* Le 1^er^ joueur d'un tour pourra s'engager lors de la pose de sa 2^ème^ carte, la 1^ère^ carte jouée par celui-ci demeurant l'ouverture d'un pli.
+* Le 2^ème^ joueur pourra lui s'engager aussi bien avec sa 1^ère^ que sa 2^ème^ carte.
+
+Il n'y aura évidemment qu'une seule carte d'engagement jouée par tour.

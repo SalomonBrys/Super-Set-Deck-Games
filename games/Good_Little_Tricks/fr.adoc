@@ -149,7 +149,7 @@ C'est la ‘ligne' du Pantin.
 Après chaque pli, révélez une nouvelle carte de la pile du Patin et ajoutez là à sa ligne.
 
 
-=== Jouer les cartes du Patin
+=== Jouer les cartes du Pantin
 
 Le Pantin joue à son tour comme un troisième joueur, jouant automatiquement une carte de sa ligne.
 
