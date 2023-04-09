@@ -1,4 +1,4 @@
-2023-04-03_21:14:50
+2023-04-09_19:26:46
 App.js
 App.js.map
 ServiceWorker.js
@@ -287,6 +287,9 @@ games/Tichu/R-Combinations.png
 games/Tichu/R-Specials_&_Points.png
 games/Tichu/en.html
 games/Tichu/fr.html
+games/Trio/R-Connection.png
+games/Trio/en.html
+games/Trio/fr.html
 games/Trump_Tricks_Game/R-Points.png
 games/Trump_Tricks_Game/en.html
 games/Trump_Tricks_Game/fr.html

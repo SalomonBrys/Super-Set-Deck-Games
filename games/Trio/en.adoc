@@ -1,0 +1,140 @@
+= Trio
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Kaya Miyano.
+
+.Components
+****
+* 36 cards: 1-12 in ♠, ♥ & ♣.
+****
+
+Win trios (a trio is made up of 3 identical cards) before your opponents.
+
+* Simple mode:
+** Either *any* 3 trios.
+** Or the *7 trio*.
+
+* Spicy mode:
+** Either *2 connected trios* (from the trios won) *whose addition or subtraction is 7*.
++
+====
+For example, winning the 2 and 5 trios or the 2 and 9 trios earns victory.
+====
+** Or the *7 trio*.
+
+
+== Individual player rules
+
+=== Preparation
+
+Shuffle and deal the cards face down to each player according to the table below.
+Then put the remaining cards in the middle of the table face down next to each other:
+
+[%autowidth, cols="^,^,^"]
+|===
+| Players | Cards per player | Cards in the middle
+
+h| 3 | 9 | 9
+h| 4 | 7 | 8
+h| 5 | 6 | 6
+h| 6 | 5 | 6
+|===
+
+* Each player picks up their cards and sorts them into numerical order, lowest to highest without showing anyone.
+* Decide if you are playing SIMPLE or SPICY mode.
+* The player who ate avocado the most recently goes first.
+
+
+=== The game
+
+The players play in turn clockwise.
+When it is their turn, the player reveals numbered cards one by one: they must stop as soon as 2 numbers are different, otherwise they continue until 3 identical numbers are revealed.
+
+For each number, they can decide to reveal a card:
+
+A. *In the middle of the table.* +
+They turn any card they like face up in the middle of the table. +
+OR
+B. *From a player's hand, including themselves.*
+They reveal a player's *lowest* or *highest* number: either from their own hand or by asking an opponent.
+The card in question is placed face up on the table.
+
+A player's turn ends in one of two ways:
+
+* Either the player completes a trio and seals the deal by taking the 3 cards face up in front of them.
+* Or a revealed number is different from the previous one, so all the revealed numbers are then put back in place: face down in the middle and/or returned to their owner(s).
+
+In both cases, it is the next player's turn.
+
+[IMPORTANT]
+====
+* *You can perform the exact same action several times*.
+For example: ask the same opponent to reveal their highest number, then ask again for the highest of their remaining numbers.
+* Even when a player reveals a card from their own hand, *it must be the lowest or highest number* (NEVER a number from the middle of their hand).
+* If a player has no cards left when it is their turn, they still play using the cards in the middle and their opponents' cards.
+====
+
+.turns
+====
+Thomas asks Nick for his lowest number (a 3), then asks Isabella for her lowest number (a 2).
+His turn ends immediately.
+The 2 different cards are returned to their owners, and it is the next player's turn.
+
+Isabella turns over a card in the middle (a 2), then reveals her lowest number (a 2), and then reveals her lowest number again (a 2).
+She therefore wins the 2 trio, and it is the next player's turn.
+====
+
+
+=== End of the game
+
+A player claims victory as soon as they have won:
+* 3 trios or 2 connected trios (whose addition or subtraction is 7) depending on the game mode (SIMPLE or SPICY) +
+OR
+* the 7 trio (which triumphs over everything else!)
+
+
+== Team rules (with 4 or 6 players)
+
+Make the following adjustments to the above rules:
+
+
+=== Preparation
+
+* Form teams of 2 players: 2 teams when there are 4 players and 3 when there are 6.
+Sit opposite your partner, not side by side.
+* Shuffle and deal *all* the cards face down.
+No cards are placed in the middle of the table.
+* After sorting your cards, you can *swap* one with your partner.
+All teams can do this at the same time.
+
+.Swapping
+****
+If 2 partners wish to swap cards, they secretly select one of their cards, exchange them face down at the same time, and put them discretely in the correct place in their hand.
+
+Swapping is the only form of communication between partners.
+All other forms of communication are prohibited (eye signals, kicking under the table, showing where a swapped card was placed...).
+****
+
+
+=== The game
+
+* Each time a team wins a trio, the opposing team(s) can do a new *swap*.
+* The 2 partners share the trios they won.
+We recommend putting them together in front of one of the two players.
+
+.Team turn
+====
+Thomas asks Jade for her highest number (a 10), then asks his partner Isabella for her highest number (a 10) and reveals his highest number (a 10).
+So the team wins this trio and the other 2 teams can do a swap.
+====
+
+
+=== End of the game
+
+A team claims victory as soon as they have won:
+
+* 3 trios or 2 connected trios (whose addition or subtraction is 7) depending on the game mode (SIMPLE or SPICY) +
+OR
+* the 7 trio!

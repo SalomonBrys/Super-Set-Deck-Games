@@ -120,6 +120,7 @@ val langs = mapOf(
             "Drafting" to "Draft",
             "Hand Management" to "Gestion de Main",
             "Ladder Climbing" to "Montée en Puissance",
+            "Memory" to "Mémoire",
             "Player Elimination" to "Élimination de joueur·euse·s",
             "Predictive Bid" to "Pari Prédictif",
             "Push Your Luck" to "Pousse ta Chance",

@@ -1,0 +1,10 @@
+type:
+  - Memory
+  - Set Collection
+players: 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-12
+      hearts: 1-12
+      clubs: 1-12
