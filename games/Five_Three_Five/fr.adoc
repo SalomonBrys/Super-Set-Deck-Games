@@ -1,0 +1,385 @@
+= Cinq Trois Cinq
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Kenichi Kabuki.
+
+.Matériel
+****
+* 65 cartes numérotées : 1-5, 7-9 & 11-15 à ♠, ♥, ♣, ♦ & ★.
+****
+
+Soyez le·la premier·e à vous débarasser de toutes les cartes de votre main.
+Dès qu'un·e joueur·euse n'a plus de cartes, tous les autres joueur·euse·s marquent des points pour les cartes dans leurs mains.
+
+Lorsque au moins un·e joueur·euse a atteint ou dépassé 20 points, le·la joueur·euse avec le moins de points l'emporte !
+
+
+[[setup]]
+== Mise en Place
+
+À 2, 3, ou 4 joueur·euse·s, retirez les cartes ★ (ne jouez qu'avec les ♠, ♥, ♣ & ♦).
+Celui·celle qui a consulté la météo le plus récemment est le·la premier·e joueur·euse.
+
+IMPORTANT: Les familles des cartes sont ignorées dans ce jeu.
+Seules les valeurs sont prises en compte.
+
+Le·la premier·e joueur·euse mélange et distribue les mains de départ selon le tableau ci-dessous.
+Les cartes non distribuées sont placée à proximité, face cachées.
+
+[%autowidth,cols="^,^,^,^"]
+|===
+| Joueur·euse·s | Familles | Mains | Non-distribuées
+
+| 2 | ♠, ♥, ♣, ♦ | 2×12 | 4
+| 3 | ♠, ♥, ♣, ♦ | 13 | 13
+| 4 | ♠, ♥, ♣, ♦ | 12 | 4
+| 5 | ♠, ♥, ♣, ♦, ★ | 12 | 5
+| 6 | ♠, ♥, ♣, ♦, ★ | 10 | 5
+|===
+
+.2 joueur·euse·s
+****
+Lors de la mise en place, chaque joueur·euse reçoit deux mains séparées de 12 cartes : une main de 12 cartes pour la première manche, et une main de 12 cartes pour la seconde manche.
+
+Sans regarder leur contenu, chaque joueur·euse prend l'une des deux mains et garde l'autre pour plus tard.
+****
+
+
+== Définitions
+
+* *Figure* : Une, deux ou trois cartes jouées en groupe à la Figure Centrale.
+* *Figure Centrale* : La Figure en actuellement en jeu au centre de la table.
+Peut contenir jusqu'à cinq cartes.
+* *Défausser* : Défaussez toutes les cartes de la Figure Centrale, face cachées.
+* *Pli* : Consiste en plusieurs Figures, jusqu'à ce qu'elles soient défaussées.
+* *Manche* : Consiste en plusieurs Plis, jusqu'à ce qu'un·e joueur·euse n'ait plus de cartes.
+* *Partie* : Consiste en plusieurs Manches, jusqu'à ce qu'un·e joueur·euse ait atteint ou dépassé 20 points.
+
+
+== Déroulement
+
+Le jeu se déroule dans le sens horaire, en commençant par le·la premier·e joueur·euse.
+
+À votre tour, vous *devez* réaliser *l'une de ces quatre* actions :
+
+. Ouvrir
+. Remplacer
+. Ajouter
+. Passer
+
+Des règles spéciales s'appliquent lorsque vous jouez un 8, et seront expliquées plus tard (<<rule-of-8>>).
+
+
+== Quatre Actions
+
+=== 1. Ouvrir
+
+Cette action *doit toujours* être réalisée par le·la premier·e joueur·euse de chaque Pli.
+Il·Elle choisit *une, deux, ou trois* cartes et joue la Figure de son choix, formant ainsi la première Figure Centrale.
+
+.Ouvrir
+====
+[%autowidth]
+|===
+h| Main | 2, *2*, *3*, *4*, 11
+h| Figure Centrale |
+h| Nouvelle Figure Centrale | 2, 3, 4
+|===
+
+Simon doit Ouvrir et joue une Suite [2,3,4] de sa main.
+Cela crée une nouvelle Figure Centrale, avec les cartes [2,3,4].
+====
+
+Les Figures possibles sont :
+
+* *Singleton* : Une carte unique.
+               Ex : [4] ou [9].
+* *Ensemble* : Deux ou trois cartes de valeur identiques.
+              Ex : [1,1] ou [5,5,5].
+* *Suite* : Deux ou trois cartes de valeur consécutives.
+            Ex : [7,8] ou [12,13,14].
+
+
+=== 2. Remplacer
+
+Jouez *une, deux, ou trois cartes* du *même type de Figure*, de *même taille*, et de *force suppérieure* à la Figure Centrale.
+
+Lorsque vous Remplacez, placez vos cartes par-dessus la Figure Centrale, de manière à cacher la ou les carte(s) précédente(s).
+
+* Vous ne pouvez Remplacer qu'en jouant une figure de *même taille*.
+** Une carte ne peut *seulement* Remplacer qu'une carte.
+** Deux cartes ne peuvent *seulement* Remplacer que deux cartes.
+** Trois cartes ne peuvent *seulement* Remplacer que trois cartes.
+
+* Dans les Singletons et les Ensembles, *les 1 sont les plus faibles* et *les 15 sont les plus forts*.
++
+.Remplacer un Singleton
+====
+[%autowidth]
+|===
+h| Main | 2, 2, 5, 9, 14, *14*
+h| Figure Centrale | 1
+h| Nouvelle Figure Centrale | 14
+|===
+
+Andréa choisit de Remplacer et joue un Singleton [14] de sa main sur le [1] en jeu.
+Cela crée une nouvelle Figure Centrale, avec la carte [14].
+====
+
+* Dans les Suites, *les 15 sont les plus faibles* et *les 1 sont les plus forts*.
++
+.Remplacer une Suite
+====
+[%autowidth]
+|===
+h| Main | 2, *2*, *3*, 5, 11, 11, 14
+h| Figure Centrale | 14, 15
+h| Nouvelle Figure Centrale | 2, 3
+|===
+
+Dani choisis de Remplacer et joue une Suite [2,3] de sa main sur le [14,15] en jeu.
+Cela crée une nouvelle Figure Centrale, avec les cartes [2,3].
+====
+
+* Si la Figure Centrale est un Ensemble, vous *ne pouvez pas* la Remplacer par une Suite.
+
+* Si la Figure Centrale est une Suite, vous *ne pouvez pas* la Remplacer par un Ensemble.
+
+* Si la Figure Centrale contient quatre cartes, vous *ne pouvez pas* choisir l'action Remplacer et devez soit Ajouter, soit Passer.
+
+
+=== 3. Ajouter
+
+Jouez *une, deux, ou trois* cartes dans la Figure Centrale, augmentant ainsi sa *taille*.
+
+* Vous *pouvez* Ajouter une Suite ou un Set à un Singleton dans la Figure Centrale.
+
+* Vous *pouvez* Ajouter un Singleton à une Suite ou un Ensemble dans la Figure Centrale.
++
+.Ajouter un Singleton pour former un Ensemble
+====
+[%autowidth]
+|===
+h| main | 2, 2, *7*, *7*, 8, 11, 14
+h| Figure Centrale | 7
+h| Nouvelle Figure Centrale | 7, 7, 7
+|===
+
+Simon choisit d'Ajouter l'Ensemble [7,7] de sa main au [7] en jeu.
+Cela crée une nouvelle Figure Centrale, avec les cartes [7,7,7].
+====
+
+* Vous *ne pouvez pas* Ajouter une Suite à une Figure Centrale Ensemble.
+
+* Vous *ne pouvez pas* Ajouter un Ensemble à une Figure Centrale Suite.
+
+* Les cartes jouées *ne doivent pas* nécessairement être consécutives lorsque vous ajoutez à la Figure Centrale pour former une Suite.
+  Les cartes de la Figure Centrale *doivent* par contre être consécutives une fois jouées.
++
+.Ajouter à un Singleton pour former une Suite
+====
+[%autowidth]
+|===
+h| Main | *1*, *3*, *4*, 7, 9, 11
+h| Figure Centrale | 2
+h| Nouvelle Figure Centrale | 1, 2, 3, 4
+|===
+
+Andréa choisit d'Ajouter les cartes [1,3,4] de sa main au [2] en jeu.
+Cela crée une nouvelle Figure Centrale, avec les cartes [1,2,3,4].
+====
+
+
+=== 4. Passer
+
+Si vous *ne pouvez pas, ou ne voulez pas* jouer de cartes, vous passez.
+Une fois que vous avez passé, vous *ne pouvez plus jouer de cartes* dans le pli.
+
+Le·la premier·e joueur·euse d'un pli *ne peut pas* Passer, puisqu'il·elle *doit* réaliser l'action Ouvrir.
+Il·elle pourra Passer lors de ses futures actions.
+
+
+== Fin d'un Pli
+
+Un pli continue en sens horaire jusqu'à ce que *l'une de ces conditions* soit remplie :
+
+* Tous les joueur·euse·s ont passé.
+  Ex : 3 joueur·euse·s ont passé dans une jeu à 4 joueur·euse·s.
+* Toutes les cartes d'une même valeur se trouvent dans la Figure Centrale : *quatre cartes à 2, 3, ou 4 joueur·euse·s* ou *cinq cartes à 5 ou 6 joueur·euse·s*.
+* La figure Centrale est une Suite de cinq cartes.
+* Un 8 est joué selon la <<rule-of-8>>.
+
+Dès que l'une de ces conditions est remplie, le pli se *termine immédiatement* et est défaussé.
+Le·La dernier·e joueur·euse à avoir joué une ou des carte(s) défausse le pli et ouvre le pli suivant.
+
+.Défausser le pli avec un Ensemble complet
+====
+[%autowidth]
+|===
+h| Main | *1*, 4, 5, 8, 8, 14, 15
+h| Figure Centrale | 1, 1, 1
+h| Nouvelle Figure Centrale | 1, 1, 1, 1
+|===
+
+Dani choisit d'Ajouter et le [1] de sa main aux [1,1,1] en jeu.
+Cela crée une nouvelle Figure Centrale, avec les cartes [1,1,1,1].
+Puisque tous les 1 (dans un jeu à 2, 3, ou 4 joueur·euse·s) sont dans la Figure Centrale, le pli est défaussé et Dani ouvrira le pli suivant.
+====
+
+
+[[rule-of-8]]
+== Règle des 8
+
+* Lorsque *un 8 ou plus* sont joués pour Remplacer ou Ajouter, le pli *se termine* et est *immediately* défaussé.
++
+.Défausser un pli avec un 8
+====
+[%autowidth]
+|===
+h| Main | 2, 2, 7, 7, *8*, *9*, 14
+h| Figure Centrale | 13, 14
+h| Nouvelle Figure Centrale | 8, 9
+|===
+
+Andréa choisit de Remplacer et joue une Suite [8,9] de sa main sur les [13,14] en jeu.
+Cela crée une nouvelle Figure Centrale, avec les cartes [8,9].
+Puisque au moins un [8] a été joué, la Règle des 8 s'applique.
+====
+
+* Si un ou plusieurs 8 sont joués lors de l'action Ouvrir, le pli n'est pas défaussé.
++
+.Ouvrir avec 8
+====
+[%autowidth]
+|===
+h| Main | 3, *8*, *8*, 14
+h| Figure Centrale |
+h| Nouvelle Figure Centrale | 8, 8
+|===
+
+Andréa doit Ouvrir et joue un Ensemble [8,8] de sa Main.
+Puisque les [8,8] ont été joués lors de l'action Ouvrir, le pli n'est pas défaussé.
+====
++
+.Défausser le pli avec un autre 8
+====
+[%autowidth]
+|===
+h| Main | 2, 2, 3, *8*, 9, 12, 12
+h| Figure Centrale | 8, 8
+h| Nouvelle Figure Centrale | 8, 8, 8
+|===
+
+Après l'Ouverture d'Andréa avec [8,8], Dani choisit d'Ajouter un [8] de sa main aux [8,8] en jeu.
+Cela crée une nouvelle Figure Centrale, avec les cartes [8,8,8].
+Puisque au moins un [8] a été joué, la Règle des 8 s'applique.
+====
+
+
+== Fin d'une Manche
+
+À l'instant où un·e joueur·euse n'a plus de cartes, la manche se *termine immédiatement*.
+Tous les autres joueur·euse·s scorent des points (négatifs) correspondant aux cartes restantes dans leurs mains.
+
+[%autowidth,cols="^,^"]
+|===
+| Valeur | Points
+
+| 1 | 3
+| 2 | 1
+| 3 | 1
+| 4 | 1
+| 5 | 1
+| 7 | 1
+| 8 | 5
+| 9 | 1
+| 11 | 2
+| 12 | 2
+| 13 | 2
+| 14 | 2
+| 15 | 3
+|===
+
+Si la Fin de la Partie n'est pas déclenchée, jouez une nouvelle manche en reprenant à la <<setup>>.
+Celui·Celle ayant le *plus de point* ouvrira le premier pli de la prochaine manche.
+En cas d'égalité, c'est celui·celle qui se trouve le·la plus proche, en sens horaire, du·de la précédent·e premier·e joueur·euse.
+
+.2 joueur·euse·s
+****
+Dès que l'un·e des joueur·euse·s n'a plus de cartes, la première manche se termine immédiatement.
+
+* L'autre joueur·euse score des points correspondant aux cartes restantes dans sa main.
+Une fois les points marqués, gardez les cartes près de vous.
+Elles vous seront utiles pour départager les égalités.
+* Si c'est la *première manche* qui vient d'être jouée, prenez les cartes écartées précédemment et jouez la deuxième manche.
+Celui·Celle avec le *plus de points* ouvre le premier pli de la deuxième manche.
+* Si c'est la *deuxième* qui vient d'être jouée, procédez alors à la <<end>>.
+****
+
+
+[[end]]
+== Fin de la Partie
+
+Si un·e joueur·euse *atteint ou dépasse 20 points*, la partie se termine.
+Celui·celle ayant *le moins de points* remporte la partie.
+En cas d'égalité, celui·celle ayant le moins de cartes en main remporte la partie.
+Si l'égalité persiste, partagez-vous la victoire !
+
+.2 joueur·euse·s
+****
+Après deux manches, chacune de 12 cartes, la partie se termine.
+Celui·celle ayant *le moins de points* remporte la partie.
+En cas d'égalité, celui·celle à qui il reste le moins de cartes des deux manches remporte la partie.
+Si l'égalité persiste, Celui·celle n'ayant pas scoré de points à la deuxième manche remporte la partie.
+****
+
+
+== Variantes
+
+=== Remplacement de Figure (2-6 Joueur·euse·s)
+
+Toutes les règles restent les mêmes, à l'éxception des changements suivants à l'Action Remplacer :
+
+Lorsque vous Remplacez, une figure de *plus grande taille* peut être jouée.
+
+*Une Figure d'une carte* peut être remplacée par *une figure de deux ou trois cartes*.
+*Une Figure de deux cartes* peut être remplacée par *une figure de trois cartes*.
+
+Lorsque vous Remplacez par une figure de *plus grande taille*, le type de la Figure Centrale *peut* être changée.
+
+.Changer la Figure Principale
+====
+[%autowidth]
+|===
+h| Main | *2*, *3*, 4, 4, 9, 12, 15
+h| Figure Centrale | 1, 1
+h| Nouvelle Figure Centrale | 2, 3, 4
+|===
+
+Andréa choisit de Remplacer et joue une Suite [2,3,4] de sa main sur les [1,1] en jeu.
+C'est possible puisque la figure qu'elle joue est de plus grande taille que la précédente Figure Centrale.
+Cela crée une nouvelle Figure Centrale, avec les cartes [2,3,4].
+====
+
+
+=== 20 Points (2 Joueur·euse·s)
+
+Toutes les règles restent les mêmes, mais vous jouez à 20 points au lieu de jouer deux manches.
+
+
+=== Partie courte (2-6 Joueur·euse·s)
+
+Jouez à 10 points.
+
+
+=== Partie longue (2-6 Joueur·euse·s)
+
+Jouez à 30 points.
+
+
+=== Grandes mains (3 Joueur·euse·s)
+
+Distribuez une main de 16 cartes par joueur·euse.

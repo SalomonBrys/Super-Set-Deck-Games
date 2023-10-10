@@ -97,12 +97,9 @@ Nous décrirons dans cette règle une partie à 4 joueurs
 Si vous jouez à 4 joueurs, ignorez simplement les encarts.
 ****
 
-Avant de démarrer :
-
-* Chaque joueur prend une carte référence.
-* Le jeu se joue en équipe de 2 joueurs contre 2 joueurs.
+Le jeu se joue en équipe de 2 joueurs contre 2 joueurs.
 Après avoir composé vos équipes, assurez-vous que les mêmes membres d’une équipe ne soient pas assis côte à côte, mais séparés à chaque fois par un membre de l’équipe adverse.
-+
+
 ****
 *3 Joueurs* : Le jeu se joue chacun pour soi au lieu de se jouer en équipe.
 ****
@@ -233,7 +230,7 @@ Déterminez le gagnant de la manche *dans cet ordre* :
 1. Si une équipe a gagné un total de *quatre ou plus* Boss Yokai, *celle-ci gagne la manche*.
 2. Si une équipe a gagné un *total de sept plis*, alors c’est *l’autre équipe qui gagne la manche*.
 L’équipe gagnante récupère *toutes les cartes Boss Yokai restantes dans les mains de tous les joueurs* et les ajoute à ses propres cartes Boss Yokai précédemment gagnées dans la manche.
-3) Sinon, l’équipe dont le joueur a gagné le *dernier pli* de la manche est la gagnante. +
+3. Sinon, l’équipe dont le joueur a gagné le *dernier pli* de la manche est la gagnante. +
 *Cette équipe remporte la carte d'atout* (qui est nécessairement un Boss Yokai – important uniquement pour le calcul des scores traditionnel).
 
 ****

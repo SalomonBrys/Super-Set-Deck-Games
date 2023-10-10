@@ -2,6 +2,7 @@ type:
   - Hand Management
   - Set Collection
   - Push Your Luck
+  - Draw & Write
 players: 2, 3, 4, 5, 6, 7, 8
 cards:
   Base:

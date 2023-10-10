@@ -1,0 +1,15 @@
+type:
+  - Hand Management
+  - Ladder Climbing
+  - Push Your Luck
+  - Score and Reset
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-5, 7-9, 11-15
+      hearts: 1-5, 7-9, 11-15
+      clubs: 1-5, 7-9, 11-15
+      diamonds: 1-5, 7-9, 11-15
+    5,6-players:
+      stars: 1-5, 7-9, 11-15

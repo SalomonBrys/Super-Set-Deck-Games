@@ -1,4 +1,4 @@
-2023-04-09_19:26:46
+2023-10-10_21:57:55
 App.js
 App.js.map
 ServiceWorker.js
@@ -198,6 +198,8 @@ games/Eternity/en.html
 games/Eternity/fr.html
 games/Fiasco/en.html
 games/Fiasco/fr.html
+games/Five_Three_Five/en.html
+games/Five_Three_Five/fr.html
 games/Fox_in_Forest/R-Count.png
 games/Fox_in_Forest/R-Powers.png
 games/Fox_in_Forest/en.html
@@ -249,6 +251,9 @@ games/Okey_Dokey/en.html
 games/Okey_Dokey/fr.html
 games/Parade/en.html
 games/Parade/fr.html
+games/Qwinto/Sheets.pdf
+games/Qwinto/en.html
+games/Qwinto/fr.html
 games/Rage/R-Actions.png
 games/Rage/en.html
 games/Rage/fr.html

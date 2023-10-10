@@ -1,6 +1,7 @@
 = Haggis
 :toc: preamble
 :toclevels: 4
+:toc-title: Sommaire
 :icons: font
 
 Un jeu de Sean Ross.

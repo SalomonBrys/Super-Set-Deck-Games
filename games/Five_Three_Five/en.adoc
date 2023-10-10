@@ -1,0 +1,384 @@
+= Five Three Five
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Kenichi Kabuki.
+
+.Components
+****
+* 65 numbered cards: 1-5, 7-9 & 11-15 in ♠, ♥, ♣, ♦ & ★.
+****
+
+Be the first to get rid of all your cards in hand.
+As soon as any player runs out of cards, all other players gain points from the cards left in their hands.
+
+When at least one player has reached 20 points or more, the player with the fewest points wins!
+
+
+[[setup]]
+== Round Setup
+
+In a 2, 3, or 4 player game, remove the ★ cards (only play with ♠, ♥, ♣ & ♦).
+The player who most recently checked the weather is the lead player.
+
+IMPORTANT: The card suits are ignored for this game.
+Only the values are taken into account.
+
+The lead player shuffles and deals the starting hands according to the setup chart below.
+All undealt cards are set aside, facedown.
+
+[%autowidth,cols="^,^,^,^"]
+|===
+| Players | Suits | Hands | Undealt
+
+| 2 | ♠, ♥, ♣, ♦ | 2×12 | 4
+| 3 | ♠, ♥, ♣, ♦ | 13 | 13
+| 4 | ♠, ♥, ♣, ♦ | 12 | 4
+| 5 | ♠, ♥, ♣, ♦, ★ | 12 | 5
+| 6 | ♠, ♥, ♣, ♦, ★ | 10 | 5
+|===
+
+.2-player only
+****
+At the start of each round, both players are dealt two separate hands of 12 cards: one 12 card hand for the first half of the round and one 12 card hand for the second half.
+
+Without looking at either hand, players pick up one and set the other aside for now.
+****
+
+
+== Definitions
+
+* *Meld*: One, two, or three cards played as a group to the Central Meld.
+* *Central Meld*: The Meld currently in play at the center of the table.
+Can consist of up to five cards.
+* *Clear*: Discard all cards, facedown, from the Central Meld.
+* *Trick*: Consists of multiple Melds, until they are Cleared.
+* *Round*: Consists of multiple Tricks, until one player is out of cards.
+* *Game*: Consists of multiple Rounds, until any player reaches 20 or more points.
+
+
+== How to Play
+
+The game proceeds in a clockwise direction, beginning with the lead player.
+
+On your turn, you *must* perform *one of the following four* actions:
+
+. Lead
+. Overwrite
+. Add
+. Pass
+
+There are special rules when playing 8's that will be explained in detail later (<<rule-of-8>>).
+
+
+== Four Actions
+
+=== 1. Lead
+
+This action *must always* be performed by the lead player of each trick.
+The lead player chooses *one, two, or three* cards and plays any one legal meld type, forming the central meld.
+
+.Leading
+====
+[%autowidth]
+|===
+h| Hand | 2, *2*, *3*, *4*, 11
+h| Central Meld |
+h| New Central Meld | 2, 3, 4
+|===
+
+Sonny must Lead and plays a Run [2,3,4] from their hand.
+This creates a new Central Meld, consisting of [2,3,4].
+====
+
+The legal meld types are:
+
+* *Singles*: A single card.
+             E.g. [4] or [9].
+* *Sets*: Two or three cards consisting of identical numbers.
+          E.g. [1,1] or [5,5,5].
+* *Runs*: Two or three cards consisting of consecutive numbers.
+          E.g. [7,8] or [12,13,14].
+
+
+=== 2. Overwrite
+
+Play *one, two, or three cards* that are of the *same meld type*, *equal size*, and *greater strength* than the Central Meld.
+
+When Overwriting, stack your card(s) on top of the Central Meld, to hide the previously played card(s).
+
+* Players can only Overwrite by playing *equal size* melds.
+** One card *only* Overwrites one card.
+** Two cards *only* Overwrite two cards.
+** Three cards *only* Overwrite three cards.
+
+* When playing Singles and Sets, *1's are the lowest* strength and *15's are the highest*.
++
+.Overwriting a Single
+====
+[%autowidth]
+|===
+h| Hand | 2, 2, 5, 9, 14, *14*
+h| Central Meld | 1
+h| New Central Meld | 14
+|===
+
+Autumn chooses to Overwrite and plays a Single [14] from their hand to the [1] in play.
+This creates a new Central Meld, consisting of [14].
+====
+
+* When playing Runs, *15's are the lowest* strength and *1's are the highest*.
++
+.Overwriting a Run
+====
+[%autowidth]
+|===
+h| Hand | 2, *2*, *3*, 5, 11, 11, 14
+h| Central Meld | 14, 15
+h| New Central Meld | 2, 3
+|===
+
+Dewey chooses to Overwrite and plays a Run [2,3] from their hand to the [14,15] in play.
+This creates a new Central Meld, consisting of [2,3].
+====
+
+* Once Sets are in the Central Meld, players *cannot* Overwrite with Runs.
+
+* Once Runs are in the Central Meld, players *cannot* Overwrite with Sets.
+
+* If the Central Meld contains four cards, players *cannot* take the Overwrite action and must either Add or Pass.
+
+
+=== 3. Add
+
+Play *one, two, or three* cards to the Central Meld, increasing its *overall size*.
+
+* Players *can* Add a Run or a Set to a Single in the Central Meld.
+
+* Players *can* Add a Single to a Run or a Set in the Central Meld.
++
+.Adding to a Single to form a Set
+====
+[%autowidth]
+|===
+h| Hand | 2, 2, *7*, *7*, 8, 11, 14
+h| Central Meld | 7
+h| New Central Meld | 7, 7, 7
+|===
+
+Sonny chooses to Add and plays a Set [7,7] from their hand to the [7] in play.
+This creates a new Central Meld, consisting of [7,7,7].
+====
+
+* Players *cannot* Add a Run while a Set is in the Central Meld.
+
+* Players *cannot* Add a Set while a Run is in the Central Meld.
+
+* Cards played *do not* need to be consecutive numbers when Adding to the Central Meld to make a Run.
+  However, all cards in the Central Meld *must* be consecutive numbers after they are played.
++
+.Adding to a Single to form a Run
+====
+[%autowidth]
+|===
+h| Hand | *1*, *3*, *4*, 7, 9, 11
+h| Central Meld | 2
+h| New Central Meld | 1, 2, 3, 4
+|===
+
+Autumn chooses to Add and plays [1,3,4] from their hand to the [2] in play.
+This creates a new Central Meld, consisting of [1,2,3,4].
+====
+
+
+=== 4. Pass
+
+If a player *cannot or chooses not to* play cards, they Pass.
+Once a player passes, they *cannot play any more cards* to the trick in which they have passed.
+
+The lead player of a trick *may not* Pass, because they *must* take the Lead action.
+However, they may Pass on any of their future actions.
+
+
+== End of Trick
+
+A trick goes around the table multiple times until *one of the following* happens:
+
+* All but one player passes.
+  E.g. 3 players pass in a 4 player game.
+* All cards of the same number are in the Central Meld: *four cards in a 2, 3, or 4 player game* or *five cards in a 5 or 6 player game*.
+* A Run of five cards is in the Central Meld.
+* An 8 is played using the <<rule-of-8>>.
+
+If any of the above occurs, the trick *ends immediately* and is cleared.
+The last player to play a card clears the trick and will lead the next trick.
+
+.Clearing a Trick with a full Set
+====
+[%autowidth]
+|===
+h| Hand | *1*, 4, 5, 8, 8, 14, 15
+h| Central Meld | 1, 1, 1
+h| New Central Meld | 1, 1, 1, 1
+|===
+
+Dewey chooses to Add and plays a Single [1] from their hand to the [1,1,1] in play.
+This creates a new Central Meld, consisting of [1,1,1,1].
+Since all four 1's (in a 2, 3, or 4 player game) have been played, the trick is cleared and Dewey will lead the next trick.
+====
+
+
+[[rule-of-8]]
+== Rule of 8's
+
+* When *one or more 8's* are used to Overwrite or Add, the trick *ends* and is cleared *immediately*.
++
+.Clearing a Trick with an 8
+====
+[%autowidth]
+|===
+h| Hand | 2, 2, 7, 7, *8*, *9*, 14
+h| Central Meld | 13, 14
+h| New Central Meld | 8, 9
+|===
+
+Autumn chooses to Overwrite and plays a Run [8,9] from their hand to the [13,14] in play.
+This creates a new Central Meld, consisting of [8,9].
+Since at least one [8] was played, the Rule of 8’s applies.
+====
+
+* If 8's are played during the Lead action, the trick will not clear.
++
+.Leading with an 8
+====
+[%autowidth]
+|===
+h| Hand | 3, *8*, *8*, 14
+h| Central Meld |
+h| New Central Meld | 8, 8
+|===
+
+Autumn must Lead and plays a Set [8,8] from their hand.
+Since the [8,8] was played during the Lead action, the trick does not clear.
+====
++
+.Clearing a Trick with another 8
+====
+[%autowidth]
+|===
+h| Hand | 2, 2, 3, *8*, 9, 12, 12
+h| Central Meld | 8, 8
+h| New Central Meld | 8, 8, 8
+|===
+
+After Autumn’s Lead of [8,8], Dewey chooses to Add and plays a Single [8] from their hand to the [8,8] in play.
+This creates a new Set, consisting of [8,8,8].
+Since at least one [8] was played, the Rule of 8’s applies.
+====
+
+
+== End of Round
+
+As soon as any player runs out of cards, the round *ends immediately*.
+Everyone else scores (negative) points corresponding to the cards remaining in their hands.
+
+[%autowidth,cols="^,^"]
+|===
+| Value | Points
+
+| 1 | 3
+| 2 | 1
+| 3 | 1
+| 4 | 1
+| 5 | 1
+| 7 | 1
+| 8 | 5
+| 9 | 1
+| 11 | 2
+| 12 | 2
+| 13 | 2
+| 14 | 2
+| 15 | 3
+|===
+
+If End of Game has not been reached, start the next round from <<setup>>.
+The player with the *most points* is the lead player for the next round.
+If there is a tie, the lead player is the player closest to the previous round’s lead player, in clockwise order.
+
+.2-player only
+****
+As soon as one player runs out of cards, the hand ends immediately.
+
+* The other player score points corresponding the cards remaining in their hand.
+After scoring, they place the scored cards next to them.
+These are used in case of a tiebreaker.
+* If the *first half* of the round was played, then both players pick up their previously set aside hand to start the second half of the round.
+The player with the *most points* is the lead player.
+* If the *second half* of the round was played, then proceed to <<end>>.
+****
+
+
+[[end]]
+== End of Game
+
+If any player reaches *20 or more points*, the game ends.
+The player with the *fewest points* is the winner.
+If there is a tie, the player with the fewest cards left in hand is the winner.
+If there is still a tie, the tied players share the victory.
+
+.2-player only
+****
+After one round, which consists of two hands of 12 cards, the game ends.
+The player with the *fewest points* is the winner.
+If there is a tie, the player with the fewest remaining cards from both rounds is the winner.
+If there is still a tie, the player who did not score points in the second half is the winner.
+****
+
+
+== Variants
+
+=== PGC Overwrite (2-6 Player)
+
+All rules are the same, except for the following changes to the Overwrite action.
+
+When Overwriting, a meld of *greater size* may be played.
+
+*Any one-card* meld will be beaten by *any two- or three-card* meld.
+*Any two-card* meld will be beaten by *any three-card* meld.
+
+When Overwriting with a meld of *greater size*, the Central Meld type *can* be changed.
+
+.Changing the Central Meld type
+====
+[%autowidth]
+|===
+h| Hand | *2*, *3*, 4, 4, 9, 12, 15
+h| Central Meld | 1, 1
+h| New Central Meld | 2, 3, 4
+|===
+
+Autumn chooses to Overwrite and plays a Run [2,3,4] from their hand to the [1,1] in play.
+This is allowed since the meld played is of greater size than the Central Meld.
+This creates a new Run, consisting of [2,3,4].
+====
+
+
+=== 20 Points (2 Player)
+
+All rules are the same, except play to 20 points instead of two hands.
+
+
+=== Shorter Game (2-6 Player)
+
+Play to 10 points.
+
+
+=== Longer Game (2-6 Player)
+
+Play to 30 points.
+
+
+=== Extra Card Deal (3 Player)
+
+Deal 16 cards per player.

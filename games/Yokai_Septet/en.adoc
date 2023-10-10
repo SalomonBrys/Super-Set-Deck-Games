@@ -95,9 +95,7 @@ If you are playing with four, you can ignore them.
 
 Before starting the game:
 
-* Each player takes a reference card.
-* The game is played as a team battle of two players versus two players.
-Randomly split up into two teams.
+The game is played as a team battle of two players versus two players.
 The team members should sit *across from each other*, so that both of your opponents sit next to you.
 +
 ****

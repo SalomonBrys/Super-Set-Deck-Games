@@ -7,7 +7,7 @@ A game by Naoki Homma.
 
 .Components
 ****
-* 66 cards : 0-10 à ♠, ♥, ♣, ♦, ✿, ★.
+* 66 cards: 0-10 in ♠, ♥, ♣, ♦, ✿, ★.
 ****
 
 The parade has started in Wonderland.

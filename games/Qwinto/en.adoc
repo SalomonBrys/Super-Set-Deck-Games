@@ -1,0 +1,168 @@
+= Qeinto
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Bernhard Lach, Uwe Rapp & Reinhard Staupe.
+
+.Components
+****
+* 32 cards: 0-6 & S in ♠, ♥, ♣ & ★.
+* As much link:Sheets.pdf[game sheets] as there are players.
+****
+
+The rules for recording the numbers on the score-sheets are *exactly* the same as in the original game.
+*Only* numbers *from 1 to 18* can be recorded on the score-sheets.
+The zero and minus numbers are *not* allowed to be recorded!
+If you’re already familiar with the original game, you can continue reading at <<setup>>.
+Even the end of the game and scoring are identical to the original game.
+
+
+[[entering-numbers]]
+== Entering numbers
+
+The order in which you enter the numbers in the suit rows is up to you.
+For example, you can first enter a number in the ♥ row on the right, then in the middle of the ♣ row, and then on the left side in the ♣ row; then to the far right of the ♠ row, and then in the ♥ row on the left side, and so on and so forth.
+
+When entering numbers you only have to follow these two rules:
+
+1. *Within a suit row* (i.e. horizontally from left to right) the numbers must be in ascending order from left to right with the greater numbers to the right, and no number may appear more than once in the same row.
+You may have gaps of any size between the entered numbers in a row, which you can fill in later (with the right numbers).
+2. *Within a column* (i.e. vertically from top to bottom) no number may appear more than once; the same goes for a 2-field column and a 3-field column.
+The order of the numbers in a column doesn't matter.
+
+NOTE: Each suit row has one missing field.
+Do not enter a number in this field.
+It stays empty and serves no further purpose.
+In each of the five columns consisting of 3 fields each there is one bonus field in the shape of a pentagon.
+If all three fields in the column are filled with numbers, you get the number in the bonus field as bonus points.
+
+NOTE: Each player is allowed to see the other players' sheets at all times.
+
+
+[[setup]]
+== Game setup
+
+Shuffle the cards.
+Each player receives *three cards*, which form their *hand*.
+Lay down *four cards* face up in the middle of the table in a *2-by-2* grid.
+Put the remaining cards into a draw pile and put it face down next to the 2-by-2 grid.
+Choose first player at random.
+
+
+== How to play
+
+On your turn, you have to lay down *exactly one* card from your hand face up on any one of the four cards in the 2-by-2 grid (see “Playing two cards” for a special case).
+The *laid cards* and both neighboring cards determine the results of the round.
+Add up the three numbers of these cards.
+
+IMPORTANT: S cards are worth -2 (minus two).
+
+Then clearly say the sum aloud.
+Also, say what the suits are of the three cards.
+
+CAUTION: ★ is not considered a suit in this game and as such is not named when calling out the suits.
+
+.Adding a card
+====
+.Before play
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♣5
+|===
+
+Tim lays down the ♠4 on the bottom right ♣5.
+
+.After play
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♠4
+|===
+
+The ♠4 and both neighboring cards are added up (stem:[4+3+3=10])
+
+The three cards consist of ♠ and ♥ (★ is not considered).
+Tim says: “A 10 in spades or hearts.”
+====
+
+.Special case “Playing two cards”
+****
+On your turn, if you have two cards with the *same value* in your hand, you get to lay down both cards *one directly after the other*.
+First, lay down one of these cards on any of the cards in the grid and then lay down the other card on one of the *neighboring* cards.
+The *last card played* determines (exactly as described above) the value of this round, which you also say aloud (the value of this card is added together with the values of both neighboring cards).
+
+NOTE: You can never lay more than two cards on your turn.
+
+.Adding two cards
+====
+.Before play
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♠4
+|===
+
+Sarah has two cards with the value 1 in her hand.
+She first lays down the ♣1 on the ★3 in the bottom left of the grid.
+Then she lays the ♠1 on the ♠2.
+
+.After play
+[%autowidth]
+|===
+| ♠1 | ♥3
+| ♣1 | ♠4
+|===
+
+The ♠1 and both neighboring cards are added up (stem:[1+1+3=5]).
+The three cards consist of the suits ♠, ♥ and ♣.
+Sarah says: “A 5 in spades, hearts or clubs.”
+====
+****
+
+Now *all* players can (but do not have to) write down the sum that was called out into *exactly one field* on their score-sheets.
+The sum can only be entered into a row that matches in suit with the three cards (★ is not considered).
+As long as the rules for entering numbers (see <<entering-numbers>>) have been correctly followed, each player decides himself where to write down the number.
+
+.Failed attempt
+****
+If the player whose turn it is cannot or does not want to enter the called-out number, they have to record a failed attempt on their score-sheet.
+If it’s not your turn to lay down cards you don’t have to record a failed attempt.
+
+NOTE: On your turn, if you lay a ★ card and the neighboring cards are also ★, then no one can record anything in this round, and you have to record a failed attempt.
+The same applies if the sum is 0 or a negative number.
+****
+
+Then pick up a card from the draw pile (or two, if you have laid two cards) so that you once again have three cards in your hand.
+Now the next player in a clockwise direction takes their turn as described above.
+Play then continues with each player taking turns in a clockwise direction.
+
+NOTE: If the draw pile runs out, shuffle all the cards in the grid (leaving only the top card from each position in the grid) and use them to form your new draw pile.
+
+
+== End of game and scoring
+
+The game is over when a player has *two suit rows* completely filled out.
+The game is also over when someone has recorded *their fourth failed attempt*.
+
+First, record the points that each player has scored in each of the three suit rows:
+
+* If a suit row contains *empty fields*, each entered number in this row is scored as a single point.
+* If a suit row contains *no empty fields*, the number showing on the far right is scored as points.
+
+Now record the bonus points for the five (vertical) columns *consisting of 3 fields each*:
+
+* If there are *empty fields* in a column, no bonus points are rewarded for this column.
+* If all three fields in the column *are filled* with numbers, the number in the pentagonal bonus field is scored as bonus points.
+
+The points from the three suit rows and the bonus points are then added up.
+From this sum, subtract points for each failed attempt (-5 each).
+The player with the most points wins.
+
+
+== 1-player game
+
+All rules remain exactly the same.
+But, in this game, the complete stack is played through only *once* and is not reshuffled.
+The game is over in the same way as described above, or once you have played all the cards (including your hand).

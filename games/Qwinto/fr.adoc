@@ -1,0 +1,165 @@
+= Qeinto
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Bernhard Lach, Uwe Rapp & Reinhard Staupe.
+
+.Matériel
+****
+* 32 cartes: 0-6 & S à ♠, ♥, ♣ & ★.
+* Autant de link:Sheets.pdf[feuilles de jeux] que de joueurs.
+****
+
+Les règles pour inscrire les chiffres sur la fiche sont *exactement* les mêmes que dans le jeu original.
+*Exclusivement* des chiffres de 1 à 18 peuvent donc être inscrits sur la fiche - le zéro, voire des chiffres négatifs ne peuvent *pas* être inscrits.
+Les joueurs qui connaissent le jeu original peuvent immédiatement passer à <<setup>>.
+La fin de la partie et le décompte des points sont aussi les mêmes que dans le jeu original.
+
+
+[[entering-numbers]]
+== Inscrire des chiffres
+
+Aucun ordre d’inscription des chiffres dans les rangées de famille n’est imposé.
+On peut par exemple d’abord inscrire un chiffre à droite dans la rangée ♥, puis un chiffre au milieu de la rangée ♣, puis à gauche dans la rangée ♣, puis tout à fait à droite dans la rangée ♠, puis à gauche dans la rangée ♥, etc.
+
+Seuls les deux points suivants doivent être respectés lors de l’inscription des chiffres :
+
+1. *Dans une même rangée de famille* (donc horizontalement) les chiffres doivent toujours être croissants de gauche à droite, les chiffres en double ne sont pas autorisés.
+On peut laisser un nombre de cases vides au choix entre les chiffres inscrits, qu’on pourra compléter ensuite (avec les chiffres correspondants).
+2. *Dans une même colonne* (donc verticalement) aucun chiffre ne doit figurer en double – cela concerne à la fois les colonnes de 2 et les colonnes de 3.
+Sinon, l’ordre des chiffres dans les colonnes est indifférent.
+
+NOTE: Chaque rangée de famille comporte une case vide.
+Aucun chiffre ne sera inscrit dans cette case - elle reste simplement vide et ne doit pas être prise en compte.
+Chacune des cinq colonnes verticales de 3 comporte une case bonus (pentagone).
+Si une colonne de 3 est complétée avec des chiffres, le chiffre inscrit dans la case bonus rapporte des points de bonus.
+
+NOTE: Chaque joueur peut à tout moment voir les fiches des autres joueurs.
+
+
+[[setup]]
+== Préparation de la partie
+
+Les cartes sont mélangées.
+Chaque joueur reçoit *trois cartes*, qu’il tient dans *sa main*.
+*Quatre cartes* sont posées face visible au centre de la table, sous forme de *grille de 2 x 2*.
+Les cartes restantes sont posées à côté comme pioche face cachée.
+On tire au sort le joueur qui commence.
+
+
+== Déroulement de la partie
+
+Le joueur actif doit poser *précisément une* carte au choix des trois de sa main, face visible, sur une carte au choix parmi les quatre cartes de la grille de 2 x 2 (exception « Poser deux cartes », voir ci-après).
+La *carte posée* et les *deux cartes voisines* déterminent le score de ce tour - les trois chiffres sont additionnés.
+
+IMPORTANT: Les cartes S ont pour valeur -2 (moins deux).
+
+Le joueur actif annonce le total à haute voix.
+Il annonce aussi les familles représentées sur les trois cartes concernées.
+
+CAUTION: Le ★ est par principe considéré comme une « non-famille » et n’est pas annoncé.
+
+.Ajouter une carte
+====
+.Avant la carte
+[%autowidth]
+|===
+| 2♠ | 3♥
+| 3★ | 5♣
+|===
+
+Tim pose le 4♠ en bas à droite sur le 5♣.
+
+.Après la carte
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♠4
+|===
+
+Le 4♠ et les deux chiffres voisins sont additionnés (stem:[4+3+3=10]).
+Les trois cartes représentent les familles ♠ et ♥ (le ★ n’est pas pris en compte).
+Tim annonce : « Un 10 à pique ou à cœur ».
+====
+
+.Exception « Poser deux cartes »
+****
+Si le joueur actif a dans sa main deux cartes de *même valeur*, il peut jouer ces deux cartes *directement l’une après l’autre* au cours de la même action.
+Il pose d’abord une de ces cartes sur une carte au choix de la grille, puis l’autre carte directement sur une carte *voisine*.
+La *carte posée en dernier* détermine alors (comme décrit ci-dessus) la valeur à annoncer pour ce tour (les valeurs de cette carte et des deux cartes voisines sont additionnées).
+
+NOTE: On ne peut jamais poser plus de deux cartes.
+
+.Ajouter deux cartes
+====
+.Avant les cartes
+[%autowidth]
+|===
+| 2♠ | 3♥
+| 3★ | 4♠
+|===
+
+Sarah a deux 1 dans sa main.
+Elle pose d’abord le 1♣ en bas à gauche sur le 3★.
+Puis, elle pose le 1♠ sur le 2♠.
+
+.Après les cartes
+[%autowidth]
+|===
+| 1♠ | 3♥
+| 1♣ | 4♠
+|===
+
+Le 1♠ et les deux chiffres voisins sont additionnés (stem:[1+1+3=5]).
+Les trois cartes représentent les familles ♠, ♥ et ♣.
+Sarah annonce : « Un 5 à Pique, Cœur ou Trèfle ».
+====
+****
+
+*Tous* les joueurs peuvent ensuite inscrire (mais ne sont pas obligés de le faire) la somme annoncée dans *précisément une case* de leur tableau.
+Seules les rangées de la famille représentée sur les trois cartes (le ★ n’est pas pris en compte) peuvent être utilisées.
+À condition de respecter les règles d’inscription (voir <<entering-numbers>>), chaque joueur peut décider librement où il inscrit ce chiffre.
+
+.Coup manqué
+****
+Si le joueur actif ne peut ou ne veut pas inscrire le chiffre annoncé, il doit cocher un coup manqué sur sa fiche.
+Les joueurs non actifs ne cochent jamais un coup manqué.
+
+NOTE: Si le joueur actif pose une carte ★ et si les deux cartes voisines sont également ★, aucun chiffre ne peut être inscrit pour ce tour et le joueur actif doit noter un coup manqué.
+La même chose s’applique si la somme annoncée devait donner 0 ou un chiffre négatif
+****
+
+Le joueur actif pioche ensuite une carte (exceptionnellement deux) pour avoir de nouveau trois cartes.
+Puis le joueur suivant dans le sens des aiguilles d’une montre devient le nouveau joueur actif et exécute son action comme décrit.
+On continue à jouer à tour de rôle comme décrit.
+
+NOTE: Quand la pioche est épuisée, toutes les cartes de la grille (sauf les quatre visibles) sont mélangées et forment une nouvelle pioche.
+
+
+== Fin de la partie et décompte des points
+
+La partie est terminée dès qu’un joueur a complété *deux rangées de famille*.
+La partie est aussi terminée si quelqu’un a coché son *quatrième coup manqué* sur sa fiche.
+
+D’abord chaque joueur inscrit les points qu’il a obtenus dans chacune des trois *rangées de famille* :
+
+* Si une rangée de famille *n’est pas complétée* avec des chiffres, chaque chiffre inscrit dans cette rangée compte pour un point.
+* Si une rangée de famille est *entièrement remplie*, le chiffre inscrit tout à fait à droite de cette rangée indique les points obtenus par le joueur.
+
+Chaque joueur inscrit ensuite les points de bonus pour les cinq *colonnes* (verticales) *de 3* :
+
+* Si une colonne de 3 *n’est pas complète*, elle ne rapporte aucun point de bonus.
+* Si une colonne de 3 est *entièrement remplie*, le joueur inscrit le chiffre de la case bonus comme points de bonus.
+
+Les points des trois rangées de famille et les points de bonus sont additionnés.
+Les points négatifs pour les coups manqués inscrits (-5 par coup) en sont déduits.
+Celui qui obtient le plus grand total de points gagne.
+
+
+== Variante solo
+
+Toutes les règles restent exactement les mêmes.
+Mais la pioche est seulement épuisée *une fois*, on ne mélange pas une nouvelle fois.
+La partie se termine soit comme décrit, soit quand le joueur a joué toutes les cartes (y compris les cartes de sa main).
