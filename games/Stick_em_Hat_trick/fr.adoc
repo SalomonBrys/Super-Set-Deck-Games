@@ -1,4 +1,4 @@
-= Stick'em “double”
+= Stick'em “Double”
 :toc: preamble
 :toclevels: 4
 :toc-title: Sommaire

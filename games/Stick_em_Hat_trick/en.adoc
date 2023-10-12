@@ -1,4 +1,4 @@
-= Stick'em “hat trick”
+= Stick'em “Hat Trick”
 :toc: preamble
 :toclevels: 4
 :icons: font

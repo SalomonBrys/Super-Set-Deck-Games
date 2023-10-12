@@ -1,0 +1,13 @@
+type:
+  - Hand Management
+  - Ladder Climbing
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-11, S
+      hearts: 1-11, S
+      clubs: 1-11, S
+      diamonds: 1-11, S
+      florettes: 1-11, S
+      stars: 1-11, S

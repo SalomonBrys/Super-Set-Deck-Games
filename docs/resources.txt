@@ -1,4 +1,4 @@
-2023-10-11_10:45:51
+2023-10-12_12:20:10
 App.js
 App.js.map
 ServiceWorker.js
@@ -226,6 +226,9 @@ games/Herrlof/fr.html
 games/High_Society/R-Specials.png
 games/High_Society/en.html
 games/High_Society/fr.html
+games/Hungry_Monkey/R-Effects.png
+games/Hungry_Monkey/en.html
+games/Hungry_Monkey/fr.html
 games/Jekyll_vs_Hyde/R-Effects.png
 games/Jekyll_vs_Hyde/en.html
 games/Jekyll_vs_Hyde/fr.html
