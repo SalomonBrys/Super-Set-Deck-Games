@@ -1,0 +1,22 @@
+type:
+  - Hand Management
+  - Ladder Climbing
+  - Team Based
+  - Score and Reset
+players: 3, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-12, A
+      hearts: 1-12, A
+      clubs: 1-12, A
+      diamonds: 1-12, A
+      specials: Phoenix, Dragon
+    5-players:
+      spades: 0
+      hearts: 0
+      clubs: 0
+      diamonds: 0
+      florettes: 0-12, A
+      stars: 0-12, A
+      specials: Butterfly*4

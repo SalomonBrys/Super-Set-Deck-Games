@@ -1,0 +1,441 @@
+= Chimera
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+Un jeu de Paul H. Anderson.
+
+.Matériel
+****
+* À 3 joueur·euse·s :
+** 54 cartes: 1-12 & A à ♠, ♥, ♣ & ♦.
+** 2 cartes animal: 1 Phénix & 1 Dragon.
+* À 5 joueur·euse·s :
+** 90 cartes: 0-12 & A à ♠, ♥, ♣, ♦, ✿ & ★.
+** 6 cartes animal: 1 Phénix, 1 Dragon & 4 Papillons.
+****
+
+Dans *Chimera à trois*, chaque joueur·euse mise pour être la Chimère.
+Les deux autres s'associent (devenant Chasseurs) pour tenter d'empêcher la Chimère de vider sa main en première et de gagner son pari.
+
+Chacun·e tente de marquer le plus de points à travers plusieurs manches de jeu, afin de remporter la partie en ayant le plus de points, lorsqu'un score atteint ou dépasse un seuil définit.
+Chimera se joue normalement en 400 points, bien que des parties plus courtes ou plus longues peuvent être jouées.
+
+*Chimera à cinq* est très proche de Chimaera à trois.
+De nouvelles cartes sont ajoutées et des changements sont apportés au système de mise.
+À cinq jou·eur·euse·s, la Chimère choisis maintenant un·e partenaire (le Pi Ya).
+Les deux autres s'associent (devenant Chasseurs) pour tenter d'empêcher la Chimère de vider sa main en première et de gagner son pari.
+
+
+== Préparation et distribution
+
+*Préparez le paquet de cartes :*
+
+* Le rôle de celui·celle qui prépare le paquet alterne entre les jou·eur·euse·s dans le sens horaire autour de la table.
+* Mélangez les cartes numérotées, les cartes A, le Phoenix et le Dragon.
+* Mélangez les cartes et présentez-les à votre voisin de droite pour qu'il·elle coupe à peu près au milieu du paquet.
+  La coupe doit contenir au moins 15 cartes.
+* La coupe est posée vers vous et crée ainsi une seconde pile.
+* Après la coupe, prenez la première carte de la moitié inférieure (la pile la plus éloignée de vous) et placez la face visible sur la nouvelle pile crée par la coupe.
+  Terminez enfin la coupe en plaçant la moitié inférieure du paquet par-dessus la carte face visible.
+
+*Distribution des cartes :*
+
+--
+* *Tout d'abord, à 3 joueur·euse·s :*
+** Mettez de côté sur la table, dans l'Antre de la Chimère, un paquet de 3 cartes.
+** Placez le reste des cartes en une pioche face cachée au milieu de la table.
+--
+
+--
+* *Tout d'abord, à 5 joueur·euse·s :*
+** Mettez de côté sur la table, dans l'Antre de la Chimère, les quatre Papillons.
+** Ajoutez dans l'Antre de la Chimère *deux* paquets de 3 cartes.
+** Placez le reste des cartes en une pioche face cachée au milieu de la table.
+--
+
+* *Puis :*
+** Commencez par prendre la première carte de la pioche.
+** Dans le sens horaire, chacun·e prend une carte dans sa main, jusqu'à ce que la pioche soit vidée. +
+   *À 3 joueur·euse·s :* une main est constituée de 17 cartes. +
+   *À 5 joueur·euse·s :* une main est constituée de 16 cartes. +
+
+
+== La mise
+
+Après avoir regardez vos cartes, chacun·e va MISER pour déterminer qui sera la *Chimère*.
+La *Chimère* jouera la première dans cette manche et tentera de remporter son pari en se débarrassant la première de ses cartes.
+De plus, la *Chimère* peut tenter de gagner des points bonus.
+Les *Chasseurs* gagneront des points si l'un d'entre eux joue toutes ses cartes avant la *Chimère*.
+
+* Celui·celle qui a pris la carte face visible lors de la distribution commence la *Mise*.
+* Dans le sens horaire, chacun·e peut passer ou miser.
+** *À 3 jou·eur·euse·s :* Les *Mises* possibles sont *Passer, 20, 30, ou 40*.
+** *À 5 jou·eur·euse·s :* Les *Mises* possibles sont *Passer, 30, 50, ou 70*.
+** *À 5 jou·eur·euse·s :* Vous pouvez jouer 0-3 cartes face visible devant vous sur la table (voir <<five-players-partnership,Partenariats>>).
+** Vous pouvez ouvrir la mise avec n'importe quelle option [.small]#(par exemple, vous pouvez décider de miser directement le maximum, 40 or 70, pour préempter la place de Chimère)#.
+** Chaque nouvelle *Mise* doit être plus élevée que la précédente.
+** Vous pouvez miser même après avoir passé.
+* La mise continue jusqu'à ce quelqu'un ai misé le maximum (40 ou 70) ; ou que tous aient passé après une mise.
+* Si tout le monde passe sans miser, celui·celle qui a passé en premier·e devient la *Chimère* avec la mise la plus petite possible (20 ou 30).
++
+[NOTE]
+====
+Dans ce cas spécifique, la Chimère gagnera le triple de sa mise si elle réussit à vider sa main la première, et ne subira pas de pénalité dans le cas contraire.
+De plus :
+
+* Il n'y aura pas d'échange de cartes.
+* *À 5 jou·eur·euse·s :* La *Chimère* n'aura pas de partenaire, regardera les deux paquets de 3 cartes dans son antre, en choisira 1 et défaussera l'autre.
+====
+* Celui·Celle qui a remporté la mise devient la *Chimère* et la mise est inscrite sur une feuille de score.
+
+
+== Décider des Partenariats
+
+=== 3 jou·eur·euse·s : Chimère contre Chasseurs
+
+* La *Chimère* jouera seule contre les deux autres jou·eur·euse·s qui forment maintenant le partenariat des *Chasseurs*.
+La *Chimère* n'échange ni ne défausse pas de cartes.
+* Les *Chasseurs* s'échangent maintenant simultanément des cartes :
+** 0 pour une mise de 20.
+** 1 pour une mise de 30.
+** 2 pour une mise de 40.
+* La *Chimère* ajoute les 3 cartes face cachées de son Antre à sa main.
+La taille de la main de *Chimère* est donc maintenant de 20 cartes.
+
+
+[[five-players-partnership]]
+=== 5 jou·eur·euse·s : Chimère & Pi Ya contre Chasseurs
+
+* Lors de sa *Mise*, chacun·e peut choisir de jouer 0-3 cartes face visible sur la table.
+  Ces cartes ont deux utilités :
+** Elles aideront la *Chimère* à choisir un partenaire.
+** Elles seront échangées entre les partenaires au début de la manche.
+* La mise continue se déroule normalement (avec cet ajout) jusqu'à ce que la *Chimère* soit déterminée.
+* En commençant par la Chimère, chacun·e à l'opportunité de jusqu'à 3 cartes sur la table, si ce n'est pas déjà fait.
+* Lorsque tout le monde à choisi ou non de jouer des cartes face visible, la *Chimère* choisis un·e autre jou·eur·euse pour être son partenaire, le *Pi Ya*, et les trois autres forment maintenant le partenariat des *Chasseurs*.
+
+NOTE: Si tout le monde a passé sans miser, celui·celle qui a passé en premier·e devient la *Chimère* avec la mise 30.
+La *Chimère* gagnera le triple de sa mise si elle réussit à vider sa main la première, et ne subira pas de pénalité dans le cas contraire.
+De plus, il n'y aura pas d'échange de cartes, et la *Chimère* n'aura pas de partenaire.
+La *Chimère* regarde maintenant les deux paquets de 3 cartes dans son antre, en choisi 1 et défausse l'autre.
+
+* La *Chimère* peut choisir de jouer seule.
+Dans ce cas :
+** Il n'y a qu'un seul partenariat, celui des quatre autres jou·eur·euse·s qui joueront les *Chasseurs*.
+** La *Chimère* ne joue pas de cartes face visible.
+** Les partenaires eux s'échangent normalement leurs cartes.
+
+*Échanges de cartes entre partenaires :*
+
+* Le nombre de cartes échangées entre les partenaires correspond au plus petit nombre de cartes face visible placées devant chacun·e d'entre eux·elles.
+* La *Chimère* et le *Pi Ya* s'échangent le même nombre de cartes et reprennent les cartes restantes dans leur main.
+Celui·Celle qui a trop de cartes en main choisit quelles cartes sont échangées, et quelles cartes sont reprises en main.
+* Les *Chasseurs* s'échangent le même nombre de cartes face visible dans le sens horaire et reprennent les cartes restantes dans leur main.
+·Celle qui a trop de cartes en main choisit quelles cartes sont échangées, et quelles cartes sont reprises en main.
+
+*Antre de la Chimère :*
+
+* La *Chimère* prends les 2 paquets de 3 cartes face cachées, les regarde sans les mélanger, et choisit quel paquet de 3 cartes garder pour elle, et quel paquet de 3 cartes elle donne au *Pi Ya*.
+La taille de la main de la *Chimère* et du *Pi Ya* est maintenant de 19 cartes.
+* Chacun des *Chasseurs* et du *Pi Ya* prend l'un des *Papillons* dans sa main.
+La taille de la main des *Chasseurs* est maintenant de 17 cartes.
+Celle du *Pi Ya* est de 20 cartes.
+
+
+== Jeu des plis
+
+Chacun·e essaie d'être le·la premier·e à jouer toutes les cartes de sa main.
+
+* La *Chimère* joue en première en jouant une ou plusieurs cartes sur la table, formant l'une combinaison légale (voir <<legal-combinations>>).
+On appelle cela ouvrir le pli.
+* En sens horaire, chacun·e peut soit jouer des cartes dans le pli, soit passer.
+* Toutes les nouvelles combinaisons jouées dans le pli doivent être similaire à la première combinaison jouée dans le pli et être de plus haute valeur, allant de 0 à 12, puis *A*, *Phénix*, et *Dragon*.
++
+.Combinaisons légales
+====
+Si un pli est ouvert par un 3, les seules réponses possibles sont des cartes seules supérieures à 3. +
+Si un pli est ouvert part une paire, les seules réponses possibles sont des paires supérieures, et ainsi de suite.
+====
+
+WARNING: *Exception :* Vous pouvez jouer un *PIÈGE* ou un *VOL DE LA CHIMÈRE* à la place de la combinaison du pli.
+
+* Si un Piège est joué, seule un Piège supérieur ou un Vol de la Chimère peut être joué dans le pli.
+Le Vol de la Chimère est la combinaison la plus haute possible.
+** *À 3 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère ne peuvent PAS être joués en dehors de votre tour.
+** *À 3 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère PEUVENT être joués en dehors de votre tour.
+   Vous ne pouvez PAS jouer un Piège ou un Vol de la Chimère sur un Papillon joué pour changer l'ouverture du pli.
+* Vous pouvez passer même si vous avez en main une combinaison jouable et vous pouvez revenir dans le pli après avoir passé, sauf si le pli est remporté avant que ce ne soit à nouveau votre tour.
+* Le pli continue ainsi jusqu'à ce que tout le monde ait passé jusqu'à celui·celle qui a joué en dernier·e des cartes dans le pli.
+* Celui·Celle qui a joué en dernier·e dans le pli remporte le pli et toutes ses cartes.
+  Placez les plis que vous avez remportés en une pile face cachée devant vous (votre pile de *Trésors*) et ouvrez le prochain pli de la manche.
+* Les cartes *Trésors* (les 2, 11, et Papillons) remportés seront scorés à la fin de la manche (voir <<treasure-cards>>).
+
+
+== Fin de la manche
+
+=== À 3 jou·eur·euse·s
+
+* La manche se termine dès qu'un·e jou·eur·euse joue sa dernière carte.
+* Il·Elle remporte toutes les cartes de ce dernier pli.
+* Les points de la manche sont maintenant scorés.
+  Les cartes restantes en mains des autres jou·eur·euse·s ne sont pas scorées.
+
+
+=== À 5 jou·eur·euse·s
+
+* Si le *Pi Ya* ou l'un des *Chasseurs* joue sa dernière carte en premier :
+** Il remporte toutes les cartes de ce dernier pli.
+** La *Chimère* a perdu son pari.
+** Les points de la manche sont maintenant scorés.
+   Les cartes restantes en mains des autres jou·eur·euse·s ne sont pas scorées.
+
+* Si la *Chimère* joue sa dernière carte en première :
+** La *Chimère* a remporté son pari.
+** La manche continue avec le·la prochain·e jou·eur·euse en sens horaire.
+** Si tout le monde passe, la *Chimère* remporte le pli et la manche continue avec le·la prochain·e jou·eur·euse en sens horaire qui ouvre le pli suivant.
+   Sinon, la manche continue normalement.
+** La manche continue jusqu'à ce qu'un·e jou·eur·euse joue sa dernière carte.
+* Il·Elle remporte toutes les cartes de ce dernier pli.
+* Les points de la manche sont maintenant scorés.
+  Les cartes restantes en mains des autres jou·eur·euse·s ne sont pas scorées.
+
+
+== Scorer la manche
+
+* *Si la Chimère est la première à avoir joué toutes ses cartes :*
+** La *Chimère* score le double de sa mise.
+** *À 5 jou·eur·euse·s :* Le *Pi Ya* score la valeur de la mise.
+   (Exception : si personne n'a misé, La Chimère score le triple de sa mise et il n'y a pas Pi Ya).
+** La *Chimère* score également les *Bonus* suivants :
+*** 25 points par *Piège* joué dans la manche (par qui que ce soit).
+*** 25 points pour le *Vol de la Chimère* s'il a été joué dans la manche.
+*** *À 3 jou·eur·euse·s :* 25 points par *Chasseur* qui n'a joué aucune carte pendant la manche.
+** *À 5 jou·eur·euse·s :* Si le *Pi Ya* est le suivant à se défausser de toutes ses cartes après que la *Chimère* est sortie, le *Pi Ya* score une nouvelle fois la valeur de la mise.
+** Chacun·e score les cartes *Trésor* dans sa pile de Trésor (voir <<treasure-cards>>).
+
+* *Si l'un des chasseurs ou le Pi Ya est le premier à avoir joué toutes ses cartes :*
+** Tous les *Chasseurs* scorent des points pour avoir défait la *Chimère* :
+*** *À 3 jou·eur·euse·s :* Les Chasseurs scorent 20 points.
+*** *À 5 jou·eur·euse·s :* Les Chasseurs scorent 30 points.
+** La *Chimère* perds autant de points que la valeur de sa *Mise* et ne score pas de bonus.
+** *À 5 jou·eur·euse·s :* Le *Pi Ya* ne score pas les points de la Mise.
+** Chacun·e score les cartes *Trésor* dans sa pile de Trésor (voir <<treasure-cards>>).
+
+WARNING: Souvenez-vous que les cartes Trésor qui restent en main et n'ont donc pas été jouées ne comptent pas.
+Seules les cartes Trésor remportées dans les piles trésors comptent.
+
+.Score à 3 jou·eur·euse·s
+====
+*La mise est de 20, la Chimère est la première à avoir vidé sa main, un Piège a été joué et un des chasseurs n'a pas joué de carte.*
+
+* La *Chimère* score : +
+40 (2x sa *Mise* de 20) + +
+25 (bonus du Piège) + +
+25 (bonus du Chasseur qui n'a pas joué de carte) +
+Soit un total de 90 points.
+* De plus, chacun·e score les points des cartes trésors gagnés lors des plis de cette manche.
+
+*La Mise est de 40, l'un des chasseurs a vidé sa main en premier et le Vol de la Chimère a été joué.*
+
+* La *Chimère* score -40 points (elle perd sa *Mise*) et aucun bonus.
+* Les *Chasseurs* scorent chacun +20 points (pour avoir défait la *Chimère*).
+* De plus, chacun·e score les points des cartes trésors gagnés lors des plis de cette manche.
+====
+
+.Score à 3 jou·eur·euse·s
+====
+*La mise est de 20, la Chimère est la première à avoir vidé sa main, le Pi Ya a vidé sa main en second, deux Pièges ont été joué et deux Chasseurs n'ont pas joué de cartes.*
+
+* La *Chimère* score : +
+100 (2x sa *Mise* de 50) + +
+50 (bonus des 2 Pièges) + +
+PAS DE BONUS pour les chasseurs qui n'ont pas joué de cartes +
+Soit un total de 150 points.
+* Le *Pi Ya* score 50 points pour la *Chimère* qui a vidé sa main la première, et 50 points supplémentaires pour avoir vidé sa main en second.
+* De plus, chacun·e score les points des cartes trésors gagnés lors des plis de cette manche.
+
+*La mise est de 70, l'un des Chasseurs a vidé sa main en premier et le Vol de la Chimère a été joué.*
+
+* La *Chimère* score -70 points (elle perd sa *Mise*) et aucun bonus.
+* Le *Pi Ya* ne score aucun point pour la *Mise*.
+* Les *Chasseurs* scorent chacun 30 points (pour avoir défait la *Chimère*).
+* De plus, chacun·e score les points des cartes trésors gagnés lors des plis de cette manche.
+====
+
+
+[[treasure-cards]]
+=== Cartes trésor
+
+* Les cartes de valeur *2* valent chacune *10 points*.
+* Les cartes de valeur *11* valent chacune *5 points*.
+* *À 5 jou·eur·euse·s :* Les cartes Papillons valent chacune *10 points*.
+
+
+== Gagner la partie
+
+La partie continue jusqu'à ce qu'au moins un·e jou·eur·euse ai scoré 400 points ou plus. +
+Celui·Celle qui a alors le plus de points l'emporte .
+
+En cas d'égalité, la partie continue jusqu'à ce qu'un·e gagnant·e soit désigné·e. +
+[.small]#Cela signifie que vous pouvez toujours l'emporter même avec un score inférieur !#
+
+Vous pouvez préalablement changer la limite de points pour des parties plus longues ou plus courtes.
+Les limites recommandées sont 300,400, ou 500 points.
+
+
+[[legal-combinations]]
+== Combinaisons légales
+
+=== Notes générales
+
+* Les couleurs n'ont pas d'importance.
+* Les cartes *A* sont plus fortes que les cartes numérotées (de 0 à 12).
+  Cependant, puisqu'elles ne sont pas numérotées, elles ne peuvent pas être utilisées dans des suites.
+* Les cartes *Phénix* et *Dragon* jouées ensemble forment le *Vol de la Chimère* qui peut être joué pour remporter n'importe quel pli.
+  Ces cartes ne peuvent être jouées conjointement que dans ce cas précis.
+* *À 3 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère NE PEUT PAS être joué en dehors de votre tour.
+* *À 5 jou·eur·euse·s :* Les Pièges et le Vol de la Chimère PEUVENT être joué en dehors de votre tour.
+** Les cartes *Papillon* peuvent être jouées pour remplacer n'importe quelle carte numérotée (0-12) pour former une combinaison légale, y compris pour une carte seule.
+   Elles peuvent également être utilisées pour former des sets de 4, 5, ou 6 cartes de même valeur.
+** Les cartes *Papillon* peuvent également être utilisées pour transférer l'ouverture d'un pli à un·e autre jou·eur·euse.
+   Celui·Celle qui joue une carte *Papillon* la garde dans sa pile de trésors.
+
+
+=== Combinaisons normales
+
+* *Carte Seule*
+** Les cartes sont classées (de la plus basse à la plus haute) : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, A, Phénix, Dragon.
+
+* *Paire*
+** Deux cartes de même valeur.
+** De 0 (le plus faible) à 12 (le plus fort), puis par A : 9-9 est plus fort que 4-4.
+   A-A est la paire la plus forte.
+
+* *Suite de Paire*
+** Deux paires ou plus de valeurs consécutives.
+** De 0 à 12. Les cartes A, Phénix et Dragon ne peuvent pas être utilisées.
+
+* *Triples*
+** Trois cartes de même valeur.
+** De 0 (le plus faible) à 12 (le plus fort), puis A : 11-11-11 est plus fort que 7-7-7.
+   A-A-A est le triple le plus fort.
+
+* *Suite de Triples*
+** Deux triples ou plus de valeurs consécutives.
+** De 0 à 12. Les cartes A, Phénix et Dragon ne peuvent pas être utilisées.
+
+* *Triple avec une carte attachée*
+** Un triple avec une carte simple attachée.
+** La valeur est déterminée par la valeur du triple : 7-7-7-5 est plus fort que 5-5-5-12.
+
+* *Triple avec une paire attachée*
+** Un triple avec une paire attachée.
+** La valeur est déterminée par la valeur du triple : 9-9-9-11-11 est plus fort que 5-5-5-12-12.
+** Les cartes Phénix et Dragon ne peuvent pas être utilisés pour la paire.
+
+* *Suite de Triples avec des cartes attachées*
+** Deux triples ou plus de valeurs consécutives, chacune avec une carte simple attachée.
+** Seules les triples doivent se suivre.
+** Les cartes attachées doivent être différentes des triples et différentes entre elles.
+** Un triple de **A** ne peut pas être inclus ; cependant, une carte simple A, Phénix ou Dragon peut être attachée.
+   Une seule des cartes Phénix ou Dragon peut être utilisée comme carte simple, mais pas les deux.
+
+* *Suite de Triples avec des paires attachées*
+** Une paire est attachée à chaque triple.
+** Seules les triples doivent se suivre.
+** Les paires attachées doivent être différentes des triples et différentes entre elles.
+** Les cartes **A** peuvent être utilisée pour une paire, mais pas pour un triple.
+** Les cartes Phénix et Dragon ne peuvent pas être utilisées.
+
+* *Suite de 5 cartes ou plus*
+** Au moins cinq cartes de valeur consécutives de 0 à 12.
+** Vous pouvez jouer des séquences de 5 à 13 cartes.
+** Les cartes A, Phénix et Dragon ne peuvent pas être utilisées dans une suite.
+** *POUVOIR SPÉCIAL :* La carte *Phénix* peut être utilisée comme Joker pour remplacer une valeur dans une suite légale (de 0 à 12).
+   Par exemple : 8-9-10-Phénix-12, ou 8-9-10-11-Phénix.
+
+* *Set de quatre avec deux cartes attachées*
+** Quatre cartes de même valeur avec deux cartes simples attachées de valeur différentes.
+** Les quatre cartes déterminent la valeur.
+   Les cartes **A** peuvent être utilisées pour un set de quatre.
+** Les cartes A, Phénix et Dragon peuvent être attachées, mais les cartes Phénix et Dragon ne peuvent pas être attachées ensemble.
+
+* *Set de quatre avec deux paires attachées*
+** Quatre cartes de même valeur avec deux paires attachées de valeur différentes.
+** Les quatre cartes déterminent la valeur.
+   Les cartes **A** peuvent être utilisées (en set ou en paire).
+
+
+=== Combinaisons supplémentaires pour 5 jou·eur·euse·s
+
+* *Set de Quatre, Cinq ou Six*
+** Quatre, Cinq ou Six cartes de même valeur.
++
+NOTE: Les sets de 5 et 6 cartes ne peuvent être créés qu'avec un *Papillon* puisque ces sets naturels sont des Pièges.
+** De 0 (le plus faible) à 12 (le plus fort), puis A.
+   Un set de 4 cartes 8-8-8-8 est plus fort que 3-3-3-3, et il en va de même pour les sets de 5 ou 6 cartes.
+   Les sets de **A** sont les plus forts.
+
+* *Set de Cinq avec deux cartes attachées*
+** Cinq cartes de même valeur avec deux cartes simples attachées de valeur différentes.
+** Les cinq cartes déterminent la valeur.
+   Les cartes **A** peuvent être utilisées pour un set de cinq.
+** Les cartes A, Phénix et Dragon peuvent être attachées, mais les cartes Phénix et Dragon ne peuvent pas être attachées ensemble.
+
+* *Set de Cinq avec deux paires attachées*
+** Cinq cartes de même valeur avec deux paires attachées de valeur différentes.
+** Les cinq cartes déterminent la valeur.
+   Les cartes **A** peuvent être utilisées (en set ou en paire).
+
+* *Set de Six avec deux cartes attachées*
+** Six cartes de même valeur avec deux cartes simples attachées de valeur différentes.
+** Les six cartes déterminent la valeur.
+   Les cartes **A** peuvent être utilisées pour un set de six.
+** Les cartes A, Phénix et Dragon peuvent être attachées, mais les cartes Phénix et Dragon ne peuvent pas être attachées ensemble.
+
+* *Set de Six avec deux paires attachées*
+** Six cartes de même valeur avec deux paires attachées de valeur différentes.
+** Les six cartes déterminent la valeur.
+   Les cartes **A** peuvent être utilisées (en set ou en paire).
+
+WARNING: Les sets de 4, 5 ou 6 cartes avec des cartes ou des paires attachées ne sont pas des Pièges et peuvent être battus pas des *Pièges* ou par le *Vol de la Chimère*.
+
+
+=== Combinaisons spéciales
+
+==== Pièges
+
+* *À 3 jou·eur·euse·s :* Set de 4 cartes de même valeur.
+* *À 5 jou·eur·euse·s :* Set naturel de 5 ou 6 cartes de même valeur (sans Papillon).
+  Un set de 4 n'est PAS un piège à 5 jou·eur·euse·s.
+
+[IMPORTANT]
+====
+* Les pièges peuvent être joués sur n'importe quelle combinaison, à l'exception du *Vol de la Chimère*.
+* Un piège peut être battu par un piège plus fort.
+* *À 5 jou·eur·euse·s :* Un Piège de 5 cartes de même valeur peut être battu par n'importe quel piège de 6 cartes de même valeur. +
+  Exemple : A-A-A-A-A est plus fort que 12-12-12-12-12, mais 12-12-12-12-12-12 est plus fort que A-A-A-A-A.
+====
+
+
+==== Vol de la Chimère
+
+* Les cartes *Phénix* et *Dragon* jouées ensemble.
+* Le *Vol de la Chimère* peut être joué sur n'importe quelle combinaison et est plus forte que toutes les autres.
+
+
+=== 5 jou·eur·euse·s : Papillons
+
+* Lorsque vous ouvrez un pli, vous pouvez utiliser une carte *Papillon* pour transmettre le role d'ouvrir le pli à la personne de votre choix.
+  Placez alors le Papillon dans votre pile de trésors, puis celui·celle que vous avez choisi·e ouvre le pli normalement.
+* Une carte *Papillon* peut être utilisée comme carte attachée.
+* Une carte *Papillon* peut être utilisée comme un joker pour remplacer une carte numérotée dans toute combinaison légale.
+* Une carte *Papillon* ne peut pas remplacer une carte *A*, *Phénix* ou *Dragon*.
+* Une carte *Papillon* peut être utilisée pour faire une Paire, un Triple, ou un set de 4 cartes.
+* Une carte *Papillon* peut être utilisée pour remplacer une carte manquante dans une suite - au milieu, au début ou à la fin de la suite.
+  Une suite ne peut contenir que les cartes 1 à 12.
+* Une carte *Papillon* ne peut PAS être utilisée pour un Piège.
+* Chaque carte *Papillon* rapporte 10 points à celui·celle qui en a dans sa pile de Trésors.
+* Une carte *Papillon* peut être ajoutée au *Vol de la Chimère*.

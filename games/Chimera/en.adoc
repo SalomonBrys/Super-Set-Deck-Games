@@ -1,0 +1,440 @@
+= Chimera
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A game by Paul H. Anderson.
+
+.Components
+****
+* For 3 players:
+** 54 suited cards: 1-12 & A in ♠, ♥, ♣ & ♦.
+** 2 animal cards: 1 Phoenix & 1 Fragon.
+* For 5 players:
+** 90 suited cards: 0-12 & A in ♠, ♥, ♣, ♦, ✿ & ★.
+** 6 animal cards: 1 Phoenix, 1 Dragon & 4 Butterflies.
+****
+
+In *Chimera for three players*, each hand players bid to be the Lead Player (Chimera).
+The remaining two players team up (Hunters) to prevent the Lead Player from going out first and winning their bid.
+
+Overall players compete for points in several hands of play and the winner is the player who scores the most points once the designated point score is reached by one or more players.
+Chimera is normally played to 400 points although longer or shorter games may be played.
+
+*Chimera for five players* is very similar to Chimera for three players,
+It adds additional cards and changes to the bidding process.
+Again, one player bids to be the Lead Player, but now will also choose one other player to be their partner (Pi Ya).
+The other three players will be the hunters working to prevent the Lead Player from going out first and winning their bid.
+
+
+== Preparation & the deal
+
+*Prepare the deck:*
+
+* The role of preparing the deck alternate between players clockwise around the table.
+* Shuffle all the numbered cards, the A cards, the Phoenix and the Dragon.
+* Shuffle the cards and present them to the player on your right to cut near the middle of the deck.
+  The cut must be at least 15 cards.
+* The cut is made towards you to create a new stack.
+* After the cut, take the top card from the bottom half of the cut (the stack further from you) and place it face up on the new stack created.
+  Finally, complete the cut by placing the bottom half of the cut deck on top of the face up card.
+
+*Deal the cards:*
+
+--
+* *First, for 3 players:*
+** Deal a packet of 3 cards to the Chimera's Den aside on the table.
+** Place the remaining deck of card face down in the middle of the table.
+--
+
+--
+* *First, for 5 players:*
+** Place the four Butterflies in the Chimera's Den aside on the table.
+** Deal *two* packets of 3 cards to the Chimera's Den.
+** Place the remaining deck of card face down in the middle of the table.
+--
+
+* *Then:*
+** Start by taking the first card of the deck.
+** In clockwise order, players take one card at a time, until the deck is exhausted. +
+   *For 3 players:* each player has 17 cards. +
+   *For 5 players:* each player has 16 cards.
+
+
+== The Bid
+
+After picking up and looking at their cards, players will BID to determine who will be the *Chimera*.
+The *Chimera* will play first in the hand and stands to win points by getting rid of all of their cards first.
+In addition, the *Chimera* has a chance for additional bonus points.
+The *Hunters* will gain points if any one of them plays all their cards before the *Chimera*.
+
+* The player who took the face up card during the deal will begin the *Bid*.
+* In clockwise order, players may pass or bid.
+** *For 3 players*: Legal *Bids* are *Pass, 20, 30, or 40*.
+** *For 5 players*: Legal *Bids* are *Pass, 30, 50, or 70*.
+** *For 5 players:* Players may choose to play 0-3 cards face up on the table (see <<five-players-partnership,Partnerships>>).
+** The bidding can start at any of these options [.small]#(for example, a player may want to preemptively bid the maximum, 40 or 70)#.
+** Each new *Bid* must be higher than the last *Bid*.
+** Players may re-enter the bidding after passing.
+* Bidding continues until a player bids the maximum (40 or 70); or, there are consecutive passes back to the last player to bid.
+* If all players pass without any bid, the player who passed first becomes the *Chimera* with the lowest possible bid (20 or 30).
++
+[NOTE]
+====
+In this special case, the Chimera will get triple the bid if successful in going out first and no penalty if not.
+In addition:
+
+* No cards will be passed.
+* *For 5 players:* The *Chimera* will not have a partner and will look at both 3-card packets in the Chimera's, choose 1 and discard the other.
+====
+* The player winning the bid now becomes the *Chimera* and the bid is recorded on a score-pad.
+
+
+== Deciding the partnerships
+
+=== 3 players: Chimera vs Hunters
+
+* The *Chimera* in 3-player will play alone against the other two players who now form a partnership as the *Hunters*.
+The *Chimera* will not pass or discard any cards.
+* The *Hunters* now simultaneously pass cards to one another face down:
+** 0 for a 20 bid.
+** 1 for a 30 bid.
+** 2 for a 40 bid.
+* The *Chimera* adds the 3 face down cards in the Chimera's Den to their hand.
+This will bring the *Chimera*'s hand size to 20 cards.
+
+
+[[five-players-partnership]]
+=== 5 players: Chimera & Pi Ya vs Hunters
+
+* As part of their *Bid*, all players may choose to play 0-3 cards face up on the table.
+  These cards will serve two purposes:
+** They will help the eventual *Chimera* choose a partner.
+** They will provide the cards available for passing between partnerships before play of the hand begins.
+* Bidding proceeds as normal with this addition until the *Chimera* is determined.
+* Each player, starting with the Chimera, then has a last chance to play up to 3 cards if they have not done so already.
+* Once all players have completed playing cards face up, the *Chimera* selects another player as their partner, the *Pi Ya*, and the remaining players form a partnership as the *Hunters*.
+
+NOTE: If all players pass without any bid, the player who passed first becomes the *Chimera* with a bid of 30.
+The *Chimera* will get triple the bid if successful in going out first and no penalty if not.
+In addition, no cards will be passed and the *Chimera* will not have a partner.
+The *Chimera* may look at both 3-card packets in the Chimera's, choose 1 and discard the other.
+
+* The *Chimera* may choose to play alone.
+In this case:
+** There is only the partnership of the four remaining players who will play as *Hunters*.
+** The *Chimera* does not play any cards face up.
+** The partners will still pass cards as normal.
+
+*Card Passing between Partnerships:*
+
+* The number of cards passed in a partnership is the least number of cards placed face up by a player in that partnership.
+* The *Chimera* and *Pi Ya* pass an equal number of their face up cards and pick up any remainder back into their hand.
+The player with more cards face up decides which of their cards to pass and which to pick up.
+* The *Hunters* pass an equal number of their face up cards clockwise and pick up any remainder back into their hand.
+The player(s) with more cards face up decides which of their cards to pass and which to pick up.
+
+*Chimera's Den:*
+
+* The *Chimera* takes the 2 groups of 3 face down cards, looks at them without mixing them, and decides which group of 3 cards to keep and which group of 3 cards to give the *Pi Ya*.
+This will bring the *Chimera*'s and *Pi Ya*'s hand size to 19 cards each.
+* Each of the *Hunters* and the *Pi Ya* take one of the face up *Butterfly* into their hands.
+This will bring each of the *Hunter*'s hand size to 17 cards each.
+The *Pi Ya* will now have 20 cards.
+
+
+== Play of the Hand
+
+Players are attempting to play out all of their cards in their hands first.
+
+* The *Chimera* begins the round of play for the hand by playing one or more cards to the table corresponding to one of the legal card combinations (see <<legal-combinations>>).
+This is called leading the trick.
+* In clockwise order, players may either play to the trick or pass.
+* Subsequent plays to the trick must match the combination led and must be higher in value with the values ranging from 0 to 12, then *A*, *Phoenix*, and *Dragon*.
++
+.Legal plays
+====
+If a 3 is led, the only legal play is a single card higher than 3. +
+If pairs are led, the only legal play is higher ranked pairs, and so on.
+====
+
+WARNING: *Exception:* Players may choose to play a *TRAP* or a *CHIMERA FLIGHT* instead of the led combination.
+
+* If a Trap is played, now only a Trap of a higher rank or a Chimera Flight can be played.
+A Chimera Flight is the highest possible play in a trick.
+** *For 3 players:* Traps and the Chimera Flight MAY NOT be played out of turn.
+** *For 5 players:* Traps and the Chimera Flight MAY be played at any time.
+   Players may NOT play a Trap or a Chimera Flight on a Butterfly that is played to change the lead.
+* Players may pass even if they have a legal play and players who pass may re-enter play unless the trick is won before their next opportunity.
+* Play continues to the trick until all consecutive players pass around to the last player who played to the trick.
+* The player who plays the last cards to the trick wins all the played cards.
+  Players place tricks they have won into a face down pile in front of themselves as *Treasure* and then lead to the next trick for the hand.
+* Any *Treasure* cards (2s, 11s and Butterflies) taken will be scored at the end of the hand (see <<treasure-cards>>).
+
+
+== End of hand
+
+=== For 3 players
+
+* The hand is over immediately as soon as any player plays their last card(s).
+* This player takes all cards played to this last trick.
+* The hand is now scored.
+  Any cards remaining in other player's hand are not counted.
+
+
+=== For 5 players
+
+* If the *Pi Ya* or one of the *Hunters* plays their last card(s) first:
+** This player takes all cards played to this last trick.
+** The *Chimera* has lost their bid.
+** The hand is now scored.
+   Any cards remaining in other player's hand are not counted.
+
+* If the *Chimera* plays their last card(s) first:
+** The *Chimera* has won their bid.
+** Play of the hand continues with the next player in clockwise order.
+** If everyone passes, the *Chimera* takes the trick and play continues with the next player in clockwise order leading the trick.
+   Otherwise, play continues normally.
+** Normal play continues until the next player plays their last card(s).
+** This player takes all cards played to this last trick.
+** The hand is now scored.
+   Any cards remaining in other player's hand are not counted.
+
+
+== Scoring the hand
+
+* *If the Chimera played all of their cards first:*
+** The *Chimera* will score double the value of the bid for the hand.
+** *For 5 players:* The *Pi Ya* will score the value of the bid.
+   (Exception: In an all players pass bid hand, the Chimera will score triple the bid and there will be no Pi Ya).
+** The *Chimera* also scores *Bonuses* for the following:
+*** 25 points for each *Trap* played by any player.
+*** 25 points for the *Chimera Flight* if played by any player.
+*** *For 3 players:* 25 points for each *Hunter* that did not play any cards during the hand.
+** *For 5 players:* If the *Pi Ya* is the next to play all of their cards after the *Chimera* has gone out, the *Pi Ya* scores the value of the bid again.
+** All players score any *Treasure* cards in their Treasure pile for the hand (see <<treasure-cards>>).
+
+* *If one of the Hunters or the Pi Ya goes out first:*
+** All *Hunters* score points for defeating the *Chimera*:
+*** *For 3 players:* Hunters score 20 points.
+*** *For 5 players:* Hunters score 30 points.
+** The *Chimera* looses points equal to the *Bid* and does not score any bonus points.
+** *For 5 players:* The *Pi Ya* scores no points for the bid.
+** All players score any *Treasure* cards in their Treasure pile for the hand (see <<treasure-cards>>).
+
+WARNING: Remember that unplayed Treasure cards do not count when scoring a hand.
+Only Treasure cards in player's Treasure piles are scored.
+
+.3 player game scoring
+====
+*The bid is 20, the Chimera goes out first, one Trap was played and one of the Hunters played no cards.*
+
+* The *Chimera* scores: +
+40 (2x their *Bid* of 20) + +
+25 (for 1 Trap bonus) + +
+25 (for the no cards played bonus) +
+For a total of 90 points.
+* In addition, each player scores points for any Treasure cards they won in a trick this hand.
+
+*This Bid is 40, one of the Hunters goes out first and the Chimera Flight was played.*
+
+* The *Chimera* gets -40 points (for their missed *Bid*) and no bonus.
+* The *Hunters* each score +20 points (for defeating the *Chimera*).
+* In addition, each player scores points for any Treasure cards they won in a trick this hand.
+====
+
+.5 player game scoring
+====
+*The bid is 20, the Chimera goes out first, the Pi Ya goes out second, two Trap were played and two of the Hunters played no cards.*
+
+* The *Chimera* scores: +
+100 (2x their *Bid* of 50) + +
+50 (for 2 Trap bonuses) + +
+NO BONUS for the Hunters playing no cards +
+For a total of 150 points.
+* The *Pi Ya* scores 50 for the *Chimera* going out first and another 50 for going out second.
+* In addition, each player scores points for any Treasure cards they won in a trick this hand.
+
+*This Bid is 70, one of the Hunters goes out first and the Chimera Flight was played.*
+
+* The *Chimera* gets -70 points (for their missed *Bid*) and no bonus.
+* The *Pi Ya* scores no points for the *Bid*.
+* The *Hunters* each score +30 points (for defeating the *Chimera*).
+* In addition, each player scores points for any Treasure cards they won in a trick this hand.
+====
+
+
+[[treasure-cards]]
+=== Treasure cards
+
+* Cards of rank *2* are worth *10 points* each.
+* Cards of rank *11* are worth *5 points* each.
+* *For 5 players:* Butterflies are worth *10 points* each.
+
+
+== Winning the Game
+
+Play continues until at least one player has scored 400 or more points. +
+The player with the highest score is the winner.
+
+If there is a tie for highest score, play continues until there is a single highest score. +
+[.small]#This means untied players with a lower score could still win!#
+
+If desired, players may change the Score Limit for a longer or shorter game.
+Recommended Score Limits are 300, 400, or 500 points.
+
+
+[[legal-combinations]]
+== Legal Combinations
+
+=== General notes
+
+* Suits do not matter.
+* The *A* cards are regarded as higher than any of the ranked cards 0-12.
+  However, since they have no actual rank, they cannot be used in any type of sequence.
+* The *Phoenix* and *Dragon* cards together are the *Chimera Flight* that can be played to win any trick.
+  They can only be played together for that purpose.
+* *For 3 players:* Traps and the Chimera Flight MAY NOT be played out of turn.
+* *For 5 players:* Traps and the Chimera Flight MAY be played out of turn.
+** *Butterfly* cards may be used to substitute for any Ranked card (0-12) to make any legal combination including playing it as a single card.
+   It can also be used to make 4, 5, and 6 of a kind.
+** Alternatively, *Butterfly* cards can be used to pass the lead to any other player.
+   The player who played the *Butterfly* card retains the card in their Treasure pile.
+
+
+=== Regular Combinations
+
+* *Single Card*
+** Cards ranked from low to high: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, A, Phoenix, Dragon.
+
+* *Pair*
+** Two cards of the same rank.
+** From 0 (low) to 12 (high) topped by A: 9-9 is higher than 4-4.
+   A-A is the highest pair.
+
+* *Sequence of Pairs*
+** Two or more pairs of consecutive ranks.
+** From 0 to 12. A, Phoenix and Dragon may not be used.
+
+* *Trips*
+** Three cards of the same rank.
+** From 0 (low) to 12 (high) topped by A: 11-11-11 is higher than 7-7-7.
+   A-A-A is the highest Triplet.
+
+* *Sequence of Trips*
+** Two or more triplets of consecutive ranks.
+** From 0 to 12. A, Phoenix and Dragon may not be used.
+
+* *Trips with an Attached Card*
+** A triplet with a single card added.
+** Rank is determined by the rank of the triplet: 7-7-7-5 is higher than 5-5-5-12.
+
+* *Trips with an Attached Pair*
+** A triplet with a pair added.
+** Rank is determined by the rank of the triplet: 9-9-9-11-11 is higher than 5-5-5-12-12.
+** Phoenix and Dragon cannot be used as an attached pair.
+
+* *Sequence of Trips with Attached Cards*
+** Two or more triplets of consecutive ranks each with a single attached card.
+** Only the triplets have to be in sequence.
+** The attached cards must be different from the triplets and from each other.
+** Trips of **A**s cannot be included; however, a single A, the Phoenix or the Dragon can be attached.
+   Either the Phoenix or the Dragon may be used as a single cards but not both.
+
+* *Sequence of Trips with Attached Pairs*
+** An extra Pair is attached to each triplet.
+** Only the triplets have to be in sequence.
+** The attached pairs must be different in rank from each other.
+** **A**s can be attached as a pair, but cannot be used as triplets.
+** Phoenix and Dragon may not be used.
+
+* *Sequence of 5 or more*
+** At least five cards of consecutive rank from 0 up to 12.
+** You may play sequences of 5 to 13 cards.
+** A, Phoenix and Dragon cannot be used in a sequence.
+** *SPECIAL POWER:* The *Phoenix* can be used as a wild card to fill in one rank for a legal Sequence (0 through 12).
+   For example: 8-9-10-Phoenix-12, or 8-9-10-11-Phoenix.
+
+* *Quadro-plex with Attached Cards*
+** Four of a kind with two single cards of different ranks attached.
+** The four of a kind determines the rank.
+   **A**s may be used as the four of a kind.
+** A, Phoenix and Dragon can be attached, but you cannot use both the Phoenix and Dragon in one Quad as attached cards.
+
+* *Quadro-plex with Attached Pairs*
+** Four of a kind with two pairs of different ranks attached.
+** The four of a kind determines the rank.
+   **A**s can be used (all four as Quad or two as one of the attached pairs).
+
+
+=== 5 player additional Combinations
+
+* *Four, Five, & Six of a kind*
+** Four, Five, or Six cards of the same rank.
++
+NOTE: 5 and 6 of a kind can only be made using a *Butterfly* as natural sets are traps.
+** From 0 (low) to 12 (high) topped by A.
+   Four of a kind 8-8-8-8 is higher than 3-3-3-3 and similarly for five and six of a kind.
+   **A**s are the highest in each set.
+
+* *Quinto-plex with Attached Cards*
+** Five of a kind with two single cards of different ranks attached.
+** The five of a kind determines the rank.
+   **A**s may be used as the five of a kind.
+** A, Phoenix and Dragon can be attached, but you cannot use both the Phoenix and Dragon in one Quinto as attached cards.
+
+* *Quinto-plex with Attached Pairs*
+** Five of a kind with two pairs of different ranks attached.
+** The five of a kind determines the rank.
+   **A**s can be used (all five as Quinto or two as one of the attached pairs).
+
+* *Sexto-plex with Attached Cards*
+** Siz of a kind with two single cards of different ranks attached.
+** The six of a kind determines the rank.
+   **A**s may be used as the six of a kind.
+** A, Phoenix and Dragon can be attached, but you cannot use both the Phoenix and Dragon in one Sexto as attached cards.
+
+* *Sexto-plex with Attached Pairs*
+** Six of a kind with two pairs of different ranks attached.
+** The six of a kind determines the rank.
+   **A**s can be used (all six as Sexto or two as one of the attached pairs).
+
+WARNING: Quadro-, Quinto- and Sexto- plexes with Attached Cards or Pairs are not Traps and can be beaten by any *Trap* or the *Chimera Flight*.
+
+
+=== Special combinations
+
+==== Traps
+
+* *For 3 players:* 4 of a kind.
+* *For 5 players:* Natural 5 of a kind, or 6 of a kind (with no butterfly).
+  Four of a kind is NOT a trap in 5-player.
+
+[IMPORTANT]
+====
+* Traps can be played on any combination except the *Chimera Flight*.
+* Traps may be beaten by Traps that are higher ranked.
+* *For 5 players:* a 5 of a kind Trap may be beaten by any 6 of a kind Trap. +
+Example: A-A-A-A-A beats 12-12-12-12-12, but 12-12-12-12-12-12 beats A-A-A-A-A.
+====
+
+
+==== Chimera Flight
+
+* The *Phoenix* and *Dragon* played together.
+* A *Chimera Flight* can be played on any combination and beats everything.
+
+
+=== 5 players: Butterflies
+
+* A *Butterfly* card may be used to pass the lead to another player of their choice by a player with the lead.
+The player who passed the lead places the used Butterfly card in their pile of taken tricks and the chosen player makes the next lead.
+* *Butterfly* cards may be used as attachments.
+* *Butterfly* cards may be used as a Wild Card in a legal combination as any Ranked Card.
+* *Butterfly* cards cannot be used as *A*, *Phoenix* or *Dragon*.
+* *Butterfly* cards may be used to make pairs, three of a kind, and four of a kind.
+* *Butterfly* cards may be used to fill in a missing card to make a legal sequence - in the middle or either en of the sequence.
+A sequence can only include cards from 0 to 12.
+* *Butterfly* cards may NOT be used to make a Trap.
+* *Butterfly* cards will each count for 10 points for any player that has them in their Treasure pile.
+* A *Butterfly* card may be added to the *Chimera Flight*.
