@@ -1,4 +1,4 @@
-2023-10-12_12:20:10
+2024-08-04_23:25:47
 App.js
 App.js.map
 ServiceWorker.js
@@ -167,12 +167,16 @@ fonts/LCTPicon/LCTPicon-Ultra-light.woff2
 games/Bids/R-Specials.png
 games/Bids/en.html
 games/Bids/fr.html
+games/Chimera/R-Combinations-3.png
+games/Chimera/R-Combinations-5.png
+games/Chimera/R-Powers-Points.png
+games/Chimera/en.html
+games/Chimera/fr.html
 games/Claim/R-Factions.png
 games/Claim/en.html
 games/Claim/fr.html
 games/David_and_Goliath/en.html
 games/David_and_Goliath/fr.html
-games/Dead_Drop/R-Count+.png
 games/Dead_Drop/R-Count.png
 games/Dead_Drop/R-Count_Advanced.png
 games/Dead_Drop/en.html
@@ -246,6 +250,8 @@ games/Nyet/Nyet-Board.pdf
 games/Nyet/R-Lines.png
 games/Nyet/en.html
 games/Nyet/fr.html
+games/Odin/en.html
+games/Odin/fr.html
 games/Oh_7/R-Priority.png
 games/Oh_7/en.html
 games/Oh_7/fr.html
