@@ -1,0 +1,101 @@
+= Papayoo
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+A traditional game.
+
+.Components
+****
+* 40 suited cards: 1-10 in ♠, ♥, ♣ & ♦.
+* 20 Payoo cards: 1-20 in ★.
+* 12 Papayoo determiner cards: 3 **K**s in ♠, ♥, ♣ & ♦.
+****
+
+
+Shuffle the suited cards & the payoo (★) cards together to form the deck of game cards.
+
+Place the *K* cards in a different pile to form the deck of Papayoo determiners.
+
+
+== Card ranking
+
+Each Payoo (★) card has its own rank ranging from 1 to 20 (points).
+One of the four 7’s from one of the four suits (♠, ♥, ♣ or ♦) is the Papayoo which changes with each new round.
+The Papayoo (★) card is worth 40 points.
+The other cards have no value.
+
+
+== Object of the game
+
+Collect as few points as possible.
+
+
+== Dealing the cards
+
+Players take turns at dealing.
+The dealer deals game cards according to the table below.
+For example, when there are 3 players, the dealer deals three cards six times to each player and then two cards once to each player.
+When there are 7 or 8 players, players must remove the 1’s from the game before starting.
+
+[%autowidth]
+|===
+| Number of players | Cards to remove before playing | Number of cards per player (deal) | Discard (see below)
+
+>| 3 .4+^.^| none | *20* (6x3 + 1x2) | 5
+>| 4 | *15* (5x3) | 5
+>| 5 | *12* (4x3) | 4
+>| 6 | *10* (3x3 + 1x2) | 3
+>| 7 .2+^.^| **1**s of ♠, ♥, ♣ & ♦ | *8* (2x3 + 1x2) | 3
+>| 8 | *7* (2x3 + 1x1) | 3
+|===
+
+
+=== Discarding
+
+After sorting their cards, players can start discarding.
+Each player discards the cards of his choice.
+Each player removes the number of cards as indicated on the table above and places them, face down, in front of the player to his left.
+Each player must give his discarded pile to the player on the left before looking at the discarded pile of cards coming from the player on the right.
+
+
+=== The Papayoo draw
+
+Once the discarding process is finished, the dealer shuffles the Papayoo determiner cards (*K* cards), draws one randomly, and places it face up on top of its pile to determine the Papayoo suit.
+For example, if the *♠K* comes up, then the *7* of ♠ is the Papayoo for this round and is worth 40 points.
+
+
+== Playing a round
+
+The dealer starts the first trick by placing the card of his choice, face up, in the middle of the table.
+The other players then take turns playing clockwise always sticking to the initial suit.
+Players do not have to play a card of higher rank.
+The Payoo (★) is a fifth suit the same as ♠, ♥, ♣ & ♦.
+If a player does not have the suit requested in his hand, he discards a card of his choice.
+The player who played the highest ranking card in the suit collects the cards and starts the next trick.
+If no players have cards from the requested suit, the player who started collects the cards.
+
+
+== End of round
+
+At the end of the last game, the players count their points.
+Each Payoo is worth its own rank.
+The Papayoo is worth 40 points and the other cards have no value.
+The total score for a round should equal 250.
+Players add these points to their previous score.
+
+
+== Game over
+
+At the start of the game, players decide the number of hands they wish to play.
+Four hands last approximately 30 minutes.
+The player with the least points at the end of the last hand is the winner.
+
+
+== Remarks
+
+When discarding, players should not forget that discarding a complete suit to have the best discarding possibilities could also mean being left with one “lone” 7 and/ or one 9 and/or one 10 from another player’s discarded pile!
+
+To avoid winning a trick, players are often tempted to play lower ranking cards than those played by previous players.
+Players should know to “build up a few points” in the first rounds when the stakes are low to then get rid of their highest ranking cards and keep the lower ranking cards for the following rounds.
+This can even be an advantage for the last player as they clearly knows the ranking of the cards.

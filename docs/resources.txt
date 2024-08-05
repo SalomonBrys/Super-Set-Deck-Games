@@ -1,4 +1,4 @@
-2024-08-04_23:25:47
+2024-08-05_18:22:18
 App.js
 App.js.map
 ServiceWorker.js
@@ -259,6 +259,8 @@ games/Ohio/en.html
 games/Ohio/fr.html
 games/Okey_Dokey/en.html
 games/Okey_Dokey/fr.html
+games/Papayoo/en.html
+games/Papayoo/fr.html
 games/Parade/en.html
 games/Parade/fr.html
 games/Qwinto/Sheets.pdf

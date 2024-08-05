@@ -1,0 +1,17 @@
+type:
+  - Trick Taking
+  - Score and Reset
+players: 3, 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      spades: 2-10, K*3
+      hearts: 2-10, K*3
+      clubs: 2-10, K*3
+      diamonds: 2-10, K*3
+      stars: 1-20
+    3,4,5,6-players:
+      spades: 1
+      hearts: 1
+      clubs: 1
+      diamonds: 1
