@@ -1,4 +1,4 @@
-2024-08-05_18:22:18
+2024-08-06_00:00:10
 App.js
 App.js.map
 ServiceWorker.js
@@ -175,6 +175,10 @@ games/Chimera/fr.html
 games/Claim/R-Factions.png
 games/Claim/en.html
 games/Claim/fr.html
+games/Coloretto/R-Points-S1.png
+games/Coloretto/R-Points-S2.png
+games/Coloretto/en.html
+games/Coloretto/fr.html
 games/David_and_Goliath/en.html
 games/David_and_Goliath/fr.html
 games/Dead_Drop/R-Count.png
