@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Reiner Knizia, adapted from Roll & Write by Salomon BRYS.
-
+[.ssd-components]
 .Components
 ****
 * 60 numbered cards: 1-10 in ♠, ♥, ♣, ♦, ✿ & ★.

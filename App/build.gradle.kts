@@ -1,7 +1,6 @@
 plugins {
     kotlin("multiplatform")
     kotlin("plugin.serialization")
-    id("org.jetbrains.compose") version "1.2.0"
 }
 
 val copyAllResources = tasks.register("copyAllResources") {
@@ -14,7 +13,7 @@ val copyAboutResources = tasks.register<Copy>("copyAboutResources") {
         include("**/*.png")
         include("**/*.pdf")
     }
-    into(buildDir.resolve("generatedResources/about"))
+    into(layout.buildDirectory.dir("generatedResources/about"))
 }
 copyAllResources.configure { dependsOn(copyAboutResources) }
 
@@ -24,23 +23,23 @@ val copyGamesResources = tasks.register<Copy>("copyGamesResources") {
         include("**/*.png")
         include("**/*.pdf")
     }
-    into(buildDir.resolve("generatedResources/games"))
+    into(layout.buildDirectory.dir("generatedResources/games"))
 }
 copyAllResources.configure { dependsOn(copyGamesResources) }
 
-val copyGamesJson = tasks.register<Copy>("copyGamesJson") {
+val copyGamesData = tasks.register<Copy>("copyGamesData") {
     group = "resources"
-    dependsOn(":createGamesJson")
-    from(rootDir.resolve("build/games-json/games.json"))
-    into(buildDir.resolve("generatedResources/games"))
+    dependsOn(":createGamesData")
+    from(rootDir.resolve("build/games-data"))
+    into(layout.buildDirectory.dir("generatedResources/games"))
 }
-copyAllResources.configure { dependsOn(copyGamesJson) }
+copyAllResources.configure { dependsOn(copyGamesData) }
 
 val copyAsciidoctor = tasks.register<Copy>("copyAsciidoctor") {
     group = "resources"
-    dependsOn(":asciidoctorGames", ":asciidoctorAbout")
+    dependsOn(":asciidoctorGames", ":asciidoctorDocs")
     from(rootDir.resolve("build/asciidoctor/html"))
-    into(buildDir.resolve("generatedResources"))
+    into(layout.buildDirectory.dir("generatedResources"))
 }
 copyAllResources.configure { dependsOn(copyAsciidoctor) }
 
@@ -54,8 +53,8 @@ copyAllResources.configure { dependsOn(copyServiceWorker) }
 
 val generateResourceList = tasks.register<CreateResourceListTask>("generateResourceList") {
     dependsOn(copyAllResources)
-    dirs += file("$projectDir/src/jsMain/resources")
-    dirs += file("$buildDir/generatedResources")
+    dirs += layout.projectDirectory.dir("src/jsMain/resources").asFile
+    dirs += layout.buildDirectory.dir("generatedResources").get().asFile
 }
 
 kotlin {
@@ -63,15 +62,16 @@ kotlin {
         useCommonJs()
         browser {
             commonWebpackConfig {
-                cssSupport.enabled = true
+                cssSupport {
+                    enabled = true
+                }
             }
         }
 
-        @Suppress("UnstableApiUsage")
-        (tasks[compilations["main"].processResourcesTaskName] as ProcessResources).apply {
+        tasks.named<ProcessResources>(compilations["main"].processResourcesTaskName).configure {
             dependsOn(copyAllResources, generateResourceList)
-            from(buildDir.resolve("generatedResources"))
-            from(buildDir.resolve("resourcesList"))
+            from(layout.buildDirectory.dir("generatedResources"))
+            from(layout.buildDirectory.dir("resourcesList"))
         }
         binaries.executable()
     }
@@ -79,33 +79,31 @@ kotlin {
     sourceSets {
         val jsMain by getting {
             dependencies {
-                implementation(compose.web.core)
-                implementation(compose.web.svg)
-                implementation(compose.runtime)
+                implementation(project.dependencies.platform("org.jetbrains.kotlin-wrappers:kotlin-wrappers-bom:1.0.0-pre.791"))
 
-                implementation("dev.petuska:kmdc:0.0.5")
-                implementation("dev.petuska:kmdcx:0.0.5")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-browser")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-js")
 
-                implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-react")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-react-dom")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-react-router-dom")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-preact-signals-react")
 
-                implementation("app.softwork:routing-compose:0.2.9")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-emotion")
 
-                implementation(devNpm("sass-loader", "^13.0.0"))
-                implementation(devNpm("sass", "^1.52.1"))
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-mui-material")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-mui-icons-material")
 
-                implementation(npm("@uriopass/nosleep.js", "0.12.1"))
-                implementation(npm("qrcode", "1.5.1"))
+                implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
+
+                implementation(npm("react-image-gallery", "1.3.0"))
+                implementation(npm("qrcode", "1.5.4"))
+                implementation(npm("@uriopass/nosleep.js", "0.12.2"))
 
                 implementation(npm("mathjax-full", "3.2.2"))
-//                implementation(npm("mathjax", "2.7.9"))
-            }
-        }
 
-        all {
-            languageSettings {
-                optIn("kotlin.RequiresOptIn")
-                optIn("org.jetbrains.compose.web.ExperimentalComposeWebApi")
-                optIn("kotlin.time.ExperimentalTime")
+//                implementation(npm("module.google-oauth-gsi", "4.0.1"))
+//                implementation(npm("@googleapis/drive", "8.13.0"))
             }
         }
     }

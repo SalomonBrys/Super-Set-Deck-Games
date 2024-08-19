@@ -4,11 +4,10 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Gary Kim, Hope S. Hwang, & Yohan Goh.
-
+[.ssd-components]
 .Matériel
 ****
-* 54 cartes: 1-9 à ♠, ♥, ♣, ♦, ✿.
+* 54 cartes: 1-9 à ♠, ♥, ♣, ♦, ★, ✿.
 ****
 
 Soyez le premier à vous défausser de toutes les cartes de votre main et à cumuler le moins de points à la fin de la partie.

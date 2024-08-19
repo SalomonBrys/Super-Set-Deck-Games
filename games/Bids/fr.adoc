@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Lorenzo Simons.
-
+[.ssd-components]
 .Matériel
 ****
 * 168 carte enchère : 1-14 à ♠, ♥, ♣ & ♦.

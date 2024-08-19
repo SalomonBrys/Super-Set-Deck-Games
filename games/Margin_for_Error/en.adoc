@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Dean Seiji.
-
+[.ssd-components]
 .Components
 ****
 * 56 game cards: 1-14 in ♠, ♥, ♣, ♦.

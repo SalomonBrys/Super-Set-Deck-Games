@@ -1,3 +1,5 @@
+bggId: 406854
+authors: Gary Kim, Hope S. Hwang, Yohan Goh
 type:
   - Hand Management
   - Ladder Climbing
@@ -10,4 +12,5 @@ cards:
       hearts: 1-9
       clubs: 1-9
       diamonds: 1-9
+      stars: 1-9
       florettes: 1-9

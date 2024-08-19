@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Reiner Knizia.
-
+[.ssd-components]
 .Components
 ****
 * 5 sets of 11 Money cards: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q, K in ♠, ♥, ♣, ♦, ✿

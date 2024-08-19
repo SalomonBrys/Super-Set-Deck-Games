@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Kenichi Kabuki.
-
+[.ssd-components]
 .Matériel
 ****
 * 65 cartes numérotées : 1-5, 7-9 & 11-15 à ♠, ♥, ♣, ♦ & ★.

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Kaya Miyano.
-
+[.ssd-components]
 .Components
 ****
 * 36 cards: 1-12 in ♠, ♥ & ♣.

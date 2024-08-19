@@ -3,6 +3,7 @@
 :toclevels: 4
 :icons: font
 
+[.ssd-components]
 .Components
 ****
 * 56 colour cards : 1-10, J, S, Q, K in ♠, ♥, ♦, ♣.

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Ken Fisher.
-
+[.ssd-components]
 .Components
 ****
 * 1-13 in ♠, ♥, ♣ & ♦.

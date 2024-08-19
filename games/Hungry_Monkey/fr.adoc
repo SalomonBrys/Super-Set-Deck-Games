@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Erik Andersson Sundén.
-
+[.ssd-components]
 .Matériel
 ****
 * 72 cartes: 1-11 & S in ♠, ♥, ♣, ♦, ✿ & ★.

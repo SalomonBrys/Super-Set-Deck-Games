@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Geon-il.
-
+[.ssd-components]
 .Matériel
 ****
 * 21 cartes Lutte : 1-7 à ♠, ♥, ♣.

@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Stefan Dorra.
-
+[.ssd-components]
 .Matériel
 ****
 * 60 carte de jeu : 3 K & 1-12 à ♠, ♥, ♣, ♦

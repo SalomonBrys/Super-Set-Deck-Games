@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Günter Burkhardt.
-
+[.ssd-components]
 .Components
 ****
 * 48 game cards: 1-12 in ♠, ♥, ♣ & ♦.

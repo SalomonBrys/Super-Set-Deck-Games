@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Carl Chudyk & Chris Cieslik.
-
+[.ssd-components]
 .Matériel
 ****
 * 49 cartes de jeu : 1-7 à ★, ♠, ♥, ♣, ♦, ✿, ⎈.

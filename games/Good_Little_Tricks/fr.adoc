@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Brett J. Gilbert & Matthew Dunstan.
-
+[.ssd-components]
 .Matériel
 ****
 * 27 cartes numérotées :

@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Salomon BRYS.
-
+[.ssd-components]
 .Matériel
 ****
 * Jeu de base :

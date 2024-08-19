@@ -1,0 +1,113 @@
+= Changelog
+
+== 08/2024
+
+* Games:
+** link:/#/games/Chimera[Chimera]
+** link:#/games/Coloretto[Coloretto]
+** link:#/games/Odin[Odin]
+** link:#/games/Papayoo[Papayoo]
+
+
+== 10/2023
+
+* Games:
+** link:#/games/Five_Three_Five[Five Three Five]
+** link:#/games/Hungry_Monkey[Hungry Monkey]
+** link:#/games/Qwinto[Qwinto]
+
+
+== 04/2023
+
+* Games:
+** link:#/games/Eternity[Eternity]
+** link:#/games/Trio[Trio]
+
+
+== 03/2023
+
+* Website fix for phone screens
+* Games:
+** link:#/games/Okey_Dokey[Okey Dokey]
+** link:#/games/Robot_Master[Robot Master]
+
+
+== 11/2022
+
+* Games:
+** link:#/games/Don[Don!]
+** link:#/games/Dou_Dizhu[Dou Dizhu]
+** link:#/games/Fiasco[Fiasco]
+** link:#/games/Ohio[Ohio]
+
+
+== 10/2022
+
+* Games:
+** link:#/games/Dead_Drop[Dead Drop]
+** link:#/games/Deuce[Deuce]
+** link:#/games/Egocentric_World[Egocentric World]
+** link:#/games/Klunker[Klunker]
+** link:#/games/Margin_for_Error[Margin for Error]
+** link:#/games/Shamans[Shamans]
+** link:#/games/Tarot[Tarot]
+
+
+== 08/2022
+
+* Games:
+** link:#/games/Schotten_Totten[Schotten Totten]
+** link:#/games/Stick_em_Classic[Stick'em Classic]
+** link:#/games/Stick_em_Hat_Trick[Stick'em Hat Trick]
+
+
+== 06/2022
+
+* Website cleaner look
+* Games:
+** link:#/games/Herrlof[Herrlof]
+** link:#/games/Bids[Bids]
+** link:#/games/Trumpet[Trumpet]
+
+
+== 05/2022
+
+* Games:
+** link:#/games/Claim[Claim]
+** link:#/games/Druids[Druids]
+** link:#/games/Nessos[Nessos]
+** link:#/games/Rage[Rage]
+** link:#/games/Seven_Seals[Seven Seals]
+** link:#/games/Trump_Tricks_Game[Trump, Tricks, Game!]
+** link:#/games/Wizard[Wizard]
+
+
+== 04/2022
+
+* Website fixes
+* Games:
+** link:#/games/Haggis[Haggis]
+** link:#/games/Hanamikoji[Hanamikoji]
+** link:#/games/High_Society[High Society]
+** link:#/games/Nyet[Nyet]
+** link:#/games/Skull_King[Skull King]
+
+
+== 03/2022
+
+* First website version
+* Games:
+** link:#/games/David_and_Goliath[David & Goliath]
+** link:#/games/Dealt[Dealt]
+** link:#/games/Fox_in_Forest[The Fox in the Forest]
+** link:#/games/Fox_in_Forest_Duet[The Fox in the Forest Duet]
+** link:#/games/Good_Little_Tricks[Good Little Tricks]
+** link:#/games/Jekyll_vs_Hyde[Jekyll vs Hyde]
+** link:#/games/Lost_Cities[Lost Cities]
+** link:#/games/Lost_Cities_FW[Lost Cities Flip & Write]
+** link:#/games/Oh_7[Oh 7]
+** link:#/games/Parade[Parade]
+** link:#/games/Red7[Red7]
+** link:#/games/Regicide[Regicide]
+** link:#/games/Tichu[Tichu]
+** link:#/games/Yokai_Septet[Yokai Septet]

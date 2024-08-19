@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Phil Orbanes Sr.
-
+[.ssd-components]
 .Matériel
 ****
 * 69 cartes de jeu :

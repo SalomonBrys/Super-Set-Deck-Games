@@ -1,0 +1,169 @@
+= Klunker
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 94 commodity cards:
+** 1-14 in ★, ♠, ♥, ♣, ♦, ✿.
+** 10 animals: 5 Butterflies & 5 Wolves.
+* 5 Purchase cards: 1-5 in ⎈.
+* 1 Starting Player ⎈K.
+****
+
+For this game, only the suits of the commodity cards matter (their value is ignored).
+All 10 Butterflies & Wolves are part of the same Animal suit.
+
+== Preparation
+
+The youngest player takes the starting player ⎈K card.
+The starting player shuffles the 94 commodity cards and gives each player 1 card.
+They place these cards face down to the right of their commodity counter-tops.
+This is their starting cash.
+The players may not look at the commodity side of their cash.
+
+The starting player places 1 purchase ⎈ card for each player face up in the center of the table.
+Thus, with 3 players use purchase cards 1 - 3; with 4 players use purchase cards 1 - 4; and with 5 players use all 5 purchase cards.
+Then, he deals each player 6 commodity cards face down.
+Finally, he places the commodity deck face down in the center of the table.
+
+The players may now look at (and organize) their cards; these are their starting hands.
+
+The playing area for each player should look like this at the start of the game:
+
+[%autowidth,frame=none,grid=none]
+|===
+| | | | | | | | | | | | |
+3.5+^.^h| A | | | | | | | 3.5+^.^h| C
+| 5.3+^.^h| B |
+| |
+| |
+| | | | | | |
+|===
+
+* *A*: commodity Counter-top (face up)
+* *B*: Money (face down)
+* *C*: commodity Cellar (face up)
+
+TIP: If you have enough table space, you may place your commodity counter-top in a line above your money & cellar.
+
+(It is easiest to maintain order if the cards in your commodity counter-tops face your opponents and the cards in your commodity cellars face yourself.)
+
+
+== Game overview
+
+The game is played in several rounds.
+Each round consists of 3 phases, which are played in the following order:
+
+1. Fill commodity counter-tops
+2. Store commodities in cellars
+3. Purchase commodities
+
+The players display, purchase, and sell commodities, trying to become the player with the most cash at the end of the game.
+
+
+=== 1. Fill commodity counter-tops
+
+The players place as many commodities as they want on their counter-tops.
+
+Beginning with the starting player and following in clockwise order once around the table, the players may place commodity cards from their hands on their commodity counter-tops.
+All the cards placed on counter-tops must be displayed openly; no card may be hidden by other cards.
+A player may place any or all of the 6 cards in his hand each turn on his counter-top.
+
+IMPORTANT: A player who has no commodities on his counter-top must put at least 1 card there.
+A player who has commodities on his counter-top may place more, but is not required to do so.
+It is required that each counter-top have at least one commodity card at the end of this phase.
+Otherwise, there is no limit to the number or type of cards on a counter-top.
+
+The commodities on the counter-tops may be purchased later in the round by fellow players or by the player who owns the counter-top.
+
+
+=== 2. Store commodities in cellars
+
+In contrast to putting commodities on counter-tops, the commodity cards are stored in the cellars one at a time.
+The starting player begins.
+He may store 1 card from his hand into his cellar, or he may pass.
+Play continues in clockwise order with each player choosing either to store 1 card in their cellar or to pass.
+Play continues as long as at least one player wants and is able to store cards in his cellar.
+
+The first player to pass and not put a card into his cellar takes the number 1 purchase card and places it face up in his playing area.
+The next player who passes takes the number 2 purchase card and so on until all purchase cards have been taken.
+When this occurs, the next phase of the round begins.
+After a player has taken a purchase card, he takes no further actions in this phase of this round (i.e. he may store no more cards in his cellar nor take another purchase card).
+
+A player may only store cards in his own cellar.
+Players store the cards in the cellars face up and sorted by commodity type for all to see.
+Cards may not be hidden by other cards.
+
+NOTE: Players are not required to store any cards in their cellars in a round nor to have any cards in their cellars.
+Also, a player may store several cards in his cellar in a round.
+
+As soon as a player has 4 cards of the same commodities type in his cellar, he must sell them, converting them to cash.
+
+
+==== Selling commodities
+
+If the player has only these 4 cards in his cellar, he takes all 4 cards, turns them over and puts them on his cash pile.
+He has sold them for 4 banknotes.
+
+If the player has 2 types of commodities in his cellar when he sells a group of 4, he only receives 3 banknotes, turning 3 commodities cards over and putting them on his cash pile.
+The 4th card is discarded onto the discard pile.
+If the player has 3 types, he receives only 2 banknotes, discarding the other 2.
+Finally, if he has 4 or more types, he receives just 1 banknote, discarding the other 3.
+If a player has more than 4 cards of a type, the extras are considered as another type.
+
+IMPORTANT: *Exception*: When selling cards from the set of 10 Animals, a player always gets four banknotes, regardless of the number of commodity types in the player’s cellar.
+As with all sales, the player must sell exactly 4 Animal cards.
+
+NOTE: As soon as a commodity variety is sold from a cellar, the value of the remaining commodities increases.
+
+.Value increase
+====
+A player has 3 types of commodities in his cellar, with a set of 4 ♦ commodities and 4 ♠ commodities.
+He chooses to sell his 4 ♦ commodities first.
+He receives 2 banknotes for them (since there are 3 types of commodities in his cellar).
+He then sells the ♠ commodities and receives 3 banknotes (since he now has only 2 commodity types in his cellar).
+====
+
+
+=== 3. Purchase commodities from commodity counter-tops
+
+Beginning with the player with the number 1 purchase ⎈ card and following with the player with number 2 and so on, the players may purchase cards from commodity counter-tops.
+On a player’s turn he may purchase cards from any one (and only one) commodity counter-top, including his own.
+
+When he purchases the cards from another player, he pays this player 1 banknote from his bank, regardless of how many cards were on the commodity counter-top.
+When he purchases cards from his own counter-top, he does not pay anything.
+In any case, however, he must take all cards from the selected counter-top; a partial purchase is not allowed.
+
+The player must immediately put all purchased cards in his cellar.
+If this results in the completion of a set of 4 cards, he immediately sells the set as described above.
+
+If a player has cards on his commodity counter-top during his turn to purchase, he must purchase commodities, either from his own counter-top or from the counter-top of another player.
+
+If a player has no cards on his counter-top, he may purchase commodities from another counter-top or may elect to purchase nothing.
+If he chooses to purchase nothing, the purchase phase ends immediately - players with purchase cards left may not make purchases this round.
+Otherwise, the phase ends with the last player making a purchase.
+
+
+== End of the round
+
+Return all purchase cards to the center of the table.
+The player who ended the purchase phase by not purchasing cards takes the starting player ⎈K card.
+If all players chose to purchase cards, the starting player ⎈K card remains with the previous starting player.
+
+Using the commodity deck, the starting player deals enough commodity cards to each player to return their hand to 6 cards, beginning with himself and continuing clockwise around the table.
+If needed, the cards from the discard pile are shuffled and used to supply cards for players' hands.
+The next round begins as before with the starting player.
+
+
+== Game end and the winner
+
+The game ends immediately when there are insufficient cards in the commodity deck and the discard pile to return all players’ hands to 6 cards.
+
+Each player counts the cash in his bank - each banknote has the value 1.
+Cards in players’ hands, on their counter-tops, and in their cellars have no value.
+The richest player wins.
+If two or more players tie, the player among them with the fewest cards remaining in their cellar and on their commodity counter-top together is the winner.
+If there is still a tie, those tying share the victory!

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Hisashi Hayashi.
-
+[.ssd-components]
 .Components
 ****
 * 40 Number cards: 1-8 in ♠, ♥, ♣, ♦ & ✿.
@@ -211,7 +210,7 @@ At the end of the game, there should be exactly two Reset cards per row.
 
 * *OK example*: There is exactly 1 Reset (K) in this column.
 +
-[options="autowidth", frame=none, grid=none, cols="^,^"]
+[options="autowidth", frame=none, grid=none, cols="^"]
 |===
 | ♠2
 | ♥3
@@ -222,7 +221,7 @@ At the end of the game, there should be exactly two Reset cards per row.
 
 * *Error example*: There are 2 or more Reset cards in this column.
 +
-[options="autowidth", frame=none, grid=none, cols="^,^"]
+[options="autowidth", frame=none, grid=none, cols="^"]
 |===
 | ♠3
 | ♥7
@@ -233,7 +232,7 @@ At the end of the game, there should be exactly two Reset cards per row.
 
 * *Error example*: There are no Reset cards in this column.
 +
-[options="autowidth", frame=none, grid=none, cols="^,^"]
+[options="autowidth", frame=none, grid=none, cols="^"]
 |===
 | ♠3
 | ♥4

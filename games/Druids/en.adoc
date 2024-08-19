@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Günter Burkhardt and Wolfgang Lehmann.
-
+[.ssd-components]
 .Components
 ****
 * 65 druid cards:

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Alexander Kneepkens & Inge van Dasselaar.
-
+[.ssd-components]
 .Components
 ****
 * 36 numbered cards: 1-9 in ♠, ♥, ♣, ♦.

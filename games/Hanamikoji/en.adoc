@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Kota Nakayama.
-
+[.ssd-components]
 .Components
 ****
 * 7 Geisha numbered cards: ⎈2, ✿2, ♦2, ♣3, ♥3, ♠4 & ★5

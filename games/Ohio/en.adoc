@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Reiner Knizia.
-
+[.ssd-components]
 .Components
 ****
 * 55 cards: 1-10 & K in ♠, ♥, ♣, ♦, ✿

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Brett J. Gilbert & Matthew Dunstan.
-
+[.ssd-components]
 .Components
 ****
 * 27 numbered cards:

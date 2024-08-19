@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Michael Schacht.
-
+[.ssd-components]
 .Components
 ****
 * 30 numbered cards: 0-9 in ♠, ♥ & ♣.

@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Kota Nakayama.
-
+[.ssd-components]
 .Matériel
 ****
 * 7 carte Geisha numérotées : 2⎈, 2✿, 2♦, 3♣, 3♥, 4♠ & 5★

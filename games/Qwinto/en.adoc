@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Bernhard Lach, Uwe Rapp & Reinhard Staupe.
-
+[.ssd-components]
 .Components
 ****
 * 32 cards: 0-6 & S in ♠, ♥, ♣ & ★.

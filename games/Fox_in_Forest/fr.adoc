@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Joshua Buergel.
-
+[.ssd-components]
 .Matériel
 ****
 * 33 cartes de jeu : 1-11 à ♠, ♥ & ♣.

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Erik Andersson Sundén.
-
+[.ssd-components]
 .Components
 ****
 * 72 cards: 1-11 & S in ♠, ♥, ♣, ♦, ✿ & ★.

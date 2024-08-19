@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Kenichi Kabuki.
-
+[.ssd-components]
 .Components
 ****
 * 65 numbered cards: 1-5, 7-9 & 11-15 in ♠, ♥, ♣, ♦ & ★.

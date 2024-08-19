@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de David Pubrat.
-
+[.ssd-components]
 .Matériel
 ****
 * 48 cartes numérotées : 1-4 & 6-8 à ♠, ♥, ♣, ♦, ✿ & ★.

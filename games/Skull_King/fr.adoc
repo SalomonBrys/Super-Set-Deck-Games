@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Brent Beck.
-
+[.ssd-components]
 .Matériel
 ****
 * 66 cartes de jeu :

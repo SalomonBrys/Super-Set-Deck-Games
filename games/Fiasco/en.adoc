@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by David Pubrat.
-
+[.ssd-components]
 .Components
 ****
 * 48 numbered cards: 1-4 & 6-8 à ♠, ♥, ♣, ♦, ✿ & ★.

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Michael Schacht.
-
+[.ssd-components]
 .Components
 ****
 * 63 color cards: 0-8 in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.

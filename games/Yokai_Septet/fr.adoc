@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Muneyuki Yokouchi.
-
+[.ssd-components]
 .Matériel
 ****
 * 49 cartes de jeu :

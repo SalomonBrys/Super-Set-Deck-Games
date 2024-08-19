@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Lorenzo Simons.
-
+[.ssd-components]
 .Components
 ****
 * 168 bid cards: 1-14 in ♠, ♥, ♣ & ♦.

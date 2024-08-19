@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Milton Bradley
-
+[.ssd-components]
 .Components
 ****
 * 52 numbered cards: 0-10 in ♠, ♥, ♣, ♦.

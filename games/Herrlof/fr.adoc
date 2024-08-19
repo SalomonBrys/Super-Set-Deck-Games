@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Alexander Kneepkens & Inge van Dasselaar.
-
+[.ssd-components]
 .Matériel
 ****
 * 36 cartes numérotées : 1-9 à ♠, ♥, ♣, ♦.

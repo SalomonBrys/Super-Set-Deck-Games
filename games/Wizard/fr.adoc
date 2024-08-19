@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Ken Fisher.
-
+[.ssd-components]
 .Matériel
 ****
 * 1-13 à ♠, ♥, ♣ & ♦.

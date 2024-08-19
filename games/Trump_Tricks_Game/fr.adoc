@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Günter Burkhardt.
-
+[.ssd-components]
 .Matériel
 ****
 * 48 cartes de jeu : 1-12 à ♠, ♥, ♣ & ♦.

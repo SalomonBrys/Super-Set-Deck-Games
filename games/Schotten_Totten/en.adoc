@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Reiner Knizia.
-
+[.ssd-components]
 .Components
 ****
 * 54 numbered Clan cards: 1-9 in ♠, ♥, ♣, ♦, ✿, ★.

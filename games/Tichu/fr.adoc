@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Urs Hostettler.
-
+[.ssd-components]
 .Matériel
 ****
 * 52 cartes numérotées : 2-10, J, Q, K, A à ♠, ♥, ♣ & ♦.

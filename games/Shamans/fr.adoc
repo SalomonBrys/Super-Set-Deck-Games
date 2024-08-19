@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Cédrick Chaboussit.
-
+[.ssd-components]
 .Matériel
 ****
 * 56 cartes Monde : 1–8 à ★, ♠, ♥, ♣, ♦, ✿, ⎈

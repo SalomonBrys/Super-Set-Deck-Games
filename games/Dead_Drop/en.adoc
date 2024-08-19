@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Jason Kotarski.
-
+[.ssd-components]
 .Components
 ****
 * 13 Information cards:

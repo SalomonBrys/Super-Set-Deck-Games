@@ -7,7 +7,6 @@ import org.gradle.api.tasks.TaskAction
 import java.io.File
 import java.text.SimpleDateFormat
 import java.util.*
-import kotlin.collections.ArrayList
 
 
 abstract class CreateResourceListTask : DefaultTask() {
@@ -20,15 +19,16 @@ abstract class CreateResourceListTask : DefaultTask() {
     val dirs = ArrayList<File>()
 
     @get:InputFiles
-    val files get() = dirs.map { project.fileTree(it) as FileTree } .reduce { l, r -> l + r }
+    val files get() = dirs.map { project.fileTree(it).asFileTree } .reduce { l, r -> l + r }
 
     @get:OutputFile
-    val output = project.buildDir.resolve("resourcesList/resources.txt")
+    val output = project.layout.buildDirectory.file("resourcesList/resources.txt")
 
     @ExperimentalStdlibApi
     @TaskAction
     fun run() {
-        output.parentFile.mkdirs()
+        val outputFile = output.get().asFile
+        outputFile.parentFile.mkdirs()
         val files = dirs
             .flatMap { dir ->
                 project.fileTree(dir).map { it.relativeTo(dir) }
@@ -39,7 +39,8 @@ abstract class CreateResourceListTask : DefaultTask() {
             .plus(File("${project.name}.js"))
             .plus(File("${project.name}.js.map"))
             .sorted()
-        output.writer().buffered().use { writer ->
+            .toList()
+        outputFile.writer().buffered().use { writer ->
             writer.appendLine(SimpleDateFormat("YYYY-MM-dd_HH:mm:ss").format(Date()))
             files.forEach { writer.appendLine(it.path) }
         }

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Sean Ross.
-
+[.ssd-components]
 .Components
 ****
 * 45 numbered cards: 2-10 in ♠, ♥, ♣, ♦ & ✿.

@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Paul Abrahams, Luke Badger, & Andy Richdale.
-
+[.ssd-components]
 .Components
 ****
 * 36 numbered cards: 2-10 in ♠, ♥, ♣ & ♦.

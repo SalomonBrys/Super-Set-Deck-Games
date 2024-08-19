@@ -26,4 +26,4 @@ All icons must be from https://game-icons.net.
 
 === Contribute new app language
 
-Have a look at the `App/src/jsMain/kotlin/data/Lang.kt` file.
+Have a look at the xref:App/src/jsMain/kotlin/data/Lang.kt[`App/src/jsMain/kotlin/data/Lang.kt`] file.

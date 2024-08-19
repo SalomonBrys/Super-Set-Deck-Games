@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Milton Bradley
-
+[.ssd-components]
 .Matériel
 ****
 * 52 cartes numérotées : 0-10 à ♠, ♥, ♣, ♦.

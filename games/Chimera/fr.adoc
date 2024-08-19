@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Paul H. Anderson.
-
+[.ssd-components]
 .Matériel
 ****
 * À 3 joueur·euse·s :

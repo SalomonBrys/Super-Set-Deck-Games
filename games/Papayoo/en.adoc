@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A traditional game.
-
+[.ssd-components]
 .Components
 ****
 * 40 suited cards: 1-10 in ♠, ♥, ♣ & ♦.

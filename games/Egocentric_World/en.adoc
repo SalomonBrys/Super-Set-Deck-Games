@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by François Bergeron and Julien Vaucanson.
-
+[.ssd-components]
 .Components
 ****
 * 60 numbered cards : 1-12 à ♠, ♥, ♣, ♦ & ★.

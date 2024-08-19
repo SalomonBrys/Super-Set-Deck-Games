@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Takaaki Sayama & Toshiki Arao.
-
+[.ssd-components]
 .Matériel
 ****
 * 55 cartes de jeu :

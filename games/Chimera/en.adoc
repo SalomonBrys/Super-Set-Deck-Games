@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Paul H. Anderson.
-
+[.ssd-components]
 .Components
 ****
 * For 3 players:

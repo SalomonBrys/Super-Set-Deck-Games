@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Reiner Knizia.
-
+[.ssd-components]
 .Matériel
 ****
 * 36 cartes "Robot" : 0-6 à ♠, ♥, ♣, ♦, ✿ & ★

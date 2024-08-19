@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Foxtrot Games.
-
+[.ssd-components]
 .Components
 ****
 * 30 Game cards: 1-10 in ♠, ♥ & ♣

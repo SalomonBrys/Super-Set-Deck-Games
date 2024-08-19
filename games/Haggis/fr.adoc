@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Sean Ross.
-
+[.ssd-components]
 .Matériel
 ****
 * 45 cartes numérotées : 2-10 à ♠, ♥, ♣, ♦ & ✿.

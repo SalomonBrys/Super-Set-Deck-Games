@@ -1,0 +1,59 @@
+= Super-Set Deck Companion WebApp
+:toc: preamble
+:icons: font
+
+This website is a companion to the Super-Set Deck, a deck of 198 cards.
+
+
+== Video Presentation
+
+TODO
+
+
+== Get the cards
+
+The Super-Set-Deck is an entirely open-source project.
+The https://github.com/SalomonBrys/Super-Set-Deck-Games/tree/main/Design[Design source directory] contains all cards as PNGs, a printable PDF of all cards, and of course the PSD source file (which contain each card as a Layer Comp).
+
+
+== List of web-site features
+
+* The website:
+** is entirely available in English and in French.
+You can change its language with a language menu at the top left of each page.
+** is optimised for phones, tablets and desktop browsers.
+** is installable on a phone / tablet.
+Once installed, it is entirely available offline.
+* A game page:
+** provides a rule that is adapted to the Super-Set Deck cards, and available at least in English and in French.
+** provides visual reminders (if needed by special cards) that you can display on a phone.
+When displayed full screen, the phone screen will not fade as long as the reminder is displayed.
+** provides the following additional information:
+*** Its types (categories).
+Clicking on a type filters the game list to that specific type.
+*** Its BoardGameGeek stats (year released, minimum age, game duration, rating).
+Clicking on these stats bring you to the game's BGG page.
+*** A packer dialog that allows you to visually see needed cards for that game.
+** is shareable via a menu on its top right, either by message or by QR-Code.
+** can be added to a user list. You can create a new user list at this occasion.
+* The game list:
+** can be filtered by type, user list, or player-count.
+Filters can be combined.
+** can be searched textually by name, alternative names or author.
+** can be ordered by name, year released, or BGG rating.
+* User lists:
+** can be clicked, which displays the game list filtered for that user list (effectively displaying all games contained in that list).
+** can be created with a name, renamed, or deleted.
+** can be synchronized, either in a local file, or in the Google Drive special AppData directory.
+** synchronization is configured per list (you can back up one list, and restore another).
+Deleted user lists are remembered for synchronization (only an identifier is remembered without any list data).
+* The packer tool:
+** allows to display visually all cards that are needed for a subset of games.
+** shows which packed games are used by packed cards when hovering the mouse over said card (or by touching on mobile).
+* The About page shows this information.
+* The Changelog page shows a list of new games & features added to this site, in ante-chronological order.
+
+
+== Contribute
+
+You can access the sources of this website and contribute new rules and/or languages https://github.com/SalomonBrys/Super-Set-Deck-Games[here].

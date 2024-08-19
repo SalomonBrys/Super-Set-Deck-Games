@@ -65,6 +65,7 @@ abstract class AsciidoctorTask : DefaultTask() {
                 .forEach {
                     val file = it.file.relativeTo(inputDir.get().asFile)
                     print("$file...")
+                    System.out.flush()
                     val output = if (file.parentFile != null) {
                         outputDir.get().asFile.resolve(file.parentFile.resolve(file.nameWithoutExtension + "." + backend.get()))
                     } else {

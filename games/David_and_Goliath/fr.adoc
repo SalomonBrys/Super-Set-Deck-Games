@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Reinhard Staupe.
-
+[.ssd-components]
 .Matériel
 ****
 * 90 cartes de jeu : 1-18 à ♠, ♥, ♣, ♦ & ★.

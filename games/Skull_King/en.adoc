@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Brent Beck.
-
+[.ssd-components]
 .Components
 ****
 * 66 Playing cards:

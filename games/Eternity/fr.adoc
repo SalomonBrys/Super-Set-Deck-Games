@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Cyril Blondel.
-
+[.ssd-components]
 .Matériel
 ****
 * 42 cartes Jeu : 1-14 à ♠, ♥ & ♣.

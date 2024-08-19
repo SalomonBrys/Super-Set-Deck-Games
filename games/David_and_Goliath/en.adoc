@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Reinhard Staupe.
-
+[.ssd-components]
 .Components
 ****
 * 90 Playing cards: 1-18 in ♠, ♥, ♣, ♦ & ★.

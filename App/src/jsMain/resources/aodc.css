@@ -2096,13 +2096,13 @@ html.adoc, .adoc body {
 }
 
 .adoc #header {
-    background-color: var(--mdc-theme-primary);
+    background-color: var(--theme-primary);
     padding: 25px;
     max-width: none;
 }
 
 .adoc h1, .adoc h2 {
-    background-color: var(--mdc-theme-primary);
+    background-color: var(--theme-primary);
     color: white !important;
     font-family: "Picon-Extended", sans-serif;
     text-decoration: none;
@@ -2116,11 +2116,11 @@ html.adoc, .adoc body {
 
 .adoc h3, .adoc h4, .adoc h5, .adoc h6 {
     font-family: "Picon-Extended", sans-serif;
-    color: var(--mdc-theme-primary);
+    color: var(--theme-primary);
 }
 
 .adoc .title {
-    color: var(--mdc-theme-secondary) !important;
+    color: var(--theme-secondary) !important;
     font-family: "Picon-Extended", sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -2136,23 +2136,23 @@ html.adoc, .adoc body {
 
 .adoc a {
     text-decoration: none;
-    color: var(--mdc-theme-primary);
+    color: var(--theme-primary);
     filter: brightness(0.5);
 }
 
 .adoc a:hover {
-    color: var(--mdc-theme-secondary);
+    color: var(--theme-secondary);
     filter: brightness(0.9);
 }
 
 .adoc .quoteblock blockquote::before {
-    color: var(--mdc-theme-primary);
+    color: var(--theme-primary);
     filter: brightness(0.5);
 }
 
 .adoc mark {
     color: white;
-    background-color: var(--mdc-theme-primary);
+    background-color: var(--theme-primary);
 }
 
 .adoc .sect1, .adoc #toc {
@@ -2161,12 +2161,12 @@ html.adoc, .adoc body {
 }
 
 .adoc th {
-    background-color: var(--mdc-theme-secondary);
+    background-color: var(--theme-secondary);
     color: white !important;
 }
 
 .adoc #toc.toc2 {
-    background-color: var(--mdc-theme-primary);
+    background-color: var(--theme-primary);
     color: white !important;
 }
 
@@ -2183,7 +2183,7 @@ html.adoc, .adoc body {
 }
 
 .adoc #toctitle {
-    color: var(--mdc-theme-secondary);
+    color: var(--theme-secondary);
     font-size: 27px;
 }
 
@@ -2193,7 +2193,7 @@ html.adoc, .adoc body {
 }
 
 /*.adoc .admonitionblock > table td.content {*/
-/*    color: var(--mdc-theme-secondary);*/
+/*    color: var(--theme-secondary);*/
 /*    filter: brightness(0.25);*/
 /*}*/
 

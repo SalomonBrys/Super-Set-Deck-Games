@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Katja Stremmel.
-
+[.ssd-components]
 .Matériel
 ****
 * 49 cartes numérotées : 1-12 in ♠, ♥, ♣, ♦.

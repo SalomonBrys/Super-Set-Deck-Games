@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Hisashi Hayashi.
-
+[.ssd-components]
 .Matériel
 ****
 * 40 cartes Chiffre : 1-8 à ♠, ♥, ♣, ♦ & ✿.
@@ -212,7 +211,7 @@ Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et
 
 * *Exemple OK* : Il y a exactement 1 Reset (K) dans cette colonne.
 +
-[options="autowidth", frame=none, grid=none, cols="^,^"]
+[options="autowidth", frame=none, grid=none, cols="^"]
 |===
 | 2♠
 | 3♥
@@ -223,7 +222,7 @@ Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et
 
 * *Exemple Incorrect* : Il y a dex cartes Reset dans cette colonne.
 +
-[options="autowidth", frame=none, grid=none, cols="^,^"]
+[options="autowidth", frame=none, grid=none, cols="^"]
 |===
 | 3♠
 | 7♥
@@ -234,7 +233,7 @@ Il doit y avoir, dans chaque colonne de 5 cartes, exactement 4 cartes Chiffre et
 
 * *Exemple Incorrect* : Il n'y a pas de carte Reset dans cette colonne.
 +
-[options="autowidth", frame=none, grid=none, cols="^,^"]
+[options="autowidth", frame=none, grid=none, cols="^"]
 |===
 | 3♠
 | 4♥

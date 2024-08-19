@@ -1,6 +1,6 @@
 plugins {
-    kotlin("multiplatform") version "1.7.10" apply false
-    kotlin("plugin.serialization") version "1.7.10" apply false
+    kotlin("multiplatform") version "2.0.20" apply false
+    kotlin("plugin.serialization") version "2.0.20" apply false
 }
 
 subprojects {
@@ -11,7 +11,7 @@ subprojects {
     }
 }
 
-tasks.register<CreateGamesJsonTask>("createGamesJson")
+tasks.register<CreateGamesDataTask>("createGamesData")
 tasks.register<AsciidoctorTask>("asciidoctorGames") {
     inputDir.set(projectDir.resolve("games"))
     attrs {
@@ -23,19 +23,12 @@ tasks.register<AsciidoctorTask>("asciidoctorGames") {
     }
 }
 
-tasks.register<AsciidoctorTask>("asciidoctorAbout") {
-    inputDir.set(projectDir.resolve("about"))
+tasks.register<AsciidoctorTask>("asciidoctorDocs") {
+    inputDir.set(projectDir.resolve("docs"))
     attrs {
         icons("font")
     }
     options {
         headerFooter(false)
     }
-}
-
-tasks.register<Sync>("publish") {
-    group = "publish"
-    dependsOn(":App:jsBrowserDistribution")
-    from("$rootDir/App/build/distributions")
-    into("$rootDir/docs")
 }

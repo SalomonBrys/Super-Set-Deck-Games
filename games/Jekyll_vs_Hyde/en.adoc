@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Geon-il.
-
+[.ssd-components]
 .Components
 ****
 * 21 Evil cards: 1-7 in ♠, ♥ & ♣.

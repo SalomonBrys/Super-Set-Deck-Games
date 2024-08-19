@@ -3,11 +3,10 @@
 :toclevels: 4
 :icons: font
 
-A game by Gary Kim, Hope S. Hwang, & Yohan Goh.
-
+[.ssd-components]
 .Components
 ****
-* 54 cards: 1-9 in ♠, ♥, ♣, ♦, ✿.
+* 54 cards: 1-9 in ♠, ♥, ♣, ♦, ★, ✿.
 ****
 
 Be the first to discard all the cards from your hand and have the fewest points at the end of the game.

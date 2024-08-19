@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Reiner Knizia.
-
+[.ssd-components]
 .Components
 ****
 * "Robot" 36 cards : 0-6 in ♠, ♥, ♣, ♦, ✿ & ★

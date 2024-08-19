@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Katja Stremmel.
-
+[.ssd-components]
 .Components
 ****
 * 49 numbered cards: 1-12 in ♠, ♥, ♣, ♦.

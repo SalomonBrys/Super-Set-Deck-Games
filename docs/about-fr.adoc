@@ -1,0 +1,55 @@
+= Super-Set Deck Companion WebApp
+:toc: preamble
+:icons: font
+:toc-title: Sommaire
+
+Ce site web est un companion au Super-Set Deck, un deck de 198 cartes.
+
+
+== Obtenir les cartes
+
+Le Super-Set-Deck est un projet entièrement open-source.
+Le https://github.com/SalomonBrys/Super-Set-Deck-Games/tree/main/Design[dossier de sources Design] contient toutes les cartes en PNG, un PDF imprimable de toutes les cartes, et bien sûr le PSD source (chaque carte y est enregistrée dans un "Layer Comp").
+
+
+== Listes des fonctionnalités du site web
+
+* Le site web :
+** est entièrement disponible en français et en anglais.
+Vous pouvez changer la langue grâce au menu en haut à droite de toutes les pages.
+** est optimisé pour les téléphones, les tablettes, et les navigateurs de bureau.
+** est installable sur un téléphone ou une tablette. Une fois installé, il est entièrement disponible hors ligne.
+* Une page de jeu :
+** fournit une règle adaptée au cartes du Super-Set Deck cards, et existe au moins en français et en anglais.
+** fournit des rappels visuels (si nécessaire dû à des cartes spéciales) que vous pouvez afficher sur un téléphone.
+Lorsqu'il est affiché en plein écran, l'écran du téléphone ne s'éteindra pas tant qu'un rappel est affiché.
+** fournit les informations additionnelles suivantes :
+*** Son type (catégories).
+Cliquer sur un type filtre la liste des jeux sur ce type spécifique.
+*** Ses stats BoardGameGeek (année de publication, age minimum, durée de jeu, note).
+Cliquer sur ces stats ouvre la page BGG du jeu.
+*** Un packing permettant qui affiche les cartes nécessaires au jeu de manière visuelle.
+** est partageable via un menu en haut à droite, par message ou par QR-Code.
+** peut être ajouté à une liste.
+Vous pouvez créer une nouvelle liste à cette occasion.
+* La liste des jeux :
+** peut être filtrée par type, liste, ou nombre de jou·eur·euse·s.
+Les filtres peuvent être combinés.
+** peut être recherchée textuellement par nom, nom alternatifs ou auteurs.
+** peut être ordonnée par nom, année de publication, ou note BGG.
+* Les listes :
+** peuvent être cliquées, ce qui affiche la liste des jeux filtrée pour cette liste (affichant ainsi tous les jeux de la liste).
+** peuvent être crées (avec un nom), renommées, ou supprimées.
+** peuvent être synchronisées, dans un fichier local ou sur le dossier spécial AppData de Google Drive.
+** sont synchronisées par list (vous pouvez sauvegarder une liste et en restaurer une autre).
+Les listes supprimées sont enregistrées pour la synchronisation (seul un identifiant ne contenant aucune donnée de la liste est enregistré).
+* L'outil de Packer :
+** permet d'afficher visuellement toutes les cartes qui sont nécessaires pour un sous-ensemble de jeux.
+** afficher quel jeu utilise une carte donnée lorsque la souris passe sur cette carte (ou en cliquant sur mobile).
+* La page "À propos" affiche ces information.
+* La page "Historique" affiche une liste de nouveau jeux et fonctionnalités ajoutés à ce site, par ordre ante-chronologique.
+
+
+== Contribuer
+
+Vous pouvez accéder aux sources de ce site web et y contribuer de nouvelles règles et/ou languages https://github.com/SalomonBrys/Super-Set-Deck-Games[ici].

@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de François Bergeron et Julien Vaucanson.
-
+[.ssd-components]
 .Matériel
 ****
 * 60 cartes numérotées : 1-12 à ♠, ♥, ♣, ♦ & ★.

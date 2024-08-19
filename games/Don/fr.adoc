@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Michael Schacht.
-
+[.ssd-components]
 .Matériel
 ****
 * 30 cartes numérotées : 0-9 à ♠, ♥ & ♣.

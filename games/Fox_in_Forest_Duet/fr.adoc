@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Foxtrot Games.
-
+[.ssd-components]
 .Components
 ****
 * 30 cartes à jouer: 1-10 à ♠, ♥ & ♣

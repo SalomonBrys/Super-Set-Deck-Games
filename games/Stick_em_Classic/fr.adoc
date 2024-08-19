@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Klaus Palesch.
-
+[.ssd-components]
 .Matériel
 ****
 * 114 cartes numérotées: 0-15, J, Q & K à ♠, ♥, ♣, ♦, ✿, ★

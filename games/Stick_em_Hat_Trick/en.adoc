@@ -1,0 +1,112 @@
+= Stick'em “Hat Trick”
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 57 numbered cards: 0-18 in ♠, ♥, ♣
+* 6 heads: Q, K in ♠, ♥, ♣
+****
+
+Each player tries to collect as many cards as possible in only one colour, and to avoid the cards in another colour.
+Cards of one colour count one point per card.
+Cards of the other colours count one negative point per card.
+The player with the most points wins.
+
+
+== Game setup
+
+* *With 4-6 players*: use all cards excepts 0.
+A player shuffles the cards and deals them out evenly to all players: 15 cards to four players, 12 cards to five players, and 10 cards to six players.
+* *With 7 players*: use all cards.
+Each player will then get 9 cards.
+
+[IMPORTANT]
+====
+* Q cards are valued *19*,
+* K cards are valued *20*.
+====
+
+
+== Game play
+
+The starting player begins by leading a card from his hand into the centre of the table.
+This begins a trick.
+In order the other players add a card either in the first-played colour, or in a second colour.
+With the second colour a second trick is begun.
+Thus, a double trick develops.
+
+IMPORTANT: At most two colours can be played in a double trick.
+
+The player who played the card with the highest value wins the trick.
+With a double trick each colour is won as a separate trick.
+The trick winners take their tricks and place their cards in face up piles separated by colour.
+Thus, everyone sees who has collected which colour.
+
+.Double trick
+====
+[%autowidth,grid=none,frame=none,cols="^,^,^,^,^"]
+|===
+| Axel | Lore | Uli | Doris | Brigit
+| ♥10  | ♠13  | ♥11 | ♥3    | ♠18
+|===
+Uli wins the ♥ trick and receives three ♥ cards.
+Birgit wins the ♠ trick and receives two ♠ cards.
+====
+
+The winner of the previous trick begins the next trick.
+If the trick was a double trick then whichever winner won with the highest numbered card has the start.
+If there is a tie, then the player who won the second, third, or fourth highest numbered card leads.
+If there still is a tie, then it is broken by colour sequence: ♠, ♥, ♣.
+
+
+=== The rules of the tricks
+
+* In a double trick there may be at most two colours.
+* The K, as the highest card, always wins a trick.
+* An individual card is considered a trick.
+* Each player may over-bid the highest card or play a lower valued card.
+
+
+=== Passing
+
+If a player cannot, or does not wish, to play one of the two colours in the double trick, he must pass.
+He must show all other players any card in the third colour, and put it face down in front of himself.
+Passing is possible only if there are already two colours played into the trick.
+
+
+=== The scoring
+
+All cards are played out in tricks successively, up to the final card.
+
+IMPORTANT: The last card is not played.
+           It is put aside and not scored.
+
+A player now has up to three face-up piles in front of him, and possibly face-down cards, if he passed during play.
+Each player counts his cards in the respective colours.
+The colour in which he counts the most cards scores as one positive point per card.
+If there is a tie between two or three of the colours, the player chooses one colour to count as positive points.
+All cards from the other colours count as one negative point per card.
+Face down cards, from passing during play, count as two negative points each, regardless of the colour of the card.
+
+.Scoring
+====
+Axel has nine ♥ cards, two ♠, four ♣ and a face-down card.
+That gives him a score of stem:[9 - 2 - 4 - 2 = 1] point.
+====
+
+
+=== The next round
+
+After all the scores are tallied, the next round begins.
+A player shuffles together all the cards and deals them to all the players evenly, as before.
+The player to the left of the dealer leads the first card, and play continues as described before.
+
+
+== Ending the game
+
+The game ends after five rounds.
+The player with the most points is the winner.
+If all players have negative points, the player with the fewest negative points is the winner.

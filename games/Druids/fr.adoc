@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Günter Burkhardt et Wolfgang Lehmann.
-
+[.ssd-components]
 .Matériel
 ****
 * 65 cartes druide :

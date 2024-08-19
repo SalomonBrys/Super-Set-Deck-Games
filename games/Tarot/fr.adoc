@@ -4,6 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
+[.ssd-components]
 .Matériel
 ****
 * 56 cartes de couleur : 1-10, J, S, Q, K à ♠, ♥, ♦, ♣.

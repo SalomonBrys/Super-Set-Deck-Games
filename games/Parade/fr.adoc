@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Naoki Homma.
-
+[.ssd-components]
 .Matériel
 ****
 * 66 cartes : 0-10 à ♠, ♥, ♣, ♦, ✿, ★.

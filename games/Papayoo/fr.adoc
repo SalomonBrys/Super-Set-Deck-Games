@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu traditionnel.
-
+[.ssd-components]
 .Matériel
 ****
 * 40 cartes de couleur : 1-10 à ♠, ♥, ♣ & ♦.

@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Bernhard Lach, Uwe Rapp & Reinhard Staupe.
-
+[.ssd-components]
 .Matériel
 ****
 * 32 cartes: 0-6 & S à ♠, ♥, ♣ & ★.

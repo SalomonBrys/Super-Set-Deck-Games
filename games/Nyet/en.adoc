@@ -3,8 +3,7 @@
 :toclevels: 4
 :icons: font
 
-A game by Stefan Dorra.
-
+[.ssd-components]
 .Components
 ****
 * 60 Playing cards: 3 K & 1-12 in ♠, ♥, ♣, ♦

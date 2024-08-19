@@ -4,8 +4,7 @@
 :toc-title: Sommaire
 :icons: font
 
-Un jeu de Scott Almes.
-
+[.ssd-components]
 .Components
 ****
 * 52 cartes de 5 Factions :
