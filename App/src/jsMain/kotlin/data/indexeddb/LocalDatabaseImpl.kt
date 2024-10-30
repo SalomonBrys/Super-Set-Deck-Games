@@ -158,8 +158,7 @@ private open class LocalDatabaseImpl(val db: IDBDatabase) : LocalDatabase {
         override suspend fun await(): T = deferred.await()
     }
 
-    open class ReadWriteTransactionImpl(transaction: IDBTransaction): ReadTransactionImpl(transaction),
-        ReadWriteTransaction {
+    open class ReadWriteTransactionImpl(transaction: IDBTransaction): ReadTransactionImpl(transaction), ReadWriteTransaction {
         private val job = Job()
 
         init {

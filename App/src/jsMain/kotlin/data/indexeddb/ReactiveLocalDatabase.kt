@@ -257,7 +257,7 @@ private class ReactiveLocalDatabaseImpl(
         ) : ReadWriteEntry<Key, PrimaryKey, Value> by entry {
             override val value: Value get() = entry.value
             override fun delete(): MutationRequest<Unit> =
-                entry.delete().register { Mutation(storeName, it, null) }
+                entry.delete().register { Mutation(storeName, entry.key, null) }
             override fun update(value: Value): MutationRequest<PrimaryKey> =
                 entry.update(value).register { Mutation(storeName, it, value) }
         }
