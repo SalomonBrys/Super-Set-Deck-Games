@@ -100,7 +100,7 @@ val PackerScreen = FC("PackerScreen") {
         navigationIcon = OpenAppDrawerIcon.create()
 
         SSDAppBarTitle {
-            label = "Travel Packer"
+            label = lang.packer__title
         }
     }
 
@@ -122,7 +122,7 @@ val PackerScreen = FC("PackerScreen") {
                 dialogShown = true
             }
 
-            +"Add Game to Pack"
+            +lang.packer__Add_game_to_pack
         }
 
         Paper {
@@ -229,7 +229,7 @@ private external interface AddGameDialogContentProps : Props {
 }
 
 private val AddGameDialogContent = FC<AddGameDialogContentProps> { props ->
-    val (langId, _) = useLang()
+    val (langId, lang) = useLang()
     val games = useGames()
     var selectedGame: Game? by useState()
 
@@ -239,7 +239,7 @@ private val AddGameDialogContent = FC<AddGameDialogContentProps> { props ->
     if (games == null) return@FC
 
     DialogTitle {
-        +"Add Game to Pack"
+        +lang.packer__Add_game_to_pack
     }
     DialogContent {
         FormControl {
@@ -247,7 +247,7 @@ private val AddGameDialogContent = FC<AddGameDialogContentProps> { props ->
             fullWidth = true
             InputLabel {
                 id = "add-game-label"
-                +"Game"
+                +lang.packer__Game
             }
             Select {
                 labelId = "add-game-label"
@@ -291,7 +291,7 @@ private val AddGameDialogContent = FC<AddGameDialogContentProps> { props ->
             color = ButtonColor.secondary
             onClick = { props.addGameToPack(PackedGame(selectedGame!!, selectedPlayerCounts, selectedVariants)) }
 
-            +"Add to Pack"
+            +lang.packer__Add_to_pack
         }
     }
 }
@@ -302,7 +302,7 @@ private external interface EditGameDialogContentProps : Props {
 }
 
 private val EditGameDialogContent = FC<EditGameDialogContentProps> { props ->
-    val (langId, _) = useLang()
+    val (langId, lang) = useLang()
     var selectedPlayerCounts: Set<Int> by useState(props.packedGame.playerCounts)
     var selectedVariants: Set<String> by useState(props.packedGame.variants)
 
@@ -324,8 +324,7 @@ private val EditGameDialogContent = FC<EditGameDialogContentProps> { props ->
             color = ButtonColor.secondary
             onClick = { props.editPack(PackedGame(props.packedGame.game, selectedPlayerCounts, selectedVariants)) }
 
-            +"Edit"
+            +lang.packer__Edit
         }
     }
-
 }

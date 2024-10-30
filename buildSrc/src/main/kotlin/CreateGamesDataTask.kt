@@ -117,14 +117,17 @@ abstract class CreateGamesDataTask : DefaultTask() {
             .map { yamlFile ->
                 val dir = yamlFile.parentFile
                 try {
-                    print("${dir.name}...")
+                    print("${dir.name}..")
                     System.out.flush()
                     val map = yamlLoader.loadAllFromReader(yamlFile.bufferedReader()).first() as Map<String, Any>
 
                     val bggId = map["bggId"].toString().trim().toLong()
 
                     val bgg = try {
-                        retry(50) { getBgg(bggId, dir.name) }
+                        retry(50) {
+                            print(".")
+                            getBgg(bggId, dir.name)
+                        }
                     } catch (e: Throwable) {
                         System.err.println("Error parsing https://boardgamegeek.com/xmlapi2/thing?id=$bggId&stats=1")
                         throw e

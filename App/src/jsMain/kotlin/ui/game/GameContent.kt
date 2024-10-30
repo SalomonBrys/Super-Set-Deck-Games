@@ -109,6 +109,7 @@ private var lastDownload: Pair<String, ReactNode?> = "" to null
 
 private val FoundGameContent = FC<FoundGameContentProps>("Game") { props ->
     val (params, setParams) = useGamesCombineSearchParams()
+    val (_, lang) = useLang()
     val page = params["page"] ?: "rules"
 
     Paper {
@@ -152,12 +153,12 @@ private val FoundGameContent = FC<FoundGameContentProps>("Game") { props ->
                     }
 
                     Tab {
-                        label = ReactNode("RÈGLES")
+                        label = ReactNode(lang.game__Rules.uppercase())
                         value = "rules"
                         sx { flexGrow = number(1.0) }
                     }
                     Tab {
-                        label = ReactNode("RÉFÉRENCES")
+                        label = ReactNode(lang.game__References.uppercase())
                         value = "references"
                         sx { flexGrow = number(1.0) }
                     }
@@ -205,7 +206,6 @@ private val GameContentRules = FC<FoundGameContentProps> { props ->
         }
         val newAdoc = Adoc.create {
             this.gameId = props.game.id
-            this.gameName = props.game.name(langId)
             this.html = html
             this.openPackDialog = { packDialogShown = true }
         }
@@ -251,13 +251,20 @@ private val GameContentRules = FC<FoundGameContentProps> { props ->
                     flexGrow = number(1.0)
                 }
 
-                Typography {
-                    variant = TypographyVariant.h3
-                    sx {
-                        color = Color("primary.main")
-                        textAlign = TextAlign.center
+                Tooltip {
+                    val alternativeNames = props.game.bgg.names - props.game.name(langId)
+                    if (alternativeNames.isNotEmpty()) {
+                        title = ReactNode(alternativeNames.sorted().joinToString())
                     }
-                    +props.game.name(langId)
+
+                    Typography {
+                        variant = TypographyVariant.h3
+                        sx {
+                            color = Color("primary.main")
+                            textAlign = TextAlign.center
+                        }
+                        +props.game.name(langId)
+                    }
                 }
 
                 Typography {
@@ -519,7 +526,6 @@ private val AddToListMenu = FC<UserListsProps> { props ->
 
 private external interface AdocProps : Props {
     var gameId: String
-    var gameName: String
     var html: String
     var openPackDialog: () -> Unit
 }
