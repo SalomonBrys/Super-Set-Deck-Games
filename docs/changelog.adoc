@@ -1,5 +1,17 @@
 = Changelog
 
+
+== 11/2024
+
+* Games:
+** link:/#/games/Zero[Zero Down]
+
+
+== 10/2024
+
+* New Website!
+
+
 == 08/2024
 
 * Games:

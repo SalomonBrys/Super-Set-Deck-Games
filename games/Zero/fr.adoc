@@ -1,0 +1,83 @@
+= Zéro!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 56 cartes numérotées : 1-8 à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+****
+
+Les joueurs échangent à leur tour de jeu une carte de leur main contre une carte placée sur la table.
+Le but est d’avoir le moins de points à la fin d’une manche.
+Si un joueur a ce qu’on appelle un « Zéro », la manche s’arrête immédiatement.
+Le vainqueur est celui qui a le moins de points à l’issue de plusieurs manches.
+
+
+== Préparation
+
+Les cartes sont mélangées et distribuées.
+Chaque joueur reçoit 9 cartes qu’il garde dans la main.
+5 cartes sont étalées face découverte sur la table (ou 7 en variante).
+À 2 joueurs, 9 cartes sont sur la table.
+Les autres cartes sont écartées face cachées ; elles ne sont pas utilisées pour la manche.
+
+
+== Tour de jeu
+
+Le joueur situé à gauche du donneur commence, puis le jeu se poursuit dans le sens des aiguilles d’une montre.
+A son tour un joueur doit soit échanger, soit frapper sur la table
+
+
+=== Échanger
+
+Le joueur pose une carte de son choix face découverte sur la table et met une des autres cartes visibles sur la table dans sa main ; puis c’est le tour du joueur suivant.
+
+
+=== Knocking
+
+Lorsqu’un joueur ne veut pas changer de carte, il frappe sur la table ; ce premier coup sur la table est sans conséquence pour la poursuite du jeu.
+Le joueur qui a frappé a fini son tour, et le joueur suivant joue normalement.
+Le deuxième coup sur la table (peu importe le joueur qui le fait) annonce le dernier tour de la manche.
+Après ce deuxième coup, tous les joueurs jouent chacun leur tour pour une dernière fois, puis on compte les points.
+Le joueur qui a annoncé la fin en frappant ne participe pas à  ce dernier tour.
+Celui qui ne veut pas échanger lors de ce dernier tour, peut frapper sur la table, ceci n’a aucune conséquence.
+
+
+== Comptage des points
+
+5 cartes ou plus de la même couleur, ainsi que 5 cartes ou plus de la même valeur valent 0 point.
+Les autres cartes sont comptés une seule fois pour chaque valeur présente ; ainsi une carte 7 vaut 7 points, autant que deux cartes 7, trois ou quatre cartes 7.
+
+
+.Comptage
+====
+2♣ 5♥ 5★ 3⎈ 3♦ 3♠ 3♣ 3★ 3♥ -> 2 + 5 = 7 points
+
+1✿ 1♠ 4♣ 8♠ 1♥ 3♥ 4♥ 7♥ 8♥ -> 1 + 4 + 8 = 13 points
+
+1♦ 2♠ 2♥ 2♣ 5⎈ 7⎈ 7♠ 7♦ 7★ -> 1 + 2 + 5 + 7 = 15 points
+====
+
+
+== Zéro
+
+Une carte peut à la fois faire partie d’une série de 5 cartes de la même couleur et d’une série de 5 cartes de la même valeur.
+Dans ce cas (et seulement dans ce cas) une main peut valoir 0 point.
+Celui qui y arrive pendant son tour de jeu pose ses cartes aussitôt et annonce « Zéro » ; et la manche s’arrête aussitôt.
+(Les cartes des autres joueurs seront comptées normalement).
+
+.Zéro
+====
+♠8 ♠7 ♠5 ♠1 ♠2 ♦2 ♥2 ★2 ♣2 -> Zéro !
+====
+
+
+== Fin de la manche
+
+Les points de chaque joueur sont marqués.
+Il y a autant de manches que de participants.
+
+Le joueur avec le moins de points est le vainqueur

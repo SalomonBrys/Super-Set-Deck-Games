@@ -1,0 +1,87 @@
+= Zero Down
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 56 numbered cards: 1-8 in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+****
+
+In clockwise order players swap one card from their hands with a card from the pool.
+Each player aims to score as few points as possible at the end of the round.
+If a player succeeds in achieving a ZERO (i.e. a hand with zero points) the round ends immediately.
+After playing a number of rounds, the player with the least points overall is the winner.
+
+
+== Preparation
+
+Shuffle the cards and deal 9 to each player.
+Players take their cards into their hands, keeping the values hidden from the other players.
+Five cards (or as a variant, seven cards) are then placed face-up in the middle, adjacent to each other, to form a pool.
+With two players, use a pool of nine cards.
+The remaining cards are placed face-down to one side; they are not used in the current round.
+
+
+== Play
+
+The player to the left of the dealer begins the round.
+Then play progresses clockwise.
+On your turn, you must either Swap or Knock.
+
+
+=== Swapping
+
+Choose one card from your hand and place it face-up into the pool.
+Then select a different card from the pool and take it into your hand.
+This concludes your turn.
+
+
+=== Knocking
+
+If you do not want to swap a card, you knock once on the table.
+This concludes your turn.
+
+The first Knock of the entire round has no effect - play continues as normal.
+However, the second Knock of the round (irrespective of whether by the same or a different player) signals the last opportunity to Swap.
+After the second Knock all players get one more turn before the round ends, but not the player who performed the second Knock.
+Players who do not wish to use their last opportunity to Swap may simply Knock and pass.
+
+
+== Scoring
+
+Five or more cards of the same colour, or five or more cards of the same number scores 0 points.
+Otherwise, each number represented in the player’s hand is scored once.
+
+Example: a single 7 scores 7 points; similarly two 7’s, three 7’s or four 7’s also scores just 7 points.
+However five or more 7’s in the hand scores 0 points.
+
+.Scoring
+====
+♣2 ♥5 ★5 ⎈3 ♦3 ♠3 ♣3 ★3 ♥3 -> 2 + 5 = 7 points
+
+✿1 ♠1 ♣4 ♠8 ♥1 ♥3 ♥4 ♥7 ♥8 -> 1 + 4 + 8 = 13 points
+
+♦1 ♠2 ♥2 ♣2 ⎈5 ⎈7 ♠7 ♦7 ★7 -> 1 + 2 + 5 + 7 = 15 points
+====
+
+
+== Zero
+
+If a player succeeds in forming a hand that contains five cards of one colour and five cards with one number (with one of the nine cards belonging to both groups) he has achieved a ZERO.
+He immediately reveals his cards and announces “ZERO”.
+This concludes the round, and all hands are scored immediately.
+
+.Zero
+====
+♠8 ♠7 ♠5 ♠1 ♠2 ♦2 ♥2 ★2 ♣2 -> Zero!
+====
+
+
+== The next round
+
+After recording the points for each player, all cards are reshuffled to start the next round.
+Play as many rounds as there are players in the game.
+
+The player with the least points overall is the winner.
