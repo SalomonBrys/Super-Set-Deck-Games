@@ -1,0 +1,15 @@
+bggId: 414176
+authors: Anne-Marie De Witt & Justin De Witt
+type:
+  - Cooperative
+  - Hand Management
+players: 1, 2, 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-8
+      hearts: 1-8
+      clubs: 1-8
+      diamonds: 1-8
+      florettes: 1-8
+      wheels: 1-8
