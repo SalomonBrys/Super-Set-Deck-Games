@@ -1,0 +1,100 @@
+= Jalape-No!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 108 cards: 0-15, Q & K in ♠, ♥, ♣, ♦, ★ & ✿.
+****
+
+Nothing else compares to the delectability of these dishes, but the intensity of even a single Jalapeno can throw the whole dish out of balance.
+Build up your collection of food options, but whatever you do, stay away from those Jalapeno cards!
+If you do catch a Jalapeno card, try to get rid of it by the end of the game.
+The chef who collects the fewest negative points after five rounds is the winner!
+
+
+== Game setup
+
+According to the number of players, use the following cards:
+
+[%autowidth]
+|===
+| players | Suits | Values
+| 3 | ♠, ♥, ♣, ♦ | 0-8
+| 4 | ♠, ♥, ♣, ♦ | 0-11
+| 5 | ♠, ♥, ♣, ♦, ★ | 0-11
+| 6 | ♠, ♥, ♣, ♦, ★, ✿ | 0-11
+| 7 | ♠, ♥, ♣, ♦, ★, ✿ | 0-13
+| 8 | ♠, ♥, ♣, ♦, ★, ✿ | 0-15
+| 9 | ♠, ♥, ♣, ♦, ★, ✿ | 0-15, Q, K
+|===
+
+NOTE: When playing with 9 players, Q cards have a value of 16, and K cards have a value of 17.
+
+Shuffle the cards and deal 12 cards to each player.
+
+*0 cards are Jalapeno Cards.*
+Anyone who was dealt any Jalapeno cards must immediately place them face-up on the table in front of them.
+Jalapeno cards score a penalty if you still have them at round end.
+Only Jalapeno cards are ever kept face-up on the table this way.
+
+Choose a starting player by any method you wish (for example, you could pick the person who most recently ate spicy food).
+
+
+== How to play
+
+=== Playing a card
+
+The starting player begins by choosing one card from their hand or one of their Jalapeno cards, then playing their choice face-up in the center of the table.
+
+The card played by the starting player determines the lead color, which all other players must use, provided they have at least one card of that color *in their hand*.
+In clockwise order, the other players play one card from their hand or from their Jalapenos.
+
+On your turn, you have to follow suit (i.e. color) if you can, with one exception: *you never have to play a Jalapeno card if you don't want to*.
+
+.Playing a card
+====
+The starting player chooses to lead a ♥ card.
+On your turn, you must also play the lead color if possible.
+These are the possibilities:
+
+* You have ♥ (and maybe other colors) in hand, and you have a ♥ (and maybe another) Jalapeno on the table.
+You can play any ♥ card from your hand or your ♥ Jalapeno.
+* You have ♥ (and maybe other colors) in hand, and no ♥ Jalapeno on the table (but you may have other Jalapenos).
+You must play a ♥ card from your hand.
+* You have no ♥ cards in hand, and you have a ♥ (and maybe another) Jalapeno on the table.
+You can play any card from your hand or your ♥ Jalapeno, but no other Jalapeno.
+* You have no ♥ cards in hand, and no ♥ Jalapeno on the table (but you may have other Jalapenos).
+You can play any card from your hand or your Jalapenos.
+====
+
+
+=== Taking tricks
+
+One turn of each player choosing and playing a card is called a trick.
+The player who played the highest value card that matches the lead color wins the trick.
+Cards that do not match the lead color cannot win the trick, no matter how high their value.
+
+If you win the trick, you take those cards.
+If any Jalapeno cards are included, immediately add them to your collection of Jalapenos, face-up on the table, which you can play in future tricks.
+Place any other cards you won face-down in a pile.
+They are not used again until the end of the round.
+
+As the winner of the trick, you become the new starting player.
+
+Players continue playing tricks until at least one player has no cards left *in their hand*.
+The round ends after that trick, and any cards a player has remaining in hand are placed in their own face-down card pile.
+
+
+=== Scoring
+
+Each Jalapeno card is worth -2 points.
+Each card in your pile that matches the color of one of your Jalapenos is worth -1 point.
+
+All other cards in your face-down pile score 0 points.
+If you don’t have a Jalapeno card, you don’t get any penalty points.
+
+At the end of a round, the player with the most penalty points becomes the starting player for the new round.
+After 5 rounds, the player with the fewest penalty points wins.

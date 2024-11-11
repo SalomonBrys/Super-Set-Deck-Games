@@ -4,6 +4,7 @@
 == 11/2024
 
 * Games:
+** link:/#/games/Jalape_No[Jalape-No!]
 ** link:/#/games/Ultimatch[Ultimatch]
 ** link:/#/games/Zero[Zero Down]
 

@@ -1,0 +1,101 @@
+= Jalape-No!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 108 cartes: 0-15, Q & K in ♠, ♥, ♣, ♦, ★ & ✿.
+****
+
+Incomparable que soient le goût et la qualité de ces plats, un simple piment suffirait à perturber l'équilibre délicat des saveurs !
+Construisez votre menu culinaire, mais quoi que vous fassiez, évitez à tout prix les cartes Piment !
+Si vous en recevez une, essayez de vous en débarrasser avant la fin de la partie.
+Le chef qui aura collecté le moins de points négatifs après 5 manches gagne la partie !
+
+
+== Mise en place
+
+En fonction du nombre de personnes, on utilise les cartes suivantes :
+
+[%autowidth]
+|===
+| personnes | Couleurs | Valeurs
+| 3 | ♠, ♥, ♣, ♦ | 0-8
+| 4 | ♠, ♥, ♣, ♦ | 0-11
+| 5 | ♠, ♥, ♣, ♦, ★ | 0-11
+| 6 | ♠, ♥, ♣, ♦, ★, ✿ | 0-11
+| 7 | ♠, ♥, ♣, ♦, ★, ✿ | 0-13
+| 8 | ♠, ♥, ♣, ♦, ★, ✿ | 0-15
+| 9 | ♠, ♥, ♣, ♦, ★, ✿ | 0-15, Q, K
+|===
+
+NOTE: À 9 personnes, les cartes Q valent 16, et les cartes K valent 17.
+
+Mélangez les cartes et distribuez-en 12 à chacun·e.
+
+*Les cartes 0 sont les cartes Piment.*
+Si vous avez reçu une ou plusieurs cartes Piment, placez-les immédiatement devant vous face visible sur la table.
+Les cartes Piment font marquer des points négatifs si vous les avez à la fin de la manche.
+Seules les cartes Piment sont placées ainsi face visible.
+
+Choisissez un·e premier·e jou·eur·euse de la manière qu'il vous convient (par exemple, celui ou celle qui a mangé épicé le plus récemment).
+
+
+== Déroulement
+
+=== Jouer une carte
+
+Le ou la premier·e jou·eur·euse choisit soit une carte de sa main, soit une de ses cartes Piment, et la place face visible au centre de la table.
+
+La carte ainsi jouée détermine la couleur à suivre, qui doit être utilisé par tous lors de ce tour, à condition d'avoir de cette couleur *en main*.
+En sens horaire, chaque autre jou·eur·euse joue une carte de sa main ou de ses Piments.
+
+À votre tour, vous devez jouer une carte de la couleur à suivre si vous le pouvez, à une exception près : *vous n'êtes jamais obligé de jouer une carte Piment*.
+
+.Jouer une carte
+====
+La couleur à suivre est le ♥.
+À votre tour, vous devez suivre cette couleur si possible.
+Voici les possibilités :
+
+* Vous avez du ♥ (et possiblement d'autres couleurs) en main, et vous avez un Piment ♥ (et possiblement d'autres) sur la table.
+Vous pouvez jouer n'importe quelle carte ♥ de votre main ou votre Piment ♥.
+* Vous avez du ♥ (et possiblement d'autres couleurs) en main, et pas de Piment ♥ sur la table (mais vous pouvez avoir d'autres Piments).
+Vous devez jouer une carte ♥ de votre main.
+* Vous n'avez pas de ♥ en main, et vous avez un Piment ♥ (et possiblement d'autres) sur la table.
+Vous pouvez jouer n'importe quelle carte de votre main ou votre Piment ♥, mais pas d'autre Piment.
+* Vous n'avez pas de ♥ en main, et pas de Piment ♥ sur la table (mais vous pouvez avoir d'autres Piments).
+Vous pouvez jouer n'importe quelle carte de votre main ou de vos piments.
+====
+
+
+=== Prendre un pli
+
+Un tour où tout le monde a joué une carte au centre de la table s'appelle un pli.
+Celui ou celle qui a joué la carte de plus haute valeur de la couleur à suivre remporte le pli.
+Les cartes qui ne sont pas de la couleur à suivre ne peuvent pas remporter le pli, peu importe leur valeur.
+
+Si vous remportez le pli, vous prenez ces cartes.
+S'il y a des Piments dans les cartes du pli, placez-les immédiatement devant vous dans votre collection de Piments, face visible sur la table, que vous pourrez jouer dans les prochains plis.
+Placez les autres cartes remportées face cachée en pile près de vous.
+Elles ne seront plus utilisées dans cette manche.
+
+Puisque vous avez remporté ce pli, vous ouvrez le prochain pli.
+
+La manche se poursuit jusqu'à ce qu'une personne au moins n'ait plus de carte *en main*.
+La manche se termine alors, et toute carte restante dans votre main est placée dans votre pile de cartes des plis remportés.
+
+
+=== Score
+
+Chaque carte Piment rapporte -2 points.
+Chaque carte dans votre pile de la couleur d'un de vos Piment rapporte -1 point.
+
+Toutes les autres cartes ne valent pas de points.
+Si vous n'avez pas de carte Piment, vous ne gagnez pas de points négatifs.
+
+À la fin de la manche, celui ou celle avec le plus de points négatifs ouvre le premier pli de la prochaine manche.
+Après 5 manches, celui ou celle qui a le moins de points négatifs reporte la partie.

@@ -1,0 +1,43 @@
+bggId: 206
+authors: Wolfgang Kramer & Michael Kiesling
+type:
+  - Trick Taking
+  - Score and Reset
+players: 3, 4, 5, 6, 7, 8, 9
+cards:
+  Base:
+    all-players:
+      spades: 0-8
+      hearts: 0-8
+      clubs: 0-8
+      diamonds: 0-8
+    4-9-players:
+      spades: 9-11
+      hearts: 9-11
+      clubs: 9-11
+      diamonds: 9-11
+    5-9-players:
+      stars: 0-11
+    6-9-players:
+      florettes: 0-11
+    7-9-players:
+      spades: 12-13
+      hearts: 12-13
+      clubs: 12-13
+      diamonds: 12-13
+      stars: 12-13
+      florettes: 12-13
+    8-9-players:
+      spades: 14-15
+      hearts: 14-15
+      clubs: 14-15
+      diamonds: 14-15
+      stars: 14-15
+      florettes: 14-15
+    9-players:
+      spades: Q, K
+      hearts: Q, K
+      clubs: Q, K
+      diamonds: Q, K
+      stars: Q, K
+      florettes: Q, K
