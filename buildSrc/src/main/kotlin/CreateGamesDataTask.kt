@@ -89,20 +89,25 @@ abstract class CreateGamesDataTask : DefaultTask() {
 
     private fun <R> downloadBggFile(url: String, fileName: String, transform: (ByteArray) -> R): R {
         val cacheFile = cacheDir.get().asFile.resolve(fileName)
-        val bytes =
-            if (cacheFile.exists()) cacheFile.readBytes()
-            else {
-                httpClient.send(
-                    HttpRequest.newBuilder(URI(url)).GET().build(),
-                    BodyHandlers.ofByteArray()
-                ).body()
+        try {
+            val bytes =
+                if (cacheFile.exists()) cacheFile.readBytes()
+                else {
+                    httpClient.send(
+                        HttpRequest.newBuilder(URI(url)).GET().build(),
+                        BodyHandlers.ofByteArray()
+                    ).body()
+                }
+            val result = transform(bytes)
+            if (!cacheFile.exists()) {
+                cacheFile.parentFile.mkdirs()
+                cacheFile.writeBytes(bytes)
             }
-        val result = transform(bytes)
-        if (!cacheFile.exists()) {
-            cacheFile.parentFile.mkdirs()
-            cacheFile.writeBytes(bytes)
+            return result
+        } catch (t: Throwable) {
+            cacheFile.delete()
+            throw t
         }
-        return result
     }
 
     @ExperimentalStdlibApi

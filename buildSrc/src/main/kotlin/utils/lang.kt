@@ -8,7 +8,7 @@ inline fun <R> retry(count: Int, block: () -> R): R {
         } catch (e: Throwable) {
             if (fails >= count) throw e
             ++fails
-            Thread.sleep(500)
+            Thread.sleep(1000)
         }
     }
 }
