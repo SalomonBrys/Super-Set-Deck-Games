@@ -1,10 +1,8 @@
 bggId: 215
 authors: Urs Hostettler
 type:
-  - Hand Management
   - Ladder Climbing
   - Team Based
-  - Score and Reset
 players: 3, 4, 6
 cards:
   Base:

@@ -2,7 +2,6 @@ bggId: 307002
 authors: Paul Abrahams, Luke Badger, Andy Richdale
 type:
   - Cooperative
-  - Hand Management
 players: 1, 2, 3, 4
 cards:
   Base:

@@ -1,9 +1,7 @@
 bggId: 406854
 authors: Gary Kim, Hope S. Hwang, Yohan Goh
 type:
-  - Hand Management
   - Ladder Climbing
-  - Score and Reset
 players: 2, 3, 4, 5, 6
 cards:
   Base:

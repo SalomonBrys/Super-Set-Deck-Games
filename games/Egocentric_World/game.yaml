@@ -2,8 +2,6 @@ bggId: 300226
 authors: François Bergeron, Julien Vaucanson
 type:
   - Push Your Luck
-  - Hand Management
-  - Score and Reset
 players: 1, 2, 3, 4, 5, 6
 cards:
   Base:

@@ -1,9 +1,7 @@
 bggId: 50
 authors: Reiner Knizia
 type:
-  - Hand Management
   - Set Collection
-  - Score and Reset
   - Push Your Luck
 players: 2
 cards:

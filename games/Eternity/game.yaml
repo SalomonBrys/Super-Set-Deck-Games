@@ -2,7 +2,6 @@ bggId: 317983
 authors: Cyril Blondel
 type:
   - Trick Taking
-  - Score and Reset
 players: 2, 3, 4, 5
 cards:
   Base:

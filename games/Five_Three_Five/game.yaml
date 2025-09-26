@@ -1,10 +1,8 @@
 bggId: 311031
 authors: Kenichi Kabuki
 type:
-  - Hand Management
   - Ladder Climbing
   - Push Your Luck
-  - Score and Reset
 players: 2, 3, 4, 5, 6
 cards:
   Base:

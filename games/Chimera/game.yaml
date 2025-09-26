@@ -1,10 +1,8 @@
 bggId: 224830
 authors: H. Anderson
 type:
-  - Hand Management
   - Ladder Climbing
   - Team Based
-  - Score and Reset
 players: 3, 5
 cards:
   Base:

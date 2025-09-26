@@ -3,7 +3,6 @@ authors: Katja Stremmel
 type:
   - Trick Taking
   - Predictive Bid
-  - Score and Reset
 players: 3,4,5
 cards:
   Base:

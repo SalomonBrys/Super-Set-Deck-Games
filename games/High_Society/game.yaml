@@ -2,7 +2,6 @@ bggId: 220
 authors: Reiner Knizia
 type:
   - Auction
-  - Hand Management
 players: 3, 4, 5
 cards:
   Base:

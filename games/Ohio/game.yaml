@@ -2,8 +2,6 @@ bggId: 1474
 authors: Reiner Knizia
 type:
   - Trick Taking
-  - Hand Management
-  - Score and Reset
 players: 2, 3, 4, 5
 cards:
   Base:

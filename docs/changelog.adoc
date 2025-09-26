@@ -6,6 +6,8 @@
 * Games:
 ** link:/#/games/Hats[Hats]
 ** link:/#/games/Und_Tchuss[Und Tschüss!]
+* Removed "Hand Management" and "Score & Reset" categories, which were far to common.
+
 
 == 11/2024
 

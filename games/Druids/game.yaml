@@ -3,7 +3,6 @@ authors: Günter Burkhardt, Wolfgang Lehmann
 type:
   - Trick Taking
   - Set Collection
-  - Score and Reset
 players: 3, 4, 5
 cards:
   Base:

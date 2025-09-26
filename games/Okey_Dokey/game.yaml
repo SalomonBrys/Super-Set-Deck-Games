@@ -2,7 +2,6 @@ bggId: 211940
 authors: Hisashi Hayashi
 type:
   - Cooperative
-  - Hand Management
 players: 1, 2, 3, 4, 5
 cards:
   Base:

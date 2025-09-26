@@ -3,7 +3,6 @@ authors: Dean Seiji
 type:
   - Trick Taking
   - Set Collection
-  - Score and Reset
 players: 4,5
 cards:
   Base:

@@ -3,7 +3,6 @@ authors: Salomon BRYS
 type:
   - Trick Taking
   - Predictive Bid
-  - Score and Reset
 players: 2, 3, 4, 5, 6
 cards:
   Base:

@@ -4,7 +4,6 @@ type:
   - Deduction
   - Team Based
   - Trick Taking
-  - Score and Reset
 players: 3, 4, 5
 cards:
   Base:

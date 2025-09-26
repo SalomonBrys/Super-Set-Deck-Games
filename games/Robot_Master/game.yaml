@@ -1,7 +1,6 @@
 bggId: 37362
 authors: Reiner Knizia
 type:
-  - Hand Management
   - Team Based
 #  - Tile Placement
 players: 1, 2, 4

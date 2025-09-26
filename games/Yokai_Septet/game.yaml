@@ -3,7 +3,6 @@ authors: Muneyuki Yokouchi
 type:
   - Trick Taking
   - Team Based
-  - Score and Reset
 players: 3, 4
 cards:
   Base:

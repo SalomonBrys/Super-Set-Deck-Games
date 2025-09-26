@@ -1,7 +1,6 @@
 bggId: 161417
 authors: Carl Chudyk, Chris Cieslik
 type:
-  - Hand Management
   - Player Elimination
   - Set Collection
 players: 2, 3, 4, 5, 6

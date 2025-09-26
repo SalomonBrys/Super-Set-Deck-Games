@@ -2,7 +2,6 @@ bggId: 354
 authors: Klaus Palesch
 type:
   - Trick Taking
-  - Score and Reset
 players: 4, 5, 6, 7
 cards:
   Base:

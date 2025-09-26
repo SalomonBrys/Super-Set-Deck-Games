@@ -2,7 +2,6 @@ bggId: 286081
 authors: Alexander Kneepkens, Inge van Dasselaar
 type:
   - Trick Taking
-  - Score and Reset
 players: 2, 3
 cards:
   Base:
