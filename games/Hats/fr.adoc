@@ -1,10 +1,11 @@
 = Hats
 :toc: preamble
 :toclevels: 4
+:toc-title: Sommaire
 :icons: font
 
 [.ssd-components]
-.Components
+.Matériel
 ****
 * 42 cartes Chapeau : 1-6 à ♠, ♥, ♣, ♦, ✿, ⎈, ★.
 * La carte Ø.

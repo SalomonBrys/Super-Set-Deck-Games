@@ -1,0 +1,132 @@
+= Und Tschüss!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 90 cartes numérotées : 1-15 à ★, ♠, ♥, ♣, ♦ & ✿.
+* 8 Koalas (K) (peu importe leur couleur à ★, ♠, ♥, ♣, ♦ & ✿).
+* 6 Méduses (J) in ★, ♠, ♥, ♣, ♦ & ✿
+****
+
+Un jeu d'agacement simple et intelligent pour 4 à 6 hédonistes malicieux à partir de 10 ans.
+
+C'est très simple.
+Des cartes à points sont posées sur la table et, bien sûr, chacun veut remporter la plus élevée.
+Cela dit, votre carte est-elle assez forte ?
+À chaque tour, une personne est éliminée, et la deuxième repart bredouille.
+Cependant, celui ou celle qui sait abandonner volontairement et se contente parfois d'un butin médiocre a bien joué.
+D'autant plus qu'au tour suivant, tous les autres peuvent repartir.
+
+
+== Préparations
+
+Les cartes sont mélangées et distribuées comme suit :
+
+- À 4 joueu·euse·s, 7 cartes chacun·e.
+- À 5 joueu·euse·s, 8 cartes chacun·e.
+- À 6 joueu·euse·s, 9 cartes chacun·e.
+
+Quelques cartes sont posées face visible en rangée sur la table - une carte de moins que le nombre de jou·eur·euse·s.
+Ce sont les cartes de points qui font l'objet de la dispute.
+
+[IMPORTANT]
+====
+Les Koalas (K) et Méduses (J) représentent des valeurs négatives.
+
+- Les Koalas (K) valent -5,
+- Les Méduses (J) valent -10.
+====
+
+Les cartes restantes sont placées à proximité en un paquet face cachée.
+
+
+== Déroulement du jeu
+
+Il y aura plusieurs manches.
+À chaque manche, les jou·eur·euse·s s'affrontent pour les cartes de points sur la table.
+Cependant, il y a toujours une carte de moins disponible que de jou·eur·euse·s.
+Par conséquent, l'un·e d'entre vous repartira les mains vides.
+
+Chaque manche se compose de plusieurs étapes, au cours desquelles un·e jou·eur·euse abandonne et0 reçoit la carte la plus basse disponible.
+La dernière carte, celle qui a le plus de points, est donc remportée par celui ou celle restant·e et arrivé·e premi·er·ère.
+L'autre jou·eur·euse, arrivé·e deuxième, ne reçoit rien du tout.
+
+
+== Déroulement d'une manche
+
+Chaque jou·eur·euse pose une carte face cachée devant soi.
+Elles sont retournées simultanément.
+Les scores des cartes sont annoncés en commençant par le ou la plus jeune jou·eur·euse.
+Celui ou celle qui a joué la carte la plus basse est éliminé·e.
+Il ou elle prend la carte la plus basse et la place face cachée devant soi dans sa pile de scoring.
+Sa carte jouée est ensuite placée sur une défausse.
+
+.Premier tour
+====
+À 4 jou·eur·euse·s.
+
+Cartes à point sur la table : K(-5), 8, 12.
+
+Cartes jouées : Pierre 5, Claudia 14, Nicolas 6, Gabrielle 6.
+
+Pierre a posé la carte la plus basse et doit abandonner.
+Il doit s'en aller avec un joyeux « Tchao » et prendre la carte la plus basse, valant -5.
+====
+
+Tous les autres jou·eur·euse·s posent une nouvelle carte sur leur ancienne, face cachée, les retournent à nouveau ensemble et additionnent les nombres.
+En commençant par celui ou celle à gauche de celui ou celle qui a abandonné en dernier, les chacun·e annonce son nouveau score combiné.
+Celui ou celle qui a le total le plus bas abandonne, prend la carte de points la moins chère et la place devant soi dans sa pile de scoring.
+Ses cartes sont placées sur la défausse.
+
+.Second tour
+====
+Scores combinés : Claudia 24, Nicolas 14, Gabrielle 15.
+
+Nicolas a le total le plus bas, abandonne, prend la carte de points la plus basse disponible (le 8), la place face cachée devant lui et défausse ses cartes jouées.
+====
+
+Le jeu continue ainsi jusqu'à ce qu'il n'en reste plus que deux.
+Chacun·e pose à nouveau une carte, obtenant ainsi un nouveau total combiné.
+Mais le ou la gagnant·e (celui ou celle avec le total le plus élevé) prend la dernière carte de points.
+L'autre ne reçoit rien.
+
+.Troisième Turn
+====
+Scores combinés : Claudia 19 (elle a joué un K), Gabrielle 30 (elle a joué un 15).
+
+Gabrielle obtient la carte de points de valeur 12, Claudia n'obtient rien.
+====
+
+
+=== Égalités
+
+En cas d'égalité pour le total le plus bas, personne n'est éliminé.
+Il en va de même si les deux derni·er·ère·s sont à égalité pour le total le plus élevé.
+
+Dans les deux cas, d'autres cartes sont posées jusqu'à ce que l'égalité soit rompue.
+
+
+=== Nouvelle manche, nouvelle fortune
+
+Celui ou celle arrivé·e deuxième distribue des cartes du paquet pour que la main de chacun atteigne le nombre de départ correct (voir les préparatifs).
+
+Le ou premi·er·ère jou·eur·euse à avoir quitté la manche précédente échange un nombre de son choix de cartes.
+Il ou elle jette les cartes non utilisées sur la défausse et prend le même nombre de cartes du paquet pour compléter sa main.
+
+Les cartes à points (un nombre de moins que le nombre de jou·eur·euse·s) sont à nouveau disposées sur la table.
+Le reste du jeu se déroule comme décrit.
+
+
+== Fin du jeu
+
+À 4 jou·eur·euse·s : La partie se termine lorsque le paquet est épuisé pour la première fois.
+
+À 5 ou 6 jou·eur·euse·s : la partie se termine lorsque le paquet est épuisé pour la deuxième fois - la pile de défausse doit être mélangée après que le paquet soit épuisé pour la première fois.
+
+Chacun·e additionne les points des cartes situées dans sa pile de scoring.
+Les cartes en main ne sont pas comptabilisées.
+Celui ou celle qui a le plus de points gagne.

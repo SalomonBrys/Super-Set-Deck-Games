@@ -1,0 +1,131 @@
+= Und Tschüss!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 90 numbered cards: 1-15 in ★, ♠, ♥, ♣, ♦ & ✿.
+* 8 Koalas (whatever color in ★, ♠, ♥, ♣, ♦ & ✿).
+* 6 Jellyfish in ★, ♠, ♥, ♣, ♦ & ✿
+****
+
+A simple, clever game of annoyance for 4 - 6 malicious pleasure seekers aged 10 and up.
+
+It's really very simple.
+Points cards lie on the table and naturally everyone wants to win the biggest for themselves.
+However, is your card strong enough?
+Then in each round one person is eliminated, and whoever comes in second goes away empty handed.
+But, he who knows the right time to drop out by choice and is sometimes contented with poor booty, has played well.
+Especially as in the next round, all the others can take part again.
+
+
+== Preparations
+
+The cards are shuffled and dealt as follows:
+
+- With 4 players, 7 cards each.
+- With 5 players, 8 cards each.
+- With 6 players, 9 cards each.
+
+A few cards are laid face up in a row on the table - one card less than the number of players.
+These are the points cards being fought over.
+
+[IMPORTANT]
+====
+Koalas and Jellyfishes are worth negative points.
+
+- Koalas are worth -5.
+- Jellyfishes are worth -10.
+====
+
+The remaining cards are placed nearby as a face-down deck.
+
+
+== Course of the game
+
+There will be several rounds.
+In each round players compete for the points cards on the table.
+However, there is always one less card available than there are players.
+Consequently, one player will go empty-handed.
+
+Each round consists of several stages, in which each time one player drops out and receives the lowest scoring card.
+The last and highest scoring card is accordingly won by the player who is the last one left and comes first.
+The other player, who is only second, receives nothing at all.
+
+
+== Play of a round
+
+Each player lays one card face down in front of themselves.
+They are turned over simultaneously.
+Card scores are announced starting with the youngest player.
+Whoever has played the lowest card drops out of this round.
+They take the lowest value points card and puts it face down in a scoring pile in front of them.
+Their played card is put on a nearby discard pile.
+
+.First Turn
+====
+With 4 players.
+
+Points cards: K(-5), 8, 12.
+
+Cards played: Peter 5, Claudia 14, Klaus 6, Gaby 6.
+
+Peter has laid the lowest card and must drop out.
+He must with a cheerful 'So long' take his leave, and takes the lowest scoring points card, worth -5.
+====
+
+All other players lay a new card on top of their old, face down, again turn them over together, and add the two numbers together.
+Starting with the player to the left of that who last dropped out, players announce their new combined scores.
+Whoever has the lowest total drops out, takes the lowest value points card and puts it face-down on their scoring pile.
+Their cards are placed on the discard pile.
+
+.Second Turn
+====
+Combined score: Claudia 24, Klaus 14, Gaby 15.
+
+Klaus has the lowest total, drops out, takes the lowest available points card, (the 8), puts it face-down on his scoring pile and discards his cards.
+====
+
+The game continues like this until only two are left.
+Each again lays a card, arriving at a new combined total.
+But the winner (player with the highest total) takes the last points card.
+The loser gets nothing.
+
+.Third Turn
+====
+Combined score: Claudia 19 (she played a K), Gaby 30 (she played a 15).
+
+Gaby gets the points card worth 12, Claudia gets nothing.
+====
+
+
+=== Ties
+
+If there is a tie for lowest total, no player goes out.
+The same applies if the last two players tie for the highest total.
+
+In both cases, further cards are laid until the tie is broken.
+
+
+=== New round, new fortune
+
+The player who came second deals out cards from the deck to make everyone's hand up to the correct start number, (see preparations).
+
+The player who left the round first exchanges any number of cards.
+They throw unwanted cards on the discard pile and take the appropriate number of cards from the dealer to complete their hand.
+
+Points cards (one less number than players) are again laid out on the table.
+The rest of the game proceeds as described.
+
+
+== End of the game
+
+With 4 players: The game ends when the deck runs out for the first time.
+
+With 5 or 6 players: The game ends when the deck runs out for the second time - the discard pile should be shuffled after the deck is exhausted for the first time.
+
+Each player adds up the scores of the cards on their scoring pile.
+Cards in the hand are not counted.
+Whoever has the most points wins.

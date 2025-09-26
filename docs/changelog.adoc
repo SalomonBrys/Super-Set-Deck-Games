@@ -1,6 +1,12 @@
 = Changelog
 
 
+== 09/2025
+
+* Games:
+** link:/#/games/Hats[Hats]
+** link:/#/games/Und_Tchuss[Und Tschüss!]
+
 == 11/2024
 
 * Games:
