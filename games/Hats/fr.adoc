@@ -1,0 +1,150 @@
+= Hats
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 42 cartes Chapeau : 1-6 à ♠, ♥, ♣, ♦, ✿, ⎈, ★.
+* La carte Ø.
+****
+
+C’est l’heure du thé !
+Le Chapelier Fou vous attend.
+La table est  dressée, les cookies ont un délicat goût de beurre, le thé exhale un parfum puissant et épicé. +
+- Encore un peu de sucre ? +
+Le Chapelier Fou vous fixe d’un œil curieux. « Oui, volon… » +
+- Pas le temps ! +
+Il vous coupe.
+Autour de vous, le sucre, les cookies et des millions de chapeaux tournoient dans les airs.
+Du thé se renverse sur la nappe et un sourire malicieux illumine le visage du Chapelier. +
+- Il est temps de jouer à un jeu ! +
+
+Dans Hats, collectionnez les chapeaux les plus délirants !
+Échangez judicieusement vos cartes, mais attention car chaque échange chamboule la façon dont les points sont décomptés en fin de partie.
+Préparez-vous à un moment de folie !
+
+
+== Mise en place
+
+1. Mélangez les cartes Chapeau et posez-les faces cachées sur le côté de la table.
+Elles constituent la pioche.
+Dans une partie à deux joueurs, retirez du jeu toutes les cartes ✿ et ⎈.
+À 3 ou 4 joueurs, toutes les cartes sont utilisées.
+2. Placez la carte Ø sur la table, puis tirez des cartes Chapeau de la pioche de façon à former une ligne face visible (nommée la ligne de Thé) sur la table.
+*À 2 joueurs, ne tirez que 5 cartes.*
+Les cartes doivent former une ligne, avec la carte Ø à l'une des extrémités.
+La carte Chapeau la plus proche de la carte Ø est à la position 1 dans la ligne de Thé, et la carte la plus éloignée est à la position 6 (ou à la position 5 dans une partie à 2 joueurs).
+3. Le dernier à avoir dégusté un cookie est désigné premier joueur.
+4. Distribuez 9 cartes Chapeau à chaque joueur.
+Ne dévoilez pas vos cartes aux autres joueurs !
+
+
+== Déroulement
+
+Lors de son tour, chaque joueur réalise l’une des deux actions suivantes :
+
+=== Actions
+
+==== 1. Échange de chapeaux
+
+Le joueur échange une carte de sa main avec une carte de la ligne de Thé.
+La carte est posée face visible.
+Une des conditions suivantes doit être respectée :
+
+*Les deux cartes échangées sont du même type (de la même couleur)* +
+*_OU_* +
+*Le chiffre figurant sur la carte posée par le joueur est plus élevé que le chiffre figurant sur la carte qu’il prend sur la ligne de Thé.*
+
+La carte ainsi récupérée par le joueur est posée face visible devant lui.
+Elle fait désormais partie de sa collection.
+
+IMPORTANT: Les cartes peuvent seulement être échangées à partir de la ligne de Thé.
+
+
+==== 2. Création d’un chapeau noir
+
+Le joueur pose une carte face cachée devant lui pour l’ajouter à sa collection.
+Cette carte est considérée comme un chapeau noir.
+En fin de partie, chaque chapeau noir dans la collection d’un joueur vaut un point.
+
+
+==== Action facultative
+
+À tout moment pendant son tour, un joueur peut défausser une carte de son choix et la remplacer par la première de la pioche.
+Les cartes défaussées sont placées faces cachées près de la pioche.
+Si la pioche est épuisée, reconstituez-la en mélangeant la défausse.
+
+
+=== Partie à quatre joueurs
+
+La règle est identique, si ce n’est que les joueurs forment des équipes de deux.
+Installez-vous autour de la table de façon à créer une alternance entre les équipes (chacun doit être assis entre deux adversaires).
+
+*Nouvelle action facultative : Au lieu de défausser une carte pour en tirer une depuis la pioche, un joueur peut – à tout moment pendant son tour – échanger une carte face cachée avec son coéquipier.*
+
+Les joueurs peuvent parler de l’échange, mais en aucune manière indiquer le type, la couleur ou la valeur des cartes à échanger.
+
+
+== Décompte
+
+La partie se termine après que tous les joueurs ont joué 8 cartes.
+Chaque joueur révèle la dernière carte de sa main : il s’agit de son type de chapeau préféré.
+Ensuite, si plusieurs cartes du même type figurent sur le plateau à thé, retournez toutes les cartes de ce type à l’exception de celle occupant l’emplacement dont la valeur est la plus basse.
+
+Calculer ensuite les résultats des joueurs dans chacune des catégories :
+
+
+=== Collection de chapeaux
+
+Les joueurs gagnent des points pour chaque carte de leur collection, selon la position de la carte de ce type dans la ligne.
+Par exemple, si une carte ♥ est en 3ème position, chaque carte ♥ dans la collection d’un joueur lui rapporte 3 points.
+Chaque chapeau noir rapporte 1 point.
+Les cartes faces cachées sur le plateau à thé ne rapportent aucun point.
+Les cartes dont le type n’est pas présent sur la ligne ne rapportent aucun point.
+
+.Collection de chapeaux
+====
+Ligne de thé avant le décompte: [Ø], [2♣], [4♦], [5♥], [4♥], [6✿], [6♥]
+
+Ligne de thé lors du décompte: [Ø], [2♣], [4♦], [5♥], [], [6✿], []
+
+Votre collection: ([2♥]) + ([2♠], [3♠]) + ([1✿], [3✿]) + ([5⎈], [6⎈]) + ([]) +
+Vous marquez stem:[(3) + (0 + 0) + (5 + 5) + (0 + 0) + (1) = 14] points.
+====
+
+
+=== Chapeau préféré
+
+Additionnez les valeurs des cartes de votre collection correspondant à votre type de chapeau préféré.
+Ôtez la valeur de la carte restant dans votre main pour obtenir le score de cette catégorie (il peut être négatif).
+La carte restant dans votre main ne fait pas partie de votre collection.
+
+.Chapeau préféré
+====
+Continuons l'example précédent. +
+Votre carte de chapeau préféré est le [2✿].
+
+Vous marquez stem:[6 + 5 - 2 = 9] points.
+====
+
+
+=== Le dernier cookie
+
+Il n’y a qu’un seul cookie.
+Pour obtenir ce cookie, cumulez le plus de types de cartes différents dans votre collection.
+Les chapeaux noirs comptent comme un type.
+En cas d’égalité, le joueur concerné possédant dans sa collection la carte dont la valeur est la plus basse s’empare du cookie.
+Si l’égalité persiste, comparez la valeur de la deuxième carte la plus basse, puis la troisième, … jusqu’à pouvoir trancher.
+*Le cookie octroie 5 points à son détenteur.*
+
+Le joueur ayant obtenu le plus de points gagne la partie.
+En cas d’égalité, le joueur avec le plus de chapeaux noirs dans sa collection l’emporte.
+Si l’égalité persiste, la victoire va au détenteur du cookie.
+
+
+=== Décompte final à 4 joueurs
+
+Calculez le score de chaque joueur.
+Additionnez les résultats des membres d’une équipe pour obtenir le score final de cette équipe.

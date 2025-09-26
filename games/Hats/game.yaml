@@ -1,0 +1,21 @@
+bggId: 281658
+authors: Gabriele Bubola
+type:
+  - Hand Management
+  - Team Based
+  - Score and Reset
+  - Set Collection
+  - Drafting
+players: 2, 3, 4
+cards:
+  Base:
+    all-players:
+      spades: 1-6
+      hearts: 1-6
+      clubs: 1-6
+      diamonds: 1-6
+      stars: 1-6
+      specials: Ø
+    3,4-players:
+      florettes: 1-6
+      wheels: 1-6

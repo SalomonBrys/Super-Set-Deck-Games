@@ -1,0 +1,145 @@
+= Hats
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 42 hat cards: 1-6 in ★, ♠, ♥, ♣, ♦, ✿, ⎈.
+* The Ø card.
+****
+
+You have an invitation at 5 pm at the Mad Hatter’s garden.
+The table is ready, the cookies taste like buttery heaven, and the tea is strong and spicy. +
+- More Sugar? +
+The Mad Hatter gives you a bizarre look. “Yes pl…” +
+- Time’s up! +
+He interrupts you.
+Sugar, cookies, and millions of hats fly everywhere.
+Tea spills all over the tablecloth as he proceeds with a huge smile on his face. +
+- It’s time to play a game! +
+
+In Hats, two to four players compete to acquire the most outstanding hats by exchanging cards in hand with cards on the tea table board.
+Each card exchange influences how each hat is scored.
+Naturally, at the end of the game, the player with the highest score will be declared the maddest.
+
+
+== Setup
+
+1. Shuffle all hat cards to form the draw deck and place it face down to the side of the table.
+In a 2-player game, remove all hat cards of ✿ and ⎈.
+In a 3 or 4-player game, use all hat cards.
+2. Place the Ø card on the table, then draw six hat cards from the draw deck and place them in a face-up line (called tea table line) on the table.
+*In a 2-player game, only draw five cards.*
+The cards must form a line, with the Ø card on one extremity.
+The hat card closest to the Ø card is at position 1 in the tea table line, while the card furthest from it is at position 6 (or position 5 in a 2-player game).
+3. The player that most recently ate a cookie starts the game.
+4. Deal nine hat cards to each player.
+These cards are kept a secret!
+
+
+== Gameplay
+
+Each player takes their turn by performing one of the following two actions:
+
+=== Actions
+
+==== 1. Exchange Hats
+
+Play a single card from their hand face up and exchange it with one from the tea table line while respecting the following conditions:
+
+*Both the played and exchanged cards are of the same type* +
+*_OR_* +
+*The number on the played card is higher than the number being exchanged on the tea table line.*
+
+Add the card exchanged from the tea table line to the player’s collection by placing it face up in front them.
+
+IMPORTANT: Players can only exchange cards with the tea table line.
+Cards cannot be exchanged among players.
+
+
+==== 2. Create a Black Hat
+
+Play a single card face down in front of them to add it to their collection.
+This is considered a black hat.
+Each black hat in a player’s collection at the end of the game is worth one point.
+
+
+==== Optional action
+
+At any time during their turn, a player may discard a single card of their choice to draw a new one from the draw deck.
+Discarded cards go face down near the draw deck.
+If the deck runs out, shuffle the cards in the discard pile to form a new draw deck.
+
+
+=== Playing with 4 players
+
+Follow the normal rules with the following change: Players play in teams of two.
+Sit at the table so each player’s partner is sitting across from them, and they have an opponent on each side.
+
+*New optional action: Instead of discarding and drawing from the draw deck, at any time during their turn, a player may exchange a single card face down with their partner.*
+
+Players may freely talk about what to exchange, but cannot say the specific type, color, or number of the cards.
+
+
+== Scoring
+
+The game ends after all players have played eight cards.
+Each player reveals the final card in their hand as their “favorite hat” type.
+If there are two or more hat cards on the tea table line of the same type, find the hat card of that type with the lowest position on the tea table line and keep it face up, while turning all other cards of that type face down.
+
+Calculate final scores in each of the three categories:
+
+
+=== Hat collection
+
+Players earn points for the hat cards in their collection based on the position of the matching type on the tea table line.
+For example, if there is a ♥ card in the third position on the tea table line, each ♥ card in the player’s collection is worth three points.
+Players receive one point for each black hat in front of them.
+All face down cards on the tea table line do not award points.
+Hat cards in a player’s collection without a matching card showing on the tea table line do not award points.
+
+.Hat collection scoring
+====
+Tea table line before scoring: [Ø], [♣2], [♦4], [♥5], [♥4], [✿6], [♥6]
+
+Tea table line when scoring: [Ø], [♣2], [♦4], [♥5], [], [✿6], []
+
+Your collection: ([♥2]) + ([♠2], [♠3]) + ([✿1], [✿3]) + ([⎈5], [⎈6]) + ([]) +
+You score stem:[(3) + (0 + 0) + (5 + 5) + (0 + 0) + (1) = 14] points.
+====
+
+
+=== Favorite hat
+
+Players gain points equal to the sum of all cards in their collection that match the type of their “favorite hat” minus the value of the final card in their hand.
+The final card in a player’s hand does not count as being part of the collection.
+This score can be a negative value.
+
+.Favorite hat scoring
+====
+Using the same collection as in the previous example. +
+Your favourite hat card is [✿2].
+
+You score stem:[6 + 5 - 2 = 9] points.
+====
+
+
+=== Last cookie
+
+Players compete for the last cookie by having the most different types of hat cards in their collection.
+Black hats count as a type.
+In case of a tie, the player with the lowest value hat card in their collection of the tied players gets the cookie.
+In case of a further tie, compare the second lowest, third lowest and so on until the cookie holder is declared.
+*The chocolate chip cookie is worth five points*.
+
+The player with the most points wins the game.
+In case of a tie, the player with the most black hats in their collection wins the game.
+In case of a further tie, the player that has the cookie wins.
+
+
+=== 4 player scoring
+
+Calculate the score for each player.
+Then sum the team’s total by adding up the score of each team member.
